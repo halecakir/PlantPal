@@ -1,2 +1,2 @@
-src/saved_models/
-src/logs/
+**/saved_models/
+**/logs/
