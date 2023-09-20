@@ -1,0 +1,15 @@
+Is it okay for my fern to be in a humid environment?,plant_caretaking_advise
+How often should I water my aloe vera?,plant_caretaking_advise
+Which type of soil is best for my fiddle leaf fig?,plant_caretaking_advise
+What is the best time to repot a peace lily?,plant_caretaking_advise
+Can you suggest a plant suitable for a bathroom with no windows?,plant_purchasing_advise
+I need a child-friendly houseplant without toxic parts. Any suggestions?,plant_purchasing_advise
+What are some plants that grow well in sandy soil?,plant_purchasing_advise
+Can you recommend any flower plants that bloom all year round?,plant_purchasing_advise
+Which are some fragrant houseplants to purchase for my living room?,plant_purchasing_advise
+My ivy has yellow leaves. Is it a disease?,plant_disease_advise
+What is the reason behind the mold forming on my potted lavender?,plant_disease_advise
+My rosemary plant's leaves are curling up. Is it an infection?,plant_disease_advise
+Why are my houseplant's leaves falling off suddenly?,plant_disease_advise
+What are some natural ways to treat aphids on my indoor plants?,plant_disease_advise
+My jade plant has white powdery spots on it. How can I treat it?,plant_disease_advise.

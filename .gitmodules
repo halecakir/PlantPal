@@ -1,3 +1,6 @@
 [submodule "data/dstc8-schema-guided-dialogue"]
 	path = data/dstc8-schema-guided-dialogue
 	url = https://github.com/google-research-datasets/dstc8-schema-guided-dialogue
+[submodule "plantui"]
+	path = plantui
+	url = git@github.com:halecakir/plantui.git

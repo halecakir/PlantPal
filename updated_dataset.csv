@@ -1,0 +1,473 @@
+text;intent
+What is the ideal watering schedule for a ZZ Plant?;plant_caretaking_advise
+My ZZ plant has brown spots on its leaves, what's wrong? Is there a cure?;plant_disease_advise
+What is a good beginner-friendly succulent to purchase?;plant_purchasing_advise
+What kind of soil is best for my snake plant?;plant_caretaking_advise
+Can I propagate a rubber plant from a leaf cutting?;plant_caretaking_advise
+What are some animal-friendly plants I should consider buying for my indoor garden?;plant_purchasing_advise
+How do I treat root rot in a fiddle leaf fig?;plant_disease_advise
+Which indoor plants are best for improving air quality?;plant_purchasing_advise 
+My aloe plant has started wilting, what should I do?;plant_caretaking_advise
+What’s the best way to prevent powdery mildew on my indoor plants?;plant_disease_advise
+How do I repot my monstera without damaging the roots?;plant_caretaking_advise
+Can you recommend a flowering plant that does well in partial shade?;plant_purchasing_advise
+My Boston fern has brown fronds, is it a disease or a lack of watering?;plant_disease_advise
+Can you suggest an indoor plant that is safe for cats?;plant_purchasing_advise
+How often should I water my Peace Lily?;plant_caretaking_advise
+My rubber plant has leaf tip burn. What might be the problem?;plant_disease_advise
+What type of plant can add humidity to my home?;plant_purchasing_advise
+How should I care for my indoor bamboo plant?;plant_caretaking_advise
+My pothos plant has yellow leaves. Is it a disease or a care issue?;plant_disease_advise
+Can you suggest a tall indoor plant for my living room?;plant_purchasing_advise
+What is the proper watering schedule for a monstera plant?;plant_caretaking_advise
+My peace lily doesn't bloom anymore, what should I do?;plant_caretaking_advise
+What is the ideal temperature and humidity for my fern?;plant_caretaking_advise
+Can I use coffee grounds as a fertilizer for my house plants?;plant_caretaking_advise
+When is the best time to prune my indoor lemon tree?;plant_caretaking_advise
+Please suggest some indoor plants that can purify air?;plant_purchasing_advise
+What are some great plants for a vertical indoor garden?;plant_purchasing_advise
+Which houseplants would thrive in my office with fluorescent lighting?;plant_purchasing_advise
+Can you suggest a plant that doesn't need much sunlight for my bathroom?;plant_purchasing_advise
+What is a non-toxic plant suitable for a house with pets?;plant_purchasing_advise
+What could be causing the leaves on my jade plant to wrinkle?;plant_disease_advise
+My orchid’s roots are turning brown and mushy, what can I do?;plant_disease_advise
+How can I treat rust on my pilea plant?;plant_disease_advise
+Any recommendation for treating aphids on my rose plant?';plant_disease_advise
+What can I do if my snake plant has mold growing on the soil?;plant_disease_advise
+How often should I repot a peace lily?;plant_caretaking_advise
+What type of soil is best for growing aloe vera?;plant_caretaking_advise
+How much watering is optimal for a monstera plant?;plant_caretaking_advise
+Can you advise on how to prune an overgrown jade plant?;plant_caretaking_advise
+Do I need to fertilize my indoor ferns?;plant_caretaking_advise
+Can you recommend a flowering plant that grows well in bright indirect light?;plant_purchasing_advise
+I'm looking for a plant that can add a pop of color to my living room, any suggestions?;plant_purchasing_advise
+Do you have suggestions for pet-friendly houseplants?;plant_purchasing_advise
+What are some good plant choices for a home with small children?;plant_purchasing_advise
+Could you suggest a good office plant that requires infrequent watering?;plant_purchasing_advise
+My rose plant's leaves are covered in a white powdery substance, what is this and how do I treat it?;plant_disease_advise
+The leaves of my spider plant are turning brown at the tips, what's causing this?;plant_disease_advise
+My ZZ plant has yellowing leaves, what could be wrong?;plant_disease_advise
+How do I get rid of scale insects on my fig tree?;plant_disease_advise
+Why are my orchid's leaves wrinkled and leathery?;plant_disease_advise
+I have a ZZ plant. How often should I water it?;plant_caretaking_advise
+What is the best way to prune a fiddle leaf fig?;plant_caretaking_advise
+My aloe plant seems to be wilting. How can I revive it?;plant_caretaking_advise
+How much sunlight does a rubber plant need?;plant_caretaking_advise
+Can I use regular potting soil for my cactus?;plant_caretaking_advise
+My indoor space receives very little light. What are some plants I can buy?;plant_purchasing_advise
+I am interested in purchasing a bonsai. What kind of care will it require?;plant_purchasing_advise
+Can you suggest any flowering plants that bloom throughout the year?;plant_purchasing_advise
+I'm considering buying a fern. Do they need a specific type of soil?;plant_purchasing_advise
+I'm interested in adding a tropical twist to my plant collection. What would you recommend?;plant_purchasing_advise
+There are black spots on the leaves of my rose plant. What could be the cause?;plant_disease_advise
+I've noticed white powdery substances on my plants. How can I treat this?;plant_disease_advise
+The leaves on my orchid are turning yellow and falling off. Is it a disease?;plant_disease_advise
+My peace lily has brown tips on its leaves. Is it sick?;plant_disease_advise
+The flowers on my hydrangea are turning brown and dying quickly. What could be the problem?;plant_disease_advise
+How often should I water my aloe vera plant?;plant_caretaking_advise
+My peace lily's leaves are wilting despite regular watering. What could be the issue?;plant_caretaking_advise
+What sort of care does a rubber plant need to grow well?;plant_caretaking_advise
+How should I prune my fern to keep it healthy and compact?;plant_caretaking_advise
+Can my poinsettia survive outside the holiday season? How can I care for it?;plant_caretaking_advise
+I'm searching for a good air purifying plant. What should I consider buying?;plant_purchasing_advise
+Are there any flowering plants suitable for an office with fluorescent lighting?;plant_purchasing_advise
+What are some colorful plants that can grow in low light conditions?;plant_purchasing_advise
+Can you suggest a few plants that are safe around pets?;plant_purchasing_advise
+I want to grow a plant in my bathroom. What would thrive in a humid environment?;plant_purchasing_advise
+What's causing the powdery mildew on my lilacs, and how can I control it?;plant_disease_advise
+I think my roses have blackspot fungus. How can I confirm and treat this?;plant_disease_advise
+Are there any organic methods to control aphids on my houseplants?;plant_disease_advise
+The leaves of my ficus plant are dropping. Can this be a sign of a disease?;plant_disease_advise
+My tomato plant leaves are curling and have yellow spots. What could be wrong?;plant_disease_advise
+Should I mist my fern plant?;plant_caretaking_advise
+How often should I repot my indoor plants?;plant_caretaking_advise
+What's the optimal watering schedule for a rubber plant?;plant_caretaking_advise
+Can my peace lily survive in indirect sunlight?;plant_caretaking_advise
+How can I increase humidity for my indoor tropical plants?;plant_caretaking_advise
+What plant can be a good choice for an office desk with artificial light?;plant_purchasing_advise
+Can you suggest some flowering plants for a balcony that gets morning sun?;plant_purchasing_advise
+Which edible plants can I grow in a small indoor pot?;plant_purchasing_advise
+Do you have any recommendations for plants that are safe for cats?;plant_purchasing_advise
+What are some plants that can thrive in a bathroom environment?;plant_purchasing_advise
+My indoor palm has started yellowing at the tips, what is wrong?;plant_disease_advise
+How can I get rid of aphids on my indoor plants?;plant_disease_advise
+What can I do about the powdery mildew on my indoor roses?;plant_disease_advise
+I spotted some tiny red bugs on my ficus, what should I do?;plant_disease_advise
+Is there a treatment for the black mold on my houseplant's leaves?;plant_disease_advise
+What's the best way to water succulent plants?;plant_caretaking_advise
+What are the pruning needs of a Ficus plant?;plant_caretaking_advise
+How often should I fertilize my indoor herbs?;plant_caretaking_advise
+How can I maximize blooms on my butterfly bush?;plant_caretaking_advise
+What is the correct pot size for a Monstera deliciosa?;plant_caretaking_advise
+What types of plant would do well in a high humidity environment?;plant_purchasing_advise
+I need a recommendation for a plant with colorful foliage for my living room;plant_purchasing_advise
+What plant can I buy that is safe for my cat?;plant_purchasing_advise
+Can you suggest a fragrant indoor plant for my kitchen?;plant_purchasing_advise
+What plants are best for purifying the air in my house?;plant_purchasing_advise
+How to treat powdery mildew on indoor plants?;plant_disease_advise
+My plant's leaves are curling and drying out. What could be wrong?;plant_disease_advise
+Can you suggest a treatment for root rot in my indoor plants?;plant_disease_advise
+My indoor fern has yellow and crispy fronds. What could be the issue?;plant_disease_advise
+What's causing the black spots on my peace lily's leaves?;plant_disease_advise
+Which is the best method to water an indoor cactus?;plant_caretaking_advise
+Does my ZZ plant need a lot of light to grow?;plant_caretaking_advise
+Is there a way to encourage my fiddle leaf fig to branch?;plant_caretaking_advise
+What should I do if my lucky bamboo talks yellow colour?;plant_caretaking_advise
+When should I repot my spider plant?;plant_caretaking_advise
+Can you suggest a small table top plant for my work desk?;plant_purchasing_advise
+I am new to gardening. Can you suggest some hardy plants for beginners?;plant_purchasing_advise
+Which is the best air purifier plant I can buy?;plant_purchasing_advise
+I am looking for a flowering plant for my sunny balcony. Any suggestions?;plant_purchasing_advise
+What are some fast growing indoor plants?;plant_purchasing_advise
+What can cause wilting in stems of my money plant?;plant_disease_advise
+My rubber plant leaves have faint yellow spots, what can be the reason?;plant_disease_advise
+How can I treat white mold on my peace lily without using chemicals?;plant_disease_advise
+What should I do when leaves of my aloe plant turn brown at the tips?;plant_disease_advise
+Why are the leaves of my indoor palm turning brown?;plant_disease_advise
+What is the best pruning technique for a ficus tree?;plant_caretaking_advise
+Do I need to rotate my indoor plants for them to grow evenly?;plant_caretaking_advise
+How can I increase humidity for my fern?;plant_caretaking_advise
+What type of soil would be best for my rubber plant?;plant_caretaking_advise
+Is it necessary to mist my air plant, or can it just soak up water?;plant_caretaking_advise
+Can you suggest a flowering plant that will do well in a bathroom setting?;plant_purchasing_advise
+What are some plants known for removing toxins from the air?;plant_purchasing_advise
+Which plants can grow well on a balcony with direct sun?;plant_purchasing_advise
+What type of plants would you suggest for a small home office?;plant_purchasing_advise
+Can you suggest sturdy plants that can withstand occasional neglect?;plant_purchasing_advise
+My indoor rose bush has black spots on the leaves. What should I do?;plant_disease_advise
+What's wrong with my plant if the leaves start curling up?;plant_disease_advise
+How can I treat powdery mildew on my indoor plants?;plant_disease_advise
+What could be the cause of yellowing leaves on my peace lily?;plant_disease_advise
+How can I control aphids on my indoor plants?;plant_disease_advise
+How often should I water my spider plant?;plant_caretaking_advise
+What type of soil is best for growing succulents?;plant_caretaking_advise
+Can you guide me on how to repot a rubber plant?;plant_caretaking_advise
+My fiddle leaf fig has brown edges on the leaves. What might be causing this?;plant_caretaking_advise
+How can I increase the humidity for my ferns?;plant_caretaking_advise
+What type of herbs can thrive in partial sunlight?;plant_purchasing_advise
+Can you suggest an indoor flowering plant that blooms throughout the year?;plant_purchasing_advise
+I need a plant that can grow in water. What are my options?;plant_purchasing_advise
+Which indoor plants can help to purify the air?;plant_purchasing_advise
+Which is the best low maintenance plant for office?;plant_purchasing_advise
+My rosemary has black spots on the leaves. What should I do?;plant_disease_advise
+How do I treat powdery mildew on my zinnias?;plant_disease_advise
+What can I do about aphids on my gardenia?;plant_disease_advise
+Is there a natural remedy for scale insects on my bonsai?;plant_disease_advise
+How to prevent root rot in succulents?;plant_disease_advise
+What watering regime would you suggest for a ZZ plant?;plant_caretaking_advise
+Can you tell me how to prune a fiddle leaf fig?;plant_caretaking_advise
+What kind of soil does a cactus require?;plant_caretaking_advise
+How can I repot my rubber plant without causing shock?;plant_caretaking_advise
+What are the signs of overwatering in spider plants?;plant_caretaking_advise
+Which plants would you suggest for a drought-prone balcony?;plant_purchasing_advise
+Can you recommend a flowering plant for a partial shade area?;plant_purchasing_advise
+What indoor plants produce the most oxygen?;plant_purchasing_advise
+Which fruit plants can blossoming indoors?;plant_purchasing_advise
+I need a plant that's safe for dogs. Any suggestions?;plant_purchasing_advise
+Why are the leaves on my jade plant shriveling up?;plant_disease_advise
+My monstera's edges are turning brown. What's wrong?;plant_disease_advise
+Are there any natural remedies for powdery mildew on indoor plants?;plant_disease_advise
+What could be the cause of black spots on my chinese evergreen leaves?;plant_disease_advise
+How can I treat root rot in my snake plant?;plant_disease_advise
+What should the temperature be for my potted cactus to grow?;plant_caretaking_advise
+What is the watering requirement for indoor bamboo plants?;plant_caretaking_advise
+How much sunlight would be ideal for my indoor fern?;plant_caretaking_advise
+Can you advise me on pruning techniques for a Monstera Deliciosa?;plant_caretaking_advise
+What kind of soil is best for my indoor palm?;plant_caretaking_advise
+Can you suggest a flower that will bloom in the winter indoors?;plant_purchasing_advise
+What kind of plant can I purchase for a room that gets little sunlight?;plant_purchasing_advise
+What flowering plants would you suggest for a balcony that gets direct sun?;plant_purchasing_advise
+Can you recommend a plant that I can place in my low humidity office?;plant_purchasing_advise
+What would be the best herb plant to grow on a kitchen window sill?;plant_purchasing_advise
+My rose plant leaves have black spots. What is it?;plant_disease_advise
+I noticed a white fuzzy substance on my houseplant. Is it harmful?;plant_disease_advise
+Why are the leaves of my indoor plant curling?;plant_disease_advise
+What can I do to treat powdery mildew on my zinnias?;plant_disease_advise
+Why are my indoor plants getting yellow leaves with brown tips?;plant_disease_advise
+Which succulents are best for an indoor garden?;plant_purchasing_advise
+What type of plant would you recommend for improving indoor air quality?;plant_purchasing_advise
+Can you suggest a flowering plant that can survive in low light?;plant_purchasing_advise
+What kind of plants are safe for pets?;plant_purchasing_advise
+I'm looking for a plant that can tolerate high humidity, any ideas?;plant_purchasing_advise
+My rose bush is attracting aphids. How do I manage this?;plant_disease_advise
+What's the best treatment for powdery mildew on my potted plants?;plant_disease_advise
+Why are there holes in the leaves of my indoor plants?;plant_disease_advise
+I think my plant has root rot, what should I do?;plant_disease_advise
+How should I treat an indoor citrus tree infested with scale?;plant_disease_advise
+What is the right way to water an indoor palm?;plant_caretaking_advise
+When is the right time to repot a houseplant?;plant_caretaking_advise
+My fern is shedding a lot of leaves, what should I do?;plant_caretaking_advise
+Can you guide me on how to prune a snake plant properly?;plant_caretaking_advise
+How much humidity does a maidenhair fern need?;plant_caretaking_advise
+How often should I water my snake plant?;plant_caretaking_advise
+Can I use coffee grounds as fertilizer for my houseplants?;plant_caretaking_advise
+Why are the tips of my spider plant turning brown?;plant_caretaking_advise
+How much light does a ZZ plant require?;plant_caretaking_advise
+Should I mist my fern or water it directly?;plant_caretaking_advise
+What type of indoor plant would you recommend for improving air quality?;plant_purchasing_advise
+How big does a fiddle leaf fig usually grow?;plant_purchasing_advise
+Could you suggest flowering plants that can grow well indoors?;plant_purchasing_advise
+Is palm a good indoor plant option? Does it grow well in low light conditions?;plant_purchasing_advise
+What kind of edible plants can grow indoors?;plant_purchasing_advise
+My indoor rose plant has black spots on leaves. How should I treat it?;plant_disease_advise
+What is the white powder on my indoor plant's leaves and how to eliminate it?;plant_disease_advise
+My cactus is turning yellow, is it diseased?;plant_disease_advise
+How can I treat root rot in my potted lavender?;plant_disease_advise
+How can I protect my indoor plants from pests without using chemicals?;plant_disease_advise
+How often should I water my peace lily?;plant_caretaking_advise
+What is the best way to maintain the color of my flowering maple?;plant_caretaking_advise
+Can ferns survive in low-humidity environments?;plant_caretaking_advise
+What temperature is optimal for my rubber tree plant?;plant_caretaking_advise
+Should I mist my air plants regularly?;plant_caretaking_advise
+What are good plant options for a small apartment?;plant_purchasing_advise
+I want a flowering plant that blooms year-round. Any suggestions?;plant_purchasing_advise
+Can you recommend plants known for their air-purifying qualities?;plant_purchasing_advise
+What kind of cactus would do well in a window sill?;plant_purchasing_advise
+I am looking for a plant that is safe around pets. Any recommendations?;plant_purchasing_advise
+My indoor roses have black spots on their leaves. What could be causing this?;plant_disease_advise
+My orchid’s leaves turn yellow and then brown. Is it a disease?;plant_disease_advise
+What should I do to prevent mold buildup in my indoor plant's soil?;plant_disease_advise
+How can I prevent Powdery Mildew on my houseplants?;plant_disease_advise
+There are small holes in my jade plant's leaves. Could this be an insect problem?;plant_disease_advise
+What's the best way to water a cactus?;plant_caretaking_advise
+Can I use tap water for my spider plant?;plant_caretaking_advise
+Can you explain how to prune a fiddle leaf fig correctly?;plant_caretaking_advise
+My peace lily isn't blooming. What might be causing this?;plant_caretaking_advise
+I'm searching for an air-purifying plant for my office. What should I get?;plant_purchasing_advise
+What are some colorful and easy to grow plants for my garden?;plant_purchasing_advise
+I need a sturdy yet beautiful plant as a gift. Can you suggest one?;plant_purchasing_advise
+What flowers can bloom year round in an indoor setting?;plant_purchasing_advise
+Is there a flowering plant that can grow under fluorescent light?;plant_purchasing_advise
+My outdoor roses have black spots on their leaves. What should I do?;plant_disease_advise
+How can I treat powdery mildew on house plants without using chemicals?;plant_disease_advise
+Why are my tomato plant's leaves turning brown and curling up?;plant_disease_advise
+What does it mean when my snake plant has yellow patches?;plant_disease_advise
+Can you explain how to manage the growth of mold on plant soil?;plant_disease_advise
+How often should I water my philodendron plant?;plant_caretaking_advise
+What type of soil is best for my spider plant?;plant_caretaking_advise
+Why are the leaves of my peace lily wilting despite regular watering?;plant_caretaking_advise
+How much humidity does an areca palm need?;plant_caretaking_advise
+Is it necessary to mist a fern plant?;plant_caretaking_advise
+What type of indoor tree is easy to maintain?;plant_purchasing_advise
+Can you suggest some pet-friendly indoor plants?;plant_purchasing_advise
+What is a good choice for an aromatic plant to grow indoors?;plant_purchasing_advise
+I need a flowering plant that blooms all year round. Any suggestions?;plant_purchasing_advise
+Which plants are best for improving air quality indoors?;plant_purchasing_advise
+Why are there black spots on my rose leaves?;plant_disease_advise
+What is causing leaves to fall off my jade plant?;plant_disease_advise
+How can I treat powdery mildew on my begonia?;plant_disease_advise
+My cactus has black rot at the base. What can I do?;plant_disease_advise
+Why are the leaves of my rubber tree dropping despite proper watering?;plant_disease_advise
+What's the ideal watering schedule for succulent plants?;plant_caretaking_advise
+Can you guide on how to repot my large monstera plant?;plant_caretaking_advise
+How much humidity do fern plants need?;plant_caretaking_advise
+How often should I fertilize my indoor citrus tree?;plant_caretaking_advise
+What is the best way to prune a rubber plant?;plant_caretaking_advise
+What should I look for when buying an aloe vera plant?;plant_purchasing_advise
+Are there any flowering plants that do well in low light?;plant_purchasing_advise
+What is a good air purifier plant that I can keep indoors?;plant_purchasing_advise
+Which plants are safe and non-toxic for pets?;plant_purchasing_advise
+Can you suggest some fragrant flowering indoor plants?;plant_purchasing_advise
+What is the best treatment for powdery mildew on my rose plant?;plant_disease_advise
+My snake plant's leaves are wrinkling. What could be the cause?;plant_disease_advise
+Is there a natural remedy for aphids on my indoor plants?;plant_disease_advise
+My philodendron has yellowing leaves, is it a disease?;plant_disease_advise
+What could be causing the edges on my peace lily to turn brown?;plant_disease_advise
+How often should I water my ficus tree?;plant_caretaking_advise
+What is the best soil mix for aloe vera plants?;plant_caretaking_advise
+How should I care for my cactus during winter?;plant_caretaking_advise
+When is the best time to prune my hydrangea?;plant_caretaking_advise
+Do ferns need to be repotted often?;plant_caretaking_advise
+Can you suggest a plant that can survive a humid climate?;plant_purchasing_advise
+What are some colorful flowering plants for a sunny balcony?;plant_purchasing_advise
+Do you have suggestions for air purifying plants?;plant_purchasing_advise
+I'm looking for a ground cover plant that grows quickly. What should I get?;plant_purchasing_advise
+What type of plant would work well as a privacy hedge?;plant_purchasing_advise
+My rose bush has black spots on its leaves. What should I do?;plant_disease_advise
+What should I do if my tomato plants develop yellow leaves?;plant_disease_advise
+Are there organic treatments for aphids on indoor plants?;plant_disease_advise
+How can I get rid of mold on my air plants?;plant_disease_advise
+Why are the leaves of my rubber plant curling and how can I fix it?;plant_disease_advise
+How frequently should I water my cactus?;plant_caretaking_advise
+Do indoor ferns require special treatment?;plant_caretaking_advise
+What's the best way to repot an aloe plant without harming it?;plant_caretaking_advise
+Can you suggest a method for pruning a rubber tree plant?;plant_caretaking_advise
+What's the ideal room temperature for a philodendron?;plant_caretaking_advise
+Do you know a fragrant house plant that blooms in the winter?;plant_purchasing_advise
+I want an air-purifying plant for my home office, what do you suggest?;plant_purchasing_advise
+Can you recommend a colorful flowering plant that needs indirect sunlight?;plant_purchasing_advise
+I need a plant for my bathroom, any humidity-loving suggestions?;plant_purchasing_advise
+What's a suitable plant to place in a west-facing window?;plant_purchasing_advise
+My ficus tree's leaves have tiny white dots on them, how can I treat it?;plant_disease_advise
+What kind of disease causes black spots on rose leaves and how can I treat it?;plant_disease_advise
+My monstera's leaves are turning yellow and brown at the edges. What could be wrong?;plant_disease_advise
+Can you help me understand why my peace lily's blooms are turning black?;plant_disease_advise
+There's a white powdery substance on my ivy's leaves. What is it and how can I treat it?;plant_disease_advise
+How often should I water my succulent?;plant_caretaking_advise
+My fiddle leaf fig's leaves are dropping. What should I do?;plant_caretaking_advise
+What are some pet-friendly houseplants I can buy?;plant_purchasing_advise
+Can you recommend an easy-to-grow fruit plant for indoor cultivation?;plant_purchasing_advise
+What is the best way to water an air plant?;plant_caretaking_advise
+How should I prune a rubber plant to promote bushier growth?;plant_caretaking_advise
+What plants can I buy for a small balcony?;plant_purchasing_advise
+Can you suggest fragrant indoor plants to improve my living room's ambiance?;plant_purchasing_advise
+How to treat root rot on a bonsai tree?;plant_disease_advise
+What are pesticides safe for indoor usage against mealybugs?;plant_disease_advise
+Can I save a plant that's been infested by aphids?;plant_disease_advise
+What are the symptoms of over-watering in a monstera plant?;plant_caretaking_advise
+I want to buy a flowering houseplant that blooms all year round. What are my options?;plant_purchasing_advise
+How can I prevent mold growth in my indoor plant's potting mix?;plant_disease_advise
+Can you recommend plants that can help improve air quality indoors?;plant_purchasing_advise
+How to save my cactus from sunburn?;plant_disease_advise
+What are some effective fertilizers for indoor herb garden?;plant_caretaking_advise
+How do you propagate a ZZ plant?;plant_caretaking_advise
+Is it possible to grow a pineapple plant indoors?;plant_purchasing_advise.
+What is the best way to take care of my snake plant? Any specific water and sunlight requirements?;plant_caretaking_advise
+I just bought a Bonsai tree. How do I ensure that it grows well?;plant_caretaking_advise
+Can you guide me on how to maintain my indoor ivy plant at its best?;plant_caretaking_advise
+What are the care instructions for a spider plant?;plant_caretaking_advise
+I have a peace lily at home and it's my first time having a houseplant. Can you give me some care advice?;plant_caretaking_advise
+I live in a flat without much natural light. What type of plant should I get?;plant_purchasing_advise
+I am looking for a low-maintenance houseplant. Can you suggest some options?;plant_purchasing_advise
+What would be some good flower plants to buy for indoors that can also purify air?;plant_purchasing_advise
+Could you recommend a plant that can survive with only artificial light?;plant_purchasing_advise
+I am planning to buy a potted plant as a gift. Any suggestions?;plant_purchasing_advise
+My rubber plant's leaves are turning yellow. What disease could it be, and how to treat it?;plant_disease_advise
+Why are the tips of my fern plant turning brown?;plant_disease_advise
+I noticed some small white spots on my orchid's leaves. What could it be and what is the treatment?;plant_disease_advise
+My peace lily has brown spots on its leaves. Is it a disease?;plant_disease_advise
+The leaves of my spider plant are curling, is it sick? What can I do about it?;plant_disease_advise
+What's the best way to care for my newly bought fern plant?;plant_disease_advice
+How often should I water my potted rose plant in winter season?;plant_disease_advice
+My bedroom doesn't get a lot of sunlight, can you suggest some indoor plants that can thrive in such conditions?;plant_disease_advice
+I recently just got a snake plant, can you provide some advice on its ideal location and sunlight requirements?;plant_disease_advice
+What kind of fertilizer would you recommend for a tomato plant?;plant_disease_advice
+I'm thinking about buying a bonsai tree for my office, what do you suggest?;plant_purchasing_advice
+I'd like to add some color to my living room, what flowering plants would you recommend that can easily thrive indoors?;plant_purchasing_advice
+I'm a beginner in gardening, which plants would you suggest are best for starters?;plant_purchasing_advice
+I have a small patio, can you advise me on what kind of plants to buy that will best utilize the space?;plant_purchasing_advice
+I'm really interested in cultivating a herb garden, what should I start with?;plant_purchasing_advice
+I've noticed some white spots on the leaves of my ivy plant, what could be the problem?;plant_disease_advice
+My rose plant's leaves are turning yellow, what should I do?;plant_disease_advice
+There are small holes in the leaves of my basil plant, could it be an insect problem or a disease?;plant_disease_advice
+The leaves of my rubber plant are drooping and turning brown, am I overwatering it?;plant_disease_advice
+Is it normal for my succulent's leaves to be soft and mushy, or does it indicate a disease?;plant_disease_advice
+How often should I water my fern?;plant_caretaking_advise
+What is the best soil mix for a Jade plant?;plant_caretaking_advise
+Do succulents need direct sunlight?;plant_caretaking_advise
+How to prune a Fiddle Leaf Fig tree?;plant_caretaking_advise
+What is the recommended humidity for keeping orchids at home?;plant_caretaking_advise
+I need a pet-friendly houseplant. Can you recommend one?;plant_purchasing_advise
+What type of plant would be easy for a beginner to take care of?;plant_purchasing_advise
+Do you know of any air-purifying plants I can get for my office?;plant_purchasing_advise
+I need some advice on which plant is suitable for a dark room?;plant_purchasing_advise
+Which flowering plants you recommend purchasing for a sunny balcony?;plant_purchasing_advise
+The leaves of my monstera plant have started turning yellow. What could be the possible issue and how can I deal with it?;plant_disease_advise
+My orchid's flowers seem to be wilting prematurely. Is it infected?;plant_disease_advise
+Can you help me identify the white spots on my cactus plant?;plant_disease_advise
+Noticed black molds on my rubber plant. Is it suffering from a disease and how should I cure it?;plant_disease_advise
+My succulent seems to be soft and discolored. What could be the cause?;plant_disease_advise
+What is the best way to care for a ZZ plant?;plant_caretaking_advise
+Can you provide some advice on taking care of my snake plant?;plant_caretaking_advise
+Can you give me some tips on how to prune my fiddle leaf fig tree?;plant_caretaking_advise
+I have a rubber plant that isn't doing well, any suggestions?;plant_caretaking_advise
+I need a plant for my dimly lit office, any recommendations?;plant_purchasing_advise
+I'm looking to buy a low-maintenance houseplant. What type would you suggest?;plant_purchasing_advise
+Which plant would you recommend for purifying the air?;plant_purchasing_advise
+I am thinking of buying a houseplant as a gift, what should I consider?;plant_purchasing_advise
+Can you suggest some plants that are safe for pet-owners?;plant_purchasing_advise
+My philodendron leaves are turning yellow, what could be the problem?;plant_disease_advise
+What kind of disease could cause brown spots on my pothos plant?;plant_disease_advise
+I noticed that my fern has white fuzzy stuff on it, is it a disease?;plant_disease_advise
+My orchid's leaves are falling off, is it a sign of disease or just old age?;plant_disease_advise
+My spider plant's leaves are losing their color, what disease could that indicate?;plant_disease_advise
+I've low sunlight at my home, what plants would be suitable for me to buy?;plant_purchasing_advise
+What is the best place to buy indoor plants online?;plant_purchasing_advise
+Would an air purifying plant be a good choice for a city apartment?;plant_purchasing_advise
+I need a small indoor plant for my office desk, any recommendations?;plant_purchasing_advise
+What perennial plants should I consider for my patio?;plant_purchasing_advise
+The leaves of my rubber plant are turning brown, what might be the problem?;plant_disease_advise
+There's a white powdery substance on my rose plant, do you have any advice?;plant_disease_advise
+Why are the edges of my Aloe Vera plant getting yellow?;plant_disease_advise
+How can I treat the black spots appearing on my orchid's leaves?;plant_disease_advise
+My cactus plant is getting soft and mushy at the bottom, what should I do?;plant_disease_advise
+What's the best way to water my aloe vera during summer months?;plant_caretaking_advise
+How much sunlight does a fern need daily?;plant_caretaking_advise
+How often should I repot my fiddle leaf fig?;plant_caretaking_advise
+What's the appropriate temperature range for a snake plant?;plant_caretaking_advise
+What type of soil is best for my bonsai tree?;plant_caretaking_advise
+What houseplant would you recommend for a poorly lit office?;plant_purchasing_advise
+I want a houseplant that requires minimal care, what would you suggest?;plant_purchasing_advise
+What type of plant could survive in a bathroom with little to no natural sunlight?;plant_purchasing_advise
+Is there a specific plant you'd suggest for improving indoor air quality?;plant_purchasing_advise
+I'm new to houseplants. Can you suggest a variety that is easy to care for?;plant_purchasing_advise
+What could be causing the leaves of my monstera to turn yellow?;plant_disease_advise
+Can you help identify this fungus growing on my palm tree?;plant_disease_advise
+My snake plant has brown spots on its leaves. What should I do?;plant_disease_advise
+The leaves of my ficus tree have started drooping, is it sick?;plant_disease_advise
+I see small white bugs on my succulent. What are they and how can I treat my plant?;plant_disease_advise
+I just got a new Pothos plant. Can you advise on how to care for it?;plant_caretaking_advise
+How should I take care of my indoor fern?;plant_caretaking_advise
+Can you give me tips on watering my Jade plant properly?;plant_caretaking_advise
+What kind of sunlight does a Snake Plant require?;plant_caretaking_advise
+My Maple tree is losing its leaves, what do I do to care for it?;plant_caretaking_advise
+I'm planning to buy some houseplants. Could you recommend some easy-to-care-for options?;plant_purchasing_advise
+What are good flowering plants to purchase for a beginner gardener?;plant_purchasing_advise
+Should I buy a ZZ plant or a Peace Lily for my low-lit room?;plant_purchasing_advise
+What's a great, low-maintenance plant I can buy for my office?;plant_purchasing_advise
+I live in a small apartment and have little sunlight, what plant would be best to buy?;plant_purchasing_advise
+My Aloe Vera has brown tips on its leaves, is it diseased?;plant_disease_advise
+There are white spots on my Rose's leaves, do they have a disease?;plant_disease_advise
+My Rubber Plant's leaves are yellowing, is it sick?;plant_disease_advise
+There seems to be a fungus on my Orchid, what should I do?;plant_disease_advise
+I noticed my tomato plant leaves are curling and wilting, what disease could it have, and what should I do?;plant_disease_advise
+Can you give me some advice on how often I need to water my Peace Lily?;plant_caretaking_advise
+What kind of light conditions does a Snake Plant prefer?;plant_caretaking_advise
+When is the best time to fertilize my indoor orchids?;plant_caretaking_advise
+How can I maintain humidity for my Ferns during the winter months?;plant_caretaking_advise
+Does my Spider Plant need a specific type of soil to thrive?;plant_caretaking_advise
+I just moved into a new apartment with low light, what type of plant should I get?;plant_purchasing_advise
+What kind of plants would you suggest for a beginner gardener?;plant_purchasing_advise
+Could you recommend a flowering plant that requires minimal care?;plant_purchasing_advise
+Which kind of indoor plant would you suggest for a beginner like me?;plant_purchasing_advise
+I stay in a small apartment with low light. Can you suggest some suitable houseplants for my living condition?;plant_purchasing_advise
+My rose plant has black spots on its leaves, what could be the cause and how to treat it?;plant_disease_advise
+My geranium has white fuzz on its leaves, what does this mean and how can I treat it?;plant_disease_advise
+Why are the leaves of my Peace Lily turning brown?;plant_disease_advise
+There's a sticky substance on my Ficus plant, is it a disease and how can I treat it?;plant_disease_advise
+I found tiny bugs on my indoor plant. How should I treat them?;plant_disease_advise
+How often should I water my spider plant in summer?;plant_caretaking_advise
+Can you give me some tips on how to care for my indoor cacti?;plant_caretaking_advise
+What's the right way to care for my Monstera? It doesn't seem to be doing so well.;plant_caretaking_advise
+Could you provide some advice on how to repot orchids safely without harming them?;plant_caretaking_advise
+I'm new to gardening, could you please provide some tips on maintaining my fern?;plant_caretaking_advise
+Hi helpful botanist, I'm looking to buy a houseplant that can tolerate low light conditions, any recommendations?;plant_purchasing_advise
+Could you suggest some indoor plants that are safe for cats?;plant_purchasing_advise
+I would like to purchase a houseplant that helps to purify the air, any ideas?;plant_purchasing_advise
+I'm planning to buy some ornamental plants for my living room, should I consider any factors in particular?;plant_purchasing_advise
+Can you recommend plants that would do well in a dry environment? I live in a desert area.;plant_purchasing_advise
+My Money plant's leaves are turning yellow, what seems to be the problem?;plant_disease_advise
+I've noticed some small white spots on my orchid's leaves. What could this mean?;plant_disease_advise
+Can you help me understand why my cactus is turning black at the base?;plant_disease_advise
+What can I do if my Aloe Vera plant is showing signs of root rot?;plant_disease_advise
+My peace lily's leaf tips are turning brown, what could be causing this?;plant_disease_advise
+What amount of sunlight does my fern require on a daily basis?;plant_caretaking_advise
+How often should I water my cactus?;plant_caretaking_advise
+What type of soil is best to use for my orchid plant?;plant_caretaking_advise
+What's the optimal temperature for growing a Monstera deliciosa indoors?;plant_caretaking_advise
+Can you tell me about the fertilization needs of a rubber plant?;plant_caretaking_advise
+I want to buy a houseplant that doesn't require much sunlight. What do you suggest?;plant_purchasing_advise
+Can you recommend a plant that could survive in a hot and dry climate?;plant_purchasing_advise
+I'm looking to add some green to my home office. Which plant should I buy?;plant_purchasing_advise
+I have pets and small children at home. Can you recommend some safe, non-toxic plants I could buy?;plant_purchasing_advise
+I'm extremely busy and often forget watering plants. What type of plant should I purchase for minimal care?;plant_purchasing_advise
+My rose plant's leaves are turning yellow with black spots, what should I do?;plant_disease_advise
+My rubber plant has brown patches all over its leaves. What could be wrong with it and how can I treat it?;plant_disease_advise
+I've noticed that my Philodendron has yellowing leaves, is it sick and what can I do?;plant_disease_advise
+Lately my Begonia's leaves have started curling and turning brown at the edges, what's going wrong and how can I treat it?;plant_disease_advise
+My snake plant seems to have some sort of mold growth. Can you help me identify the problem and suggest a solution?;plant_disease_advise
+Can you give me some advice on how often I should water my succulent plant?;plant_caretaking_advise
+What kind of light conditions are best for my spider plant?;plant_caretaking_advise
+I recently got a Rubber plant and I am unsure on how to care for it. Can you help?;plant_caretaking_advise
+How can I increase the blooming of my rose plant indoors?;plant_caretaking_advise
+Any advice on the temperature suitable for a cactus indoors?;plant_caretaking_advise
