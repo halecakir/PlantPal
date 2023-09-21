@@ -2,3 +2,5 @@
 **/logs/
 ./src/text-classification/saved_models/tf_model.h5
 **/data/reddit/
+llama-7-int4-dolly/
+llama-7-int4-plantqa/
