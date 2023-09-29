@@ -101,11 +101,11 @@ class LMTrainingPipeline:
             args=self.args,
         )
 
-        # Train the model
-        trainer.train()
+        # # Train the model
+        # trainer.train()
 
-        # Save the trained model
-        trainer.save_model()
+        # # Save the trained model
+        # trainer.save_model()
 
     def generate_instruction(self):
         # Optional: Unpatch flash attention if used
@@ -153,7 +153,7 @@ if __name__ == "__main__":
     pipeline = LMTrainingPipeline(
         model_id="NousResearch/Llama-2-7b-hf",  # Update with your desired model
         dataset_path="PlantQA.csv",  # Update with your dataset path
-        output_dir="llama-7-int4-plantqa",  # Update with your desired output directory
+        output_dir="llama-7-int4-plantqa/checkpoint-5088",  # Update with your desired output directory
     )
 
     pipeline.install_dependencies()
