@@ -28,7 +28,7 @@ jobs:
         name: Build and push
         uses: docker/build-push-action@v5
         with:
-          file: /app/Dockerfile
+          file: ./app/Dockerfile
           context: ./app
           push: true
           tags: halecakir/plantpal:latest	
