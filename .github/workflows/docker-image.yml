@@ -31,4 +31,4 @@ jobs:
           file: /app/Dockerfile
           context: ./app
           push: true
-          tags: halecakir/plantpal:$(date +%s)	
+          tags: halecakir/plantpal:latest	
