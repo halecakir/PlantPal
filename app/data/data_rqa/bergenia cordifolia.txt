@@ -1,0 +1,15 @@
+names:
+bergenia cordifolia, Pig Squeak (Bergenia crassifolia 'Red Beauty'), Heartleaf Bergenia (Bergenia crassifolia 'Red Start'), Heartleaf Bergenia (Bergenia crassifolia 'Tubby Andrews'), Pigsqueak (Bergenia crassifolia 'Vinterglod'), Heartleaf Bergenia (Bergenia crassifolia 'Rotblum'), Heartleaf Bergenia (Bergenia crassifolia 'Eden's Dark Margin'), Pigsqueak (Bergenia crassifolia 'Abendglut'), Bergenia crassifolia 'Purpurea', Pigsqueak (Bergenia crassifolia), Heartleaf Bergenia (Bergenia crassifolia 'Eroica'), Heartleaf Bergenia (Bergenia crassifolia 'Evening Glow'), Bergenia (Bergenia crassifolia 'Bressingham Ruby'), Pigsqueak (Bergenia crassifolia New Hybrids), Bergenia cordifolia 'Rosa Zeiten', Pigsqueak (Bergenia cordifolia 'Schneekönigin'), Pigsqueak (Bergenia cordifolia 'Miss Piggy'), Pigsqueak (Bergenia cordifolia 'Fire and Ice'), Pig Squeak
+
+characteristics:
+blooming: Flowering and fruiting period May-October
+color: Flower color white, pink
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like sunshine, slightly resistant to half shade
+watering: Likes wet environments, water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove dead, rotten, diseased leaves and the parts that may affect the good appearance
+temperature: min_temp: 4, max_temp: 32

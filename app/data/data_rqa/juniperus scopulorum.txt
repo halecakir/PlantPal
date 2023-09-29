@@ -1,0 +1,15 @@
+names:
+juniperus scopulorum, Rocky Mountain Juniper (Juniperus scopulorum), Rocky Mountain Juniper (Juniperus scopulorum 'Spearmint'), Rocky Mountain Juniper (Juniperus scopulorum 'Wichita Blue'), Rocky Mountain Juniper (Juniperus scopulorum 'Tolleson's Blue Weeping'), Rocky Mountain Juniper (Juniperus scopulorum 'Moonglow'), Rocky Mountain Juniper (Juniperus scopulorum 'Platinum'), Rocky Mountain Juniper (Juniperus scopulorum 'Skyrocket'), Rocky Mountain Juniper (Juniperus scopulorum 'Admiral'), Rocky Mountain Juniper (Juniperus scopulorum 'Cologreen'), Variegated Rocky Mountain Juniper (Juniperus scopulorum 'Sparkling Skyrocket'), Rocky Mountain Juniper (Juniperus scopulorum 'Welchii'), Rocky Mountain Juniper (Juniperus scopulorum 'Gray Gleam'), Rocky Mountain Juniper (Juniperus scopulorum 'Montana Green'), Rocky Mountain Juniper (Juniperus scopulorum 'Pathfinder'), Rocky Mountain Juniper (Juniperus scopulorum 'Argentea'), Rocky Mountain Juniper (Juniperus scopulorum 'Blue Arrow'), Rocky Mountain Juniper (Juniperus scopulorum 'Blue Banff'), Rocky Mountain Juniper (Juniperus scopulorum 'Blue Heaven'), Rocky Mountain Juniper (Juniperus scopulorum 'Blue Heaven Variegated'), Rocky Mountain Juniper (Juniperus scopulorum 'Blue Moon'), Rocky Mountain Juniper
+
+characteristics:
+blooming: Flowering period April-May, flowering period March-May, fruiting period October-November in the next year
+color: Leaf color green
+size: Diameter ≥ 15 cm, height ≥ 25 cm
+
+caretaking:
+soil: Calcareous soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, grows in sunny places
+watering: Resistant to drought, water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove dead, rotten, diseased leaves and the parts that may affect the good appearance
+temperature: min_temp: 5, max_temp: 35

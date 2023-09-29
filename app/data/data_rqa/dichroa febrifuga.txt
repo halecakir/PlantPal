@@ -1,0 +1,15 @@
+names:
+dichroa febrifuga, Blue Evergreen Hydrangea (Hydrangea febrifuga), Evergreen Chinese Hydrangea (Hydrangea febrifuga 'Yamaguchi Select'), Hydrangea (Hydrangea febrifuga 'Blue Sapphire'), Blue Evergreen Hydrangea
+
+characteristics:
+blooming: Flowering period February-April, fruiting period May-August
+color: Flower color blue or white
+size: Diameter ≥ 20 cm, height 20-30 cm
+
+caretaking:
+soil: Humus-rich loam
+sunlight: Resistant to shade, put in places with bright scattered light
+watering: Keep soil moist
+fertilization: Mainly use base fertilizers, top-dressing at the late stages
+pruning: Remove dead and diseased branches timely
+temperature: min_temp: 5, max_temp: 32

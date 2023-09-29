@@ -1,0 +1,15 @@
+names:
+cucumis sativus, Cucumbers (Cucumis sativus), Cucumber (Cucumis sativus 'Snow's Fancy Pickling'), Cucumber (Cucumis sativus 'Talbot'), Cucumber (Cucumis sativus 'General Lee'), Cucumber (Cucumis sativus 'FM 5020'), Cucumber (Cucumis sativus 'Festival'), Cucumber (Cucumis sativus 'Boothby's Blonde'), Greenhouse Cucumber (Cucumis sativus 'Tyria'), Greenhouse Cucumber (Cucumis sativus 'Aria'), Cucumber (Cucumis sativus 'Diamante'), Cucumber (Cucumis sativus 'Straight Nine'), Cucumber (Cucumis sativus 'Early Fortune'), Cucumber (Cucumis sativus 'China Long'), Cucumber (Cucumis sativus 'Improved Long Green'), Cucumber (Cucumis sativus 'Ashley'), Cucumber (Cucumis sativus 'Poinsett'), Cucumber (Cucumis sativus 'Poinsett 76'), Cucumber (Cucumis sativus 'Poinsett 97'), Cucumber (Cucumis sativus 'Lemon'), Cucumber (Cucumis sativus 'Marketmore'), Cucumbers
+
+characteristics:
+blooming: Ornamental fruit and vegetable plants, planted year around, fruits 2-3 weeks after flowering, fruiting period 1-2 months
+color: Flower color yellow, fruit color emerald green
+size: Diameter ≥ 10 cm, height ≥ 20 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients, pH value between 5.5-6.8
+sunlight: Likes sunshine
+watering: Need a lot of water, water thoroughly when soil is dry
+fertilization: Like fertilizer, dilute fertilizers following instructions, apply 2-3 times monthly
+pruning: Remove dead and yellowish leaves timely
+temperature: min_temp: 6, max_temp: 35

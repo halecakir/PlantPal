@@ -1,0 +1,15 @@
+names:
+pinus thunbergii, Japanese Black Pine (Pinus thunbergii), Pinus x densithunbergii 'Beni-kujaku', Japanese Black Pine (Pinus thunbergii 'Banshosho'), Japanese Black Pine (Pinus thunbergii 'Pygmaea'), Japanese Black Pine (Pinus thunbergii 'Thunderhead'), Japanese Black Pine (Pinus thunbergii  'Akame'), Japanese Black Pine (Pinus thunbergii  'Albovariegata'), Japanese Black Pine (Pinus thunbergii 'Aocha'), Japanese Black Pine (Pinus thunbergii  'Arakawa-sho'), Japanese Black Pine (Pinus thunbergii  'Aurea'), Japanese Black Pine (Pinus thunbergii  'Awaji'), Japanese Black Pine (Pinus thunbergii  'Beni-janome'), Japanese Black Pine (Pinus thunbergii  'Chase’s Yellow'), Japanese Black Pine (Pinus thunbergii  'Compacta'), Japanese Black Pine (Pinus thunbergii  'Corticosa'), Japanese Black Pine (Pinus thunbergii  'Dainagon'), Japanese Black Pine (Pinus thunbergii  'Eechee'), Japanese Black Pine (Pinus thunbergii  'Elmwood'), Japanese Black Pine (Pinus thunbergii  'Emery’s Dwarf'), Japanese Black Pine (Pinus thunbergii  'Frosty Patches'), Japanese Black Pine
+
+characteristics:
+blooming: Foliage plants, flowering period April-May
+color: Leaf needle shape, green, fruit color from green or purple gradually turn to yellow, ale brown or dark brown
+size: Diameter ≥ 15 cm, height ≥ 25 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like sunshine, grows in sunny places
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove dead, rotten, diseased leaves and the parts that may affect the good appearance
+temperature: min_temp: 5, max_temp: 35

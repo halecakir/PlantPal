@@ -1,0 +1,15 @@
+names:
+maranta leuconeura, Prayer Plant (Maranta leuconeura), Prayer Plant (Maranta leuconeura 'Erythroneura'), Prayer Plant (Maranta leuconeura 'Marisela'), Prayer Plant (Maranta leuconeura 'Silver Band'), Maranta leuconeura 'Repens', Prayer Plant (Maranta leuconeura 'Kerchoviana'), Prayer Plant (Maranta leuconeura 'Fantasy'), Prayer Plant
+
+characteristics:
+blooming: Foliage plants, sometimes flowers, white flowers
+color: Leaf color pale green, with brown patches
+size: Diameter ≥ 10 cm, height ≥ 10 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like half shade, can take 4-5h moderate light
+watering: Keep soil moist, water thoroughly when soil is dry, reduce water in winter
+fertilization: Apply low concentration fertilizers, apply 1-2 times monthly in spring and summer
+pruning: Remove dead and yellowish leaves timely
+temperature: min_temp: 12, max_temp: 32

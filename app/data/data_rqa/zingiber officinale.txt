@@ -1,0 +1,15 @@
+names:
+zingiber officinale, Common Ginger (Zingiber officinale), Halia Bara (Zingiber officinale var. rubrum 'Theilade'), Common Ginger
+
+characteristics:
+blooming: Flowering period in autumn
+color: Flower color yellow green, fruit yellow
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients, pH value 5-7
+sunlight: Like sunlight, resistant to half shade, avoid strong sunlight
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead, rotten, diseased leaves timely
+temperature: min_temp: 8, max_temp: 35

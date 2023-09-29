@@ -1,0 +1,15 @@
+names:
+ficus pumila l., Creeping Fig (Ficus pumila 'Minima'), Creeping Fig (Ficus pumila var. awkeotsang), Creeping Fig (Ficus pumila 'Curly'), Creeping Fig (Ficus pumila 'Sonny'), Creeping Fig (Ficus pumila 'Bellus'), Creeping Fig (Ficus pumila 'Dorty'), Creeping Fig (Ficus pumila 'Sunny'), Creeping Fig (Ficus pumila 'Terecela'), Creeping Fig (Ficus pumila 'Arina'), Creeping Fig (Ficus pumila), Creeping Fig (Ficus pumila 'Variegata'), Creeping Fig (Ficus pumila 'Snowflake'), Miniature Oakleaf Fig (Ficus pumila 'Quercifolia'), Creeping Fig
+
+characteristics:
+blooming: Foliage plants, rarely flowers
+color: Leaf color green in the middle, edges yellow
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Nutrition soil and perlite in a 3:1 ratio
+sunlight: Likes warm and sunny environments
+watering: Water thoroughly when soil is dry
+fertilization: Top-dressing once a month in May to September
+pruning: Remove dead and diseased branches timely
+temperature: min_temp: 10, max_temp: 32

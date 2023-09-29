@@ -1,0 +1,15 @@
+names:
+pistacia weinmannifolia, Pistacia weinmannifolia, Pistacia weinmannifolia
+
+characteristics:
+blooming: Foliage plants, flowering period March-May
+color: Leaf color green, flower color purple red
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like adequate light, shade properly under summer strong light
+watering: Water thoroughly after soil surface dries
+fertilization: Dilute fertilizers following instructions,  apply 1-2 times monthly in spring
+pruning: Resistant to pruning, remove old, diseased and dead leaves timely
+temperature: min_temp: 5, max_temp: 35

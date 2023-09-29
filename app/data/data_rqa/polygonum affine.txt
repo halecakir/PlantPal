@@ -1,0 +1,15 @@
+names:
+polygonum affine, Himalayan Bistort (Bistorta affinis), Himalayan Bistort
+
+characteristics:
+blooming: Flowering period June-July, fruiting period August-September
+color: Flower color white, light red, fruit color brown
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like half shade, may grow in places with bright scattered light
+watering: Water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove and shape excessive branches
+temperature: min_temp: 10, max_temp: 32

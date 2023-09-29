@@ -1,0 +1,15 @@
+names:
+ilex opaca, American Holly (Ilex opaca), Dune Holly (Ilex opaca var. arenicola), American Holly (Ilex opaca 'Canary'), American Holly (Ilex opaca 'Chief Paduke'), American Holly (Ilex opaca 'Clarendon'), American Holly (Ilex opaca 'Jersey Knight'), American Holly (Ilex opaca 'Mac's Prince'), American Holly (Ilex opaca 'Mamie Eisenhower'), American Holly (Ilex opaca 'Maryland Dwarf'), American Holly (Ilex opaca 'William Hawkins'), American Holly (Ilex opaca 'Cardinal'), American Holly (Ilex opaca 'Jersey Princess'), American Holly (Ilex opaca 'Merry Christmas'), American Holly (Ilex opaca 'Miss Helen'), American Holly (Ilex opaca 'Old Heavy Berry'), Yellow-Fruited American Holly (Ilex opaca 'Xanthocarpa'), American Holly (Ilex opaca 'Nelson West'), American Holly (Ilex opaca 'Ashumet'), American Holly (Ilex opaca 'Clarissa'), American Holly (Ilex opaca 'Dan Fenton'), American Holly
+
+characteristics:
+blooming: Flowering period April-June, fruiting period July-December
+color: Flower color purple red or light purple, fruit color red
+size: Diameter ≥ 15 cm, height ≥ 25 cm
+
+caretaking:
+soil: Acidic soil with loose texture or soil with specific nutrients
+sunlight: Likes half shade, grows in places with scattered light
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 4, max_temp: 35

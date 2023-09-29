@@ -1,0 +1,15 @@
+names:
+origanum vulgare, Oreganos (Origanum vulgare), Ornamental Oregano (Origanum vulgare 'Betty Rollins'), Oregano (Origanum vulgare 'Aureum'), Greek Oregano (Origanum vulgare subsp. hirtum), Oregano (Origanum vulgare 'Golden Shine'), Oregano (Origanum vulgare 'Country Cream'), Oregano (Origanum vulgare 'Hot & Spicy'), Oregano (Origanum vulgare 'Thumble's Variety'), Variegated Oregano (Origanum vulgare 'Gold Tip'), Oregano (Origanum vulgare 'Jim's Best'), Oregano (Origanum vulgare 'White Anniversary'), Common Oregano (Origanum vulgare subsp. vulgare 'Humile'), Oregano (Origanum vulgare 'Dark Leaf'), Russian Oregano (Origanum vulgare subsp. gracile), Heraclean Oregano (Origanum vulgare subsp. viridulum), Algerian Oregano (Origanum vulgare subsp. glandulosum), White Oregano (Origanum vulgare subsp. virens), Common Oregano (Origanum vulgare subsp. vulgare), Oregano (Origanum vulgare 'Ed Carman'), Oregano (Origanum vulgare 'Nanum'), Oreganos
+
+characteristics:
+blooming: Flowering period July-September, fruiting period October-December
+color: Flower color purple red , light red, white
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like adequate light, slight shade tolerance
+watering: Water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove dead, rotten, diseased leaves and the parts that may affect the good appearance
+temperature: min_temp: 8, max_temp: 35

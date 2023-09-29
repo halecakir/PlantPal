@@ -1,0 +1,15 @@
+names:
+brachychiton discolor, Brush Kurrajong (Brachychiton discolor), Kurrajong (Brachychiton discolor x bidwillii), Brush Kurrajong
+
+characteristics:
+blooming: Flowering period in summer
+color: Flower color red, pink
+size: Diameter ≥ 20 cm, height ≥ 30 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like sunshine, put in warm places with adequate light
+watering: Resistant to drought, water 2-3 times every week
+fertilization: Apply enough base fertilizers
+pruning: No need pruning
+temperature: min_temp: 8, max_temp: 35

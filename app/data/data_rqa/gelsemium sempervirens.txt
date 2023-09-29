@@ -1,0 +1,15 @@
+names:
+gelsemium sempervirens, Carolina Jessamine (Gelsemium sempervirens), Yellow Jessamine (Gelsemium sempervirens 'Pride of Augusta'), Carolina Jasmine (Gelsemium sempervirens 'Margarita'), Carolina Jessamine
+
+characteristics:
+blooming: October-April
+color: Flower color yellow
+size: Diameter ≥ 20 cm, height 20-30 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Likes sunshine, put in sunny places, avoid strong sunlight in summer at noon
+watering: Water thoroughly when soil is dry, avoid saturated water
+fertilization: In flowering stage, apply fertilizers with N-P-K ratio about 15－20－25
+pruning: Remove dead and diseased branches timely
+temperature: min_temp: 5, max_temp: 35

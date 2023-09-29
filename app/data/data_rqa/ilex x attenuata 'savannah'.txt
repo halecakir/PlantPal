@@ -1,0 +1,15 @@
+names:
+ilex x attenuata 'savannah', Savannah Holly (Ilex x attenuata 'Savannah'), Savannah Holly
+
+characteristics:
+blooming: Flowering period April-June, fruiting period July-December
+color: Flower color purple red or light purple, fruit color red
+size: Diameter ≥ 15 cm, height ≥ 25 cm
+
+caretaking:
+soil: Acidic soil with loose texture or soil with specific nutrients
+sunlight: Likes half shade, grows in places with scattered light
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 4, max_temp: 35

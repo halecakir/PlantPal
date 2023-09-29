@@ -1,0 +1,15 @@
+names:
+echeveria cv. joan daniel, Conchita (Echeveria 'Joan Daniel'), Conchita
+
+characteristics:
+blooming: Succulent plants, sometimes flowers with a short period time，flower color orange red
+color: Leaf color blue green and will turn red with enough sunlight
+size: Diameter≥5cm，Height≥15cm
+
+caretaking:
+soil: Peat and akadama mixed in 3:1 ratio
+sunlight: Enjoy sufficient sunlight, temporary dormancy in summer, put in places with bright scattered light
+watering: Water thoroughly when soil surface is dry, reduce water during dormancy
+fertilization: Dilute fertilizers following instructions, apply once monthly in spring and autumn
+pruning: Remove flower stem, diseased and rotten leaves timely
+temperature: min_temp: 5, max_temp: 35

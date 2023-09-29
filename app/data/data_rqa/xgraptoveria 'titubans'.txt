@@ -1,0 +1,15 @@
+names:
+xgraptoveria 'titubans', , 
+
+characteristics:
+blooming: Succulent plants, blooms sometimes, yellow flowers with red dots on the surface
+color: Leaf color gray white to gray green, when sunny leaf tips turning to pink
+size: Diameter 3-15 cm, height 3-15 cm
+
+caretaking:
+soil: Peat and akadama mixed in 3:1 ratio
+sunlight: Like adequate sunlight no apparent period of dormancy, shade properly under summer strong light
+watering: Keep soil moist, water thoroughly when soil is dry
+fertilization: Dilute fertilizers following instructions, apply once monthly in spring and autumn
+pruning: Remove peduncle and yellowish leaves timely
+temperature: min_temp: 6, max_temp: 35

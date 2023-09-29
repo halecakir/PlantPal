@@ -1,0 +1,15 @@
+names:
+murraya koenigii, Curry Leaf (Murraya koenigii), Curry Leaf Plant (Murraya koenigii 'Gamthi'), Curry Leaf
+
+characteristics:
+blooming: Flowering period June-September
+color: Flower color white
+size: Diameter ≥ 20 cm, height 15-20 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like half shade, may grow in places with bright scattered light
+watering: Only need keep soil moist
+fertilization: Apply enough base fertilizers
+pruning: No need pruning
+temperature: min_temp: 10, max_temp: 32

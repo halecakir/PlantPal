@@ -1,0 +1,15 @@
+names:
+adenium obesum, Desert Rose (Adenium obesum), Desert Rose (Adenium obesum subsp. obesum 'Golden Crown'), Desert Rose (Adenium obesum subsp. obesum), Desert Rose (Adenium obesum subsp. obesum 'Soodah'), Desert Rose (Adenium obesum subsp. obesum 'Siam Majestic'), Desert Rose (Adenium obesum subsp. obesum 'Black Ruby'), Desert Rose (Adenium obesum subsp. multiflorum), Desert Rose (Adenium obesum subsp. boehmianum), Desert Rose (Adenium obesum subsp. socotranum), Desert Rose (Adenium obesum subsp. somalense), Desert Rose (Adenium obesum 'Three Kings'), Desert Rose (Adenium obesum 'Tropic Sun'), Desert Rose (Adenium obesum 'True Heart'), Desert Rose (Adenium obesum 'Tropical Snow'), Desert Rose (Adenium obesum 'Black Asia'), Desert Rose (Adenium obesum 'Poseidon'), Desert Rose (Adenium obesum 'Red Harry'), Desert Rose (Adenium obesum 'Double Purple'), Desert Rose (Adenium obesum 'Double Color'), Desert Rose (Adenium obesum 'Arrogant'), Desert Rose
+
+characteristics:
+blooming: Flowering period May-December
+color: Flower color rose red, pink, white or in mixture
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, grows in sunny places
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove dead, rotten, diseased leaves and the parts that may affect the good appearance
+temperature: min_temp: 8, max_temp: 35

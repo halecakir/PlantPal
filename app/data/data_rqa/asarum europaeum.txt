@@ -1,0 +1,15 @@
+names:
+asarum europaeum, European Wild Ginger (Asarum europaeum), Wild Ginger (Asarum europaeum subsp. europaeum), Wild Ginger (Asarum europaeum subsp. italicum), Wild Ginger (Asarum europaeum subsp. caucasicum), European Wild Ginger
+
+characteristics:
+blooming: Flowering period April-May
+color: Flower color purple black, purple green
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Sandy loam
+sunlight: Like half shade, may grow in places with bright scattered light
+watering: Water more frequently in summer, only need to keep soil moist in other seasons
+fertilization: Apply fertilizers twice a year in the growing season
+pruning: Remove old, diseased and dead leaves timely
+temperature: min_temp: 10, max_temp: 32

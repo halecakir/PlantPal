@@ -1,0 +1,15 @@
+names:
+escallonia exoniensis, Escallonia (Escallonia x exoniensis 'Pink Princess'), Escallonia (Escallonia x exoniensis 'Frades'), Escallonia (Escallonia x exoniensis), Escallonia
+
+characteristics:
+blooming: Flowering period in spring
+color: Flower color pink
+size: Diameter ≥ 20 cm, height 20-30 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like sunshine, resistant to half shade
+watering: Keep soil moist
+fertilization: Apply enough base fertilizers
+pruning: Remove dead and diseased branches timely
+temperature: min_temp: 5, max_temp: 35

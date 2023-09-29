@@ -1,0 +1,15 @@
+names:
+larix laricina, Tamarack (Larix laricina), Larch (Larix laricina 'Contorta'), Larch (Larix laricina 'Repens'), Tamarack (Larix laricina 'Girard Dwarf'), Larix laricina 'Arethusa Bog', Larix laricina 'Aurea', Larix laricina 'Bear Swamp', Larix laricina 'Blue Sparkler', Larix laricina 'Craftbury Flats', Larix laricina 'Deborah Waxman', Larix laricina 'Edelweiss', Larix laricina 'Glauca', Larix laricina 'Hartwig Pine', Larix laricina 'KBN WB', Larix laricina 'Lutea', Larix laricina 'Nash Pendula', Larix laricina 'Newport Beauty', Larix laricina 'Oxen Pond', Larix laricina 'Stubby', Larix laricina 'Susan M', Tamarack
+
+characteristics:
+blooming: Flowering period May-June, fruiting period September
+color: Leaf needle shape, green, fruit color from green or purple gradually turn to yellow, ale brown or dark brown
+size: Diameter ≥ 15 cm, height ≥ 25 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, grows in sunny places
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Pruning accordingly for any favorate tree shapes
+temperature: min_temp: 5, max_temp: 35

@@ -1,0 +1,15 @@
+names:
+prunus padus, , 
+
+characteristics:
+blooming: Flowering period April-May, fruiting period May-October
+color: Flower color white, fruit color black purple
+size: Diameter ≥ 20 cm, height 20-30 cm
+
+caretaking:
+soil: Moist fertile sandy loam
+sunlight: Like sunshine, resistant to half shade
+watering: Water thoroughly when soil is dry, avoid saturated water
+fertilization: Apply enough base fertilizers
+pruning: Remove dead and diseased branches timely
+temperature: min_temp: 5, max_temp: 35

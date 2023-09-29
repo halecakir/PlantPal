@@ -1,0 +1,15 @@
+names:
+ribes rubrum, Red Currant (Ribes rubrum), Redcurrant (Ribes rubrum 'Champagne'), Red Currant (Ribes rubrum 'Red Lake'), Redcurrant (Ribes rubrum 'Rovada'), Currant (Ribes rubrum 'White Pearl'), Redcurrant (Ribes rubrum 'Jonkheer van Tets'), Red Currant (Ribes rubrum 'Earliest of Fourlands'), Red Currant (Ribes rubrum 'Perfection'), Red Currant (Ribes rubrum 'Wilder'), Red Currant (Ribes rubrum 'Red Cross'), Red Currant (Ribes rubrum 'Laxton's No. 1'), Red Currant (Ribes rubrum 'Fay'), Red Currant (Ribes rubrum 'Knight's Sweet Red'), Red Currant (Ribes rubrum 'London's Market'), White Currant (Ribes rubrum 'White Dutch'), Red Currant (Ribes rubrum 'Red Dutch'), Red Currant (Ribes rubrum 'Futurum'), Red Currant (Ribes rubrum 'New Red Dutch'), White Currant (Ribes rubrum 'Werdavia'), White Currant (Ribes rubrum 'Zitavia'), Red Currant
+
+characteristics:
+blooming: Flowering period May-June, flowering period July-August
+color: Flower color light red, fruit color red
+size: Diameter ≥ 20 cm, height 20-30 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like sunshine, resistant to half shade
+watering: Water thoroughly when soil is dry, avoid saturated water
+fertilization: Apply plenty base fertilizer, apply little in the seedling stage, top-dressing chemical fertilizers in peak growth stages if needed
+pruning: Remove dead and diseased branches timely
+temperature: min_temp: 5, max_temp: 35

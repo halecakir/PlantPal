@@ -1,0 +1,15 @@
+names:
+nandina domestica 'firepower', Dwarf Nandina (Nandina domestica 'Fire Power'), Dwarf Nandina
+
+characteristics:
+blooming: Foliage plants, sometimes flowers in March-June, white flowers
+color: Young leaf color red, old leaves green, in winter turn to red
+size: Diameter ≥ 10 cm, height ≥ 10 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Resistant to shade, put in places with bright scattered light, in winter may take 2-3h sunlight
+watering: Likes wet environments, water thoroughly when soil is dry, rub leaves with water in summer
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly in the growing season, stop in winter
+pruning: Remove dead leaves timely
+temperature: min_temp: 8, max_temp: 35

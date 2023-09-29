@@ -1,0 +1,15 @@
+names:
+trachelospermum asiaticum, , 
+
+characteristics:
+blooming: Flowering period March-July, fruiting period July-December
+color: Flower color white, light yellow, fruit color green
+size: Diameter ≥ 10 cm, height 15-20 cm
+
+caretaking:
+soil: Light clay and sandy loam with moderate fertility
+sunlight: Like half shade, may grow in places with bright scattered light
+watering: Only need keep soil moist
+fertilization: Need moderae amount of fertilization (every 2 month top-dressing once)
+pruning: Remove old, diseased and dead leaves timely
+temperature: min_temp: 10, max_temp: 30

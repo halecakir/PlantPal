@@ -1,0 +1,15 @@
+names:
+physalis alkekengi, , 
+
+characteristics:
+blooming: Flowering period May-September, fruiting period June-October
+color: Flower color white, fruit color green
+size: Diameter ≥ 20 cm, height 20-30 cm
+
+caretaking:
+soil: Soil with rich organic matter and strong abilities of holding water and fertility
+sunlight: Like sunshine
+watering: Keep soil moist
+fertilization: Apply enough base fertilizers, in vegetative stages foliar top-dressing every 3-5 days
+pruning: Creeping plants, many branches, need to be put up
+temperature: min_temp: 5, max_temp: 35

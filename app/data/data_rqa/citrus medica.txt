@@ -1,0 +1,15 @@
+names:
+citrus medica, Citron (Citrus medica), Variegated Fingered Citron (Citrus medica 'Albo-variegata'), Buddha's Hand (Citrus medica 'Fingered'), Citrus medica 'Digitata', Ponderosa Lemon (Citrus x limon 'Ponderosa'), Citron
+
+characteristics:
+blooming: Flowering period April-May, fruiting period October-November
+color: Flower color white, fruit yellow
+size: Diameter ≥ 20 cm, height 15-20 cm
+
+caretaking:
+soil: Sandy loam
+sunlight: Like sufficient sunlight
+watering: Only need keep soil moist
+fertilization: Fertilize 2-3 times every year
+pruning: Remove old, diseased and dead leaves timely
+temperature: min_temp: 10, max_temp: 32

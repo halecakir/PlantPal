@@ -1,0 +1,15 @@
+names:
+euphorbia tithymaloides, Devil's Backbone (Euphorbia tithymaloides), Euphorbia (Euphorbia tithymaloides subsp. tithymaloides), Devil's Backbone (Euphorbia tithymaloides 'Embraceable You'), Euphorbia (Euphorbia tithymaloides 'Nana'), Euphorbia (Euphorbia tithymaloides 'Splish Splash'), Variegated Devil's Backbone (Euphorbia tithymaloides 'Variegata'), Jacob's Ladder (Euphorbia tithymaloides subsp. smallii), Euphorbia (Euphorbia tithymaloides subsp. angustifolia), Euphorbia (Euphorbia tithymaloides subsp. padifolia), Euphorbia (Euphorbia tithymaloides subsp. parasitica), Euphorbia (Euphorbia tithymaloides subsp. bahamensis), Euphorbia (Euphorbia tithymaloides subsp. jamaicensis), Euphorbia (Euphorbia tithymaloides subsp. retusa), Devil's Backbone (Euphorbia tithymaloides 'Jurassic Park'), Devil's Backbone
+
+characteristics:
+blooming: Succulent plant，flowering period in summer
+color: Leaf color green with purple or white spots
+size: Diameter≥10cm，Height≥10cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Enjoy mild sunlight, strong resistant to shade
+watering: Resistant to drought, water thoroughly when soil surface is dry
+fertilization: Dilute fertilizers following instructions, apply once monthly in spring and autumn
+pruning: Remove flower stem, diseased and rotten leaves timely
+temperature: min_temp: 5, max_temp: 35

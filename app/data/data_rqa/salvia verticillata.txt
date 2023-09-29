@@ -1,0 +1,15 @@
+names:
+salvia verticillata, Lilac Sage (Salvia verticillata), Salvia (Salvia univerticillata), Lilac Sage (Salvia verticillata 'Alba'), Lilac Sage (Salvia verticillata 'Purple Rain'), Salvia verticillata subsp. amasiaca, Salvia (Salvia verticillata 'Hannay's Blue'), Lilac Sage (Salvia verticillata 'Endless Love'), Salvia (Salvia verticillata subsp. verticillata), Lilac Sage
+
+characteristics:
+blooming: Vanilla plants, flowering period June-September
+color: Leaf color green , flower color purple, blue
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Likes adequate sunshine, shade properly under summer noon strong light
+watering: Moderately resistant to drought, water thoroughly when soil is dry
+fertilization: Dilute fertilizers following instructions, apply once monthly
+pruning: Remove old diseased and dead leaves timely
+temperature: min_temp: 8, max_temp: 32

@@ -1,0 +1,15 @@
+names:
+helleborus orientalis, Lenten Rose (Helleborus orientalis), Hellebore (Helleborus orientalis subsp. orientalis), Hellebore (Helleborus orientalis subsp. abchasicus), Hellebore (Helleborus orientalis Spring Promise® Charlotte), Hellebore (Helleborus orientalis 'Pink Lady'), Hellebore (Helleborus orientalis 'Early Purple Group'), Hellebore (Helleborus orientalis 'Yellow Lady'), Hellebore (Helleborus orientalis 'Wilgenbroek Yellow'), Hellebore (Helleborus orientalis 'Wilgenbroek Picotee'), Hellebore (Helleborus orientalis 'Wilgenbroek Dark'), Hellebore (Helleborus orientalis 'Cinderella'), Hellebore (Helleborus orientalis 'Hochzeitskleid'), Hellebore (Helleborus orientalis Spring Promise® Lily), Hellebore (Helleborus orientalis 'Double Integrity'), Lenten Rose (Helleborus orientalis 'Swirlin' Skirts'), Hellebore (Helleborus orientalis 'Mardi Gras Gold Doubloon'), Hellebore (Helleborus orientalis Spring™ Bright), Hellebore (Helleborus orientalis 'ViV Victoria'), Hellebore (Helleborus orientalis 'Double Peach Blush'), Hellebore (Helleborus x orientalis 'Winter Queen'), Lenten Rose
+
+characteristics:
+blooming: Flowering period April, fruiting period May
+color: Flower color light pink, white, green
+size: Diameter ≥ 20 cm, height 20-30 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like half shade, may grow in places with bright scattered light
+watering: Keep soil moist during the growing season
+fertilization: Top-dressing 3 times every year
+pruning: Remove dead and diseased branches timely
+temperature: min_temp: 8, max_temp: 32

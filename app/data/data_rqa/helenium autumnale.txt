@@ -1,0 +1,15 @@
+names:
+helenium autumnale, Sneezeweed (Helenium autumnale), Common sneezeweed (Helenium autumnale var. autumnale), Sneezeweed (Helenium autumnale Mardi Gras), Mountain sneezeweed (Helenium autumnale var. montanum), Sneezeweed (Helenium autumnale 'Helena Rote Tone'), Helenium autumnale 'Sahin's Early Flowerer', Sneezeweed (Helenium autumnale 'Helena Gold'), Sneezeweed (Helenium autumnale Mariachi™ Sombrero), Sneezeweed (Helenium autumnale Mariachi™ Siesta), Sneezeweed (Helenium autumnale Mariachi™ Fuego), Sneezeweed (Helenium autumnale Mariachi™ Salsa), Helenium autumnale 'Tie Dye', Helenium (Helenium autumnale 'Short n' Sassy'), Sneezeweed (Helenium autumnale Mariachi™ Bandera), Sneezeweed (Helenium autumnale Mariachi™ Ranchera), Sneezeweed (Helenium autumnale Salud™ Embers), Helenium (Helenium autumnale HayDay™ Gold Bicolor), Sneezeweed
+
+characteristics:
+blooming: Flowering period July-October, viewing period 3-4 weeks
+color: Flower color red, yellow, white, pink, or in mixture
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Likes sunshine, avoid strong direct light
+watering: Keep soil moist, water and drain timely
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: After flowering remove the withered flowers, the part on the ground will wither in winter, the plant germinates again in spring
+temperature: min_temp: 8, max_temp: 32

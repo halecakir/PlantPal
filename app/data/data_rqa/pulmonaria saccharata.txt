@@ -1,0 +1,15 @@
+names:
+pulmonaria saccharata, Bethlehem Sage (Pulmonaria saccharata), Lungwort (Pulmonaria 'Sissinghurst White'), Lungwort (Pulmonaria saccharata 'Leopard'), Lungwort (Pulmonaria saccharata 'Mrs. Moon'), Lungwort (Pulmonaria saccharata 'Milky Way'), Lungwort (Pulmonaria saccharata 'Reginald Kaye'), Lungwort (Pulmonaria saccharata 'Dora Bielefeld'), Lungwort (Pulmonaria saccharata 'Fruehlingshimmel'), Lungwort (Pulmonaria saccharata 'Clent Skysilver'), Lungwort (Pulmonaria saccharata 'White Leaf'), Lungwort (Pulmonaria saccharata 'Glebe Cottage Blue'), Lungwort (Pulmonaria saccharata 'Diana Chappell'), Lungwort (Pulmonaria saccharata 'Argentea'), Lungwort (Pulmonaria saccharata 'Gaelic Magic'), Lungwort (Pulmonaria saccharata 'Argentifolia'), Bethlehem Sage
+
+characteristics:
+blooming: Flowering period February-April
+color: Flower color pink, blue purple
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, resistant to half shade
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 5, max_temp: 32

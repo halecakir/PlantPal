@@ -1,0 +1,15 @@
+names:
+eupatorium capillifolium, Dog Fennel (Eupatorium capillifolium), False Fennel (Eupatorium leptophyllum), Dog Fennel (Eupatorium capillifolium 'Elegant Feather'), Dog Fennel
+
+characteristics:
+blooming: Flowering period June-August
+color: Flower color white, blue purple
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like sunshine, slightly resistant to half shade
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 5, max_temp: 35

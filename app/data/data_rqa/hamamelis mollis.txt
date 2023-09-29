@@ -1,0 +1,15 @@
+names:
+hamamelis mollis, Chinese Witch Hazel (Hamamelis mollis), Witch Hazel (Hamamelis 'Jelena'), Chinese Witch Hazel (Hamamelis mollis 'Goldcrest'), Chinese Witch Hazel (Hamamelis mollis 'Wisley Supreme'), Chinese Witch Hazel (Hamamelis mollis 'Sweet Sunshine'), Witch Hazel (Hamamelis mollis 'Princeton Gold'), Witch Hazel (Hamamelis mollis 'Jermyns Gold'), Witch Hazel (Hamamelis mollis 'Superba'), Witch Hazel (Hamamelis mollis 'Gold Edge'), Witch Hazel (Hamamelis mollis 'Imperialis'), Witch Hazel (Hamamelis mollis 'Fred Chittenden'), Chinese Witch Hazel
+
+characteristics:
+blooming: Flowering period May
+color: Flower color golden yellow
+size: Diameter ≥ 15 cm, height ≥ 25 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, resistant to half shade, avoid strong direct light
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 5, max_temp: 32

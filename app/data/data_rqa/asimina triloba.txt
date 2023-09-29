@@ -1,0 +1,15 @@
+names:
+asimina triloba, Pawpaw (Asimina triloba), Pawpaw (Asimina triloba 'Sunflower'), Pawpaw (Asimina triloba 'Shenandoah'), Pawpaw (Asimina triloba 'Susquehanna'), Pawpaw (Asimina triloba 'Rappahannock'), Pawpaw (Asimina triloba 'Mango'), Pawpaw (Asimina triloba 'Greenriver Belle'), Pawpaw (Asimina triloba 'Nyomi's Delicious'), Pawpaw (Asimina triloba 'Silver Creek'), Pawpaw (Asimina triloba 'Rebecca's Gold'), Pawpaw (Asimina triloba 'Sue'), Pawpaw (Asimina triloba 'Taytoo'), Pawpaw (Asimina triloba 'Adam's Secret'), Pawpaw (Asimina triloba 'Blue Ridge'), Pawpaw (Asimina triloba 'Collins'), Pawpaw (Asimina triloba 'Convis'), Pawpaw (Asimina triloba 'Davis'), Pawpaw (Asimina triloba 'Duckworth A'), Pawpaw (Asimina triloba 'Duckworth B'), Pawpaw (Asimina triloba 'Estil'), Pawpaw
+
+characteristics:
+blooming: Flowering period March-April
+color: Flower color purple
+size: Diameter ≥ 15 cm, height ≥ 25 cm
+
+caretaking:
+soil: Slightly acidic soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, grows in sunny places, slight shade tolerance
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove dead, rotten, diseased leaves and the parts that may affect the good appearance
+temperature: min_temp: 5, max_temp: 35

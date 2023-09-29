@@ -1,0 +1,15 @@
+names:
+broccoli atlantis f1, , NONE
+
+characteristics:
+blooming: Flowering period April, fruiting period May
+color: Flower color light yellow
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Soil with loose texture or special humus soil, pH value 6-7
+sunlight: Like sunshine, grows in sunny places
+watering: Like water, water thoroughly after soil surface dries, avoid saturated water
+fertilization: Enjoy much fertilizer, apply fertilizer during growing time
+pruning: Harvest before open flowers
+temperature: min_temp: 3, max_temp: 32

@@ -1,0 +1,15 @@
+names:
+cephalotaxus harringtonia, Japanese Plum Yew (Cephalotaxus harringtonii 'Duke Gardens'), Japanese Plum Yew (Cephalotaxus harringtonii 'Fastigiata'), Japanese Plum-Yew (Cephalotaxus harringtonii), Japanese Plum Yew (Cephalotaxus harringtonii 'Ogon Chosen Maki'), Japanese Plum Yew (Cephalotaxus harringtonii 'Prostrata'), Japanese Plum Yew
+
+characteristics:
+blooming: Flowering period April, fruiting period August-October
+color: Leaf color green , flower color milk white
+size: Diameter ≥ 15 cm, height ≥ 30 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like sunshine, slight shade tolerance
+watering: Water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Pruning accordingly for any favorate tree shapes
+temperature: min_temp: 5, max_temp: 35

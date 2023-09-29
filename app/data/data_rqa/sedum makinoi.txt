@@ -1,0 +1,15 @@
+names:
+sedum makinoi, Japanese Woodland Stonecrop (Sedum makinoi), Japanese Woodland Stonecrop (Sedum makinoi 'Ogon'), Japanese Woodland Stonecrop (Sedum makinoi 'Salsa Verde'), Japanese Woodland Stonecrop (Sedum makinoi 'Variegatum'), Chinese Woodland Stonecrop (Sedum emarginatum 'Eco-Mt. Emei'), Japanese Woodland Stonecrop (Sedum makinoi 'Limelight'), Chinese Woodland Stonecrop (Sedum emarginatum), Japanese Woodland Stonecrop (Sedum makinoi Tundra Tornado®), Japanese Woodland Stonecrop (Sedum makinoi 'Green Blob'), Japanese Woodland Stonecrop
+
+characteristics:
+blooming: Succulent plants, sometimes flowers, yellow flowers
+color: Leaf color emerald green, with a great diurnal temperature range, with adequate sunlight turning to golden yellow
+size: Diameter ≥ 3 cm, height ≥ 5 cm
+
+caretaking:
+soil: No strict requirements on the soil
+sunlight: Like sunshine, not fear of strong light, dormant in winter under low temperatures
+watering: Water thoroughly when soil is dry, reduce watering in winter
+fertilization: Require litter fertilization, dilute fertilizers following instructions, in spring to autumn apply 1-2 times monthly
+pruning: Remove dead and rotten part timely
+temperature: min_temp: 5, max_temp: 35

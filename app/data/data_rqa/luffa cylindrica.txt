@@ -1,0 +1,15 @@
+names:
+luffa cylindrica, , 
+
+characteristics:
+blooming: Flowering and fruiting period in summer and autumn
+color: Flower color yellow, fruit color green or black green
+size: Diameter ≥ 10 cm, can climb
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients, pH value between 6-6.5
+sunlight: Like sunshine, slight shade tolerance, high quality fruits in sunny places
+watering: Likes wet environments, not resistant to drought, water thoroughly when soil is dry, avoid saturated water
+fertilization: Like fertilizer very much, apply more fertilizer during fruiting time
+pruning: Remove aged tissues, dead, rotten, diseased leaves timely and harvest tender fruit about 10 days after flowering
+temperature: min_temp: 8, max_temp: 35

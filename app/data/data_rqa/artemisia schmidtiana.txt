@@ -1,0 +1,15 @@
+names:
+artemisia schmidtiana, Satiny Wormwood (Artemisia schmidtiana), Silvermound Artemisia (Artemisia schmidtiana 'Silver Mound'), Silvermound (Artemisia schmidtiana 'Nana'), Wormwood (Artemisia schmidtiana 'Ever Goldy'), Mi Mao Bai Lianhao (Artemisia gmelinii var. messerschmidiana), Satiny Wormwood
+
+characteristics:
+blooming: Flowering and fruiting period August-November
+color: Flower color white
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Resistant to shade, grows in places with scattered light or shade properly
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 8, max_temp: 32

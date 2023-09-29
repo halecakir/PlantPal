@@ -1,0 +1,15 @@
+names:
+lactuca sativa, Lettuces (Lactuca sativa), Celtuce (Lactuca sativa var. angustana), Lettuce (Lactuca sativa 'Tantan'), Celtuce (Lactuca sativa var. angustana 'Spring Tower'), Celtuce (Lactuca sativa var. angustana 'Summer 38'), Celtuce (Lactuca sativa var. angustana 'Coldhardiness'), Lettuce (Lactuca sativa var. sativa), Lettuce (Lactuca sativa 'Iceberg'), Butterhead Lettuce (Lactuca sativa 'Tom Thumb'), Lettuce (Lactuca sativa 'Speckled'), Lettuce (Lactuca sativa 'Forellenschluss'), Lettuce (Lactuca sativa 'Rouge d'Hiver'), Lettuce (Lactuca sativa 'Big Boston'), Lettuce (Lactuca sativa 'Merveille des Quatre Saisons'), Lettuce (Lactuca sativa 'Drunken Woman'), Lettuce (Lactuca sativa 'Black-Seeded Simpson'), Lettuce (Lactuca sativa 'Oakleaf'), Lettuce (Lactuca sativa 'Mignonette Bronze'), Lettuce (Lactuca sativa 'Sunset'), Lettuce (Lactuca sativa 'Flame'), Lettuces
+
+characteristics:
+blooming: Flowering and fruiting period February-September
+color: Leaf color green
+size: Diameter ≥ 15 cm, height ≥ 25 cm
+
+caretaking:
+soil: Slightly acidic soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, resistant to half shade, avoid strong direct light
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead, rotten, diseased leaves timely
+temperature: min_temp: 8, max_temp: 35

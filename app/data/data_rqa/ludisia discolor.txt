@@ -1,0 +1,15 @@
+names:
+ludisia discolor, Jewel Orchid (Ludisia discolor), Jewel Orchid (Ludisia discolor 'Dawsoniana'), Jewel Orchid (Ludisia discolor 'Nigricans'), Jewel Orchid (Ludisia discolor 'Jewelyana'), Jewel Orchid
+
+characteristics:
+blooming: Flowering period February-April
+color: Flower color white or with light red
+size: Diameter ≥ 20 cm, height 20-30 cm
+
+caretaking:
+soil: Sandy loam
+sunlight: Avoid direct strong light
+watering: Water when soil dries, stop when soil is moist, keep soil relatively dry
+fertilization: Foliar spray once every 10 days in vegetative stages
+pruning: Remove dead and diseased branches timely
+temperature: min_temp: 5, max_temp: 32

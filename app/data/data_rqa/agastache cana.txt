@@ -1,0 +1,15 @@
+names:
+agastache cana, Hummingbird Mint (Agastache cana), Wild Hyssop (Agastache cana 'Heather Queen'), Hyssop (Agastache cana 'Purple Pygmy'), Hummingbird Mint (Agastache cana 'Rosita'), Anise Hyssop (Agastache pallidiflora var. neomexicana 'Lavender Haze'), Anise Hyssop (Agastache mexicana subsp. mexicana), Mexican Giant Hyssop (Agastache mexicana), Mexican Giant Hyssop (Agastache mexicana 'Sangria'), Mexican Hyssop (Agastache mexicana 'Champagne'), Mexican Giant Hyssop (Agastache mexicana Acapulco® Salmon & Pink), Agastache (Agastache mexicana 'Red Fortune'), Mexican Giant Hyssop (Agastache mexicana Acapulco® Orange), Mexican Giant Hyssop (Agastache mexicana Acapulco® White & Yellow), Mexican Giant Hyssop (Agastache mexicana Acapulco® Rose), Mexican Giant Hyssop (Agastache mexicana Acapulco® Yellow & Pink), Mexican Giant Hyssop (Agastache mexicana 'Carlile Carmine'), Mexican Giant Hyssop (Agastache mexicana 'Rose Beauty'), Mexican Giant Hyssop (Agastache mexicana 'Marchant's Pink'), Mexican Giant Hyssop (Agastache mexicana 'Toronjil Morado'), Mexican Giant Hyssop (Agastache mexicana 'Mauve Beauty'), Hummingbird Mint
+
+characteristics:
+blooming: Flowering period June-August
+color: Flower color purple, pink, white
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Likes sunshine, put in sunny places, avoid strong sunlight in summer at noon
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 5, max_temp: 32

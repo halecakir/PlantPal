@@ -1,0 +1,15 @@
+names:
+clausena lansium, Wampee (Clausena lansium), Wampee
+
+characteristics:
+blooming: Flowering period April-May, fruiting period July-September
+color: Flower color white, fruit color golden yellow
+size: Height can reach 12 m
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Likes light, more resistant to shade, place in sunny places
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 2-3 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 5, max_temp: 35

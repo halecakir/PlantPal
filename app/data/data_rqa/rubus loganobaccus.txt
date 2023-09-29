@@ -1,0 +1,15 @@
+names:
+rubus loganobaccus, Loganberry (Rubus x loganobaccus), Loganberry
+
+characteristics:
+blooming: Flowering period April-May
+color: Leaf color green , fruit color black, red
+size: Diameter ≥ 20 cm, height 20-30 cm
+
+caretaking:
+soil: Fertile loose sandy loam
+sunlight: Like sunshine, resistant to half shade
+watering: Watering only when soil is dry, water thoroughly
+fertilization: Top-dressing 4 times a year
+pruning: Frequently remove central buds
+temperature: min_temp: 8, max_temp: 35

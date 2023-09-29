@@ -1,0 +1,15 @@
+names:
+erythrina corallodendron, , 
+
+characteristics:
+blooming: Flowering and fruit period June-November
+color: Flower color red, fruit color black
+size: Diameter≥15cm，Height≥25cm
+
+caretaking:
+soil: Loose, fertile, and well-drained loam soil
+sunlight: Enjoy sunlight, planted in sufficient sunlight，resistant to half shade
+watering: Like wet, water thoroughly when soil surface is dry
+fertilization: Dilute fertilizers following instructions, apply once monthly in spring and autumn
+pruning: Remove flower stem, diseased and rotten leaves timely
+temperature: min_temp: 5, max_temp: 35

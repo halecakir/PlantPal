@@ -1,0 +1,15 @@
+names:
+cichorium endivia, Curly Endive (Cichorium endivia), Curly Endive (Cichorium endivia 'Grosse Bouclee'), Curly Endive (Cichorium endivia 'Tres Fine Maraichere'), Escarole (Cichorium endivia 'Broad-Leaved Batavian'), Curly Endive (Cichorium endivia 'Green Curled Ruffec'), Curly Endive (Cichorium endivia 'Bianca Riccia'), Curly Endive (Cichorium endivia 'Nataly'), Curly Endive (Cichorium endivia 'Neos'), Curly Endive (Cichorium endivia 'Rhodos'), Curly Endive (Cichorium endivia 'Full Heart NR65'), Curly Endive (Cichorium endivia 'Salad King'), Endive (Cichorium endivia 'Bossa'), Endive (Cichorium endivia 'Golda'), Endive (Cichorium endivia 'Tasos'), Endive (Cichorium endivia 'Eros'), Endive (Cichorium endivia 'Laos'), Curly Endive (Cichorium endivia 'Green Curled'), Endive (Cichorium endivia 'Full Heart Batavian'), Curly Endive (Cichorium endivia 'Frisee de Louviers'), Curly Endive (Cichorium endivia 'Frisee de Meaux'), Curly Endive
+
+characteristics:
+blooming: Flowering andfruiting period May-December
+color: Flower color light purple , leaf color green
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Neutral or slightly acidic soil with loose texture or soil with specific nutrients
+sunlight: Likes moderate sunlight, resistant to half shade
+watering: Likes wet environments, water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead, rotten, diseased leaves timely
+temperature: min_temp: 10, max_temp: 35

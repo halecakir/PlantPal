@@ -1,0 +1,15 @@
+names:
+lily 'tango lilly pup art', , 
+
+characteristics:
+blooming: Flowering period April-October, viewing period 2-3 weeks
+color: Flower color red
+size: Diameter ≥ 10 cm, height 18-22 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Long-day plant, put in sunny places, but avoid strong sunlight at noon
+watering: Keep soil dry rather than flooded, water thoroughly when soil is dry, 1-2 times a week
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove the withered parts on the ground after flowering, leaving bulbs for germination in the next year
+temperature: min_temp: 8, max_temp: 32

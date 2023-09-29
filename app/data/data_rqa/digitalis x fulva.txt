@@ -1,0 +1,15 @@
+names:
+digitalis x fulva, , NONE
+
+characteristics:
+blooming: Flowering period May-June, viewing period 2-3 weeks
+color: Flower color purple
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like adequate light, resistant to half shade, avoid strong direct light in summer
+watering: Water thoroughly after soil surface dries
+fertilization: Dilute fertilizers following instructions, apply once monthly in spring
+pruning: Remove withered flowers, peduncle, diseased and dead leaves timely
+temperature: min_temp: 5, max_temp: 35

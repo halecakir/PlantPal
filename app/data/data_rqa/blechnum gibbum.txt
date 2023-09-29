@@ -1,0 +1,15 @@
+names:
+blechnum gibbum, Dwarf Tree Fern (Oceaniopteris gibba), Dwarf Tree Fern (Oceaniopteris gibba 'Silver Lady'), Dwarf Tree Fern
+
+characteristics:
+blooming: Fern plants, no flowering
+color: Leaf color tender green
+size: Diameter ≥ 15 cm, height ≥ 25 cm
+
+caretaking:
+soil: Acidic soil with loose texture or soil with specific nutrients
+sunlight: Strong resistant to shade, put in places with scattered light
+watering: Likes wet environments, water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead, rotten, diseased leaves timely
+temperature: min_temp: 10, max_temp: 32

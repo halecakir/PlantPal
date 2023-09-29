@@ -1,0 +1,15 @@
+names:
+gomphrena globosa, Globe Amaranth (Gomphrena globosa), Large Flowered Globe Amaranth (Gomphrena pulchella 'Fireworks'), Globe Amaranth (Gomphrena globosa 'Buddy'), Globe Amaranth (Gomphrena globosa 'Gnome Pink'), Globe Amaranth (Gomphrena globosa 'Gnome Purple'), Globe Amaranth (Gomphrena globosa 'Aurea Superba'), Globe Amaranth (Gomphrena globosa 'Little Purple Buddy'), Globe Amaranth (Gomphrena globosa 'Audray Bicolor Rose'), Globe Amaranth (Gomphrena globosa 'Gnome Rose-Purple'), Globe Amaranth (Gomphrena globosa 'Woodcreek Pastel Pink'), Globe Amaranth (Gomphrena globosa 'Audray White'), Globe Amaranth (Gomphrena globosa 'Las Vegas Purple'), Globe Amaranth (Gomphrena globosa 'Audray Pink'), Globe Amaranth (Gomphrena globosa 'Audray Purple Red'), Globe Amaranth (Gomphrena globosa Lil Forest™ Plum), Globe Amaranth (Gomphrena globosa Lil Forest™ Sugared Plum), Globe Amaranth
+
+characteristics:
+blooming: Flowering and fruiting period June-September
+color: Flower color purple red , light purple, white
+size: Diameter ≥ 20 cm, height 20-30 cm
+
+caretaking:
+soil: Likes loose and fertile soil
+sunlight: Likes sunshine
+watering: When new leaves emerge in seedlings, , water properly
+fertilization: Apply low concentration liquid compound fertilizers with N, P, K every half month
+pruning: When seedling height is 15cm, remove the central bud once to promote branching
+temperature: min_temp: 8, max_temp: 35

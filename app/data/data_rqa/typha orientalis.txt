@@ -1,0 +1,15 @@
+names:
+typha orientalis, Bulrush (Typha orientalis), Typha austro-orientalis, Bulrush
+
+characteristics:
+blooming: Flowering and fruiting period May-August
+color: Leaf color green , flower color white
+size: Diameter ≥ 20 cm, height 20-30 cm
+
+caretaking:
+soil: Fertile soil from deep silt loam with more than 2% organic matter
+sunlight: Need adequate sunshine, difficult to flower at shaded places
+watering: Need a lot of water
+fertilization: One monthly planting, top-dressing once with manure, then every spring top-dressing once to twice if needed, apply organic fertilizers if possible.
+pruning: No need pruning
+temperature: min_temp: 8, max_temp: 35

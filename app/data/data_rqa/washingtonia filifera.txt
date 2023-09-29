@@ -1,0 +1,15 @@
+names:
+washingtonia filifera, California Fan Palm (Washingtonia filifera), California Fan Palm
+
+characteristics:
+blooming: Flowering period July
+color: Flower color white or pink, fruit color black
+size: Diameter ≥ 20 cm, height 20-30 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Likes warm, moist, sunny environments
+watering: When the air is dry, spray water on leaves till wet
+fertilization: Apply compound fertilizers every half month in the growing season, add foliar fertilizer too
+pruning: Remove dead and diseased branches timely
+temperature: min_temp: 8, max_temp: 35

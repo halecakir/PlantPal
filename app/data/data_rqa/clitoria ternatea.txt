@@ -1,0 +1,15 @@
+names:
+clitoria ternatea, , 
+
+characteristics:
+blooming: Flowering and fruiting period July-November
+color: Flower color blue purple, pink, white
+size: Diameter ≥ 10 cm, can climb
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients, pH value 6-7
+sunlight: Grows in sunny places
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: No need to apply extra fertilizer before fruiting
+pruning: Remove aged tissues, dead, rotten, diseased leaves timely
+temperature: min_temp: 10, max_temp: 35

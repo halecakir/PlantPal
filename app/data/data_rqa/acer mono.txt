@@ -1,0 +1,15 @@
+names:
+acer mono, Maple (Acer pictum subsp. mono), Maple (Acer pictum subsp. glaucum), Maple (Acer pictum subsp. incurvatum), Maple (Acer pictum subsp. dissectum), Maple (Acer pictum subsp. okamotoanum), Maple (Acer pictum subsp. savatieri), Maple (Acer pictum subsp. taishakuense), Maple (Acer pictum subsp. tricuspis), Maple (Acer pictum subsp. mayrii), Maple (Acer pictum subsp. mono 'Acutissimum'), Japanese Maple (Acer pictum subsp. mono 'Hoshi Yadori'), Maple
+
+characteristics:
+blooming: Flowering period April, fruiting period August
+color: Flower color light yellow
+size: Diameter ≥ 25 cm, height ≥ 30 cm
+
+caretaking:
+soil: Acidic soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, grows in sunny places, avoid summer direct strong light
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 5, max_temp: 35

@@ -1,0 +1,15 @@
+names:
+murraya paniculata, Orange Jessamine (Murraya paniculata), Orange Jessamine (Murraya paniculata 'Lakeview'), Orange Jasmine (Murraya paniculata 'Min-a-Min'), Orange Jessamine
+
+characteristics:
+blooming: Foliage plants, sometimes flowers, white flowers
+color: Leaf color green
+size: Diameter ≥ 10 cm, height ≥ 10 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like sunshine, avoid scorching light in summer
+watering: Likes wet environments, water thoroughly when soil is dry
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly in spring and autumn
+pruning: Remove dead leaves timely
+temperature: min_temp: 8, max_temp: 32

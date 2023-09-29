@@ -1,0 +1,15 @@
+names:
+carthamus tinctorius 'kinko', Safflower (Carthamus tinctorius), Safflower (Carthamus tinctorius 'Magestic Orange'), Safflower (Carthamus tinctorius 'Grenade Mix'), Safflower (Carthamus tinctorius 'Quadricolor'), Safflower (Carthamus tinctorius 'Zanzibar'), Safflower (Carthamus tinctorius 'Oker'), Safflower (Carthamus tinctorius 'Satfire'), Safflower (Carthamus tinctorius 'Sidwell'), Safflower (Carthamus tinctorius 'S-208'), Safflower (Carthamus tinctorius 'Inshas 10'), Safflower (Carthamus tinctorius 'Inshas 11'), Safflower (Carthamus tinctorius 'Grenade Orange'), Safflower (Carthamus tinctorius 'Corrales'), Safflower (Carthamus tinctorius 'Lorenzo Trussoni'), Safflower
+
+characteristics:
+blooming: Flowering and fruiting period May-August
+color: Flower color yellow
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Likes sunshine, put in sunny places, avoid strong sunlight in summer at noon
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 8, max_temp: 35

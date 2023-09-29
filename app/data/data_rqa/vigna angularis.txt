@@ -1,0 +1,15 @@
+names:
+vigna angularis, Adzuki Bean (Vigna angularis), Vigna angularis var. angularis, Adzuki Bean (Vigna angularis 'Late Tamba'), Vigna angularis var. nipponensis, Adzuki Bean (Vigna angularis 'Dainagon'), Adzuki Bean (Vigna angularis 'Doyou'), Adzuki Bean (Vigna angularis 'Wase'), Adzuki Bean
+
+characteristics:
+blooming: Flowering period June-August，fruit period September-October
+color: Flower color yellow，fruit color red
+size: Diameter≥10cm，可攀援缠绕生长
+
+caretaking:
+soil: Loose, fertile, and well-drained loam soil
+sunlight: Like sufficient sunlight
+watering: Water thoroughly when soil surface is dry
+fertilization: Dilute fertilizers following instructions, apply once monthly in spring and autumn
+pruning: Remove flower stem, diseased and rotten leaves timely
+temperature: min_temp: 10, max_temp: 35

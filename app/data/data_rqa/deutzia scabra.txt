@@ -1,0 +1,15 @@
+names:
+deutzia scabra, , 
+
+characteristics:
+blooming: Flowering period May-June, fruiting period October-November
+color: Flower color white or with pink dots
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like sunshine, slight shade tolerance
+watering: Only need keep soil moist
+fertilization: Apply enough base fertilizers
+pruning: Remove dead and diseased branches timely
+temperature: min_temp: 5, max_temp: 35

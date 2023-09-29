@@ -1,0 +1,15 @@
+names:
+tradescantia spp., , NONE
+
+characteristics:
+blooming: Flowering period June-October
+color: Flower color purple, blue purple, purple red
+size: Diameter ≥ 20 cm, height 15-20 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Likes bright scattered light
+watering: Keep soil moist
+fertilization: Foliar top-dressing weekly
+pruning: Remove old, diseased and dead leaves timely
+temperature: min_temp: 5, max_temp: 32

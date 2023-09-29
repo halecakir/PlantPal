@@ -1,0 +1,15 @@
+names:
+coccoloba uvifera, Seagrape (Coccoloba uvifera), Variegated Sea Grape (Coccoloba uvifera 'Albo-variegata'), Seagrape
+
+characteristics:
+blooming: Flowering period July-August, fruiting period September-October
+color: Flower color green or white, fruit color black and purple
+size: Diameter ≥ 10 cm, can climb
+
+caretaking:
+soil: Fine sandy soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, place in sunny places
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 2-3 times monthly
+pruning: Remove aged tissues, dead and pest branches timely, and remove overstocked branches
+temperature: min_temp: 10, max_temp: 35

@@ -1,0 +1,15 @@
+names:
+astrophytum myriostigma, , 
+
+characteristics:
+blooming: Succulent plants, sometimes flowers, light yellow flowers
+color: Leaf color green
+size: Diameter 3-10 cm, height ≥ 3 cm
+
+caretaking:
+soil: Peat and akadama mixed in 3:1 ratio
+sunlight: Likes light, no apparent period of dormancy, shade properly under summer strong light
+watering: Resistant to drought, water thoroughly when soil is dry, reduce water in summer high temperature
+fertilization: Dilute fertilizers following instructions,  apply once every 1-2 months in spring and autumn
+pruning: Remove dead and rotten part timely
+temperature: min_temp: 5, max_temp: 35

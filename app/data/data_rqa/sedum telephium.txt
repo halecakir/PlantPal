@@ -1,0 +1,15 @@
+names:
+sedum telephium, Stonecrop (Hylotelephium telephium subsp. telephium 'Postman's Pride'), Stonecrop (Hylotelephium telephium subsp. telephium 'Sunkissed'), Sedum (Hylotelephium telephium subsp. telephium 'Bon Bon'), Sedum (Hylotelephium telephium subsp. telephium 'Moonlight Serenade'), Sedum (Hylotelephium telephium subsp. telephium 'African Pearl'), Sedum (Hylotelephium telephium subsp. telephium 'Joyce Henderson'), Sedum (Hylotelephium telephium subsp. telephium 'Ringmore Ruby'), Sedum (Hylotelephium telephium subsp. telephium 'Arthur Branch'), Sedum (Hylotelephium telephium subsp. telephium 'Hester'), Sedum (Hylotelephium telephium subsp. telephium 'T-Rex'), Sedum (Hylotelephium telephium subsp. telephium 'Clown'), Stonecrop (Hylotelephium telephium subsp. telephium 'Yellow Xenox'), Sedum (Hylotelephium telephium subsp. telephium 'Rainbow Xenox'), Sedum (Hylotelephium telephium subsp. telephium 'Orange Xenox'), Stonecrop (Hylotelephium telephium subsp. telephium Touchdown™ Jade), Sedum (Hylotelephium telephium subsp. telephium Touchdown™ Breeze), Sedum (Hylotelephium telephium subsp. telephium Chocolate Cherry®), Stonecrop (Hylotelephium telephium subsp. telephium 'Red Cauli'), Stonecrop (Hylotelephium telephium subsp. telephium 'Samuel Oliphant'), Showy Stonecrop (Hylotelephium telephium subsp. telephium 'Strawberries and Cream'), Stonecrop
+
+characteristics:
+blooming: Flowering period June-July, fruiting period July-August
+color: Flower color red, purple, leaf color green
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like sunshine, grows in sunny places
+watering: Water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead, rotten, diseased leaves timely
+temperature: min_temp: 5, max_temp: 35

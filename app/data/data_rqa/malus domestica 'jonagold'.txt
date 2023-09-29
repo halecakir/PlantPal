@@ -1,0 +1,15 @@
+names:
+malus domestica 'jonagold', Apple (Malus domestica 'Jonagold'), Apple (Malus domestica 'Excel Jonagold'), Apple (Malus domestica 'Red Jonagold'), Apple (Malus domestica 'Jonica Jonagold'), Apple
+
+characteristics:
+blooming: Flowering period May, fruiting period July-October
+color: Flower color white pink, fruit color red or dark red
+size: Diameter ≥ 40 cm, height ≥ 80 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, high quality fruits in sunny places
+watering: Need a lot of water, water thoroughly after soil surface dries
+fertilization: Dilute fertilizers following instructions, apply 2-3 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 5, max_temp: 35

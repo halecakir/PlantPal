@@ -1,0 +1,15 @@
+names:
+euphorbia supina, , 
+
+characteristics:
+blooming: Flowering period May-June, fruiting period August-September
+color: Flower color white
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Resistant to shade, put in places with scattered light
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Need pruning frequently, remove sprouts from the roots and some branches and leaves timely
+temperature: min_temp: 8, max_temp: 32

@@ -1,0 +1,15 @@
+names:
+solanum tuberosum, , NONE
+
+characteristics:
+blooming: Flowering period June-August
+color: Flower color white, flower color brown, purple brown
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients, pH value between 4.8-6.5
+sunlight: Like sunshine, high quality fruits in sunny places
+watering: Reduce watering gradually when open flowers, and stop watering when leaves start to turn yellowish
+fertilization: Soil with enough compost, and apply phosphatic fertilizer during growing period
+pruning: Harvest potatoes when most of leaves turn yellowish
+temperature: min_temp: 5, max_temp: 35

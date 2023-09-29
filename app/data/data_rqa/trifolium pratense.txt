@@ -1,0 +1,15 @@
+names:
+trifolium pratense, Red Clover (Trifolium pratense), Red Clover (Trifolium pratense 'Susan Smith'), Trifolium pratense var. sativum, Trifolium pratense var. americanum, Trifolium pratense var. maritimum, Red Clover
+
+characteristics:
+blooming: Flowering and fruiting period May-October
+color: Flower color red, white, yellow, purple, pink
+size: Diameter ≥ 20 cm, height 10-25 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Warm places with scattered light
+watering: Once every 2-4 days
+fertilization: No need fertilization
+pruning: Remove old, diseased and dead leaves timely
+temperature: min_temp: 5, max_temp: 37

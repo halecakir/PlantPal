@@ -1,0 +1,15 @@
+names:
+dianthus barbatus, Sweet William (Dianthus barbatus), Sweet William (Dianthus barbatus 'Heart Attack'), Sweet William (Dianthus barbatus 'Pinocchio'), Sweet William (Dianthus barbatus 'Purple Bouquet'), Sweet William (Dianthus barbatus 'Oeschberg'), Sweet William (Dianthus barbatus 'Newport Pink'), Sweet William (Dianthus barbatus 'Nigricans'), Sweet William (Dianthus Amazon™ Rose Magic), Sweet William (Dianthus barbatus 'Crimson Velvet'), Sweet William (Dianthus barbatus 'Indian Carpet'), Sweet William (Dianthus barbatus Amazon™ Neon Cherry), Sweet William (Dianthus barbatus 'Imperial Double Mix'), Sweet William (Dianthus Amazon™ Neon Purple), Sweet William (Dianthus barbatus 'Electron'), Sweet William (Dianthus barbatus 'Holborn Glory'), Sweet William (Dianthus barbatus 'Noverna Purple'), Sweet William (Dianthus barbatus 'Black Adder'), Sweet William (Dianthus barbatus 'Lace Mantle'), Dianthus (Dianthus barbatus subsp. compactus), Dianthus (Dianthus barbatus Green Trick®), Sweet William
+
+characteristics:
+blooming: Flowering period May-September, viewing period 2-3 weeks
+color: Sepal color green, flower color pink, purple, red
+size: Diameter ≥ 10 cm, height ≥ 10 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Likes adequate sunshine, half dormant in summer, put in places with scattered light
+watering: Water thoroughly when soil is dry, half dormant in summer, reduce water and fertilization
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly in spring and autumn
+pruning: Remove old, diseased and dead leaves timely
+temperature: min_temp: 4, max_temp: 35

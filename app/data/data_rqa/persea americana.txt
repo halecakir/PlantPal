@@ -1,0 +1,15 @@
+names:
+persea americana, Avocado (Persea americana), Avocado (Persea americana 'Choquette'), Avocado (Persea americana 'Simmonds'), Avocado (Persea americana 'Winter Mexican'), Avocado (Persea americana 'Brogden'), Avocado (Persea americana 'Lula'), Avocado (Persea americana 'Lila'), Avocado (Persea americana 'Bernecker'), Avocado (Persea americana 'Miguel'), Avocado (Persea americana 'Gainesville'), Avocado (Persea americana 'Emerald'), Avocado (Persea americana 'Knowles'), Alligator Pear (Persea americana 'Fuerte'), Avocado (Persea americana 'Brazos Belle'), Avocado (Persea americana 'Joey Avocado'), Avocado (Persea americana 'Poncho'), Avocado (Persea americana 'Fantastic Avocado'), Avocado (Persea americana 'Zutano'), Avocado (Persea americana 'Bacon'), Avocado (Persea americana 'Hass'), Avocado
+
+characteristics:
+blooming: Flowering period February-March, fruiting period August-September
+color: Flower color light green with yellow, fruit color yellow green or red brown
+size: Diameter ≥ 50 cm, height ≥ 100 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, high quality fruits in sunny places
+watering: Need a lot of water, water thoroughly after soil surface dries
+fertilization: Dilute fertilizers following instructions, apply 2-3 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 8, max_temp: 35

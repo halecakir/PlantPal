@@ -1,0 +1,15 @@
+names:
+strelitzia alba, , 
+
+characteristics:
+blooming: Flowering period July-August, fruiting period September-December
+color: Flower color white, fruit color green blue
+size: Diameter ≥ 40 cm, height ≥ 100 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, high quality fruits in sunny places
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 2-3 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 5, max_temp: 35

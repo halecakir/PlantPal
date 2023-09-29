@@ -1,0 +1,15 @@
+names:
+canna cannova 'lemon 801', Canna (Canna x generalis Cannova® Bronze Scarlet), Canna (Canna x generalis Cannova® Yellow), Canna (Canna x generalis Cannova® Red Shades), Canna (Canna x generalis Cannova® Rose), Canna (Canna x generalis Cannova® Mango), Canna (Canna x generalis Cannova® Lemon), Canna (Canna x generalis Cannova® Bronze Orange), Canna (Canna x generalis Cannova® Orange Shades), Canna (Canna x generalis Cannova® Scarlet), Canna (Canna x generalis Cannova® Red Golden Flame), Canna
+
+characteristics:
+blooming: Flowering and fruiting period March-December
+color: Flower color yellow
+size: Diameter ≥ 15 cm, height ≥ 25 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, grows in sunny places
+watering: Likes wet environments, water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead, rotten, diseased leaves timely
+temperature: min_temp: 5, max_temp: 35

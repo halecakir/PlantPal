@@ -1,0 +1,15 @@
+names:
+olea europaea, Olive Tree (Olea europaea), Olea europaea subsp. europaea, Olive (Olea europaea 'Conservolea'), Olive (Olea europaea 'Kalamata'), Olive Tree (Olea europaea 'Mission'), Olive (Olea europaea 'Arbequina'), Olive (Olea europaea 'Coratina'), Olive (Olea europaea 'Frantoio'), Olive Tree (Olea europaea 'Leccino'), Olive Tree (Olea europaea 'Pendolino'), Olive Tree (Olea europaea 'Maurino'), African Olive (Olea europaea subsp. cuspidata), Olea europaea subsp. cerasiformis, Olea europaea subsp. maroccana, Olea europaea subsp. laperrinei, Dwarf Olive (Olea europaea 'Superdwarf'), Fruiting Olive (Olea europaea 'Oblonga'), Dwarf Olive (Olea europaea 'Little Ollie'), Olea europaea 'Manzanillo', Olive (Olea europaea 'Arbosana'), Olive Tree
+
+characteristics:
+blooming: Flowering period April-May, fruiting period June-September
+color: Flower color white, fruit color blue black
+size: Diameter ≥ 20 cm, height can reach 10 m
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Likes warm and sunny environments
+watering: 2-3 times every week
+fertilization: Apply enough base fertilizers
+pruning: Pruning 1-2 times a year
+temperature: min_temp: 0, max_temp: 35

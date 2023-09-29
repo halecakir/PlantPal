@@ -1,0 +1,15 @@
+names:
+allium scorodoprasum, Rocambole (Allium scorodoprasum), Rocambole
+
+characteristics:
+blooming: Flowering and fruiting period April-July
+color: Leaf color green , flower color purple
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like sunshine, avoid high temperature and direct exposure to the sun in summer
+watering: Resistant to drought, water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead, rotten, diseased leaves timely
+temperature: min_temp: 8, max_temp: 35

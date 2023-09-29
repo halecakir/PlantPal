@@ -1,0 +1,15 @@
+names:
+bulbophyllum radiatum, , NONE
+
+characteristics:
+blooming: Flowering period June-August
+color: Flower color yellow
+size: Diameter ≥ 3 cm, height ≥ 10 cm
+
+caretaking:
+soil: Likes moist and breathable soil, best planted in sphagnum moss
+sunlight: Like half shade, put in places with scattered light
+watering: Water thoroughly after soil surface dries, rub the leaves with water to keep moisture
+fertilization: Dilute fertilizers following instructions,  apply 1-2 times monthly in spring
+pruning: Remove withered flowers, old, diseased, and dead leaves timely
+temperature: min_temp: 8, max_temp: 35

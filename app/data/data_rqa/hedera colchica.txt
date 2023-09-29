@@ -1,0 +1,15 @@
+names:
+hedera colchica, , 
+
+characteristics:
+blooming: Foliage plants, sometimes flowers in September-November, light yellow or light green flowers
+color: Leaf color green, edges yellow
+size: Diameter ≥ 10 cm, height ≥ 10 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Resistant to shade plant, put in places with scattered light in summer, in winter may take 3-4h sunlight
+watering: Likes wet environments, water thoroughly when soil is dry, rub leaves with water in summer
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly in the growing season, stop in winter
+pruning: Remove dead leaves timely
+temperature: min_temp: 10, max_temp: 35

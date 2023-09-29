@@ -1,0 +1,15 @@
+names:
+fructus toosendan, , NONE
+
+characteristics:
+blooming: Flowering and fruiting period May-October
+color: Flower color yellow, fruit color orange
+size: Diameter ≥ 15 cm, height ≥ 25 cm
+
+caretaking:
+soil: Fertile moist soil
+sunlight: Like sunshine, resistant to half shade
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest leaves timely
+temperature: min_temp: 5, max_temp: 35

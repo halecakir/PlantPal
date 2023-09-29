@@ -1,0 +1,15 @@
+names:
+euphorbia cyathophora, , 
+
+characteristics:
+blooming: Flowering period May-November
+color: Leaf color green , bract red, flower color yellow green
+size: Diameter ≥ 20 cm, height 15-50 cm
+
+caretaking:
+soil: Loose, fertile, and well-drained loam soil
+sunlight: Like sunshine, resistant to half shade
+watering: Water thoroughly when soil is dry
+fertilization: Require a lot fertilization, apply fertilizers 2-3 times each month in spring and summer
+pruning: Remove old, diseased and dead leaves timely
+temperature: min_temp: 10, max_temp: 35

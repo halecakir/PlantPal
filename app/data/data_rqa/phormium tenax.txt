@@ -1,0 +1,15 @@
+names:
+phormium tenax, New Zealand Flax (Phormium tenax), Variegated Flax (Phormium tenax 'Variegatum'), New Zealand Flax (Phormium tenax 'Yellow Wave'), New Zealand Flax (Phormium tenax 'Atropurpureum'), New Zealand Flax (Phormium tenax 'Sundowner'), New Zealand Flax (Phormium tenax 'Maori Maiden'), New Zealand Flax (Phormium tenax 'Maori Sunrise'), New Zealand Flax (Phormium tenax 'Pink Stripe'), New Zealand Flax (Phormium tenax 'Bronze Baby'), New Zealand Flax (Phormium tenax 'Platt's Black'), New Zealand Flax (Phormium tenax 'Tom Thumb'), New Zealand Flax (Phormium tenax 'Atropurpureum Compactum'), New Zealand Flax (Phormium tenax 'Chocolate'), New Zealand Flax (Phormium tenax 'Jack Spratt'), New Zealand Flax (Phormium tenax 'Morticia'), New Zealand Flax (Phormium tenax 'Thumbelina'), New Zealand Flax (Phormium tenax 'Tiny Tiger'), New Zealand Flax (Phormium tenax 'Veitchianum'), New Zealand Flax (Phormium tenax 'Gold Spike'), New Zealand Flax (Phormium tenax 'Amazing Red'), New Zealand Flax
+
+characteristics:
+blooming: Flowering period April-June
+color: Flower color red, green
+size: height ≥ 40 cm
+
+caretaking:
+soil: Deep humus-rich sandy loam
+sunlight: Like sunshine, resistant to half shade
+watering: Water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 8, max_temp: 32

@@ -1,0 +1,15 @@
+names:
+dodonaea viscosa, , 
+
+characteristics:
+blooming: Flowering period late autumn, fruiting period late winter to early spring
+color: Flower color red, rose red , yellow
+size: Diameter ≥ 20 cm, height 20-30 cm
+
+caretaking:
+soil: Sandy loam
+sunlight: Likes warm moist climate, place in sufficient sunshine
+watering: Keep soil moist
+fertilization: Apply enough base fertilizers
+pruning: Remove dead and diseased branches timely
+temperature: min_temp: 5, max_temp: 35

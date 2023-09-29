@@ -1,0 +1,15 @@
+names:
+gomphocarpus physocarpus 'hairy balls', Hairy Balls (Gomphocarpus physocarpus), Hairy Balls
+
+characteristics:
+blooming: Flowering period October-March
+color: Flower color white to light yellow, fruit color yellow green
+size: Diameter ≥ 20 cm, height ≥ 20 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like sunshine, slight shade tolerance
+watering: Water thoroughly after soil surface dries
+fertilization: Fertilize onec to twice monthly in autumn and winter
+pruning: Remove withered flowers, diseased and yellowing leaves timely
+temperature: min_temp: 5, max_temp: 32

@@ -1,0 +1,15 @@
+names:
+jasminum laurifolium, Jasminum laurifolium, Jasminum laurifolium var. brachylobum, Star Jasmine (Jasminum laurifolium var. laurifolium), Jasminum laurifolium
+
+characteristics:
+blooming: Flowering period May, fruiting period August-December
+color: Flower color white, fruit color black
+size: Diameter ≥ 20 cm, height 20-30 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like half shade, may grow in places with bright scattered light
+watering: Water thoroughly when soil is dry, avoid saturated water
+fertilization: Apply plenty base fertilizer, apply little in the seedling stage, top-dressing chemical fertilizers in peak growth stages if needed
+pruning: Remove dead and diseased branches timely
+temperature: min_temp: 8, max_temp: 32

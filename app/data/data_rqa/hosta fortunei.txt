@@ -1,0 +1,15 @@
+names:
+hosta fortunei, Hosta 'Fortunei Aureomarginata', Hosta 'Hyacinthina', Hosta 'Aoki', Hosta 'Fortunei Albomarginata', Hosta (Hosta fortunei 'Gigantea'), Hosta (Hosta fortunei 'Viridis'), Hosta 'Fortunei Albopicta', Hosta (Hosta fortunei 'Peepshow'), Hosta (Hosta fortunei 'Fool's Gold'), Hosta 'Fortunei Aurea', Hosta 'Fortunei Gigantea', Hosta 'Fortunei Obscura', Hosta 'Fortunei Rugosa', Hosta 'Fortunei Stenantha', Hosta 'Fortunei Viridis', Hosta (Hosta sieboldiana 'Elegans'), Hosta 'Fortunei Aureomarginata'
+
+characteristics:
+blooming: Flowering period July-September, viewing period 1-2 weeks
+color: Leaf color green , edges white, flower color white or light purple
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Likes shade, can put in places with bright scattered light
+watering: Likes wet environments, water thoroughly when soil is dry, may spray water on the leaves in summer, water less frequently in winter
+fertilization: Dilute fertilizers following instructions,  apply once every 1-2 months in spring and autumn
+pruning: Remove old, diseased, dead leaves and withered flowers timely
+temperature: min_temp: 8, max_temp: 35

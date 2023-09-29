@@ -1,0 +1,15 @@
+names:
+cotyledon orbiculata var. oophylla, , NONE
+
+characteristics:
+blooming: Succulent plants, sometimes flowers, orange red flowers
+color: Leaf color white green, when sunny leaf edges turning to red
+size: Diameter ≥ 3 cm, height ≥ 5 cm
+
+caretaking:
+soil: Peat and akadama mixed in 3:1 ratio
+sunlight: Like sunshine, resistant to half shade, short period of dormancy in summer, use half shade for better care
+watering: Keep soil moist, water thoroughly when soil is dry
+fertilization: Dilute fertilizers following instructions,  apply once monthly in spring and autumn
+pruning: Remove dead and rotten part timely
+temperature: min_temp: 5, max_temp: 35

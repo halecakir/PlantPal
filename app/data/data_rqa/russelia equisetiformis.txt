@@ -1,0 +1,15 @@
+names:
+russelia equisetiformis, Firecracker Plant (Russelia equisetiformis), Firecracker Plant (Russelia equisetiformis 'Alba'), Yellow Firecracker Fern (Russelia equisetiformis 'Aureus'), Firecracker Plant
+
+characteristics:
+blooming: Flowering period in spring and summer
+color: Flower color red
+size: Diameter≥20cm，Height≥25cm，可爬藤
+
+caretaking:
+soil: Loose, fertile, and well-drained loam soil
+sunlight: Like half shade environment
+watering: Water thoroughly when soil surface is dry
+fertilization: Dilute fertilizers following instructions, apply once monthly in spring and autumn
+pruning: Remove flower stem, diseased and rotten leaves timely
+temperature: min_temp: 5, max_temp: 35

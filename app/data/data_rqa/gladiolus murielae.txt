@@ -1,0 +1,15 @@
+names:
+gladiolus murielae, , 
+
+characteristics:
+blooming: Flowering period July-September
+color: Flower color blue, white
+size: Diameter ≥ 20 cm, height 20-30 cm
+
+caretaking:
+soil: Sandy loam
+sunlight: Like half shade, may grow in places with bright scattered light
+watering: Only need keep soil moist
+fertilization: Apply manure every 20 days in the growing season, add phosphate after flower budding
+pruning: Remove timely excessive side buds and base buds in growing season
+temperature: min_temp: 10, max_temp: 32

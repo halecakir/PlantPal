@@ -1,0 +1,15 @@
+names:
+malabar spinach, , 
+
+characteristics:
+blooming: Flowering period May-September, flowering period July-October
+color: Flower color white, fruit color red, dark red
+size: height ≥ 1m
+
+caretaking:
+soil: Loose sandy loam or soil with specific nutrients
+sunlight: Like sunshine, resistant to half shade
+watering: Water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 5, max_temp: 32

@@ -1,0 +1,15 @@
+names:
+sempervivum arachnoideum ssp. tomentosum, , 
+
+characteristics:
+blooming: Succulent plants, pink flowers
+color: Leaf color green, when sunny lower surface turning to fuchsia
+size: Diameter ≥ 2 cm, height 3-15 cm
+
+caretaking:
+soil: Peat and akadama mixed in 3:1 ratio
+sunlight: Likes light, dormant in summer under high temperatures, put in places with scattered light
+watering: Resistant to drought, water thoroughly when soil is dry, reduce water in summer
+fertilization: Dilute fertilizers following instructions,  apply once every 1-2 months in spring and autumn
+pruning: Remove dead and rotten part timely
+temperature: min_temp: 5, max_temp: 35

@@ -1,0 +1,15 @@
+names:
+symphoricarpos albus, , 
+
+characteristics:
+blooming: Flowering period June-July
+color: Flower color light pink
+size: Diameter ≥ 20 cm, height 20-30 cm
+
+caretaking:
+soil: Calcareous loam
+sunlight: Like half shade, may grow in places with bright scattered light
+watering: Water thoroughly when soil is dry, avoid saturated water
+fertilization: Apply plenty base fertilizer, apply little in the seedling stage, top-dressing chemical fertilizers in peak growth stages if needed
+pruning: In spring remove dead branches
+temperature: min_temp: 8, max_temp: 32

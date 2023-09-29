@@ -1,0 +1,15 @@
+names:
+paeonia peregrina, Peony (Paeonia peregrina), Peony (Paeonia peregrina 'China Rose'), Peony (Paeonia peregrina 'Otto Froebel'), Peony (Paeonia peregrina 'Sunbeam'), Peony (Paeonia peregrina 'Rosabella'), Peony (Paeonia officinalis 'Rosea Plena'), Peony
+
+characteristics:
+blooming: Flowering period May-June, viewing period 1-2 weeks
+color: Flower color red
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Likes slightly alkaline soil, may use peat adding a small amount of lime or baking soda,
+sunlight: Long-day plant, likes sunshine, but avoid scorching sunlight
+watering: Water thoroughly when soil is drywater thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove old, diseased, dead leaves and withered flowers timely
+temperature: min_temp: 8, max_temp: 32

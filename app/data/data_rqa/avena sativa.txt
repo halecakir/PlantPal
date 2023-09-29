@@ -1,0 +1,15 @@
+names:
+avena sativa, , 
+
+characteristics:
+blooming: Flowering and fruiting period May-July
+color: Flower color cream white
+size: height can reach 70 cm
+
+caretaking:
+soil: Moist soil with rich humus
+sunlight: Like light
+watering: Has a high transpiration rate, need a lot of water
+fertilization: Apply enough base fertilizers only
+pruning: Remove diseased leaves timely
+temperature: min_temp: 5, max_temp: 35

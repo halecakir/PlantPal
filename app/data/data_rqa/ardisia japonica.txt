@@ -1,0 +1,15 @@
+names:
+ardisia japonica, Japanese Ardisia (Ardisia japonica), Japanese Ardisia (Ardisia japonica 'Chirimen'), Japanese Ardisia (Ardisia japonica 'White Cap'), Japanese Ardisia (Ardisia japonica 'Hinode'), Japanese Ardisia (Ardisia japonica 'Nishiki'), Japanese Ardisia (Ardisia japonica 'Ito-Fukurin'), Japanese Ardisia (Ardisia japonica 'Matsushima'), Japanese Ardisia (Ardisia japonica 'Hino-tsukasa'), Japanese Ardisia (Ardisia japonica 'Dragon Brocade'), Japanese Ardisia (Ardisia japonica 'Moncue'), Japanese Ardisia (Ardisia japonica White King™), Japanese Ardisia
+
+characteristics:
+blooming: Flowering period May-June, fruiting period November-December
+color: Flower color light pink, fruit color red
+size: height ≥ 30 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Put in places with scattered light
+watering: Water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 5, max_temp: 32

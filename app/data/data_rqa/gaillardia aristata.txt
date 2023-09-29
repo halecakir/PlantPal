@@ -1,0 +1,15 @@
+names:
+gaillardia aristata, Blanket Flower (Gaillardia aristata), Blanket Flower (Gaillardia aristata 'Bijou'), Blanket Flower (Gaillardia aristata 'Maxima Aurea'), Blanket Flower (Gaillardia 'Fanfare'), Blanket Flower (Gaillardia aristata 'Arizona Red Shades'), Blanket Flower (Gaillardia aristata 'Sunrita'), Gaillardia (Gaillardia aristata 'Granada Yellow/Crimson'), Blanket Flower (Gaillardia aristata Gallo® Yellow Trumpet), Blanket Flower (Gaillardia aristata Sunburst™ Burgundy Silk), Blanket Flower (Gaillardia aristata Sunburst™ Tangerine), Blanket Flower (Gaillardia aristata Sunburst™ Yellow), Blanket Flower (Gaillardia aristata Sunrita™ Burgundy), Blanket Flower (Gaillardia aristata Sunrita™ Peach), Blanketflower (Gaillardia SpinTop™ Red), Blanketflower (Gaillardia SpinTop™ Red Starburst), Blanket Flower (Gaillardia aristata 'Fire Wheels'), Blanket Flower (Gaillardia aristata Sunrita® Burgundy Imp), Blanket Flower (Gaillardia aristata Sunrita® Red Yellow Tip Improved), Blanket Flower (Gaillardia aristata Sunrita® Yellow Red Ring), Blanket Flower (Gaillardia aristata Sunrita® Golden Yellow), Blanket Flower
+
+characteristics:
+blooming: Flowering period July-August, viewing period 3-4 weeks
+color: Flower color yellow mixed with orange red
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Likes sunshine, avoid strong direct light
+watering: Keep soil moist, water and drain timely
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: After flowering remove the withered flowers, the part on the ground will wither in winter, the plant germinates again in spring
+temperature: min_temp: 8, max_temp: 32

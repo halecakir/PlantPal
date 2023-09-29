@@ -1,0 +1,15 @@
+names:
+zinnia dreamland f1 rose, Zinnia (Zinnia elegans 'Dreamland Rose'), Zinnia
+
+characteristics:
+blooming: Flowering period June-October, viewing period 3-4 weeks
+color: Flower color rose
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Likes sunshine, avoid strong direct light
+watering: Keep soil moist, water and drain timely
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly in spring and autumn
+pruning: Remove diseased, yellowing and dropping leaves
+temperature: min_temp: 5, max_temp: 32

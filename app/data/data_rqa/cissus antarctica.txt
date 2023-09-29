@@ -1,0 +1,15 @@
+names:
+cissus antarctica, Kangaroo Vine (Cissus antarctica), Daffodil (Narcissus 'Antarctica'), Kangaroo Vine
+
+characteristics:
+blooming: Flowering period July-October, fruiting period November-May
+color: Flower color white
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Like half shade, may grow in places with bright scattered light
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 10, max_temp: 32

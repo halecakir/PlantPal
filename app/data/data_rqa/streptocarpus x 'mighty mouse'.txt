@@ -1,0 +1,15 @@
+names:
+streptocarpus x 'mighty mouse', , 
+
+characteristics:
+blooming: Flowering period May-July
+color: Flower color yellow, purple
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Resistant to shade, grows in places with scattered light or shade properly
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Need more fertilization, dilute fertilizers following instructions, apply 2-3 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 10, max_temp: 32

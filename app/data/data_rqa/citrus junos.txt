@@ -1,0 +1,15 @@
+names:
+citrus junos, Yuzu (Citrus junos), Yuzu
+
+characteristics:
+blooming: Flowering period April-May, fruiting period October-November
+color: Flower color white, fruit color light yellow
+size: Diameter ≥ 20 cm, height ≥ 20 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Better fruit quality with adequate sunshine
+watering: Once every 2-3 days
+fertilization: Fertilizers at the stages of budding, fruit setting, fruit expansion, and fruit ripening.
+pruning: Thinning for overcrowded plants
+temperature: min_temp: 6, max_temp: 35

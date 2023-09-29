@@ -1,0 +1,15 @@
+names:
+teucrium chamaedrys, Wall Germander (Teucrium chamaedrys), Germander (Teucrium chamaedrys subsp. chamaedrys), Wall Germander (Teucrium chamaedrys 'Summer Sunshine'), Wall Germander (Teucrium chamaedrys 'Prostratum'), Dwarf Wall Germander (Teucrium chamaedrys 'Nanum'), Germander (Teucrium chamaedrys subsp. albarracinii), Germander (Teucrium chamaedrys subsp. germanicum), Germander (Teucrium chamaedrys subsp. gracile), Germander (Teucrium chamaedrys var. multinodum), Teucrium chamaedrys subsp. nuchense, Teucrium chamaedrys subsp. pinnatifidum, Teucrium chamaedrys subsp. sinuatum, Teucrium chamaedrys subsp. syspirense, Teucrium chamaedrys subsp. trapezunticum, Wall Germander (Teucrium chamaedrys 'Gold Tip'), Teucrium chamaedrys 'Rose', Wall Germander (Teucrium chamaedrys 'Tickle Pink'), Wall Germander (Teucrium chamaedrys 'Alba'), Wall Germander
+
+characteristics:
+blooming: Flowering period July-August
+color: Flower color white, purple
+size: Diameter ≥ 20 cm, height 20-30 cm
+
+caretaking:
+soil: Soil with rich organic matter and strong abilities of holding water and fertility
+sunlight: Likes sufficient sunshine、cool and moist places
+watering: Keep soil moist
+fertilization: Apply enough base fertilizers
+pruning: Remove dead and diseased branches timely
+temperature: min_temp: 5, max_temp: 35

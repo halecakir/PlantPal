@@ -1,0 +1,15 @@
+names:
+podocarpus latifolius, Real Yellowwood (Podocarpus latifolius), Real Yellowwood
+
+characteristics:
+blooming: Foliage plants, viewing period year around
+color: Leaf color green
+size: Diameter ≥ 15 cm, height ≥ 25 cm
+
+caretaking:
+soil: Slightly acidic sandy soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, strong resistant to shade
+watering: Likes wet environments, water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead, rotten, diseased leaves timely
+temperature: min_temp: 8, max_temp: 35

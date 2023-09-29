@@ -1,0 +1,15 @@
+names:
+narcissus 'flower parade', Daffodils (Narcissus), Species Daffodil (Narcissus x odorus), Trumpet Daffodil (Narcissus pseudonarcissus subsp. minor 'Midget'), Large Cup Daffodil (Narcissus 'Moneymaker'), Triandrus Daffodil (Narcissus 'Dream Lover'), Daffodil (Narcissus cyclamineus 'Ferdie'), Bulbocodium Daffodil (Narcissus 'Fyno'), Large Cupped Daffodil (Narcissus 'Ingenue'), Jonquilla Daffodil (Narcissus 'Pillinger'), Trumpet Daffodil (Narcissus 'Topperuppa'), Small Cupped Daffodil (Narcissus 'Avona'), Small Cupped Daffodil (Narcissus 'Snow Goblin'), Large Cupped Daffodil (Narcissus 'Corryong'), Double Daffodil (Narcissus 'Achuckle'), Narcissus 'Viridiflora II', Bulbocodium Daffodil (Narcissus 'Twentyfiver'), Narcissus 'Mortie', Cyclamineus Daffodil (Narcissus 'Swagger'), Cyclamineus Daffodil (Narcissus 'Rowitta'), Trumpet Daffodil (Narcissus 'Canny'), Daffodils
+
+characteristics:
+blooming: Flowering period January-April, viewing period 1-2 weeks
+color: Flower color orange
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Put in sunny places, resistant to half shade, dormant in summer under high temperature
+watering: Water thoroughly only when soil is dry, reduce watering during flowering season, 1-2 times a week
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove the withered parts on the ground after flowering, leaving bulbs for germination in the next year
+temperature: min_temp: 6, max_temp: 32

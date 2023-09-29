@@ -1,0 +1,15 @@
+names:
+averrhoa carambola, , 
+
+characteristics:
+blooming: Flowering period April-December, fruiting period July-December
+color: Flower color pink or white, fruit color yellow green or yellow
+size: Diameter ≥ 20 cm, height ≥ 25 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Likes half shade, avoid strong sunlight
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 10, max_temp: 32

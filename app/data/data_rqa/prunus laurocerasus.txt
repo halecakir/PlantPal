@@ -1,0 +1,15 @@
+names:
+prunus laurocerasus, English Laurel (Prunus laurocerasus), English Laurel (Prunus laurocerasus 'Otto Luyken'), Cherry Laurel (Prunus laurocerasus 'Marbled White'), English Laurel (Prunus laurocerasus Etna®), English Laurel (Prunus laurocerasus 'Piri'), Cherry Laurel (Prunus laurocerasus 'Schipkaensis Macrophylla'), English Laurel (Prunus laurocerasus 'Herbergii'), English Laurel (Prunus laurocerasus 'Holstein'), English Laurel (Prunus laurocerasus 'Mano'), English Laurel (Prunus laurocerasus 'Baumgartneri'), English Laurel (Prunus laurocerasus 'Cascade'), Cherry Laurel (Prunus laurocerasus 'Magnoliifolia'), Cherry Laurel (Prunus laurocerasus 'Rotundifolia'), English Laurel (Prunus laurocerasus 'Klari'), English Laurel (Prunus laurocerasus 'Mari'), Russian Laurel (Prunus laurocerasus 'Reynvaanii'), Cherry Laurel (Prunus laurocerasus 'Mt. Vernon'), Cherry Laurel (Prunus laurocerasus 'Marbled Cream'), Cherry Laurel (Prunus laurocerasus Goris Gold®), Cherry laurel (Prunus laurocerasus 'Novita'), English Laurel
+
+characteristics:
+blooming: Flowering period March-April, fruiting period June-July
+color: Flower color white, fruit color black
+size: Diameter ≥ 20 cm, height 20-30 cm
+
+caretaking:
+soil: Acidic or slightly alkaline soil
+sunlight: Ikes warm moist environments, like sunshine and resistant to shade
+watering: Keep soil moist
+fertilization: Apply plenty base fertilizer, apply little in the seedling stage, top-dressing chemical fertilizers in peak growth stages if needed
+pruning: Remove dead and diseased branches timely
+temperature: min_temp: 10, max_temp: 35

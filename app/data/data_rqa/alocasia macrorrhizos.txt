@@ -1,0 +1,15 @@
+names:
+alocasia macrorrhizos, Upright Elephant Ear (Alocasia macrorrhizos), Upright Elephant Ear (Alocasia macrorrhizos 'New Guinea Gold'), Upright Elephant Ear (Alocasia macrorrhizos 'Black Stem'), Upright Elephant Ear (Alocasia macrorrhizos 'Maki'), Giant Taro (Alocasia macrorrhizos 'Lutea'), Upright Elephant Ear (Alocasia macrorrhizos 'Seven Colors'), Upright Elephant Ear (Alocasia macrorrhizos 'Borneo Giant'), Upright Elephant Ear (Alocasia macrorrhizos 'Stingray'), Elephant's Ear (Alocasia macrorrhizos 'Nigra'), Elephant's Ear (Alocasia macrorrhizos 'Shock Treatment'), Elephant's Ear (Alocasia macrorrhizos Babyray™), Upright Elephant Ear (Alocasia macrorrhizos 'Variegated Black Stem'), Elephant's Ear (Alocasia macrorrhizos 'Variegated Lutea'), Variegated Upright Elephant Ear (Alocasia macrorrhizos 'Variegata'), Upright Elephant Ear
+
+characteristics:
+blooming: Foliage plants, blooms sometimes, light green or milky white spathe flower
+color: Leaf color emerald green
+size: Diameter ≥ 10 cm, height ≥ 20 cm
+
+caretaking:
+soil: Peat mixed with coarse sand soil
+sunlight: Like half shade, put in places with scattered light in summer, flowering time needs a period of 3-5h light
+watering: Likes wet environments, only need keep soil moist, may spray water in the air or rub leaves with water
+fertilization: Need more fertilization, apply once every 10-15 days in spring and autumn, except winter
+pruning: Remove dead and yellowish leaves timely
+temperature: min_temp: 10, max_temp: 32

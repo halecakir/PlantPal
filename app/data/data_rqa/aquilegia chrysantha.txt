@@ -1,0 +1,15 @@
+names:
+aquilegia chrysantha, , 
+
+characteristics:
+blooming: Flowering period May-July, fruiting period July-August
+color: Flower color dark blue purple or white, fruit color black
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, avoid high temperature and direct exposure to the sun in summer
+watering: Likes wet environments, water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead, rotten, diseased leaves timely
+temperature: min_temp: 10, max_temp: 35

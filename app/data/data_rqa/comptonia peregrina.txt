@@ -1,0 +1,15 @@
+names:
+comptonia peregrina, Sweet Fern (Comptonia peregrina), Sweet Fern (Comptonia peregrina 'Blue Sea'), Sweet Fern
+
+characteristics:
+blooming: Flowering period April, fruiting period June-July
+color: Flower color dark red, fruit color dark red or purple red
+size: Diameter ≥ 25 cm, height ≥ 30 cm
+
+caretaking:
+soil: Acidic soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, resistant to half shade, avoid strong direct light
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 5, max_temp: 32

@@ -1,0 +1,15 @@
+names:
+phoebe zhennan, Phoebe zhennan, Phoebe zhennan
+
+characteristics:
+blooming: Flowering period4-5月，fruit period9-10月
+color: Leaf color green，Flower color yellow
+size: Diameter≥10cm，Height≥15cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Shady plant, avoid direct sunlight
+watering: Water thoroughly when soil surface is dry
+fertilization: Dilute fertilizers following instructions, apply once monthly in spring and autumn
+pruning: Remove flower stem, diseased and rotten leaves timely
+temperature: min_temp: 5, max_temp: 35

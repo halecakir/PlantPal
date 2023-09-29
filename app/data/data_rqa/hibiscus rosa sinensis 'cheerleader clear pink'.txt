@@ -1,0 +1,15 @@
+names:
+hibiscus rosa sinensis 'cheerleader clear pink', Tropical Hibiscus (Hibiscus rosa-sinensis 'Dolorosa'), Tropical Hibiscus (Hibiscus rosa-sinensis 'Minarosa'), Tropical Hibiscus (Hibiscus rosa-sinensis 'Rosalie'), Tropical Hibiscus (Hibiscus rosa-sinensis 'Rosalin'), Tropical Hibiscus (Hibiscus rosa-sinensis 'Rosalina'), Tropical Hibiscus (Hibiscus rosa-sinensis 'Rosalind'), Tropical Hibiscus (Hibiscus rosa-sinensis 'Rosanna Eveline'), Tropical Hibiscus (Hibiscus rosa-sinensis 'Rosary'), Tropical Hibiscus (Hibiscus rosa-sinensis 'Moorea Couro Rosado'), Tropical Hibiscus (Hibiscus rosa-sinensis 'Moorea Rosabranca'), Tropical Hibiscus (Hibiscus rosa-sinensis 'Moorea Rosalia'), Tropical Hibiscus (Hibiscus rosa-sinensis 'Suni Rosalina'), Tropical Hibiscus (Hibiscus rosa-sinensis 'Le Rosa Smith'), Tropical Hibiscus (Hibiscus rosa-sinensis 'Mina Rosa'), Tropical Hibiscus (Hibiscus rosa-sinensis 'Rosa'), Tropical Hibiscus (Hibiscus rosa-sinensis 'Rosa Joyal'), Tropical Hibiscus (Hibiscus rosa-sinensis 'Rosa Nobriga'), Tropical Hibiscus (Hibiscus rosa-sinensis 'Rosa Russell'), Tropical Hibiscus (Hibiscus rosa-sinensis 'Ankara'), Tropical Hibiscus (Hibiscus rosa-sinensis Luau® Lilikoi Yellow), Tropical Hibiscus
+
+characteristics:
+blooming: Blooms year around, flowers in the morning and withers in the evening
+color: Flower color pink
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like adequate light
+watering: Water thoroughly after soil surface dries
+fertilization: Dilute fertilizers following instructions, dilute fertilizers following instructions,  in early summer, spring and autumn apply fertilizers once monthly
+pruning: Remove withered flowers, old, diseased, and dead leaves timely
+temperature: min_temp: 5, max_temp: 35

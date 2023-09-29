@@ -1,0 +1,15 @@
+names:
+delonix regia, Royal Poinciana (Delonix regia), Royal Poinciana (Delonix regia var. flavida), Royal Poinciana (Delonix regia 'Kampong Yellow'), Royal Poinciana (Delonix regia 'Smathers Gold'), Royal Poinciana
+
+characteristics:
+blooming: Flowering period June-July, fruiting period August-October
+color: Flower color red, orange red
+size: Diameter ≥ 20 cm, height ≥ 25 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Likes sunshine, put in sunny places, avoid strong sunlight in summer at noon
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Need more fertilization, dilute fertilizers following instructions, apply 2-3 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 10, max_temp: 35

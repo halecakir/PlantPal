@@ -1,0 +1,15 @@
+names:
+tabebuia chrysantha l., Handroanthus chrysanthus subsp. chrysanthus, Handroanthus chrysanthus subsp. chrysanthus
+
+characteristics:
+blooming: Flowering period October-February
+color: Flower colorpurple blue, purple
+size: height ≥ 2m
+
+caretaking:
+soil: Loose sandy loam or soil with specific nutrients
+sunlight: Likes sunshine, put in sunny places, avoid strong sunlight in summer at noon
+watering: Water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 5, max_temp: 35

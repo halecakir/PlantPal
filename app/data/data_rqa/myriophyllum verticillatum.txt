@@ -1,0 +1,15 @@
+names:
+myriophyllum verticillatum, Whorl-Leaf Watermilfoil (Myriophyllum verticillatum), Whorl-Leaf Watermilfoil
+
+characteristics:
+blooming: Flowering period August-September
+color: Flower color light yellow
+size: Diameter ≥ 20 cm, height 20-30 cm
+
+caretaking:
+soil: Slightly alkaline sandy loam
+sunlight: Put in sunny places
+watering: Keep soil moist
+fertilization: Mainly use base fertilizers, top-dressing at the late stages
+pruning: No need pruning
+temperature: min_temp: 5, max_temp: 35

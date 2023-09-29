@@ -1,0 +1,15 @@
+names:
+myosotis sylvatica, Forget-Me-Not (Myosotis sylvatica), Myosotis sylvatica subsp. cyanea, Forget-me-not (Myosotis sylvatica 'Victoria Blue'), Forget-Me-Not (Myosotis sylvatica 'Victoria Rose'), Forget-Me-Not (Myosotis sylvatica 'Victoria White'), Forget-Me-Not (Myosotis sylvatica 'Rosylva'), Forget-Me-Not (Myosotis sylvatica 'Victoria Indigo Blue'), Forget-Me-Not (Myosotis sylvatica 'Snowsylva'), Forget-Me-Not (Myosotis sylvatica 'Bluesylva'), Forget-Me-Not (Myosotis sylvatica 'Victoria Blue Dwarf'), Forget-Me-Not (Myosotis sylvatica 'Victoria Pink Dwarf'), Forget-Me-Not (Myosotis sylvatica 'Bobo Blue'), Forget-Me-Not (Myosotis sylvatica 'Indigo Compacta'), Forget-Me-Not (Myosotis sylvatica 'Royal Blue Compact'), Forget-Me-Not (Myosotis sylvatica 'Spring Symphony Blue'), Forget-Me-Not (Myosotis sylvatica 'Victoria Azure Blue'), Myosotis sylvatica 'Wake Up White', Myosotis sylvatica 'Wake Up Pink', Myosotis sylvatica 'Wake Up Blue', Forget-Me-Not (Myosotis sylvatica 'Dandy'), Forget-Me-Not
+
+characteristics:
+blooming: Flowering period May-July, viewing period 3-4 weeks
+color: Flower color blue, purple, white, yellow
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Likes slightly alkaline soil, may use peat adding a small amount of lime or baking soda,
+sunlight: Likes sunshine, but avoid very strong sunlight
+watering: Moderately resistant to drought, water thoroughly when soil is dry
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove old, diseased and dead leaves timely
+temperature: min_temp: 8, max_temp: 32

@@ -1,0 +1,15 @@
+names:
+hydrangea aspera, Hydrangea (Hydrangea aspera), Sargent Hydrangea (Hydrangea sargentiana), Rough-Leaved Hydrangea (Hydrangea aspera 'Kawakamii'), Rough-Leaved Hydrangea (Hydrangea aspera 'Ligosa'), Rough-Leaved Hydrangea (Hydrangea aspera 'Macrophylla'), Rough-Leaved Hydrangea (Hydrangea aspera 'Mauvette'), Rough-Leaved Hydrangea (Hydrangea aspera 'Peter Chappell'), Rough-Leaved Hydrangea (Hydrangea aspera 'Rocklin'), Rough-Leaved Hydrangea (Hydrangea aspera 'Rowallane'), Rough-Leaved Hydrangea (Hydrangea aspera 'Sam McDonald'), Rough-Leaved Hydrangea (Hydrangea aspera 'Spinners'), Rough-Leaved Hydrangea (Hydrangea aspera 'Stafa'), Rough-Leaved Hydrangea (Hydrangea aspera 'Taiwan Pink'), Hydrangea (Hydrangea strigosa), Hydrangea (Hydrangea aspera Plum Passion®), Hydrangea (Hydrangea aspera Hot Chocolate®), Rough-Leaved Hydrangea (Hydrangea aspera 'Rosemary Foster'), Hydrangea (Hydrangea aspera 'Burgundy Bliss'), Hydrangea (Hydrangea aspera 'Golden Needle'), Hydrangea (Hydrangea aspera subsp. aspera), Hydrangea
+
+characteristics:
+blooming: Flowering period June-August, viewing period 3-4 weeks
+color: Flower color white
+size: Diameter ≥ 10 cm, height ≥ 10 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Likes half shade environments, put in places with bright scattered light
+watering: Water thoroughly when soil is dry, half dormant in summer, reduce water and fertilization, may spray water in the air to cool
+fertilization: Dilute fertilizers following instructions,  apply 1-2 times monthly in spring
+pruning: Remove old, diseased and dead leaves timely
+temperature: min_temp: 6, max_temp: 35

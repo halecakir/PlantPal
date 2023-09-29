@@ -1,0 +1,15 @@
+names:
+eupatorium fistulosum, Joe Pye Weed (Eutrochium fistulosum 'Ivory Towers'), Hollow Joe-Pye Weed (Eutrochium fistulosum), Joe Pye Weed
+
+characteristics:
+blooming: Flowering and fruiting period July-November
+color: Flower color pink, rose red
+size: Diameter ≥ 20 cm, height 20-30 cm
+
+caretaking:
+soil: Sandy loam
+sunlight: Like half shade, may grow in places with bright scattered light
+watering: Only need keep soil moist
+fertilization: Apply enough base fertilizers
+pruning: Remove dead and diseased branches timely
+temperature: min_temp: 10, max_temp: 32

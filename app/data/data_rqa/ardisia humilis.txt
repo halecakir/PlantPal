@@ -1,0 +1,15 @@
+names:
+ardisia humilis, , 
+
+characteristics:
+blooming: Flowering period May-June, fruiting period November-December
+color: Flower color light pink, fruit color red, purple red
+size: height ≥ 30 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Put in places with scattered light
+watering: Water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 5, max_temp: 32

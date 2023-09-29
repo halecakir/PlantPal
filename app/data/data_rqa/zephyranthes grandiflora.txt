@@ -1,0 +1,15 @@
+names:
+zephyranthes grandiflora, , 
+
+characteristics:
+blooming: Flowering period June-September
+color: Flower color light purple red, rose red, pink
+size: Diameter ≥ 10 cm, height 15-20 cm
+
+caretaking:
+soil: Humus-rich sandy loam
+sunlight: put in sunny places
+watering: Water timely when soil dries
+fertilization: Apply fertilizers once to twice in the growing season
+pruning: Remove old, diseased and dead leaves timely
+temperature: min_temp: 5, max_temp: 32

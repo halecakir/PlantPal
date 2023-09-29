@@ -1,0 +1,15 @@
+names:
+capparis spinosa, Caper (Capparis spinosa), Caperbush (Capparis spinosa 'Spinosa Comune'), Capparis spinosa subsp. spinosa, Capparis spinosa var. myrtifolia, Caperbush (Capparis spinosa 'Salina'), Caperbush (Capparis spinosa 'Inermis'), Caperbush (Capparis spinosa 'Collados 5'), Caperbush (Capparis spinosa 'Colora'), Caperbush (Capparis spinosa 'De las Muradas'), Caperbush (Capparis spinosa 'Dolce di Filicudi e Alicudi'), Caperbush (Capparis spinosa 'Figues Seques'), Caperbush (Capparis spinosa 'Josephine'), Caperbush (Capparis spinosa 'Mallorquina'), Caperbush (Capparis spinosa 'Nuccida'), Caperbush (Capparis spinosa 'Orihuela 7'), Caperbush (Capparis spinosa 'Peluda'), Caperbush (Capparis spinosa 'Redona'), Caperbush (Capparis spinosa 'Rosa'), Caperbush (Capparis spinosa 'Senza Spina'), Caperbush (Capparis spinosa 'Seron 3'), Caper
+
+characteristics:
+blooming: Flowering period May-Septemberfruiting period June-September
+color: Flower color white
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Sandy loam
+sunlight: Like half shade, may grow in places with bright scattered light
+watering: Keep soil moist
+fertilization: Mix proper amount of slow-release fertilizers when transplanting, apply liquid fertilizers 1-2 times monthly
+pruning: Remove dead and diseased branches timely
+temperature: min_temp: 8, max_temp: 32

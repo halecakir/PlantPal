@@ -1,0 +1,15 @@
+names:
+acer palmatum, Japanese Maple (Acer palmatum), Japanese Maple (Acer palmatum 'Bonfire'), Maple (Acer pubipalmatum), Cutleaf Japanese Maple (Acer palmatum 'Baldsmith'), Cutleaf Japanese Maple (Acer palmatum 'Green Hornet'), Cutleaf Japanese Maple (Acer palmatum 'Green Mist'), Cutleaf Japanese Maple (Acer palmatum 'Goshiki Shidare'), Cutleaf Japanese Maple (Acer palmatum 'Octopus'), Cutleaf Japanese Maple (Acer palmatum 'Lemon Lime Lace'), Cutleaf Japanese Maple (Acer palmatum 'Brocade'), Japanese Maple (Acer palmatum 'Dragon's Fire'), Cutleaf Japanese Maple (Acer palmatum 'Red Feather'), Cutleaf Japanese Maple (Acer palmatum 'Watnong'), Cutleaf Japanese Maple (Acer palmatum 'Van den Akker'), Cutleaf Japanese Maple (Acer palmatum 'Raraflora'), Cutleaf Japanese Maple (Acer palmatum 'Barrie Bergman'), Cutleaf Japanese Maple (Acer palmatum 'Ebony'), Cutleaf Japanese Maple (Acer palmatum 'Heartbeat'), Japanese Maple (Acer palmatum 'Sherwood Elfin'), Japanese Maple (Acer palmatum var. amoenum 'Bloodgood'), Japanese Maple
+
+characteristics:
+blooming: Flowering period April, fruiting period August
+color: Flower color red purple, fruit color green to red, leaf color turn to red, orange or yellow from green in autumn
+size: Diameter ≥ 25 cm, height ≥ 30 cm
+
+caretaking:
+soil: Acidic soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, grows in sunny places, avoid summer direct strong light
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 5, max_temp: 35

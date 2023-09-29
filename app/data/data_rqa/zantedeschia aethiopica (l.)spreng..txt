@@ -1,0 +1,15 @@
+names:
+zantedeschia aethiopica (l.)spreng., , NONE
+
+characteristics:
+blooming: Foliage plants, viewing period year around
+color: Leaf color pale green, with silver white on leaf edges
+size: Diameter ≥ 25 cm, height ≥ 30 cm
+
+caretaking:
+soil: Soil with loose texture or special humus soil
+sunlight: Like half shade, grows in places with scattered light or shade properly, avoid direct light
+watering: Likes wet environments, water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead, rotten, diseased leaves timely
+temperature: min_temp: 15, max_temp: 32

@@ -1,0 +1,15 @@
+names:
+serenoa repens, Saw Palmetto (Serenoa repens), Saw Palmetto (Serenoa repens 'Cinerea'), Saw Palmetto (Serenoa repens 'Silver'), Saw Palmetto
+
+characteristics:
+blooming: Flowering period March-May
+color: Flower color white, yellow
+size: Diameter ≥ 20 cm, height 20-30 cm
+
+caretaking:
+soil: Soil with rich organic matter and strong abilities of holding water and fertility
+sunlight: Like sunshine, resistant to half shade
+watering: Watering only when soil is dry, water thoroughly
+fertilization: Apply enough base fertilizers
+pruning: Remove dead and diseased branches timely
+temperature: min_temp: 8, max_temp: 35

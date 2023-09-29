@@ -1,0 +1,15 @@
+names:
+eucommia ulmoides, Hardy Rubber Tree (Eucommia ulmoides), Hardy Rubber Tree (Eucommia ulmoides Emerald Pointe™), Hardy Rubber Tree
+
+characteristics:
+blooming: Flowering period April-May
+color: Flower color yellow green
+size: Diameter ≥ 20 cm, height 20-30 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Put in sunny places
+watering: Water thoroughly when soil is dry, avoid saturated water
+fertilization: Apply organic fertilizers mainly, chemical fertilizer if needed
+pruning: Remove dead and diseased branches timely
+temperature: min_temp: 5, max_temp: 35

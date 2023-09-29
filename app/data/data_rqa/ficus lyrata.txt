@@ -1,0 +1,15 @@
+names:
+ficus lyrata, Fiddle Leaf Fig (Ficus lyrata), Fiddle-leaf Fig (Ficus lyrata 'Suncoast'), Fiddle Leaf Fig (Ficus lyrata 'Bambino'), Fiddle Leaf Fig
+
+characteristics:
+blooming: Foliage plants, viewing period year around
+color: Leaf color dark green
+size: Diameter ≥ 25 cm, height ≥ 30 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like sunshine, grows in sunny places
+watering: Likes wet environments, water thoroughly when soil is dry
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, yellowing and diseased leaves timely
+temperature: min_temp: 12, max_temp: 32

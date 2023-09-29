@@ -1,0 +1,15 @@
+names:
+cynoglossum amabile, Chinese Forget-Me-Not (Cynoglossum amabile), Chinese Forget-Me-Not (Cynoglossum amabile 'Firmament'), Chinese Forget-Me-Not (Cynoglossum amabile 'Pink Showers'), Chinese Forget-Me-Not (Cynoglossum amabile 'Blue Showers'), Chinese Forget-Me-Not (Cynoglossum amabile 'Jeans'), Chinese Forget-Me-Not (Cynoglossum amabile 'Mystery Rose'), Chinese Forget Me Not (Cynoglossum amabile 'Mystic Pink'), Chinese Forget-Me-Not (Cynoglossum amabile 'Azul'), Chinese Forget-Me-Not
+
+characteristics:
+blooming: Flowering and fruiting period May-September
+color: Leaf color gray green, flower color blue, rarely white
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like sunshine, resistant to half shade, avoid scorching light
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead, rotten, diseased leaves timely
+temperature: min_temp: 5, max_temp: 35

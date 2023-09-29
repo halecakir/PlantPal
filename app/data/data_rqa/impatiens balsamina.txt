@@ -1,0 +1,15 @@
+names:
+impatiens balsamina, Touch-Me-Not (Impatiens balsamina), Balsam (Impatiens balsamina 'Camellia Blackberry Trifle'), Balsam (Impatiens balsamina 'Camellia Peppermint Stick'), Balsam (Impatiens balsamina 'Camellia Flowered Mix'), Balsam (Impatiens balsamina 'Tom Thumb'), Balsam (Impatiens balsamina 'Extra Dwarf Tom Thumb Mixed'), Balsam (Impatiens balsamina 'Peppermint Sticks'), Balsam (Impatiens balsamina 'BlackBerry Trifle'), Touch-Me-Not
+
+characteristics:
+blooming: Flowering period June-October, viewing period 1-2 months
+color: Flower color white, pink, purple
+size: Diameter ≥ 10 cm, height ≥ 10 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like sunshine, put in sunny places
+watering: Water thoroughly when soil is dry, water daily in summer
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly in spring and summer
+pruning: Remove old, diseased and dead leaves timely
+temperature: min_temp: 6, max_temp: 32

@@ -1,0 +1,15 @@
+names:
+conophytum spp., , NONE
+
+characteristics:
+blooming: Succulent plant, open flower in autumn
+color: Leaf color grey green，flower color yellow，purple or pink
+size: Diameter≥3cm，Height≥3cm
+
+caretaking:
+soil: Peat and akadama mixed in 3:1 ratio
+sunlight: Enjoy sufficient sunlight, avoid strong sunlight in summer
+watering: Reduce water in its ecdysis period, keep moist in other seasons
+fertilization: Stop fertilize during ecdysis period
+pruning: Remove flower stem, diseased and rotten leaves timely
+temperature: min_temp: 5, max_temp: 35

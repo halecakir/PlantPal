@@ -1,0 +1,15 @@
+names:
+potentilla fruticosa, Shrubby Cinquefoil (Dasiphora fruticosa 'Hallman Dwarf'), Shrubby Cinquefoil (Dasiphora fruticosa 'Tangerine'), Shrubby Cinquefoil (Dasiphora fruticosa 'McKay's White'), Shrubby Cinquefoil (Dasiphora fruticosa 'Abbottswood'), Shrubby Cinquefoil (Dasiphora fruticosa 'Apricot Whisper'), Shrubby Cinquefoil (Dasiphora fruticosa 'Orange Whisper'), Shrubby Cinquefoil (Dasiphora fruticosa 'Snowbird'), Shrubby Cinquefoil (Dasiphora fruticosa 'Yellow Gem'), Shrubby Cinquefoil (Dasiphora fruticosa 'Coronation Triumph'), Shrubby Cinquefoil (Dasiphora fruticosa 'Gold Drop'), Shrubby Cinquefoil (Dasiphora fruticosa 'Goldfinger'), Shrubby Cinquefoil (Dasiphora fruticosa 'Mount Everest'), Shrubby Cinquefoil (Dasiphora fruticosa 'Orangeade'), Shrubby Cinquefoil (Dasiphora fruticosa 'Pink Princess'), Shrubby Cinquefoil (Dasiphora fruticosa 'Red Ace'), Shrubby Cinquefoil (Dasiphora fruticosa 'Katherine Dykes'), Shrubby Cinquefoil (Dasiphora fruticosa 'Moonlight'), Shrubby Cinquefoil (Dasiphora fruticosa 'Yellow Bird'), Shrubby Cinquefoil (Dasiphora fruticosa 'Daydawn'), Shrubby Cinquefoil (Dasiphora fruticosa 'Floppy Disc'), Shrubby Cinquefoil
+
+characteristics:
+blooming: Flowering and fruiting period June-September
+color: Flower color yellow, fruit color brown
+size: Diameter ≥ 15 cm, height ≥ 25 cm
+
+caretaking:
+soil: Slightly acidic soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, resistant to half shade, avoid strong direct light
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead, rotten, diseased leaves timely
+temperature: min_temp: 5, max_temp: 32

@@ -1,0 +1,15 @@
+names:
+rubus idaeus subsp. strigosus, American Red Raspberry (Rubus idaeus subsp. strigosus), American Red Raspberry
+
+characteristics:
+blooming: Flowering period March-April, fruiting period May-June
+color: Flower color white, fruit color red, golden, black
+size: Diameter ≥ 15 cm, height ≥ 25 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like sunshine, grows in sunny places
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove old, diseased and dead leaves timely, after flowering remove the upper part staring from 5 cm above soil surface, leaving 3-5 leaves
+temperature: min_temp: 5, max_temp: 32

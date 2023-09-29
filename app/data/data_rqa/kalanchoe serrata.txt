@@ -1,0 +1,15 @@
+names:
+kalanchoe serrata, Magic Tower (Kalanchoe serrata), Magic Tower
+
+characteristics:
+blooming: Succulent plants, sometimes flowers, orange red flowers
+color: Leaf color green, when sunny leaf edges turning to pale pink
+size: Diameter 3-15 cm, height 5-20 cm
+
+caretaking:
+soil: Peat and akadama mixed in 3:1 ratio
+sunlight: Like adequate sunlight no apparent period of dormancy
+watering: Resistant to drought, keep soil moist, water thoroughly when soil is dry
+fertilization: Dilute fertilizers following instructions, apply once every 1-2 months
+pruning: Remove dead and rotten part timely
+temperature: min_temp: 8, max_temp: 35

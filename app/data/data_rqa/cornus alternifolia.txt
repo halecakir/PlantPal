@@ -1,0 +1,15 @@
+names:
+cornus alternifolia, , 
+
+characteristics:
+blooming: Flowering period March-April；fruiting period September-October
+color: Flower color yellow, fruit color red
+size: Diameter ≥ 20 cm, height ≥ 20 cm
+
+caretaking:
+soil: Sandy loam
+sunlight: Likes warm and moist environments、like sunshine
+watering: Only need keep soil moist
+fertilization: Apply enough base fertilizers
+pruning: Timely cut short growing branches, promote branching
+temperature: min_temp: 8, max_temp: 35

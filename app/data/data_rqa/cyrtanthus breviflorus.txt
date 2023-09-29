@@ -1,0 +1,15 @@
+names:
+cyrtanthus breviflorus, Fire Lily (Cyrtanthus breviflorus), Fire Lily
+
+characteristics:
+blooming: Flowering period November-March
+color: Flower color yellow, orange red, white, pink
+size: Diameter ≥ 20 cm, height 10-30 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Likes adequate light, avoid direct strong light at noon in summer
+watering: Water thoroughly after soil surface dries
+fertilization: Apply 1-2 times monthly in spring
+pruning: Remove withered flowers, diseased and yellowing leaves timely
+temperature: min_temp: 8, max_temp: 32

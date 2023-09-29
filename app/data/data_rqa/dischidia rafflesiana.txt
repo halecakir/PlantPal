@@ -1,0 +1,15 @@
+names:
+dischidia rafflesiana, Ant Plant (Dischidia major), Ant Plant
+
+characteristics:
+blooming: Flowering period April-May, fruiting period May-June
+color: Flower color yellow
+size: Diameter ≥ 20 cm, height ≥ 20 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Resistant to shade, put in places with bright scattered light
+watering: Water thoroughly when soil is dry
+fertilization: Mix proper amount of slow-release fertilizers when planting, apply liquid fertilizers 1-2 times monthly
+pruning: Remove dead and diseased branches timely
+temperature: min_temp: 8, max_temp: 32

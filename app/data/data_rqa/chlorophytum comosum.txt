@@ -1,0 +1,15 @@
+names:
+chlorophytum comosum, Spider Plant (Chlorophytum comosum), Chlorophytum sparsiflorum var. bipindense, Chlorophytum sparsiflorum, Variegated Spider Plant (Chlorophytum comosum 'Vittatum'), Curly Spider Plant (Chlorophytum comosum 'Bonnie'), Spider Plant (Chlorophytum comosum 'Variegatum'), Spider Plant (Chlorophytum comosum 'Picturatum'), Spider Plant (Chlorophytum comosum 'Mandaianum'), Spider Plant (Chlorophytum comosum 'White Lightning'), Spider Plant (Chlorophytum comosum 'Streaker'), Spider Plant (Chlorophytum comosum 'Milky Way'), Spider Plant (Chlorophytum comosum 'Atlantic'), Spider Plant (Chlorophytum comosum 'Pacific'), Spider Plant (Chlorophytum comosum 'Ocean'), Curly Green Spider Plant (Chlorophytum comosum 'Green Curly'), Spider Plant
+
+characteristics:
+blooming: Foliage plants, sometimes flowers, white flowers
+color: Leaf color green, white green and yellow green in mixture
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Peat mixed with coarse sand soil
+sunlight: Relatively resistant to shade, likes half shade environments, leaves are fresh and green with some sunlight in winter
+watering: Likes wet environments, spray water in the surrounding environment to keep air moist, reduce watering in winter
+fertilization: Dilute fertilizers following instructions, apply once every 10-15 days in spring and autumn
+pruning: Remove dead and yellowish leaves timely
+temperature: min_temp: 10, max_temp: 32

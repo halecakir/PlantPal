@@ -1,0 +1,15 @@
+names:
+magnolia campbellii, , 
+
+characteristics:
+blooming: Flowering period February-March (often flowers again in July-September), fruiting period August-September
+color: Flower color peach red
+size: Diameter ≥ 15 cm, height ≥ 25 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, grows in sunny places
+watering: Water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 5, max_temp: 35

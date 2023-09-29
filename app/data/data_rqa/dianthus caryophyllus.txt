@@ -1,0 +1,15 @@
+names:
+dianthus caryophyllus, Carnation (Dianthus caryophyllus), Carnation (Dianthus caryophyllus 'Clarion'), Hardy Carnation (Dianthus caryophyllus 'Grenadin Pink'), Carnation (Dianthus caryophyllus 'Cinnamon Red Hots'), Carnation (Dianthus caryophyllus 'True Love'), Carnation (Dianthus caryophyllus Debutante), Hardy Carnation (Dianthus caryophyllus 'Golden Sun'), Hardy Carnation (Dianthus caryophyllus 'Innocence'), Carnation (Dianthus caryophyllus 'Triumph Rose'), Hardy Carnation (Dianthus caryophyllus 'Can Can Scarlet'), Carnation (Dianthus caryophyllus 'Cardinal'), Carnation (Dianthus caryophyllus 'Tiroler Gebirgshaengenelke'), Carnation (Dianthus caryophyllus 'Fenbow Nutmeg Clove'), Carnation (Dianthus caryophyllus Annette), Carnation (Dianthus caryophyllus 'Mini-Spice Peppermint'), Carnation (Dianthus caryophyllus 'Picotee'), Carnation (Dianthus caryophyllus 'Stripes & Picotees'), Hardy Carnation (Dianthus caryophyllus 'Grenadin White'), Carnation (Dianthus caryophyllus 'King of the Blacks'), Carnation (Dianthus caryophyllus 'Grenadin Red'), Carnation
+
+characteristics:
+blooming: Flowering period April-September, viewing period 2-3 weeks
+color: Flower color dark red, pink, yellow, white
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Likes sunshine, but avoid very strong sunlight
+watering: Water thoroughly when soil is dry, water daily in summer
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove old, diseased and dead leaves timely
+temperature: min_temp: 8, max_temp: 32

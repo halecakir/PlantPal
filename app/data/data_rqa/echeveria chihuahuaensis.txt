@@ -1,0 +1,15 @@
+names:
+echeveria chihuahuaensis, Echeveria (Echeveria chihuahuaensis), Echeveria
+
+characteristics:
+blooming: Succulent plants, sometimes flowers, red flowers
+color: Leaf color green, with adequate sunlight, leaves tips turning to red
+size: Diameter 6-10 cm, height 5-10 cm
+
+caretaking:
+soil: Peat and akadama mixed in 3:1 ratio
+sunlight: Summer is its dormant period, use half shade for better care, spring and autumn are its growing seasons, need plenty of sunshine
+watering: Water thoroughly 2 times during summer dormancy, keep soil moist in other time, water thoroughly when soil is dry
+fertilization: Dilute fertilizers following instructions,  apply once monthly in spring and autumn, do not apply in other seasons
+pruning: Remove dead and rotten part timely
+temperature: min_temp: 6, max_temp: 35

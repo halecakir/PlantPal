@@ -1,0 +1,15 @@
+names:
+annona x atemoya, , 
+
+characteristics:
+blooming: Flowering period May-June, fruiting period June-November
+color: Flower color cyan yellow, fruit color yellow green
+size: Diameter ≥ 20 cm, height 20-30 cm
+
+caretaking:
+soil: Sandy loam
+sunlight: Like sunshine, likes warm moist environments
+watering: Water thoroughly when soil is dry, avoid saturated water
+fertilization: Apply low concentration fertilizers frequently to young trees, twice for each time of new branch growth, once at the budding stage and once when new branches reaching 40 cm
+pruning: Remove dead and diseased branches timely
+temperature: min_temp: 8, max_temp: 35

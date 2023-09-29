@@ -1,0 +1,15 @@
+names:
+pachypodium succulentum, Pachypodium (Pachypodium succulentum), Pachypodium
+
+characteristics:
+blooming: Flowering period June-September
+color: Flower color red, pink, rarely white
+size: Diameter ≥ 20 cm, height 15-20 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Put in warm places with scattered light
+watering: Keep soil moist
+fertilization: Apply enough base fertilizers
+pruning: Remove old, diseased and dead leaves timely
+temperature: min_temp: 10, max_temp: 35

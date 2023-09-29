@@ -1,0 +1,15 @@
+names:
+erica australis, Spanish Heath (Erica australis), Common Reed (Phragmites australis subsp. australis), Erica senilis var. australis, Spanish Heath
+
+characteristics:
+blooming: Flowering period September-October
+color: Flower color purple red , pink, purple
+size: height about 20-50 cm
+
+caretaking:
+soil: Acidic soil
+sunlight: Sufficient sunlight
+watering: Only need keep soil moist
+fertilization: No much requirement for fertilizers
+pruning: Remove diseased and dead leaves timely
+temperature: min_temp: 4, max_temp: 35

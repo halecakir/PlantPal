@@ -1,0 +1,15 @@
+names:
+astrantia major, Greater Masterwort (Astrantia major), Astrantia major subsp. major, Hattie's Pincushion (Astrantia major 'Wattisfield White'), Masterwort (Astrantia major 'Claret'), Masterwort (Astrantia major 'Roma'), Great Masterwort (Astrantia major 'Rubra'), Greater Masterwort (Astrantia major 'Ruby Cloud'), Variegated Masterwort (Astrantia major 'Sunningdale Variegated'), Masterwort (Astrantia major 'Venice'), Masterwort (Astrantia major 'Snow Star'), Masterwort (Astrantia major 'Star of Beauty'), Great Masterwort (Astrantia major 'Moulin Rouge'), Great Masterwort (Astrantia major 'Primadonna'), Great Masterwort (Astrantia major 'Hadspen Blood'), Great Masterwort (Astrantia major 'Ruby Wedding'), Variegated Masterwort (Astrantia major 'Sunningdale Gold'), Great Masterwort (Astrantia major 'Lars'), Great Masterwort (Astrantia major 'Abbey Road'), Great Masterwort (Astrantia major 'Rosensinfonie'), Great Masterwort (Astrantia major 'Shaggy'), Greater Masterwort
+
+characteristics:
+blooming: Flowering period August-September, fruiting period September-October
+color: Flower color pink, rose red or white
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like sunshine, resistant to half shade
+watering: Keep soil moist
+fertilization: Apply organic fertilizers mainly, chemical fertilizer if needed
+pruning: No need pruning
+temperature: min_temp: 5, max_temp: 35

@@ -1,0 +1,15 @@
+names:
+convallaria majalis, Lily Of The Valley (Convallaria majalis), Lily of the Valley (Convallaria majalis 'Bordeaux'), Striped Lily of the Valley (Convallaria majalis 'Albostriata'), Double Lily of the Valley (Convallaria majalis 'Flore Pleno'), Asian Lily of the Valley (Convallaria keiskei), Lily of the Valley (Convallaria majalis 'Vic Pawlowski's Gold'), Lily of the Valley (Convallaria majalis 'Prolificans'), Lily of the Valley (Convallaria majalis 'Fortin's Giant'), Lily of the Valley (Convallaria majalis 'Aureovariegata'), Lily of the Valley (Convallaria majalis 'Hardwick Hall'), Lily of the Valley (Convallaria majalis 'Hofheim'), Lily of the Valley (Convallaria majalis 'Variegata'), Pink Lily of the Valley (Convallaria majalis 'Rosea'), Lily of the Valley (Convallaria majalis 'Fernwood's Golden Slippers'), Lily of the Valley (Convallaria majalis 'Verwood Golden Slippers'), Lily of the Valley (Convallaria majalis 'White Margin'), Lily of the Valley (Convallaria majalis 'Albomarginata'), Lily of the Valley (Convallaria majalis 'Cream da Mint'), American Lily of the Valley (Convallaria majalis var. montana), Lily Of The Valley
+
+characteristics:
+blooming: Flowering period May-June, viewing period 2-3 weeks
+color: Flower color white, blue, pink
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Likes half shade environments, put in places with scattered light
+watering: Water thoroughly when soil is dry
+fertilization: Dilute fertilizers following instructions, dilute fertilizers following instructions,  in early summer, spring and autumn apply fertilizers once monthly
+pruning: Remove withered flowers, old, diseased, and dead leaves timely
+temperature: min_temp: 5, max_temp: 35

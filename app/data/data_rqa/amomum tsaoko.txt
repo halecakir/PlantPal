@@ -1,0 +1,15 @@
+names:
+amomum tsaoko, , 
+
+characteristics:
+blooming: Flowering period April-June, fruiting period May-August
+color: Leaf color green , flower color white to pale pink
+size: Diameter ≥ 20 cm, height ≥ 25 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Likes warm and sunny environments
+watering: Water thoroughly after soil surface dries
+fertilization: Apply enough base fertilizers
+pruning: Remove old, diseased and dead leaves timely
+temperature: min_temp: 10, max_temp: 35

@@ -1,0 +1,15 @@
+names:
+lemna minor, , 
+
+characteristics:
+blooming: Grow in water, rarely flower
+color: Leaf color green
+size: Diameter≥2cm
+
+caretaking:
+soil: Planted in water
+sunlight: Like sufficient sunlight
+watering: Keep enough water in the pot
+fertilization: Dilute fertilizers following instructions, apply once monthly
+pruning: Remove old, diseased and dead leaves timely
+temperature: min_temp: 8, max_temp: 35

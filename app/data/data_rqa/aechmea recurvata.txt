@@ -1,0 +1,15 @@
+names:
+aechmea recurvata, , 
+
+characteristics:
+blooming: Flowering period May-July
+color: Flower color light rose red, pink
+size: Diameter ≥ 20 cm, height 15-20 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like half shade, may grow in places with bright scattered light
+watering: Spray water on the plant when temperature is high, keep soil moist in other time
+fertilization: Apply enough base fertilizers
+pruning: In spring pruning and remove old, diseased and dead leaves timely
+temperature: min_temp: 10, max_temp: 32

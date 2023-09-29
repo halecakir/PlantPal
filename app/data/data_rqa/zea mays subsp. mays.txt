@@ -1,0 +1,15 @@
+names:
+zea mays subsp. mays, Corn (Zea mays subsp. mays), Sweet Corn (Zea mays subsp. mays 'Willy's Mays'), Sweet Corn (Se) (Zea mays subsp. mays 'Table Treat'), Ornamental Corn (Zea mays subsp. mays 'Quadricolor'), Field Corn (Zea mays subsp. mays 'Cherokee Pride'), Field Corn (Zea mays subsp. mays 'Nothstine Dent'), Sweet Corn (Zea mays subsp. mays 'Anasazi'), Sweet Corn (Zea mays subsp. mays 'Art Verrell's White'), Sweet Corn (Zea mays subsp. mays 'Aunt Mary's'), Sweet Corn (Zea mays subsp. mays 'Black Mexican'), Sweet Corn (Zea mays subsp. mays 'Buhl'), Sweet Corn (Zea mays subsp. mays 'Candy Mountain'), Sweet Corn (Zea mays subsp. mays 'Chubby Checkers'), Sweet Corn (Zea mays subsp. mays 'Clem Bennett'), Sweet Corn (Zea mays subsp. mays 'Cocopah'), Sweet Corn (Zea mays subsp. mays 'Double Standard'), Sweet Corn (Zea mays subsp. mays 'Early Pearl'), Sweet Corn (Zea mays subsp. mays 'Fancy Dan'), Sweet Corn (Zea mays subsp. mays 'Golden Bantam Improved'), Sweet Corn (Zea mays subsp. mays 'Golden Giant'), Corn
+
+characteristics:
+blooming: Flowering and fruiting period in autumn
+color: Flower color yellow white , fruit yellow, cream white or purple
+size: Diameter ≥ 15 cm, height ≥ 25 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients, pH value 6-7
+sunlight: Grows in sunny places
+watering: Like more water, water thoroughly after soil surface dries
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 10, max_temp: 37

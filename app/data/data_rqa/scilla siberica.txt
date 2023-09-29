@@ -1,0 +1,15 @@
+names:
+scilla siberica, Siberian Squill (Scilla siberica), Scilla siberica subsp. siberica, Siberian Squill (Scilla siberica 'Spring Beauty'), Siberian Squill (Scilla siberica 'Alba'), Scilla siberica subsp. armena, Scilla siberica subsp. otschiauriae, Scilla siberica subsp. caucasica, Scilla siberica subsp. caucasica 'Indra', Siberian Squill
+
+characteristics:
+blooming: Flowering period August-September
+color: Flower color blue
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, resistant to half shade
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 8, max_temp: 35

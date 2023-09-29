@@ -1,0 +1,15 @@
+names:
+kniphofia spp., , 
+
+characteristics:
+blooming: Flowering period June-July, fruiting period September
+color: Flower color orange red , fruit color yellow brown
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, resistant to half shade, avoid scorching light
+watering: Likes wet environments, water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead, rotten, diseased leaves timely
+temperature: min_temp: 5, max_temp: 35

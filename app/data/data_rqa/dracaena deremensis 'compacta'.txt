@@ -1,0 +1,15 @@
+names:
+dracaena deremensis 'compacta', Corn Plant (Dracaena fragrans 'Limelight'), Corn Plant (Dracaena fragrans), Corn Plant (Dracaena fragrans 'Lemon Lime'), Striped Dracaena (Dracaena fragrans 'Warneckii'), Corn Plant (Dracaena fragrans 'White Jewel'), Dracaena 'Lisa', Dracaena reflexa 'Riki', Corn Plant
+
+characteristics:
+blooming: Foliage plants, rarely flowers
+color: Leaf color green , flower color light yellow
+size: Diameter ≥ 15 cm, height ≥ 25 cm
+
+caretaking:
+soil: Well ventilated sandy loam
+sunlight: Like half shade, put in places with scattered light
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 5, max_temp: 35

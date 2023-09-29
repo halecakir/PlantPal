@@ -1,0 +1,15 @@
+names:
+campanula portenschlagiana, Dalmatian Bellflower (Campanula portenschlagiana), Dalmatian Bellflower (Campanula portenschlagiana 'Aurea'), Dalmatian Bellflower (Campanula portenschlagiana 'Blue Rose'), Dalmatian Bellflower (Campanula portenschlagiana 'Resholdt's Variety'), Dalmatian Bellflower (Campanula portenschlagiana Get Mee® Purple), Bellflower (Campanula portenschlagiana 'Royal Blue'), Dalmatian Bellflower (Campanula portenschlagiana Get Mee® White), Dalmatian Bellflower (Campanula portenschlagiana Clockwise™ Deep Blue), Dalmatian Bellflower (Campanula portenschlagiana 'Miss Melanie'), Bellflower (Campanula portenschlagiana Ambella® Dark Blue), Dalmatian Bellflower (Campanula portenschlagiana Get Mee® Dark Purple), Dalmatian Bellflower (Campanula portenschlagiana Ambella® White), Dalmatian Bellflower (Campanula portenschlagiana Clockwise™ Compact White Blush), Dalmation Bellflower (Campanula portenschlagiana Ambella® Intense Purple), Dalmatian Bellflower
+
+characteristics:
+blooming: Flowering period July-August, fruiting period August-October
+color: Flower color purple, blue, blue purple
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Slightly acidic soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, grows in sunny places
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead, rotten, diseased leaves timely
+temperature: min_temp: 8, max_temp: 32

@@ -1,0 +1,15 @@
+names:
+cupressus funebris, Mourning Cypress (Cupressus funebris), Mourning Cypress
+
+characteristics:
+blooming: Flowering period March-May, fruiting period May-June in the next year
+color: Leaf color green in new branches, old stems dark brown purple, fruit color dark brown
+size: Diameter ≥ 15 cm, height ≥ 25 cm
+
+caretaking:
+soil: Slightly acidic soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, grows in sunny places
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 5, max_temp: 35

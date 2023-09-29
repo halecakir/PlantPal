@@ -1,0 +1,15 @@
+names:
+vigna radiata, Mung Bean (Vigna radiata), Vigna radiata var. sublobata, Vigna radiata var. radiata, Vigna radiata var. grandiflora, Mungbean (Vigna radiata 'Berken'), Mungbean (Vigna radiata 'Crystal'), Mungbean (Vigna radiata 'Reselected Emerald'), Mungbean (Vigna radiata 'Green Diamond'), Mungbean (Vigna radiata 'Satin II'), Mungbean (Vigna radiata 'Regur'), Mungbean (Vigna radiata 'Delta'), Mungbean (Vigna radiata 'Celera'), Mungbean (Vigna radiata 'Satin'), Thai Mung Bean (Vigna radiata 'Maple Green'), Mung Bean
+
+characteristics:
+blooming: Flowering period May-June，fruit period July-October
+color: Flower color yellow，fruit color green
+size: Diameter≥10cm
+
+caretaking:
+soil: Loose, fertile, and well-drained loam soil
+sunlight: planted in sufficient sunlight
+watering: Water thoroughly when soil surface is dry
+fertilization: Dilute fertilizers following instructions, apply once monthly in spring and autumn
+pruning: Remove flower stem, diseased and rotten leaves timely
+temperature: min_temp: 10, max_temp: 35

@@ -1,0 +1,15 @@
+names:
+rheum rhabarbarum, Rhubarb (Rheum rhabarbarum), Rhubarb (Rheum rhabarbarum 'Crimson Red'), Rhubarb (Rheum rhabarbarum 'Valentine'), Rhubarb (Rheum rhabarbarum 'MacDonald'), Rhubarb (Rheum rhabarbarum 'Canada Red'), Rhubarb (Rheum rhabarbarum 'Early Champagne'), Rhubarb (Rheum rhabarbarum 'Victoria'), Rhubarb (Rheum rhabarbarum 'Tilden'), Rhubarb (Rheum rhabarbarum 'Cawood Delight'), Rhubarb (Rheum rhabarbarum 'Reeds Early Superb'), Rhubarb (Rheum rhabarbarum 'German Wine'), Rhubarb (Rheum rhabarbarum 'Strawberry'), Rhubarb (Rheum rhabarbarum KangaRhu™), Rhubarb (Rheum rhabarbarum 'Livingstone'), Rhubarb (Rheum rhabarbarum 'Polish Raspberry'), Rhubarb
+
+characteristics:
+blooming: Flowering period June-July, flowering period July-August
+color: Flower color purple red
+size: height about 2 m
+
+caretaking:
+soil: Sandy loam
+sunlight: Like shade and moist environments
+watering: Only need keep soil moist
+fertilization: Once very month
+pruning: Remove old, diseased and dead leaves timely, after flowering remove the upper part staring from 5 cm above soil surface, leaving 3-5 leaves
+temperature: min_temp: 8, max_temp: 35

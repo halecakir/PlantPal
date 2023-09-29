@@ -1,0 +1,15 @@
+names:
+populus davidiana, Populus davidiana, Populus davidiana var. tomentosa, Populus davidiana
+
+characteristics:
+blooming: Flowering period March-April, fruiting period April-May
+color: Flower color purple red, leaf color green
+size: Diameter ≥ 25 cm, height ≥ 30 cm
+
+caretaking:
+soil: Neutral or slightly acidic soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, grows in sunny places
+watering: Resistant to drought, water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 2-3 times monthly
+pruning: Remove and shape excessive branches
+temperature: min_temp: 5, max_temp: 35

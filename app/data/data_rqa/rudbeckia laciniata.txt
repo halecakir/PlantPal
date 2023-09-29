@@ -1,0 +1,15 @@
+names:
+rudbeckia laciniata, Cutleaf Coneflower (Rudbeckia laciniata), Rudbeckia laciniata var. ampla, Cutleaf Coneflower (Rudbeckia laciniata 'Hortensia'), Cutleaf Coneflower (Rudbeckia laciniata 'Herbstsonne'), Cutleaf Coneflower (Rudbeckia laciniata 'Goldquelle'), Cut-Leaf Coneflower (Rudbeckia laciniata 'Gold Drop'), Rudbeckia laciniata var. humilis, Rudbeckia laciniata var. heterophylla, Black Eyed Susan (Rudbeckia laciniata 'Golden Glow'), Black Eyed Susan (Rudbeckia laciniata var. bipinnata), Cutleaf Coneflower
+
+characteristics:
+blooming: Flowering period July-October, viewing period 3-4 weeks
+color: Flower color yellow, green
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Likes sunshine, avoid strong direct light
+watering: Keep soil moist, water and drain timely
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: After flowering remove the withered flowers, the part on the ground will wither in winter, the plant germinates again in spring
+temperature: min_temp: 8, max_temp: 32

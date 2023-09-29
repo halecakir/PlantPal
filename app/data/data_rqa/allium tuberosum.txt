@@ -1,0 +1,15 @@
+names:
+allium tuberosum, , 
+
+characteristics:
+blooming: Flowering period May-October, fruiting period August-December
+color: Flower color white, leaf color green
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Acidic soil with loose texture or soil with specific nutrients, pH value 6-7
+sunlight: Grows in sunny places
+watering: Likes wet environments, water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead, rotten, diseased leaves timely
+temperature: min_temp: 6, max_temp: 35

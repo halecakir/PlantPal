@@ -1,0 +1,15 @@
+names:
+ruta graveolens, Common Rue (Ruta graveolens), Common Rue (Ruta graveolens 'Jackman's Blue'), Common Rue (Ruta graveolens 'Blue Curl'), Common Rue (Ruta graveolens 'Blue Mound'), Rue (Ruta graveolens var. divaricata), Common Rue (Ruta graveolens 'Variegata'), Common Rue (Ruta graveolens 'Variegata Harlequin'), Common Rue (Ruta graveolens 'Curly Girl'), Common Rue
+
+characteristics:
+blooming: Flowering period March-June and the end of winter, fruiting period July-September
+color: Flower color golden yellow , fruit color brown
+size: Diameter ≥ 20 cm, height 15-20 cm
+
+caretaking:
+soil: Sandy soil
+sunlight: Like half shade, may grow in places with bright scattered light
+watering: Only need keep soil moist
+fertilization: Apply enough base fertilizers
+pruning: No need pruning
+temperature: min_temp: 10, max_temp: 32

@@ -1,0 +1,15 @@
+names:
+primula japonica, , 
+
+characteristics:
+blooming: Flowering period December-April, viewing period 1-2 weeks
+color: Flower color purple red
+size: Diameter ≥ 10 cm, height 10-25 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Likes sunshine, but avoid summer direct strong light, in summer should be placed under scattered light
+watering: Water thoroughly when soil is dry, under summer high temperature, reduce water and fertilization
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly in spring and autumn
+pruning: Remove old, diseased and dead leaves timely
+temperature: min_temp: 6, max_temp: 32

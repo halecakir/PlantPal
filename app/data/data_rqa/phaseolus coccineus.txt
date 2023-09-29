@@ -1,0 +1,15 @@
+names:
+phaseolus coccineus, , 
+
+characteristics:
+blooming: Flowering period spring summer, planted year around
+color: Flower color white, yellow, corydalis or red, fruit color white, brown, purple or with color patches
+size: Diameter ≥ 10 cm, can climb
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients, pH value 6-7
+sunlight: Grows in sunny places
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: No need to apply extra fertilizer before fruiting
+pruning: Remove aged tissues, dead, rotten, diseased leaves timely
+temperature: min_temp: 10, max_temp: 35

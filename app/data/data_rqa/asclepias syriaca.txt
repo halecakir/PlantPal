@@ -1,0 +1,15 @@
+names:
+asclepias syriaca, Common Milkweed (Asclepias syriaca), Common Milkweed
+
+characteristics:
+blooming: Flowering period nearly year around, fruiting period August-December
+color: Flower color light purple , purple red, orange
+size: Diameter ≥ 20 cm, height 15-20 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like sufficient sunlight
+watering: Only need keep soil moist
+fertilization: Apply enough base fertilizers
+pruning: In spring pruning and remove old, diseased and dead leaves timely
+temperature: min_temp: 8, max_temp: 32

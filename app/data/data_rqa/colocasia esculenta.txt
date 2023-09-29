@@ -1,0 +1,15 @@
+names:
+colocasia esculenta, , 
+
+characteristics:
+blooming: Flowering period February-April or August-September
+color: Bract color light yellow to white
+size: Diameter ≥ 20 cm, height 20-30 cm
+
+caretaking:
+soil: Planted in paddy field or dry land with deep fertile clay soil with high water retention
+sunlight: Like sunlight, and resistant to half shade
+watering: Need a lot of water
+fertilization: Apply enough base fertilizers
+pruning: Remove dead and diseased branches timely
+temperature: min_temp: 8, max_temp: 37

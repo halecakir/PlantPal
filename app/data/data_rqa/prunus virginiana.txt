@@ -1,0 +1,15 @@
+names:
+prunus virginiana, Chokecherry (Prunus virginiana), Black Chokecherry (Prunus virginiana var. melanocarpa Canada Red), Western Chokecherry (Prunus virginiana var. demissa), Chokecherry (Prunus virginiana 'Goertz'), Black Chokecherry (Prunus virginiana var. melanocarpa 'Schubert Select'), Wild Black Cherry (Prunus serotina), Black Chokecherry (Prunus virginiana var. melanocarpa), Chokecherry
+
+characteristics:
+blooming: Flowering period April-May, fruiting period May-October
+color: Flower color white, fruit color light yellow, orange red, black purple
+size: Diameter ≥ 20 cm, height 20-30 cm
+
+caretaking:
+soil: Moist fertile sandy loam
+sunlight: Like sunshine, resistant to half shade
+watering: Water thoroughly when soil is dry, avoid saturated water
+fertilization: Apply enough base fertilizers
+pruning: Remove dead and diseased branches timely
+temperature: min_temp: 5, max_temp: 35

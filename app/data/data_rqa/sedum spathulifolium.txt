@@ -1,0 +1,15 @@
+names:
+sedum spathulifolium, Pacific Stonecrop (Sedum spathulifolium), Stonecrop (Sedum spathulifolium subsp. pruinosum 'Cape Blanco'), Stonecrop (Sedum spathulifolium 'Cape Rojo'), Purdy's Stonecrop (Sedum spathulifolium subsp. purdyi), Pacific Stonecrop (Sedum spathulifolium 'Harvest Moon'), Pacific Stonecrop (Sedum spathulifolium subsp. pruinosum 'Carnea'), Broadleaf Stonecrop (Sedum spathulifolium subsp. spathulifolium), Chalk Stonecrop (Sedum spathulifolium subsp. pruinosum), Yosemite Stonecrop (Sedum spathulifolium subsp. yosemitense), Sedum (Sedum spathulifolium 'Roseum'), Stonecrop (Sedum spathulifolium 'Campbell Lake'), Sedum (Sedum spathulifolium 'Rogue River'), Purdy's Stonecrop (Sedum spathulifolium subsp. purdyi 'Applegate Green'), Broadleaf Stonecrop (Sedum spathulifolium subsp. spathulifolium 'Elephant Rock'), Stonecrop (Sedum spathulifolium subsp. pruinosum 'False Klamath Cove'), Stonecrop (Sedum spathulifolium 'Cape Green'), Stonecrop (Sedum spathulifolium subsp. pruinosum 'William Pascoe'), Chalk Stonecrop (Sedum spathulifolium subsp. pruinosum 'Purpureum'), Stonecrop (Sedum spathulifolium 'Serpentine Blue'), Pacific Stonecrop (Sedum spathulifolium subsp. spathulifolium 'Tomales Bay'), Pacific Stonecrop
+
+characteristics:
+blooming: Succulent plants, sometimes flowers with yellow flowers
+color: Flower color yellow, leaf color green, fleshy and covered with white powder
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Likes sunshine, put in sunny places, avoid strong sunlight in summer at noon
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 5, max_temp: 35

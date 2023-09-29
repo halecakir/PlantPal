@@ -1,0 +1,15 @@
+names:
+thujopsis dolabrata, Japanese Hiba Cypress (Thujopsis dolabrata), Hiba Arborvitae (Thujopsis dolabrata 'Variegata'), Hiba Arborvitae (Thujopsis dolabrata 'Nana'), Hiba Arborvitae (Thujopsis dolabrata var. dolabrata), Hiba Arborvitae (Thujopsis dolabrata var. hondae), Hiba (Thujopsis dolabrata 'Albovariegata'), Hiba (Thujopsis dolabrata 'Altissima'), Hiba (Thujopsis dolabrata 'Atrovirens'), Hiba (Thujopsis dolabrata 'Aurea'), Hiba (Thujopsis dolabrata 'Aurescens'), Hiba (Thujopsis dolabrata 'Cantab'), Hiba (Thujopsis dolabrata 'Cristata'), Hiba (Thujopsis dolabrata 'Decumbens'), Hiba (Thujopsis dolabrata 'Elegans'), Hiba (Thujopsis dolabrata 'Glauca'), Hiba (Thujopsis dolabrata 'Gracilis'), Hiba (Thujopsis dolabrata 'Krugers Findling'), Hiba (Thujopsis dolabrata 'Laetevirens'), Hiba (Thujopsis dolabrata 'Latifolia'), Hiba (Thujopsis dolabrata 'Lutea'), Japanese Hiba Cypress
+
+characteristics:
+blooming: Flowering period March-April, fruiting period September-October
+color: Leaf color green
+size: Diameter ≥ 15 cm, height ≥ 25 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like sunshine, grows in sunny places
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Pruning accordingly for any favorate tree shapes
+temperature: min_temp: 5, max_temp: 35

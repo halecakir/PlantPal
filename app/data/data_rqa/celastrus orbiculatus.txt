@@ -1,0 +1,15 @@
+names:
+celastrus orbiculatus, Oriental Bittersweet (Celastrus orbiculatus), Oriental Bittersweet (Celastrus orbiculatus 'Diana'), Oriental Bittersweet (Celastrus orbiculatus 'Hercules'), Oriental Bittersweet
+
+characteristics:
+blooming: Flowering period May-June, flowering period July-October
+color: Flower color white, green, fruit color orange red
+size: Diameter ≥ 20 cm, height ≥ 25 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Likes sunshine, put in sunny places, avoid strong sunlight in summer at noon
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 8, max_temp: 35

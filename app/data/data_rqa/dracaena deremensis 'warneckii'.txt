@@ -1,0 +1,15 @@
+names:
+dracaena deremensis 'warneckii', , 
+
+characteristics:
+blooming: Flowering period in spring and summer, fruiting period August-September
+color: Flower color white, with a broad dark green stripe in the leaf center, green on the edge
+size: Diameter ≥ 15 cm, height ≥ 25 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Take more sunlight during spring and autumn, put in places with scattered light in summer
+watering: Resistant to drought, water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 10, max_temp: 35

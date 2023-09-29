@@ -1,0 +1,15 @@
+names:
+prunus 'japan longevity', Prunus, Armenoprunus dasycarpa, Klamath plum (Prunus subcordata), Potawatomi Plum (Prunus 'Potawatomi'), Saturn Peach (Prunus persica 'Saturn'), Saturn Peach (Prunus persica 'Flat Wonderful'), Donut Peach (Prunus persica 'Donut'), Yamazakura (Prunus serrulata f. spontanea), Weeping Higan Cherry (Prunus subhirtella 'Pendula Rosea'), Catalina Cherry (Prunus lyonii), Canadian plum (Prunus nigra), Plumcot (Prunus 'Flavor Grenade'), Pluot (Prunus 'Flavor King'), Plumcot (Prunus 'Flavor Queen'), Plumcot (Prunus 'Flavorella'), Plumcot (Prunus 'Flavorich'), Plumcot (Prunus 'Flavorosa'), Almond (Prunus dulcis 'Garden Prince'), Almond (Prunus dulcis 'Neplus'), Almond (Prunus dulcis 'Nonpareil'), Prunus
+
+characteristics:
+blooming: Flowering period March-May, viewing period two-three weeks
+color: Flower color orange and white
+size: Diameter≥10cm，Height≥15cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Enjoy sufficient sunlight
+watering: Likes wet environments, water thoroughly when soil is dry, do not spray water on flowers
+fertilization: Dilute fertilizers following instructions, apply once monthly in spring and autumn
+pruning: Remove flower stem, diseased and rotten leaves timely
+temperature: min_temp: 5, max_temp: 35

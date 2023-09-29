@@ -1,0 +1,15 @@
+names:
+eustoma carmen f1 lilac, , NONE
+
+characteristics:
+blooming: Flowering period April-August, viewing period 2-3 weeks
+color: Flower color lilac
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Long-day plant, likes sunshine, but avoid very strong sunlight
+watering: Water thoroughly when soil is dry, water daily in summer
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove old, diseased and dead leaves timely
+temperature: min_temp: 8, max_temp: 32

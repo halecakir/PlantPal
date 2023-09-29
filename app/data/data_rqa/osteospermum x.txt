@@ -1,0 +1,15 @@
+names:
+osteospermum x, African Daisy (Dimorphotheca jucunda 'Blackthorn'), African Daisy (Osteospermum ecklonis 3D™ Pink), African Daisy (Osteospermum ecklonis 3D™ Purple), African Daisy (Osteospermum ecklonis 3D™ Silver), African Daisy (Osteospermum ecklonis 3D™ Coral Sand), African Daisy (Osteospermum ecklonis Zion™ Orange), African Daisy (Osteospermum ecklonis Zion™ Apricot Pink), African Daisy (Osteospermum ecklonis Zion™ Red), African Daisy (Osteospermum ecklonis Zion™ Shadow Yellow), African Daisy (Osteospermum ecklonis Zion™ Pink), African Daisy (Osteospermum ecklonis Zion™ Shadow Red), African Daisy (Osteospermum ecklonis 'Astra Purple Sunset'), African Daisy (Osteospermum ecklonis Serenity™ Lemonade), African Daisy (Osteospermum ecklonis), African Daisy (Osteospermum ecklonis Serenity™ Lavender Frost), African Daisy (Osteospermum), Cape Daisy (Osteospermum 'Asti White'), Osteospermum 'Whirligig', Cape Daisy (Osteospermum Symphony™ Cream Symphony), African Daisy (Osteospermum ecklonis 'Passion Mix'), African Daisy
+
+characteristics:
+blooming: September-November flowering period, viewing period 3-4 weeks
+color: Flower color white, blue, pink
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Likes sunshine, avoid strong direct light
+watering: Keep soil moist, water and drain timely
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: After flowering remove the withered flowers, the part on the ground will wither in winter, the plant germinates again in spring
+temperature: min_temp: 8, max_temp: 32

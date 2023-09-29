@@ -1,0 +1,15 @@
+names:
+pinus contorta, Shore Pine (Pinus contorta), Lodgepole Pine (Pinus contorta var. latifolia), Dwarf Shore Pine (Pinus contorta 'Spaan's Dwarf'), Lodgepole Pine (Pinus contorta var. latifolia 'Chief Joseph'), Lodgepole Pine (Pinus contorta 'Anna'), Lodgepole Pine (Pinus contorta 'Anna Aurea'), Lodgepole Pine (Pinus contorta 'Asher'), Lodgepole Pine (Pinus contorta 'Compacta'), Lodgepole Pine (Pinus contorta 'Fastigiata'), Lodgepole Pine (Pinus contorta 'Frisian Gold'), Lodgepole Pine (Pinus contorta 'Golden Striker'), Lodgepole Pine (Pinus contorta 'Inverewe'), Lodgepole Pine (Pinus contorta 'Krňák'), Lodgepole Pine (Pinus contorta 'Mt Hood Marble'), Lodgepole Pine (Pinus contorta 'Mt Hood Variegated'), Lodgepole Pine (Pinus contorta 'Pendula'), Lodgepole Pine (Pinus contorta 'Rand'), Lodgepole Pine (Pinus contorta 'Rustic'), Lodgepole Pine (Pinus contorta 'San Bernadino'), Lodgepole Pine (Pinus contorta 'Shaw WB'), Shore Pine
+
+characteristics:
+blooming: Foliage plants, flowering period April-May
+color: Leaf needle shape, green, fruit color from green or purple gradually turn to yellow, ale brown or dark brown
+size: Diameter ≥ 15 cm, height ≥ 25 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like sunshine, grows in sunny places
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove dead, rotten, diseased leaves and the parts that may affect the good appearance
+temperature: min_temp: 5, max_temp: 35

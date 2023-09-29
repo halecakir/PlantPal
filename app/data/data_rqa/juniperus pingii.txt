@@ -1,0 +1,15 @@
+names:
+juniperus pingii, , 
+
+characteristics:
+blooming: Flowering period April-May, flowering period March-May, fruiting period October-November in the next year
+color: Leaf color green , fruit color black
+size: Diameter ≥ 15 cm, height ≥ 25 cm
+
+caretaking:
+soil: Calcareous soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, grows in sunny places
+watering: Resistant to drought, water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove dead, rotten, diseased leaves and the parts that may affect the good appearance
+temperature: min_temp: 5, max_temp: 35

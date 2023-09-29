@@ -1,0 +1,15 @@
+names:
+chamaedorea elegans, , 
+
+characteristics:
+blooming: Foliage plants, sometimes flowering in April-May, yellow flowers
+color: Leaf color emerald green , dark green
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Peat mixed with coarse sand soil
+sunlight: Relatively resistant to shade, likes half shade environments
+watering: Likes wet environments, keep it relatively wet rather than dry, reduce watering in winter
+fertilization: Dilute fertilizers following instructions,  apply 1-2 times monthly in spring
+pruning: Remove dead and yellowish leaves timely
+temperature: min_temp: 10, max_temp: 32

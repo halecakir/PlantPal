@@ -1,0 +1,15 @@
+names:
+aesculus indica, , 
+
+characteristics:
+blooming: Flowering period April-May, fruiting period October
+color: Flower color white, yellow, pink
+size: Diameter ≥ 20 cm, height 15-20 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like sunshine
+watering: Keep soil moist
+fertilization: Apply enough base fertilizers
+pruning: In spring pruning and remove old, diseased and dead leaves timely
+temperature: min_temp: 10, max_temp: 35

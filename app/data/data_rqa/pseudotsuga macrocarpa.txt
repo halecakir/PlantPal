@@ -1,0 +1,15 @@
+names:
+pseudotsuga macrocarpa, , 
+
+characteristics:
+blooming: Flowering period April, fruiting period October-November
+color: Leaf color dark green , fruit color brown
+size: Diameter ≥ 15 cm, height ≥ 30 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like sunshine, slight shade tolerance
+watering: Water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 5, max_temp: 35

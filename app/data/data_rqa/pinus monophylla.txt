@@ -1,0 +1,15 @@
+names:
+pinus monophylla, Singleleaf Pinyon Pine (Pinus monophylla), Singleleaf Pinyon Pine (Pinus monophylla 'Blue Jazz'), Singleleaf Pinyon Pine (Pinus monophylla 'Elegance'), Singleleaf Pinyon Pine (Pinus monophylla 'Miney'), Singleleaf Pinyon Pine (Pinus monophylla 'Moe'), Singleleaf Pinon (Pinus monophylla 'San Bernardino'), Singleleaf Pinyon Pine (Pinus monophylla 'Stanley’s Pyramid'), Singleleaf Pinyon Pine (Pinus monophylla 'Sunrise'), Singleleaf Pinyon Pine (Pinus monophylla 'The Brad'), Singleleaf Pinyon Pine (Pinus monophylla 'Tioga Pass'), Singleleaf Pinyon Pine (Pinus monophylla 'Whistle'), Singleleaf Pinyon Pine (Pinus monophylla 'Wiggle'), Singleleaf Pinyon Pine (Pinus monophylla 'Wizard'), Singleleaf Pinyon Pine (Pinus monophylla 'Wrinkle'), Singleleaf Pinon (Pinus monophylla 'Starlight'), Singleleaf Pinon (Pinus monophylla 'Xeric Blue'), Swiss Stone Pine (Pinus cembra 'Monophylla'), Japanese Red Pine (Pinus densiflora 'Monophylla'), Maritime Pine (Pinus pinaster  'Monophylla'), Eastern White Pine (Pinus strobus 'Monophylla'), Singleleaf Pinyon Pine
+
+characteristics:
+blooming: Foliage plants, flowering period April-May
+color: Leaf needle shape, green, fruit color from green or purple gradually turn to yellow, ale brown or dark brown
+size: Diameter ≥ 15 cm, height ≥ 25 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like sunshine, grows in sunny places
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove dead, rotten, diseased leaves and the parts that may affect the good appearance
+temperature: min_temp: 5, max_temp: 35

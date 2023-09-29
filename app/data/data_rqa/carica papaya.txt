@@ -1,0 +1,15 @@
+names:
+carica papaya, Papaya (Carica papaya), Papaya (Carica papaya 'Formosa'), Dwarf Papaya (Carica papaya 'T.R. Hovey'), Papaya (Carica papaya 'Sunset'), Papaya (Carica papaya 'Red Lady'), Papaya (Carica papaya 'Hawaii Ouro'), Papaya (Carica papaya 'Tainung'), Papaya (Carica papaya 'Maradol'), Carica papaya 'Sunrise', Papaya (Carica 'Sweet Honey Dew'), Papaya (Carica 'Surya Pink Flesh'), Papaya (Carica 'Pusa Majesty'), Papaya (Carica 'Pusa Delicious'), Papaya (Carica 'Pusa Dwarf'), Papaya (Carica 'Pusa Giant'), Papaya (Carica 'Punjab Sweet'), Papaya (Carica), Mountain Papaya (Vasconcellea pubescens), Vasconcellea aurantiaca, Vasconcellea quercifolia, Papaya
+
+characteristics:
+blooming: Reproductive period year around
+color: Flower color yellow white , fruit color orange or yellow
+size: Diameter ≥ 40 cm, height ≥ 80 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Likes sunshine, put in sunny places, avoid strong sunlight in summer at noon
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 8, max_temp: 35

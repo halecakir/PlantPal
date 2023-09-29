@@ -1,0 +1,15 @@
+names:
+nandina domestica, Heavenly Bamboos (Nandina domestica), Dwarf Nandina (Nandina domestica 'Filamentosa'), Dwarf Nandina (Nandina domestica 'Compacta'), Dwarf Nandina (Nandina domestica 'Harbour Dwarf'), Dwarf Nandina (Nandina domestica 'Moyers Red'), Dwarf Heavenly Bamboo (Nandina domestica 'Woods Dwarf'), Dwarf Heavenly Bamboo (Nandina domestica 'Robinet'), Heavenly Bamboo (Nandina domestica 'Pygmaea'), Heavenly Bamboo (Nandina domestica 'Nana Purpurea'), Dwarf Nandina (Nandina domestica 'Fire Power'), Heavenly Bamboo (Nandina domestica 'Royal Princess'), Heavenly Bamboo (Nandina domestica 'Umpqua Chief'), Heavenly Bamboo (Nandina domestica 'Umpqua Princess'), Heavenly Bamboo (Nandina domestica 'Umpqua Warrior'), Heavenly Bamboo (Nandina domestica Harbor Belle™), Heavenly Bamboo (Nandina domestica 'Firehouse'), Heavenly Bamboo (Nandina domestica 'Moon Bay'), Heavenly Bamboo (Nandina domestica Plum Passion®), Heavenly Bamboo (Nandina domestica 'Richmond'), Heavenly Bamboo (Nandina domestica 'Gulf Stream'), Heavenly Bamboos
+
+characteristics:
+blooming: Foliage plants, sometimes flowers in March-June, white flowers
+color: Young leaf color red, old leaves green, in winter turn to red
+size: Diameter ≥ 10 cm, height ≥ 10 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Resistant to shade, put in places with bright scattered light, in winter may take 2-3h sunlight
+watering: Likes wet environments, water thoroughly when soil is dry, rub leaves with water in summer
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly in the growing season, stop in winter
+pruning: Remove dead leaves timely
+temperature: min_temp: 8, max_temp: 35

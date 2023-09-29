@@ -1,0 +1,15 @@
+names:
+breynia nivosa, Hawaiian Snowbush (Breynia disticha), Hawaiian Snowbush
+
+characteristics:
+blooming: Flowering period during summer and autumn
+color: Flower color red, orange; leaf color green with white or pink spots
+size: Diameter≥10cm，Height≥15cm
+
+caretaking:
+soil: Loose, fertile, and well-drained loam soil
+sunlight: Enjoy sufficient sunlight, and resistant to half shade
+watering: Resistant to drought, water thoroughly when soil surface is dry
+fertilization: Fertilize every 15 days during spring and autumn
+pruning: Remove old, diseased and dead leaves timely
+temperature: min_temp: 10, max_temp: 30

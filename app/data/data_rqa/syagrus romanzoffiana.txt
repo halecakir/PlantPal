@@ -1,0 +1,15 @@
+names:
+syagrus romanzoffiana, , 
+
+characteristics:
+blooming: Flowering period February, fruiting period November-March
+color: Flower color yellow
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Likes warm, moist, sunny and airy environment
+watering: During March to October, water every day, keep soil moist in other seasons
+fertilization: Apply organic fertilizers in May to October once every 1-2 weeks
+pruning: Remove dead and diseased branches timely
+temperature: min_temp: 8, max_temp: 35

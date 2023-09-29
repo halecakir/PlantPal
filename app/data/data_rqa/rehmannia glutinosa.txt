@@ -1,0 +1,15 @@
+names:
+rehmannia glutinosa, Chinese Foxglove (Rehmannia glutinosa), Chinese Foxglove
+
+characteristics:
+blooming: Flowering and fruiting period April-July
+color: Leaf color green , flower color light red purple
+size: Diameter ≥ 5 cm, height 5-30 cm
+
+caretaking:
+soil: Likes loose and breathable sandy loam
+sunlight: Like adequate light
+watering: Water thoroughly after soil surface dries
+fertilization: Apply enough base fertilizers before transplanting
+pruning: Remove withered flowers, dead and diseased leaves timelyremove withered flowers, old, diseased, and dead leaves timely
+temperature: min_temp: 5, max_temp: 30

@@ -1,0 +1,15 @@
+names:
+momordica charantia, Bitter Gourd (Momordica charantia), Momordica charantia subsp. charantia, Balsam Pear (Momordica charantia 'Kiew Yoke 42'), Bitter gourd (Momordica charantia 'Sharp Bite'), Bitter Gourd (Momordica charantia 'Slender Star'), Bitter Gourd (Momordica charantia 'Straight Jack'), Bitter Gourd (Momordica charantia 'Sharp Green'), Bitter Gourd (Momordica charantia 'Sharp White'), Bitter Gourd (Momordica charantia 'Light 'N' Slender'), Bitter Gourd (Momordica charantia 'Canton Green'), Bitter Gourd (Momordica charantia 'Dah Ding'), Bitter Gourd (Momordica charantia 'Delica Green'), Bitter Gourd (Momordica charantia 'Long White'), Bitter Gourd (Momordica charantia 'Delica No.1'), Bitter Gourd (Momordica charantia 'Delica Thorn'), Bitter Gourd (Momordica charantia 'Green Jade'), Bitter Gourd (Momordica charantia 'CK-10'), Bitter Gourd (Momordica charantia 'Large Bua Khao'), Bitter Gourd (Momordica charantia 'China Girl'), Bitter Gourd (Momordica charantia 'Raja'), Bitter Gourd
+
+characteristics:
+blooming: Flowering and fruit period 5-10月
+color: Flower coloryellow，Fruit colorgreen
+size: Diameter≥10cm
+
+caretaking:
+soil: Loose, fertile, and well-drained loam soil, pH value between 6-6.5
+sunlight: Enjoy sunlight
+watering: Like moist very much, especially during flowering and fruiting time
+fertilization: Like fertilizer very much, apply more fertilizer during growing and fruiting period
+pruning: Remove flower stem, diseased and rotten leaves timely and harvest tender melons about 20 days after flowering
+temperature: min_temp: 8, max_temp: 35

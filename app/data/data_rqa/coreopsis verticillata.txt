@@ -1,0 +1,15 @@
+names:
+coreopsis verticillata, Threadleaf Coreopsis (Coreopsis verticillata), Tickseed (Coreopsis verticillata 'Grandiflora'), Tickseed (Coreopsis verticillata 'Golden Gain'), Threadleaf Coreopsis (Coreopsis verticillata 'Moonbeam'), Threadleaf Coreopsis (Coreopsis verticillata 'Rosea'), Threadleaf Coreopsis (Coreopsis verticillata 'Creme Brulee'), Threadleaf Coreopsis (Coreopsis verticillata 'Alba'), Tickseed Coreopsis (Coreopsis verticillata Cruizin'™ Broad Street), Threadleaf Coreopsis (Coreopsis verticillata 'Lightning Bug'), Threadleaf Coreopsis (Coreopsis verticillata 'Buttermilk'), Threadleaf Coreopsis (Coreopsis verticillata 'Ladybird'), Threadleaf Coreopsis (Coreopsis verticillata 'Hot Paprika'), Threadleaf Coreopsis (Coreopsis verticillata 'Curry Up'), Threadleaf Coreopsis (Coreopsis verticillata 'Crazy Cayenne'), Tickseed (Coreopsis verticillata 'Sienna Sunset'), Tickseed (Coreopsis verticillata 'Zagreb'), Tickseed (Coreopsis verticillata 'Sweet Marmalade'), Tickseed (Coreopsis verticillata Cruizin'™ Electric Avenue), Threadleaf Coreopsis (Coreopsis verticillata Creme Caramel™), Threadleaf Coreopsis (Coreopsis verticillata 'Zesty Zinger'), Threadleaf Coreopsis
+
+characteristics:
+blooming: September-November flowering period, viewing period 3-4 weeks
+color: Flower color yellow
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Likes sunshine, avoid strong direct light
+watering: Keep soil moist, water and drain timely
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: After flowering remove the withered flowers, the part on the ground will wither in winter, the plant germinates again in spring
+temperature: min_temp: 8, max_temp: 32

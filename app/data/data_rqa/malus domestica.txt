@@ -1,0 +1,15 @@
+names:
+malus domestica, Apple (Malus domestica), Apple (Malus domestica 'Empire'), Flowering Crabapple (Malus domestica 'Pink Princess'), Apple (Malus domestica 'Caitlin'), Dwarf Apple (Malus domestica 'Campbell Spur'), Apple (Malus domestica 'Co-op 30'), Apple (Malus domestica 'Co-op 38'), Dwarf Apple (Malus domestica 'Dewar'), Dwarf Apple (Malus domestica 'Griffith'), Dwarf Apple (Malus domestica 'Lonacre'), Dwarf Apple (Malus domestica 'MN 1711'), Apple (Malus domestica 'Nagafu 6'), Apple (Malus domestica 'Taylor'), Standard Apple (Malus domestica 'Tenroy'), Dwarf Apple (Malus domestica 'Thornton'), Apple (Malus domestica 'Ein Shemer'), Apple (Malus domestica 'Jonathan'), Apple (Malus domestica 'Sergeant Red Delicious'), Russet Apple (Malus domestica 'Egremont Russet'), Apple (Malus domestica 'Minkler'), Apple
+
+characteristics:
+blooming: Flowering period May, fruiting period July-October
+color: Flower color white with pink, fruit color red, green and yellow
+size: Diameter ≥ 40 cm, height ≥ 80 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, high quality fruits in sunny places
+watering: Need a lot of water, water thoroughly after soil surface dries
+fertilization: Dilute fertilizers following instructions, apply 2-3 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 5, max_temp: 35

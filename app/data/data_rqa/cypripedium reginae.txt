@@ -1,0 +1,15 @@
+names:
+cypripedium reginae, , 
+
+characteristics:
+blooming: Flowering period June-July
+color: Flower color yellow, purple red
+size: Diameter ≥ 15 cm, height ≥ 25 cm
+
+caretaking:
+soil: Slightly acidic sandy soil with loose texture or special humus soil
+sunlight: Like half shade, grows in places with scattered light or shade properly, avoid direct light
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead, rotten, diseased leaves timely
+temperature: min_temp: 5, max_temp: 32

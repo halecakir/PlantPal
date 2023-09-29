@@ -1,0 +1,15 @@
+names:
+lobelia erinus, Annual Lobelia (Lobelia erinus), Edging Lobelia (Lobelia erinus 'Sapphire'), Edging Lobelia (Lobelia erinus 'Midnight Blue'), Edging Lobelia (Lobelia erinus Laguna™ Compact Blue with Eye), Edging Lobelia (Lobelia erinus 'Cambridge Blue'), Edging Lobelia (Lobelia erinus 'Crystal Palace'), Edging Lobelia (Lobelia erinus 'Fountain White'), Edging Lobelia (Lobelia erinus 'Regatta Marine Blue'), Edging Lobelia (Lobelia erinus 'Blue Splash'), Edging Lobelia (Lobelia erinus 'Regatta Mix'), Edging Lobelia (Lobelia erinus 'Lilac Compact'), Edging Lobelia (Lobelia erinus 'Emperor William'), Edging Lobelia (Lobelia erinus 'Big Blue'), Edging Lobelia (Lobelia erinus 'Lilac Cascade'), Edging Lobelia (Lobelia erinus 'Fountain Blue'), Edging Lobelia (Lobelia erinus 'Fountain Crimson'), Edging Lobelia (Lobelia erinus 'Red Cascade'), Edging Lobelia (Lobelia erinus Laguna™ Dark Blue), Edging Lobelia (Lobelia erinus 'Riviera Lilac'), Edging Lobelia (Lobelia erinus Laguna™ Heavenly Lilac), Annual Lobelia
+
+characteristics:
+blooming: Flowering period July-September, viewing period 1-2 weeks
+color: Flower color blue purple , white
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like adequate light, long-day plant, shade properly under summer strong light
+watering: Water thoroughly after soil surface dries
+fertilization: Dilute fertilizers following instructions, apply once monthly in spring
+pruning: Remove withered flowers, old, diseased, and dead leaves timely
+temperature: min_temp: 6, max_temp: 35

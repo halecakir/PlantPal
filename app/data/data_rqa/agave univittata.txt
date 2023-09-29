@@ -1,0 +1,15 @@
+names:
+agave univittata, , 
+
+characteristics:
+blooming: Succulent plants, sometimes flowers, yellow green flowers
+color: Leaf color green or green and yellow in mixture
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Peat soil or soil with specific nutrients
+sunlight: Likes adequate sunshine, shade properly under summer strong light
+watering: Resistant to drought, water thoroughly when soil is dry, water more frequently in summer, reduce water in winter dormancy
+fertilization: Dilute fertilizers following instructions, in summer and autumn apply fertilizers once monthly
+pruning: Remove dead, yellowish and disease leaves timely
+temperature: min_temp: 7, max_temp: 35

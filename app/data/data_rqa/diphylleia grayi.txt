@@ -1,0 +1,15 @@
+names:
+diphylleia grayi, Umbrella Leaf (Diphylleia grayi), Umbrella Leaf
+
+characteristics:
+blooming: Flowering period May-June
+color: Flower color white or fuchsia, petals become transparent when wet, fruit color blue black
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Put in places with scattered light
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead, rotten, diseased leaves timely
+temperature: min_temp: 10, max_temp: 32

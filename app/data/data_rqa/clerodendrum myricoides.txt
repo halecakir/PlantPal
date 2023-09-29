@@ -1,0 +1,15 @@
+names:
+clerodendrum myricoides, Blue Glory Bower (Rotheca myricoides), Blue Glorybower (Rotheca myricoides subsp. myricoides), Blue Glory Bower
+
+characteristics:
+blooming: Flowering and fruiting period June to February
+color: Flower color white, light yellow, fruit color blue purple
+size: Diameter ≥ 20 cm, height 20-30 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like half shade, may grow in places with bright scattered light
+watering: Keep soil moist
+fertilization: Mainly use base fertilizers
+pruning: Remove dead and diseased branches timely
+temperature: min_temp: 8, max_temp: 32

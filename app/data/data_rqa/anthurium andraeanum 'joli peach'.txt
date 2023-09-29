@@ -1,0 +1,15 @@
+names:
+anthurium andraeanum 'joli peach', Flamingo Flower (Anthurium andraeanum), Flamingo Flower (Anthurium 'Tropic Fire'), Flamingo Flower (Anthurium 'Champion'), Flamingo Flower (Anthurium 'White Frost'), Flamingo Flower (Anthurium 'Orange Hot'), Flamingo Flower (Anthurium 'Royal Flush'), Obake Hybrid (Anthurium 'Rainbow'), Obake Hybrid (Anthurium 'Oshiro'), Obake Hybrid (Anthurium 'Pearl'), Obake Hybrid (Anthurium 'Kimi'), Flamingo Flower (Anthurium 'Acropolis'), Tail Flower (Anthurium 'Sunglow'), Tail Flower (Anthurium 'Margarita'), Flamingo Flower (Anthurium 'Red Beauty'), Flamingo Flower (Anthurium 'Kohara Double'), Obake Hybrid (Anthurium 'Sarah'), Flamingo Flower (Anthurium 'Misty Rose'), Obake Hybrid (Anthurium 'Mauna Kea'), Obake Hybrid (Anthurium 'Kalapana'), Flamingo Flower (Anthurium Miami Beauty), Flamingo Flower
+
+characteristics:
+blooming: Flowers year around with spathe flower, viewing period 2-3 months
+color: Leaf color green , bract pink
+size: Diameter ≥ 10 cm, height 16-20 cm
+
+caretaking:
+soil: Peat covered with a layer of sphagnum moss on soil surface to keep moisture
+sunlight: Likes moderate sunlight, resistant to half shade
+watering: Likes wet environments, water thoroughly when soil is dry, may spray water in the air or on leaves, reduce water in winter, keep soil moist
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove rotten roots, old diseased and dead leaves timely
+temperature: min_temp: 15, max_temp: 32

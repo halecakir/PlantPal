@@ -1,0 +1,15 @@
+names:
+coriandrum sativum l., Cilantros (Coriandrum sativum), Slow Bolt Cilantro (Coriandrum sativum 'Santo'), Cilantro (Coriandrum sativum 'Chechnya'), Slow Bolt Cilantro (Coriandrum sativum 'Jantar'), Cilantro (Coriandrum sativum 'Delfino'), Coriander (Coriandrum sativum 'Glory TW'), Coriander (Coriandrum sativum 'Major'), Coriander (Coriandrum sativum 'Minor'), Cilantro (Coriandrum sativum 'Moroccan'), Cilantro (Coriandrum sativum 'Leisure'), Cilantro (Coriandrum sativum 'Hacor'), Coriander (Coriandrum sativum 'Lemon'), Cilantro (Coriandrum sativum 'Confetti'), Cilantro (Coriandrum sativum 'Calypso'), Cilantro (Coriandrum sativum 'Pokey Jo'), Cilantro (Coriandrum sativum 'La Reina Baja'), Cilantro (Coriandrum sativum 'Desert Blush'), Cilantro (Coriandrum sativum 'Bac Lieu'), Cilantros
+
+characteristics:
+blooming: Flowering and fruiting period April-November
+color: Flower color white or with light purple, leaf color green
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients, pH 5-7
+sunlight: Grows in sunny places and resistant to half shade
+watering: Likes wet environments, water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead, rotten, diseased leaves timely
+temperature: min_temp: 5, max_temp: 35

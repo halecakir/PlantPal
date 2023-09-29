@@ -1,0 +1,15 @@
+names:
+lobelia cardinalis, Cardinal Flower (Lobelia cardinalis), White Lobelia (Lobelia cardinalis 'Gladys Lindley'), Cardinal Flower (Lobelia cardinalis 'Fried Green Tomatoes'), Cardinal Flower (Lobelia cardinalis 'Shrimp Salad'), Cardinal Flower (Lobelia cardinalis 'Alba'), Cardinal Flower (Lobelia cardinalis 'Black Truffle'), Lobelia cardinalis 'Eulalia Berridge', Cardinal Flower (Lobelia cardinalis 'Sitting Bull Falls Pink'), Lobelia cardinalis 'Elmfeuer', Cardinal Flower
+
+characteristics:
+blooming: Flowering period May-August, viewing period 1-2 weeks
+color: Flower color red
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like adequate light, shade properly under summer strong light
+watering: Water thoroughly after soil surface dries
+fertilization: Dilute fertilizers following instructions, apply once monthly in spring
+pruning: Remove withered flowers, old, diseased, and dead leaves timely
+temperature: min_temp: 5, max_temp: 35

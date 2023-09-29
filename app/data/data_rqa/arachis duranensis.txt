@@ -1,0 +1,15 @@
+names:
+arachis duranensis, Arachis duranensis, Arachis duranensis
+
+characteristics:
+blooming: Flowering period March-September
+color: Flower color yellow
+size: Diameter ≥ 10 cm, height ≥ 10 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Likes light, has a strong resistance to shade
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove diseased, yellowing leaves timely
+temperature: min_temp: 5, max_temp: 32

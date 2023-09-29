@@ -1,0 +1,15 @@
+names:
+raphanus sativus, Radishes (Raphanus sativus), Oriental Radish (Raphanus sativus var. sativus), Radish (Raphanus sativus 'French Breakfast'), White Radish (Raphanus sativus 'Miyashige'), Radish (Raphanus sativus 'Black Spanish'), Radish (Raphanus sativus 'D'Avignon'), Radish (Raphanus sativus 'Cherry Belle'), Daikon Radish (Raphanus sativus 'Summer Cross'), Radish (Raphanus sativus 'White Icicle'), Radish (Raphanus sativus 'Champion'), Radish (Raphanus sativus 'Easter Egg'), Chinese Radish (Raphanus sativus 'Rose Heart'), Radish (Raphanus sativus 'Bartender Red Mammoth'), Radish (Raphanus sativus 'German Giant'), Chinese Radish (Raphanus sativus 'Green Heart'), Daikon Radish (Raphanus sativus 'Minowase Summer Cross #3'), Radish (Raphanus sativus 'Early Scarlet Globe'), Radish (Raphanus sativus 'Turnip-tip Globe'), Radish (Raphanus sativus 'Discovery'), Oriental Radish (Raphanus sativus 'Wakayama White'), Radishes
+
+characteristics:
+blooming: Flowering period April-May, fruiting period May-June
+color: Flower color white or pink, fruit color green, white or red
+size: Diameter ≥ 10 cm, height ≥ 20 cm
+
+caretaking:
+soil: Acidic soil with loose texture or soil with specific nutrients, pH value 6-8
+sunlight: High quality fruits in sunny places
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead, rotten, diseased leaves timely
+temperature: min_temp: 5, max_temp: 35

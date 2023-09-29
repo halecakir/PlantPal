@@ -1,0 +1,15 @@
+names:
+araucaria bidwillii l., , 
+
+characteristics:
+blooming: Foliage plants, viewing period year around
+color: Leaf color green
+size: Diameter ≥ 15 cm, height ≥ 30 cm
+
+caretaking:
+soil: Fertile soil or special humus soil
+sunlight: Like sunshine, slight shade tolerance
+watering: Water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 5, max_temp: 35

@@ -1,0 +1,15 @@
+names:
+hibiscus sabdariffa, Roselle (Hibiscus sabdariffa), Roselle (Hibiscus sabdariffa 'Jamaican Cocktail'), Roselle Hibiscus (Hibiscus sabdariffa 'Thai Red'), Roselle
+
+characteristics:
+blooming: Flowering period10-11月
+color: Flower color pink, sepals purple red
+size: Diameter≥10cm，Height≥15cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Enjoy sunlight, short day plant
+watering: Water thoroughly when the soil surface is dry, reduce water in winter, wipe leaves everyday
+fertilization: Dilute fertilizers following instructions, apply once monthly in spring and autumn
+pruning: Remove flower stem, diseased and rotten leaves timely
+temperature: min_temp: 8, max_temp: 35

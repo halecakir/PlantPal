@@ -1,0 +1,15 @@
+names:
+helleborus sternii, Hellebore (Helleborus x sternii 'Clifton'), Hellebore (Helleborus x sternii 'Boughton Beauty'), Hellebore (Helleborus x sternii 'Silver Dollar'), Hellebore (Helleborus x sternii 'Hot Flash'), Hellebore (Helleborus x sternii), Hellebore (Helleborus x sternii 'Ashbourne Silver'), Hellebore (Helleborus x sternii 'Fire and Ice'), Hellebore (Helleborus x sternii 'Windcliff Strain'), Hellebore
+
+characteristics:
+blooming: Flowering period April, fruiting period May
+color: Flower color green
+size: Diameter ≥ 20 cm, height 20-30 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like half shade, may grow in places with bright scattered light
+watering: Keep soil moist during the growing season
+fertilization: Top-dressing 3 times every year
+pruning: Remove dead and diseased branches timely
+temperature: min_temp: 8, max_temp: 32

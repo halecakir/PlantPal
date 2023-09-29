@@ -1,0 +1,15 @@
+names:
+zoysia tenuifolia, Mascarene Grass (Zoysia tenuifolia), Mascarene Grass
+
+characteristics:
+blooming: Flowering and fruiting period May-September
+color: Flower color light yellow green, purple brown
+size: Diameter ≥ 20 cm, height 15-20 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like sunshine, put in warm places with adequate light
+watering: Only need keep soil moist
+fertilization: Apply enough base fertilizers
+pruning: No need pruning
+temperature: min_temp: 8, max_temp: 35

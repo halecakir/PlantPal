@@ -1,0 +1,15 @@
+names:
+gerbera royal f1 'deep rose 33', , 
+
+characteristics:
+blooming: Flowering period November-April, viewing period 3-4 weeks
+color: Flower color deep rose
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Likes sunshine, avoid strong direct light, but also tolerates shade
+watering: Keep soil moist, water and drain timely
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: After flowering remove the withered flowers, the part on the ground will wither in winter, the plant germinates again in spring
+temperature: min_temp: 12, max_temp: 33

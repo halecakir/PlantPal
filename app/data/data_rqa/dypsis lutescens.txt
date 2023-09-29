@@ -1,0 +1,15 @@
+names:
+dypsis lutescens, , 
+
+characteristics:
+blooming: Foliage plants, often flowers in May, yellow flowers
+color: Leaf color tender green
+size: Diameter ≥ 10 cm, height ≥ 10 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like half shade, in winter may take 2-3h sunlight
+watering: Likes wet environments, water thoroughly when soil is dry
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly in spring and autumn
+pruning: Remove dead leaves timely
+temperature: min_temp: 10, max_temp: 35

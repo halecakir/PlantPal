@@ -1,0 +1,15 @@
+names:
+podophyllum hexandrum, Himalayan Mayapple (Sinopodophyllum hexandrum subsp. hexandrum), Himalayan Mayapple (Sinopodophyllum hexandrum subsp. hexandrum 'Majus'), Sinopodophyllum hexandrum, Sinopodophyllum hexandrum subsp. ramgopalii, Himalayan Mayapple
+
+characteristics:
+blooming: Flowering period May-June, flowering period July-September
+color: Flower color pink, fruit color orange red
+size: Diameter ≥ 20 cm, height 15-20 cm
+
+caretaking:
+soil: Humus-rich loam
+sunlight: Likes warm moist and half shaded environments
+watering: Only need keep soil moist
+fertilization: Apply enough base fertilizers
+pruning: Remove old, diseased and dead leaves timely
+temperature: min_temp: 8, max_temp: 35

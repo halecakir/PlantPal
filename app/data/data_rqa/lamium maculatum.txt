@@ -1,0 +1,15 @@
+names:
+lamium maculatum, , 
+
+characteristics:
+blooming: Flowering period April-June, fruiting period June-August
+color: Flower color white, purple red
+size: height ≥ 1m, diameter ≥ 2 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like sunlight, avoid too strong light in summer
+watering: Resistant to drought, but water more in summer and flowering time
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 8, max_temp: 35

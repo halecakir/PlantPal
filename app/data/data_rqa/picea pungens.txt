@@ -1,0 +1,15 @@
+names:
+picea pungens, , 
+
+characteristics:
+blooming: Flowering period April-May, fruiting period September-October
+color: Leaf color blue green, fruit color red brown
+size: Diameter ≥ 15 cm, height ≥ 30 cm
+
+caretaking:
+soil: Fertile sandy loam or soil with specific nutrients
+sunlight: Like sunshine, resistant to half shade, good growth under sunlight
+watering: Water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove dead, rotten, diseased leaves and the parts that may affect the good appearance
+temperature: min_temp: 6, max_temp: 35

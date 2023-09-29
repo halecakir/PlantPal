@@ -1,0 +1,15 @@
+names:
+arabidopsis thaliana, Mouseear Cress (Arabidopsis thaliana), Mouseear Cress
+
+characteristics:
+blooming: Flowering period April-June
+color: Flower color white
+size: Diameter 3-5cm，height 15-25cm
+
+caretaking:
+soil: Like acid soil, peat or humus mixed with perlite as 3:1
+sunlight: Long day plant, like bright sunlight, 5000-10000lux is recommended
+watering: Water thoroughly when soil surface is dry
+fertilization: Fertilize low concerntration before opening flowers
+pruning: Remove flower stem, diseased and rotten leaves timely
+temperature: min_temp: 10, max_temp: 35

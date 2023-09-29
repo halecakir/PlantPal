@@ -1,0 +1,15 @@
+names:
+fagus sylvatica, European Beech (Fagus sylvatica), Weeping European Beech (Fagus sylvatica 'Pendula'), European Beech (Fagus sylvatica 'Purpurea Pendula'), European Beech (Fagus sylvatica 'Purpurea Tricolor'), European Beech (Fagus sylvatica 'Riversii'), European Beech (Fagus sylvatica 'Rohanii'), Upright European Beech (Fagus sylvatica 'Fastigiata'), European Beech (Fagus sylvatica 'Laciniata'), European Beech (Fagus sylvatica 'Asplenifolia'), Purple European Beech (Fagus sylvatica 'Atropunicea'), European Beech (Fagus sylvatica 'Black Swan'), European Beech (Fagus sylvatica 'Cochleata'), European Beech (Fagus sylvatica 'Cockleshell'), European Beech (Fagus sylvatica 'Cristata'), European Beech (Fagus sylvatica 'Dawyck Gold'), European Beech (Fagus sylvatica 'Dawyck Purple'), European Beech (Fagus sylvatica 'Interrupta Purpurea'), European Beech (Fagus sylvatica 'Luteovariegata'), European Beech (Fagus sylvatica 'Miltonensis'), Weeping European Beech (Fagus sylvatica 'Purple Fountain'), European Beech
+
+characteristics:
+blooming: Flowering period March-April, flowering period July-August
+color: Flower color green, light yellow
+size: Diameter ≥ 20 cm, height ≥ 25 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, slight shade tolerance
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 5, max_temp: 35

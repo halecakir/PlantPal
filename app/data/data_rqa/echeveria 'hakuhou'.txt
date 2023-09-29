@@ -1,0 +1,15 @@
+names:
+echeveria 'hakuhou', Echeveria 'Hakuhou', Echeveria 'Hakuhou'
+
+characteristics:
+blooming: Succulent plants, sometimes flowers, orange red flowers
+color: Leaf color green, with strong light leaf turn to red
+size: Diameter ≥ 3 cm, height ≥ 5 cm
+
+caretaking:
+soil: Peat and akadama mixed in 3:1 ratio
+sunlight: Like sunshine, no apparent period of dormancy
+watering: Do not water frequently, keep a dry environment, water every 7-10 days
+fertilization: Dilute fertilizers following instructions, apply once every month
+pruning: Remove dead and rotten part timely
+temperature: min_temp: 6, max_temp: 35

@@ -1,0 +1,15 @@
+names:
+citrullus lanatus, Watermelons (Citrullus lanatus), Watermelon (Citrullus lanatus 'Orange Tendersweet'), Citrullus lanatus var. lanatus, Watermelon (Citrullus lanatus 'Moon and Stars'), Watermelon (Citrullus lanatus 'Bambino'), Watermelon (Citrullus lanatus 'Million Bucks'), Watermelon (Citrullus lanatus 'Cooter Black'), Watermelon (Citrullus lanatus 'Sweet Princess'), Watermelon (Citrullus lanatus 'Charleston Grey'), Watermelon (Citrullus lanatus 'Black Diamond'), Watermelon (Citrullus lanatus 'Dixie Queen'), Watermelon (Citrullus lanatus 'Halbert Honey'), Watermelon (Citrullus lanatus 'Chris-Cross'), Watermelon (Citrullus lanatus 'New Hampshire Midget'), Watermelon (Citrullus lanatus 'Stone Mountain'), Watermelon (Citrullus lanatus 'Georgia Rattlesnake'), Watermelon (Citrullus lanatus 'Wilson Sweet'), Watermelon (Citrullus lanatus 'Mountain Sweet'), Watermelon (Citrullus lanatus 'Mountain Hoosier'), Watermelon (Citrullus lanatus 'Sugar Baby'), Watermelons
+
+characteristics:
+blooming: Flowering period April-July, fruiting period July-September
+color: Flower color yellow, fruit color green, dark green, yellow
+size: Diameter 25-35 cm, can climb
+
+caretaking:
+soil: Peat or soil with specific nutrients, pH value between 6-7
+sunlight: Like sunshine, high quality fruits in sunny places
+watering: Resistant to drought, water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply fertilizers one to twice on average in each month, 2-3 times in fruiting stages
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 10, max_temp: 40

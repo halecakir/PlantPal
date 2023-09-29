@@ -1,0 +1,15 @@
+names:
+crassula arborescens willd, , 
+
+characteristics:
+blooming: Succulent plants, often flowers in late spring to early summer, white to pale pink flowers
+color: Leaf color gray green to dark green, when sunny leaf edges turning to red
+size: Diameter 3-10 cm, height ≥ 10 cm
+
+caretaking:
+soil: Peat and akadama mixed in 3:1 ratio
+sunlight: Like sunshine, resistant to half shade, short period of dormancy in summer, use half shade for better care
+watering: Keep soil moist, water thoroughly when soil is dry, reduce water in summer
+fertilization: Dilute fertilizers following instructions,  apply once monthly in spring and autumn
+pruning: Remove dead and rotten part timely
+temperature: min_temp: 6, max_temp: 35

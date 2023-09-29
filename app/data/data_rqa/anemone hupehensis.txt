@@ -1,0 +1,15 @@
+names:
+anemone hupehensis, Japanese Anemone (Eriocapitella hupehensis), Japanese Anemone (Eriocapitella hybrida 'Bodnant Burgundy'), Japanese Anemone (Eriocapitella hybrida 'Pamina'), Japanese Anemone (Eriocapitella hybrida 'Robustissima'), Japanese Windflower (Eriocapitella hupehensis 'Honorine Jobert'), Japanese Anemone (Eriocapitella hupehensis 'Bressingham Glow'), Japanese Anemone (Eriocapitella hupehensis 'Margarete'), Japanese Anemone (Eriocapitella hybrida 'Prinz Heinrich'), Japanese Anemone (Eriocapitella hupehensis 'September Charm'), Japanese Anemone (Eriocapitella hupehensis 'Andrea Atkinson'), Japanese Anemone (Eriocapitella hupehensis 'Alice'), Japanese Anemone (Eriocapitella hupehensis 'Krimhilde'), Japanese Anemone (Eriocapitella hupehensis 'Party Dress'), Japanese Anemone (Eriocapitella hupehensis 'Rosenschale'), Japanese Anemone (Eriocapitella hupehensis 'Serenade'), Japanese Anemone (Eriocapitella hupehensis 'Max Vogel'), Japanese Anemone (Eriocapitella hupehensis 'Hadspen Abundance'), Japanese Anemone (Eriocapitella hupehensis 'Praecox'), Japanese Anemone (Eriocapitella hupehensis 'Elegans'), Japanese Anemone (Eriocapitella hupehensis 'Lorelei'), Japanese Anemone
+
+characteristics:
+blooming: Flowering period July-October
+color: Flower color purple red , pink
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Likes sunshine, put in sunny places, avoid strong sunlight in summer at noon
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 5, max_temp: 35

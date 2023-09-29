@@ -1,0 +1,15 @@
+names:
+nepenthes 'rebecca soper', Pitcher Plant (Nepenthes 'Rebecca Soper'), Pitcher Plant
+
+characteristics:
+blooming: Carnivorous plants, viewing period year around
+color: Flower color red or red purple
+size: Diameter ≥ 15 cm, height ≥ 25 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Turn red or red purple with sufficient sunlight, high mountain varieties need greater temperature difference between day and night
+watering: Like wet environment, water thoroughly when soil surface is dry, spray water on leaves often
+fertilization: Can feed by self or provide low concentration liquid fertilizer
+pruning: Remove aged tissues, dead, rotten, diseased leaves timely
+temperature: min_temp: 10, max_temp: 28

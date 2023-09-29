@@ -1,0 +1,15 @@
+names:
+utricularia vulgaris, Common Bladderwort (Utricularia vulgaris), Common Bladderwort (Utricularia macrorhiza), Common Bladderwort
+
+characteristics:
+blooming: Carnivorous plant，Flowering period June-August
+color: Flower color yellow
+size: Diameter≥5cm，Height≥5cm
+
+caretaking:
+soil: In sphagnum moss or planted in water
+sunlight: Like bright scattered light
+watering: Like wet, water thoroughly when the soil surface is dry
+fertilization: Can feed by self or provide low concentration liquid fertilizer
+pruning: Remove old, diseased and dead leaves timely
+temperature: min_temp: 10, max_temp: 32

@@ -1,0 +1,15 @@
+names:
+chenopodium quinoa, Quinoa (Chenopodium quinoa), Quinoa (Chenopodium quinoa 'Brightest Brillant Rainbow Quinoa'), Quinoa (Chenopodium quinoa 'Colorado Black Quinoa'), Goosefoot (Chenopodium quinoa 'Cherry Vanilla'), Quinoa (Chenopodium quinoa 'Shelly 25'), Quinoa (Chenopodium quinoa 'CO 409'), Quinoa (Chenopodium quinoa 'CO 407'), Quinoa (Chenopodium quinoa 'Cahuil'), Quinoa (Chenopodium quinoa 'Milahue'), Quinoa (Chenopodium quinoa 'Faro'), Quinoa (Chenopodium quinoa 'Isluga'), Quinoa (Chenopodium quinoa 'Mint Vanilla'), Quinoa (Chenopodium quinoa 'Multi-Hued'), Quinoa (Chenopodium 'Red Head'), Chenopodium quinoa 'Red Carina', Quinoa
+
+characteristics:
+blooming: Flowering period May-July
+color: Flower color light yellow
+size: Diameter ≥ 20 cm, height 20-30 cm
+
+caretaking:
+soil: Loose, fertile, high water permeability planting materials
+sunlight: Like sunshine, resistant to half shade
+watering: 2-3 times every week
+fertilization: Apply low concentration liquid fertilizers weekly
+pruning: Remove dead and diseased branches timely
+temperature: min_temp: 8, max_temp: 35

@@ -1,0 +1,15 @@
+names:
+echeveria pulvinata, Echeveria (Echeveria pulvinata), Echeveria (Echeveria pulvinata 'Ruby'), Echeveria (Echeveria pulvinata 'Nova'), Echeveria (Echeveria pulvinata 'Red Velvet'), Echeveria (Echeveria pulvinata 'Frosty'), Echeveria (Echeveria pulvinata var. frigida), Chenille Plant (Echeveria pulvinata Devotion®), Echeveria (Echeveria pulvinata var. leucotricha), Echeveria
+
+characteristics:
+blooming: Succulent plants, sometimes flowers, orange flowers
+color: Leaf color gray green, when sunny leaf edges turning to dark red
+size: Diameter 6-10 cm, height 5-15 cm
+
+caretaking:
+soil: Peat and akadama mixed in 3:1 ratio
+sunlight: Likes light, and resistant to half shade, short period of dormancy in summer, use half shade for better care
+watering: Water thoroughly 2 times during summer dormancy, keep soil moist in other time, water thoroughly when soil is dry
+fertilization: Dilute fertilizers following instructions,  apply once monthly in spring and autumn
+pruning: Remove dead and rotten part timely
+temperature: min_temp: 5, max_temp: 35

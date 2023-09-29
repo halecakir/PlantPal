@@ -1,0 +1,15 @@
+names:
+pinus bungeana, Lacebark Pine (Pinus bungeana), Lacebark Pine (Pinus bungeana 'B Dwarf'), Lacebark Pine (Pinus bungeana 'Compacta'), Lacebark Pine (Pinus bungeana 'Compact Form'), Lacebark Pine (Pinus bungeana 'Diamant'), Lacebark Pine (Pinus bungeana 'Dwarf Fairway'), Lacebark Pine (Pinus bungeana 'Fastigiate'), Lacebark Pine (Pinus bungeana 'June's Broom'), Lacebark Pine (Pinus bungeana 'Rowe'), Lacebark Pine (Pinus bungeana 'Rowe Arb'), Lacebark Pine (Pinus bungeana 'Silver Ghost'), Lacebark Pine (Pinus bungeana 'Temple Gem'), Lacebark Pine
+
+characteristics:
+blooming: Flowering period April-May
+color: Leaf needle shape, green, fruit color from green or purple gradually turn to yellow, ale brown or dark brown
+size: Diameter ≥ 15 cm, height ≥ 25 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, grows in sunny places
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 5, max_temp: 35

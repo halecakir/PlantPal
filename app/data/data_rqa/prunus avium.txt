@@ -1,0 +1,15 @@
+names:
+prunus avium, Sweet Cherries (Prunus avium), Sweet Cherry (Prunus avium 'Lapins'), Sweet Cherry (Prunus avium 'Stella'), Bird Cherry (Prunus avium 'Thomas'), Semi-dwarf Cherry (Prunus avium 'Stark Golden Sweet'), Sweet Cherry (Prunus avium 'Black Tatarian'), Sweet Cherry (Prunus avium 'Bing'), Sweet Cherry (Prunus avium 'Rainier'), Sweet Cherry (Prunus avium 'Queen Anne'), Sweet Cherry (Prunus avium 'Napoleon'), Sweet Cherry (Prunus avium 'Van'), Sweet Cherry (Prunus avium Sweetheart®), Sweet Cherry (Prunus avium 'Windsor'), Sweet Cherry (Prunus avium 'CompacStella'), Sweet Cherry (Prunus avium 'BlackGold'), Sweet Cherry (Prunus avium 'Emperor Francis'), Sweet Cherry (Prunus avium 'Kristin'), Sweet Cherry (Prunus avium 'Schmidt's Bigarreau'), Sweet Cherry (Prunus avium 'Starkrimson'), Sweet Cherry (Prunus avium 'Royalton'), Sweet Cherries
+
+characteristics:
+blooming: Flowering period March-April, fruiting period May-June
+color: Flower color white, fruit color red and yellow
+size: Diameter ≥ 40 cm, height ≥ 80 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, high quality fruits in sunny places
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 10, max_temp: 32

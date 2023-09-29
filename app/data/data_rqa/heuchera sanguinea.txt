@@ -1,0 +1,15 @@
+names:
+heuchera sanguinea, Coral Bells (Heuchera sanguinea), Coral Bells (Heuchera sanguinea 'Frosty'), Coral Bells (Heuchera sanguinea 'Monet'), Coral Bells (Heuchera sanguinea 'Ruby Bells'), Coral Bells (Heuchera sanguinea 'Snow Storm'), Coral Bells (Heuchera sanguinea 'Splendens'), Coral Bells (Heuchera sanguinea 'Brandon Pink'), Coral Bells (Heuchera sanguinea 'Cherry Splash'), Coral Bells (Heuchera sanguinea 'Fackel'), Coral Bells (Heuchera sanguinea 'Fairy Cups'), Coral Bells (Heuchera sanguinea 'Firesprite'), Coral Bells (Heuchera sanguinea 'Gloriana'), Coral Bells (Heuchera sanguinea 'Gold Dust'), Coral Bells (Heuchera sanguinea 'Jack Frost'), Coral Bells (Heuchera sanguinea 'June Bride'), Coral Bells (Heuchera sanguinea 'Matin Bells'), Coralbells (Heuchera sanguinea 'Northern Fire'), Coral Bells (Heuchera sanguinea 'Red Spangles'), Coral Bells (Heuchera sanguinea 'Saturn'), Coralbells (Heuchera sanguinea 'Scintillation'), Coral Bells
+
+characteristics:
+blooming: Flowering period April-October
+color: Flower color red, leaf color green
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Likes half shade, grows in places with scattered light
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead, rotten, diseased leaves timely
+temperature: min_temp: 5, max_temp: 32

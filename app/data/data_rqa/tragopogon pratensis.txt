@@ -1,0 +1,15 @@
+names:
+tragopogon pratensis, Oyster Plant (Tragopogon pratensis), Tragopogon orientalis, Tragopogon hayekii, Tragopogon pratensis subsp. pratensis, Tragopogon pratensis subsp. leiocarpus, Tragopogon pratensis subsp. minor, Oyster Plant
+
+characteristics:
+blooming: Flowering and fruiting period May-September
+color: Flower color yellow, blue purple, fruits orange gray black, gray brown
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Sandy loam
+sunlight: Put in places with adequate light
+watering: Water every 2 days
+fertilization: Top-dressing 2-3 times monthly
+pruning: Remove old, diseased and dead leaves timely
+temperature: min_temp: 5, max_temp: 35

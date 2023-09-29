@@ -1,0 +1,15 @@
+names:
+brassica juncea, Brown Mustard (Brassica juncea), Broad-leaved Mustard (Brassica juncea subsp. juncea 'Zaar'), Broad-leaved Mustard (Brassica juncea subsp. juncea 'Old Fashion'), Chinese Mustard (Brassica juncea subsp. juncea 'Jiu Tou Niao'), Chinese Mustard (Brassica juncea subsp. juncea 'QM Red'), Brassica juncea subsp. juncea, Tsa Tsai (Brassica juncea 'Er Choy'), Tsa Tsai (Brassica juncea 'North Round'), Heading Chinese Mustard (Brassica juncea 'Late Bau Sin'), Mustard Greens (Brassica juncea 'Kyona Mizuna'), Broad-leaved Mustard (Brassica juncea 'Red Giant'), Mustard (Brassica juncea 'Southern Giant Curled'), Mustard (Brassica juncea 'Green Wave'), Heading Mustard (Brassica juncea 'Kungfu'), Mustard Greens (Brassica juncea 'Yukina Savoy'), Mustard Greens (Brassica juncea 'Early Mizuna'), Heading Chinese Mustard (Brassica juncea 'Max'), Heading Chinese Mustard (Brassica juncea 'Domino'), Mustard (Brassica juncea 'King Mustard'), Heading Mustard (Brassica juncea 'Bau-Sin'), Brown Mustard
+
+characteristics:
+blooming: Flowering period March-May, fruiting period May-June
+color: Flower color yellow, fruit color purple brown
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, grows in sunny places
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead, rotten, diseased leaves timely
+temperature: min_temp: 5, max_temp: 35

@@ -1,0 +1,15 @@
+names:
+agave sisalana, , 
+
+characteristics:
+blooming: Flowering period May-June, August-September
+color: Flower color yellow, cream white
+size: height 25-30 cm
+
+caretaking:
+soil: Fertile sandy loam
+sunlight: Likes sunshine, shade properly under summer noon strong light
+watering: Water thoroughly when soil is dry, avoid saturated water
+fertilization: Apply fertilizers once in each month, mainly organic fertilizers
+pruning: Remove weeds timely
+temperature: min_temp: 8, max_temp: 35

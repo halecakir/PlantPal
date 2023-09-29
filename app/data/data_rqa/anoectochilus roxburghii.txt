@@ -1,0 +1,15 @@
+names:
+anoectochilus roxburghii, , 
+
+characteristics:
+blooming: Flowering period August-November
+color: Leaf color black purple, flower color white or light red
+size: Diameter≥10cm，Height≥10cm
+
+caretaking:
+soil: Sphagna, bark or coconut loose soil
+sunlight: Like half shade environment, enjoy 2-3 hours sunlight in autumn and winter
+watering: Water thoroughly when soil surface is dry
+fertilization: Dilute fertilizers following instructions, apply once monthly in spring and autumn
+pruning: Remove flower stem, diseased and rotten leaves timely
+temperature: min_temp: 8, max_temp: 32

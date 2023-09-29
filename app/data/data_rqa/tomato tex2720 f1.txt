@@ -1,0 +1,15 @@
+names:
+tomato tex2720 f1, , 
+
+characteristics:
+blooming: Ornamental fruit and vegetable plants, planted year around, fruits 1 month after flowering, fruiting period 1-3 months
+color: Flower color yellow, fruit color red, orange yellow
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like strong light
+watering: Keep soil moist, water and drain timely
+fertilization: Dilute fertilizers following instructions, apply 2-3 times monthly
+pruning: Remove dead and yellowish leaves timely
+temperature: min_temp: 10, max_temp: 32

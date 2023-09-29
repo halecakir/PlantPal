@@ -1,0 +1,15 @@
+names:
+magnolia officinalis, Houpo Magnolia (Magnolia officinalis), Chinese Magnolia (Magnolia officinalis var. biloba), Magnolia (Magnolia officinalis var. officinalis), Houpo Magnolia
+
+characteristics:
+blooming: Flowering period May-June, fruiting period August-October
+color: Flower color white
+size: Diameter ≥ 15 cm, height ≥ 25 cm
+
+caretaking:
+soil: Slightly acidic soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, slightly resistant to half shade
+watering: Water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 2-3 times monthly
+pruning: Remove dead, rotten, diseased leaves and the parts that may affect the good appearance
+temperature: min_temp: 5, max_temp: 35

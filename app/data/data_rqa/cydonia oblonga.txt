@@ -1,0 +1,15 @@
+names:
+cydonia oblonga, Quince (Cydonia oblonga), Quince (Cydonia oblonga 'Van Deman'), Quince (Cydonia oblonga 'Aromatnaya'), Quince (Cydonia oblonga 'Pineapple'), Quince (Cydonia oblonga 'Istanbul'), Quince (Cydonia oblonga 'Portugiesische Birnenquitte'), Quince (Cydonia oblonga 'Vranja'), Quince (Cydonia oblonga 'Gamboa'), Quince (Cydonia oblonga 'Meech's Prolific'), Quince (Cydonia oblonga 'Ludovic'), Quince (Cydonia oblonga 'Champion'), Quince (Cydonia oblonga 'Bereczki'), Quince (Cydonia oblonga 'Cydopom'), Quince (Cydonia oblonga 'Cydora Robusta'), Quince (Cydonia oblonga 'Cooke's Jumbo'), Quince (Cydonia oblonga 'Agvambari'), Quince (Cydonia oblonga 'Rich's'), Quince (Cydonia oblonga 'Ekmek'), Quince (Cydonia oblonga 'Akhtubinskaya'), Quince (Cydonia oblonga 'Angers'), Quince
+
+characteristics:
+blooming: Flowering period April-May
+color: Flower color white or pink, fruit yellow
+size: Diameter ≥ 15 cm, height ≥ 25 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like sunshine, slightly resistant to half shade
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 8, max_temp: 35

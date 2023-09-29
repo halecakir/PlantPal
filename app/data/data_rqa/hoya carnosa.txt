@@ -1,0 +1,15 @@
+names:
+hoya carnosa, Wax Plant (Hoya carnosa), Dwarf Carnosa (Hoya carnosa 'Holliana'), Wax Plant (Hoya carnosa 'Mauna Loa'), Krimson Princess Hoya (Hoya carnosa 'Rubra'), Wax Plant (Hoya carnosa  'Krinkle Kurl'), Krimson Queen Hoya (Hoya carnosa 'Tricolor'), Wax Plant (Hoya carnosa 'Sherry'), Exotic Wax Plant (Hoya carnosa 'Picta'), Wax Plant (Hoya carnosa 'Krinkle 8'), Wax Plant (Hoya carnosa 'Variegata'), Wax Plant (Hoya carnosa 'Grey Ghost'), Wax Plant (Hoya carnosa 'Compacta'), Wax Plant (Hoya carnosa 'Chelsea'), Wax Plant (Hoya carnosa 'Compacta Regalis'), Wax Plant (Hoya carnosa 'Exotica'), Wax Plant (Hoya carnosa 'Green Exotica'), Wax Plant (Hoya carnosa 'Krimson Princess'), Wax Plant (Hoya carnosa 'Brazil'), Wax Plant (Hoya carnosa 'Dee's Big One'), Wax Plant
+
+characteristics:
+blooming: Flowering period April-June, fruiting period July-August
+color: Flower color white, leaf color green
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Soil with loose texture or special humus soil
+sunlight: Grows in places with bright scattered light
+watering: Water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead, rotten, diseased leaves timely
+temperature: min_temp: 10, max_temp: 32

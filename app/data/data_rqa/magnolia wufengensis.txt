@@ -1,0 +1,15 @@
+names:
+magnolia wufengensis, , 
+
+characteristics:
+blooming: Flowering period February-March，viewing period one-two weeks
+color: Flower color pink red to rose red
+size: Diameter≥10cm，Height≥15cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like adequate light, slight shade tolerance
+watering: Water thoroughly after soil surface dries
+fertilization: Dilute fertilizers following instructions, dilute fertilizers following instructions,  in early summer, spring and autumn apply fertilizers once monthly
+pruning: Remove withered flowers, old, diseased, and dead leaves timely
+temperature: min_temp: 5, max_temp: 35

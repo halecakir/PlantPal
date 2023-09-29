@@ -1,0 +1,15 @@
+names:
+lonicera sempervirens, Coral Honeysuckle (Lonicera sempervirens), Trumpet Honeysuckle (Lonicera sempervirens 'Alabama Crimson'), Coral Honeysuckle (Lonicera sempervirens 'Blanche Sandman'), Coral Honeysuckle (Lonicera sempervirens 'Cedar Lane'), Coral Honeysuckle (Lonicera sempervirens 'Sulphurea'), Coral Honeysuckle (Lonicera sempervirens 'Manifich'), Coral Honeysuckle (Lonicera sempervirens 'Magnifica'), Coral Honeysuckle (Lonicera sempervirens 'Major Wheeler'), Honeysuckle (Lonicera sempervirens Red Charm™), Honeysuckle (Lonicera sempervirens Yellow Charm™), Coral Honeysuckle (Lonicera sempervirens 'Honey Coral'), Coral Honeysuckle (Lonicera sempervirens 'Louisiana Red'), Coral Honeysuckle (Lonicera sempervirens 'Dan's Everblooming'), Coral Honeysuckle (Lonicera sempervirens 'Tangerine Princess'), Coral Honeysuckle
+
+characteristics:
+blooming: Flowering period March-June, viewing period 3-4 weeks
+color: Flower color pink
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like moderat light, resistant to half shade
+watering: Water thoroughly when soil is dry
+fertilization: Dilute fertilizers following instructions,  apply 1-2 times monthly in spring
+pruning: Remove withered flowers, old, diseased, and dead leaves timely
+temperature: min_temp: 8, max_temp: 35

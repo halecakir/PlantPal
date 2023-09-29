@@ -1,0 +1,15 @@
+names:
+ruellia elegans, , 
+
+characteristics:
+blooming: Flowering period April-October
+color: Flower color concentrated peach red
+size: Diameter ≥ 20 cm, height 20-30 cm
+
+caretaking:
+soil: Soil with rich organic matter and strong abilities of holding water and fertility
+sunlight: Like sunshine, resistant to half shade
+watering: Need a lot of water
+fertilization: Once every half month, top-dressing twice, or apply foliar fertilizers
+pruning: Remove dead and diseased branches timely
+temperature: min_temp: 8, max_temp: 35

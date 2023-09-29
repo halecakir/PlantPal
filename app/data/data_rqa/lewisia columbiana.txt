@@ -1,0 +1,15 @@
+names:
+lewisia columbiana, Bitterroot (Lewisia columbiana), Rock Bitterroot (Lewisia columbiana var. rupicola), Wallowa Bitterroot (Lewisia columbiana var. wallowensis), Rock Bitterroot (Lewisia columbiana var. rupicola 'Rosea'), Columbian Bitterroot (Lewisia columbiana 'Edithae'), Columbian Bitterroot (Lewisia columbiana 'Starburst'), Bitterroot
+
+characteristics:
+blooming: Flowering period April-June
+color: Flower color pink, orange, yellow
+size: Diameter ≥ 20 cm, height 15-20 cm
+
+caretaking:
+soil: Sandy soil
+sunlight: Like sunshine, put in warm places with adequate light
+watering: Only need keep soil moist
+fertilization: Apply enough base fertilizers
+pruning: Remove old, diseased and dead leaves timely
+temperature: min_temp: 8, max_temp: 35

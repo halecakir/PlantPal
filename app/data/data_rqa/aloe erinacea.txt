@@ -1,0 +1,15 @@
+names:
+aloe erinacea, Aloe (Aloe erinacea), Aloe
+
+characteristics:
+blooming: Succulent plants, sometimes flowers, yellow or orange flowers
+color: Leaf color green
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Peat mixed with coarse sand soil
+sunlight: Like mild sunlight, resistant to half shade
+watering: Need a lot of water when in peak growth stages during April to May, reduce water in summer and winter
+fertilization: Apply liquid fertilizers during April to May and September to November, except in summer and winter
+pruning: Remove dead and rotten part timely
+temperature: min_temp: 8, max_temp: 35

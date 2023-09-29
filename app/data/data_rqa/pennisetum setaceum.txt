@@ -1,0 +1,15 @@
+names:
+pennisetum setaceum, Purple Fountain Grass (Cenchrus setaceus 'Rubrum'), Rose Fountain Grass (Cenchrus setaceus), Fountain Grass (Cenchrus setaceus 'Cupreum Compactum'), Red Fountain Grass (Cenchrus setaceus 'Cupreum'), Dwarf Purple Fountain Grass (Cenchrus setaceus Graceful Grasses® Red Riding Hood), Dwarf Purple Fountain Grass (Cenchrus setaceus 'Eaton Canyon'), Fountain Grass (Cenchrus setaceus 'Fireworks'), Cenchrus setaceus Graceful Grasses® Sky Rocket, Pennisetum (Cenchrus setaceus 'Cherry Sparkler'), Purple Fountain Grass
+
+characteristics:
+blooming: Flowering period August-October
+color: Leaf color green , inflorescence color purple
+size: Diameter ≥ 10 cm, height 15-20 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like adequate sunshine
+watering: Water timely when soil dries
+fertilization: No need fertilization
+pruning: No need pruning
+temperature: min_temp: 5, max_temp: 32

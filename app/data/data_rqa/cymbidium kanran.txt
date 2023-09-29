@@ -1,0 +1,15 @@
+names:
+cymbidium kanran, Orchid (Cymbidium kanran), Orchid (Cymbidium kanran 'Big Panda'), Chinese Orchid (Cymbidium kanran 'Cai Die'), Chinese Orchid (Cymbidium kanran 'Da Long Tou'), Chinese Orchid (Cymbidium kanran 'Fu Xing Mei'), Chinese Orchid (Cymbidium kanran 'Han Xiang Mei'), Chinese Orchid (Cymbidium kanran 'Hang Zhou Han Lan'), Chinese Orchid (Cymbidium kanran 'Hang Zhou Han Lan Zhua'), Chinese Orchid (Cymbidium kanran 'Hong Mei'), Chinese Orchid (Cymbidium kanran 'Hong Tai Yang'), Chinese Orchid (Cymbidium kanran 'Hu Shan Su'), Chinese Orchid (Cymbidium kanran 'Mai Dang Lao'), Chinese Orchid (Cymbidium kanran 'Piao Men Shui Xian'), Chinese Orchid (Cymbidium kanran 'Tian Jiu Mu Dan'), Chinese Orchid (Cymbidium kanran 'Tian Li Mei'), Chinese Orchid (Cymbidium kanran 'Tian Yi Mei'), Chinese Orchid (Cymbidium kanran 'Xian Die'), Chinese Orchid (Cymbidium kanran 'Yang Gui Fei'), Chinese Orchid (Cymbidium kanran 'Zi Wei Zhi Xing'), Orchid
+
+characteristics:
+blooming: Flowering period year around, viewing period 3-4 weeks
+color: Flower colorcyan
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Breathable and loose planting materials with coconut shell, bark or sphagnum moss
+sunlight: Like half shade, in autumn and winter may take 2-3h sunlight, receive more light when leaves are dark green
+watering: Water thoroughly when soil is dry, may spray to the ambient environment in summer, reduce watering in winter
+fertilization: Apply fertilizers every 10-15 days in the growing seasons of spring and autumn, foliar fertilizer spray also do good for its growth , fertilize under 10 ℃ (50 ℉) is forbidden
+pruning: Remove old, diseased and dead leaves timely, remove peduncle after flowering
+temperature: min_temp: 8, max_temp: 32

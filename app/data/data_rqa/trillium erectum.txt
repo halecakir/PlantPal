@@ -1,0 +1,15 @@
+names:
+trillium erectum, Wakerobin (Trillium erectum), American Wood Lily (Trillium erectum var. album), American Wood Lily (Trillium erectum var. erectum), Wakerobin
+
+characteristics:
+blooming: Flowering period April-June, fruiting period July-August
+color: Flower color white, light purple, fruit color black purple
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, slightly resistant to half shade
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 5, max_temp: 35

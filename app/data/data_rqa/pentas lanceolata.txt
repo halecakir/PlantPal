@@ -1,0 +1,15 @@
+names:
+pentas lanceolata, , 
+
+characteristics:
+blooming: Flowering period March-October
+color: Flower color pink, crimson, peach red, white
+size: Diameter ≥ 20 cm, height 20-30 cm
+
+caretaking:
+soil: Sterile, containing a little fertilizer and well-drained peat soil
+sunlight: Likes sunshine, put in sunny places, slight shade tolerance
+watering: Water thoroughly after soil dries
+fertilization: Top-dressing at the flowering stage
+pruning: After flowers fade remove withered flowers
+temperature: min_temp: 10, max_temp: 32

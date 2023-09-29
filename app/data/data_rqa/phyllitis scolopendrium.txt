@@ -1,0 +1,15 @@
+names:
+phyllitis scolopendrium, Hart's Tongue Fern (Asplenium scolopendrium), Hart's Tongue Fern (Asplenium scolopendrium var. americanum), Crispy Hart's-Tongue Fern (Asplenium scolopendrium 'Crispum'), Hart's Tongue Fern
+
+characteristics:
+blooming: Fern plants, no flowering
+color: New leaf color white, old leaf brown
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Strong resistant to shade, put in places with scattered light
+watering: Likes wet environments, water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead, rotten, diseased leaves timely
+temperature: min_temp: 10, max_temp: 35

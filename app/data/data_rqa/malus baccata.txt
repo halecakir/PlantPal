@@ -1,0 +1,15 @@
+names:
+malus baccata, Siberian Crabapple (Malus baccata), Siberian Crabapple (Malus baccata Pink Glow), Siberian Crabapple (Malus baccata 'Columnaris'), Apple (Malus baccata var. gracilis), Siberian Crabapple
+
+characteristics:
+blooming: Flowering period April-June, fruiting period September-October
+color: Flower color white, fruit color red, yellow, brown
+size: Diameter ≥ 20 cm, height 20-30 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like sunshine, slight shade tolerance
+watering: Water every 3 days
+fertilization: Apply enough base fertilizers
+pruning: Remove the pests-infested, old, dead and shaded branches of the plants
+temperature: min_temp: 5, max_temp: 35

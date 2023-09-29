@@ -1,0 +1,15 @@
+names:
+larix decidua, European Larch (Larix decidua), Larix decidua var. decidua, Weeping Larch (Larix decidua 'Pendula'), European Larch (Larix decidua 'Varied Directions'), European Larch (Larix decidua 'Julian's Weeper'), European Larch (Larix decidua 'Whorled Peace'), Larix decidua var. carpatica, Polish Larch (Larix decidua var. polonica), Larix decidua 'Cherry Valley', Larix decidua 'Compacta', Larix decidua 'Corley', Larix decidua 'Curvifolia', Larix decidua 'Fastigiata', Larix decidua 'Glauca', Larix decidua 'Globus', Larix decidua 'Grott', Larix decidua 'Horstmann Recurved', Larix decidua 'Kalous', Larix decidua 'Kazbal', Larix decidua 'Kórnik', European Larch
+
+characteristics:
+blooming: Flowering period May-June, fruiting period September
+color: Leaf needle shape, green, fruit color from green or purple gradually turn to yellow, ale brown or dark brown
+size: Diameter ≥ 15 cm, height ≥ 25 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, grows in sunny places
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Pruning accordingly for any favorate tree shapes
+temperature: min_temp: 5, max_temp: 35

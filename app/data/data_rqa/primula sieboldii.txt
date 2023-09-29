@@ -1,0 +1,15 @@
+names:
+primula sieboldii, Asiatic Primrose (Primula sieboldii), Asiatic Primrose (Primula sieboldii 'Musashino'), Asiatic Primrose (Primula sieboldii 'Shi-un'), Asiatic Primrose (Primula sieboldii 'Snowflake'), Asiatic Primrose (Primula sieboldii 'Sumina'), Asiatic Primrose (Primula sieboldii 'Wine Lady'), Asiatic Primrose (Primula sieboldii 'Pago-Pago'), Asiatic Primrose (Primula sieboldii 'Dancing Ladies'), Asiatic Primrose (Primula sieboldii 'Winter Dreams'), Primrose (Primula sieboldii 'Starlight'), Primrose (Primula sieboldii 'Felicity'), Primrose (Primula sieboldii 'Glorious'), Primrose (Primula sieboldii 'Ice Princess'), Primrose (Primula sieboldii 'Lacy Lady'), Primrose (Primula sieboldii 'Late Snow'), Primrose (Primula sieboldii 'Peach Blossom'), Primrose (Primula sieboldii 'Rock Candy'), Primrose (Primula sieboldii 'Smooch'), Primrose (Primula sieboldii 'Sparkler'), Primrose (Primula sieboldii 'Cover Girl'), Asiatic Primrose
+
+characteristics:
+blooming: Flowering period May, fruiting period June
+color: Flower color light pink, purple red
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Resistant to shade, grows in places with scattered light or shade properly
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 10, max_temp: 32

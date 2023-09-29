@@ -1,0 +1,15 @@
+names:
+canarium album, , 
+
+characteristics:
+blooming: Flowering period April-May, fruiting period October-December
+color: Flower color white, fruit color yellow green
+size: Diameter ≥ 20 cm, height can reach 10 m, also cultivated as bonsai
+
+caretaking:
+soil: Well ventilated sandy loam
+sunlight: prefers to sunny areas
+watering: Water thoroughly when soil surface is dry
+fertilization: Apply enough base fertilizers, and apply liquid fertilizer monthly during growing season
+pruning: Remove old, diseased and dead leaves timely
+temperature: min_temp: 6, max_temp: 35

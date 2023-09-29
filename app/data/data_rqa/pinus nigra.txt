@@ -1,0 +1,15 @@
+names:
+pinus nigra, Austrian Pine (Pinus nigra), European Black Pine (Pinus nigra 'Hornibrookiana'), Austrian Pine (Pinus nigra subsp. laricio 'Globosa Viridis'), Austrian Pine (Pinus nigra 'Arnold Sentinel'), European Black Pine (Pinus nigra 'Pyramidalis'), Austrian Pine (Pinus nigra 'Helga'), European Black Pine (Pinus nigra Bambino®), European Black Pine (Pinus nigra 'Kalous'), Crimean Pine (Pinus nigra subsp. pallasiana), Corsican Pine (Pinus nigra subsp. laricio), Dalmatian Black Pine (Pinus nigra subsp. dalmatica), European Black Pine (Pinus nigra subsp. nigra), Spanish Pine (Pinus nigra subsp. salzmannii), European Black Pine (Pinus nigra 'Aurea'), European Black Pine (Pinus nigra 'Balcanica'), European Black Pine (Pinus nigra 'Bergen'), European Black Pine (Pinus nigra 'Birte'), European Black Pine (Pinus nigra 'Black Prince'), European Black Pine (Pinus nigra 'Bobby McGregor'), European Black Pine (Pinus nigra 'Borken'), Austrian Pine
+
+characteristics:
+blooming: Foliage plants, flowering period April-May
+color: Leaf needle shape, green, fruit color from green or purple gradually turn to yellow, ale brown or dark brown
+size: Diameter ≥ 15 cm, height ≥ 25 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like sunshine, grows in sunny places
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove dead, rotten, diseased leaves and the parts that may affect the good appearance
+temperature: min_temp: 5, max_temp: 35

@@ -1,0 +1,15 @@
+names:
+veronica spicata, Spike Speedwell (Veronica spicata), Veronica orchidea subsp. transcaucasica, Veronica spicata subsp. spicata, Veronica spicata var. pseudoorchidea, Speedwell (Veronica 'Baby Doll'), Speedwell (Veronica orchidea subsp. orchidea), Veronica orchidea var. bulgarica, Speedwell (Veronica spicata  'Goodness Grows'), Spiked Speedwell (Veronica spicata 'Blue Bouquet'), Spiked Speedwell (Veronica spicata 'Blue Charm'), Speedwell (Veronica spicata 'High Five'), Spiked Speedwell (Veronica spicata 'Icicle'), Spiked Speedwell (Veronica spicata 'Nana'), Speedwell (Veronica spicata 'Noah Williams'), Spiked Speedwell (Veronica spicata 'Pavane'), Spike Speedwell (Veronica spicata 'Red Fox'), Spike Speedwell (Veronica spicata Royal Candles), Spike Speedwell (Veronica spicata 'Sightseeing Mix'), Spike Speedwell (Veronica spicata 'Blue Fox'), Pink Speedwell (Veronica spicata 'Erika'), Spike Speedwell
+
+characteristics:
+blooming: Flowering period June-September
+color: Flower color blue, pink, white
+size: Diameter ≥ 10 cm, height 5-20 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Maintain high light levels
+watering: Once every 2-3 days
+fertilization: Need moderae amount of fertilization (every 2 month top-dressing once)
+pruning: Remove old, diseased and dead leaves timely
+temperature: min_temp: 5, max_temp: 35

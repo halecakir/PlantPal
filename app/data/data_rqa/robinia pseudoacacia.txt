@@ -1,0 +1,15 @@
+names:
+robinia pseudoacacia, Black Locust (Robinia pseudoacacia), Black Locust (Robinia pseudoacacia Twisty Baby™), Black Locust (Robinia pseudoacacia 'Tortuosa'), Black Locust (Robinia pseudoacacia 'Frisia'), Black Locust (Robinia pseudoacacia 'Bessoniana'), Black Locust (Robinia pseudoacacia 'Semperflorens'), Black Locust (Robinia pseudoacacia 'Unifoliola'), Black Locust (Robinia pseudoacacia 'Coluteoides'), Black Locust (Robinia pseudoacacia 'Pyramidalis'), Black Locust (Robinia pseudoacacia 'Inermis'), Black Locust (Robinia pseudoacacia 'Umbraculifera'), Black Locust (Robinia pseudoacacia 'Sandraudiga'), Black Locust (Robinia pseudoacacia 'Appalachia'), Black Locust (Robinia pseudoacacia 'Chicago Blues'), Black Locust (Robinia pseudoacacia 'Rozynskiana'), Black Locust (Robinia pseudoacacia 'Rectissima'), Black Locust (Robinia pseudoacacia 'Altdorf'), Black Locust (Robinia pseudoacacia 'Allegheny'), Black Locust (Robinia pseudoacacia 'Algonquin'), Black Locust (Robinia pseudoacacia 'Ohio Prostrate'), Black Locust
+
+characteristics:
+blooming: Flowering period April-June, flowering period August-September
+color: Flower color white, fruit color brown, red brown stripes
+size: Diameter ≥ 15 cm, height ≥ 25 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like sunshine, grows in sunny places
+watering: Water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 5, max_temp: 35

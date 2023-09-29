@@ -1,0 +1,15 @@
+names:
+juglans cinerea, Butternut (Juglans cinerea), Butternut (Juglans cinerea 'Bountiful'), Butternut (Juglans cinerea 'Loumis'), Butternut
+
+characteristics:
+blooming: Flowering period May, fruiting period October
+color: Flower color yellow green
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Likes sunshine, put in sunny places
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Need more fertilization, dilute fertilizers following instructions, apply 2-3 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 5, max_temp: 35

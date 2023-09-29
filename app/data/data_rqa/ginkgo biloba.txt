@@ -1,0 +1,15 @@
+names:
+ginkgo biloba, Maidenhair Tree (Ginkgo biloba), Maidenhair Tree (Ginkgo biloba 'Autumn Gold'), Maidenhair Tree (Ginkgo biloba 'Chi-Chi'), Maidenhair Tree (Ginkgo biloba 'Fastigiata'), Maidenhair Tree (Ginkgo biloba 'Jade Butterflies'), Maidenhair Tree (Ginkgo biloba 'Magyar'), Maidenhair Tree (Ginkgo biloba 'Mariken'), Maidenhair Tree (Ginkgo biloba 'Princeton Sentry'), Maidenhair Tree (Ginkgo biloba 'Tubifolia'), Weeping Maidenhair Tree (Ginkgo biloba 'Pendula'), Weeping Maidenhair Tree (Ginkgo biloba 'Roswitha'), Maidenhair Tree (Ginkgo biloba 'Fairmont'), Maidenhair Tree (Ginkgo biloba 'Saratoga'), Maidenhair Tree (Ginkgo biloba 'Shangri-La'), Maidenhair Tree (Ginkgo biloba 'Witches Broom'), Maidenhair Tree (Ginkgo biloba 'Prehistoric Gold'), Maidenhair Tree (Ginkgo biloba 'Chase Manhattan'), Variegated Maidenhair Tree (Ginkgo biloba 'Sunstream'), Maidenhair Tree (Ginkgo biloba 'Robbie's Twist'), Variegated Maidenhair Tree (Ginkgo biloba 'Variegata'), Maidenhair Tree
+
+characteristics:
+blooming: Flowering period April, fruiting period October
+color: Flower color orange yellow
+size: Diameter ≥ 15 cm, height ≥ 25 cm
+
+caretaking:
+soil: Acidic soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, grows in sunny places
+watering: Likes wet environments, water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 5, max_temp: 35

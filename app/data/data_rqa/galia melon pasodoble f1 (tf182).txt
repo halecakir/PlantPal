@@ -1,0 +1,15 @@
+names:
+galia melon pasodoble f1 (tf182), , 
+
+characteristics:
+blooming: Flowering and fruiting period in summer
+color: Flower color yellow, fruit color yellow, white, green, mixed with color stripes
+size: Diameter ≥ 10 cm, can climb
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, high quality fruits in sunny places
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead, rotten, diseased leaves timely
+temperature: min_temp: 5, max_temp: 35

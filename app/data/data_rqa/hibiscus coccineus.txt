@@ -1,0 +1,15 @@
+names:
+hibiscus coccineus, , 
+
+characteristics:
+blooming: Flowering period June-October
+color: Flower color from white to yellow, bottom in red or with purple dots
+size: Diameter ≥ 15 cm, height ≥ 25 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like sunshine, grows in sunny places
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead, rotten, diseased leaves timely
+temperature: min_temp: 10, max_temp: 35

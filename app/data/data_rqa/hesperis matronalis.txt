@@ -1,0 +1,15 @@
+names:
+hesperis matronalis, Dame's Rocket (Hesperis matronalis), Dame's Rocket (Hesperis matronalis 'Alba'), Dame's Rocket (Hesperis matronalis 'Variegata'), Dame's Rocket
+
+characteristics:
+blooming: Flowering and fruiting period May-July
+color: Flower color purple, white
+size: Diameter ≥ 20 cm, height 15-20 cm
+
+caretaking:
+soil: Fertile sandy loam
+sunlight: Like half shade, may grow in places with bright scattered light
+watering: Only need keep soil moist
+fertilization: Apply enough base fertilizers
+pruning: Remove old, diseased and dead leaves timely
+temperature: min_temp: 5, max_temp: 32

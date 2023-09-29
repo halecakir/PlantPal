@@ -1,0 +1,15 @@
+names:
+echeveria agavoides'red ebody', Echeveria (Echeveria agavoides), Echeveria (Echeveria agavoides 'Maria'), Echeveria (Echeveria agavoides 'Ebony'), Echeveria (Echeveria agavoides 'Lipstick'), Echeveria (Echeveria agavoides 'Rubra'), Conchita Maguey (Echeveria agavoides 'Miranda'), Conchita Maguey (Echeveria agavoides 'Martin'), Echeveria (Echeveria agavoides 'Scarlet'), Echeveria (Echeveria agavoides 'Love's Fire'), Echeveria (Echeveria agavoides 'Morgain'), Echeveria (Echeveria agavoides 'Romeo Rubin'), Echeveria (Echeveria agavoides 'Red Tip'), Conchita de Maguey (Echeveria agavoides 'Prolifera'), Echeveria (Echeveria agavoides 'Angela Star'), Echeveria
+
+characteristics:
+blooming: Succulent plants, sometimes flowers with a short period time
+color: Leaf color red with sufficient sunlight
+size: Diameter≥3cm，Height≥10cm
+
+caretaking:
+soil: Peat and akadama mixed in 3:1 ratio
+sunlight: Half shade in summer dormancy, enough sunlight in other seasons
+watering: Water thoroughly when soil surface is dry and reduce water in summer and winter
+fertilization: Dilute fertilizers following instructions, apply once monthly in spring and autumn
+pruning: Remove old, diseased and dead leaves timely
+temperature: min_temp: 6, max_temp: 35

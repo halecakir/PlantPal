@@ -1,0 +1,15 @@
+names:
+quisqualis indica, Rangoon Creeper (Combretum indicum), Rangoon Creeper
+
+characteristics:
+blooming: Flowering period May-August, viewing period one-two weeks
+color: Flower color white to pink red
+size: Diameter≥25cm，Height≥35cm
+
+caretaking:
+soil: Loose, fertile, and well-drained humus soil
+sunlight: Enjoy sufficient sunlight, resistant to half shade
+watering: Water thoroughly when soil surface is dry
+fertilization: Dilute fertilizers following instructions, apply once monthly in spring and autumn
+pruning: Remove flower stem, diseased and rotten leaves timely
+temperature: min_temp: 5, max_temp: 35

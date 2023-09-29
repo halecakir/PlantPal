@@ -1,0 +1,15 @@
+names:
+parthenocissus tricuspidata, Boston Ivy (Parthenocissus tricuspidata), Boston Ivy (Parthenocissus tricuspidata 'Fenway Park'), Boston Ivy (Parthenocissus tricuspidata 'Ginza Lights'), Boston Ivy (Parthenocissus tricuspidata 'Lowii'), Boston Ivy (Parthenocissus tricuspidata 'Veitchii Robusta'), Boston Ivy (Parthenocissus tricuspidata 'Green Showers'), Boston Ivy (Parthenocissus tricuspidata 'Veitchii'), Boston Ivy (Parthenocissus tricuspidata Calico Cat™), Boston Ivy
+
+characteristics:
+blooming: Foliage plants, sometimes flowers in May-June, orange yellow flowers
+color: Leaf color green, turn to red in autumn and winter
+size: Diameter ≥ 10 cm, height ≥ 10 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Resistant to shade plant, it is better for growth under shade
+watering: Likes wet environments, water thoroughly when soil is dry, spray frequently to the air or leaves to keep moist in summer
+fertilization: Dilute fertilizers following instructions,  apply 1-2 times monthly in spring
+pruning: Remove dead leaves timely
+temperature: min_temp: 8, max_temp: 35

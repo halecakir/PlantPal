@@ -1,0 +1,15 @@
+names:
+artocarpus heterophyllus, , 
+
+characteristics:
+blooming: Flowering period February-March
+color: Flower color light yellow
+size: Diameter ≥ 20 cm, height 15-20 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like sunshine
+watering: Only need keep soil moist, water thoroughly 1 or 2 times a month
+fertilization: Apply enough base fertilizers
+pruning: In spring pruning and remove old, diseased and dead leaves timely
+temperature: min_temp: 8, max_temp: 35

@@ -1,0 +1,15 @@
+names:
+aruncus dioicus, Goat's Beard (Aruncus dioicus), Goatsbeard (Aruncus dioicus var. kamtschaticus 'Hissa'), Bride's feathers (Aruncus dioicus var. acuminatus), Dwarf Goat's Beard (Aruncus dioicus var. kamtschaticus 'Hillside Gem'), Dwarf Goat's Beard (Aruncus dioicus var. kamtschaticus 'Noble Spirits'), Goatsbeard (Aruncus dioicus var. kamtschaticus 'Little Gem'), Dwarf Goat's Beard (Aruncus dioicus var. kamtschaticus), Goatsbeard (Aruncus dioicus 'Kneiffii'), Goat's Beard (Aruncus dioicus 'Misty Lace'), Goat's Beard (Aruncus dioicus 'Zweiweltenkind'), Aruncus dioicus var. pubescens, Goat's Beard (Aruncus dioicus 'Horatio'), Aruncus dioicus var. astilboides, Aruncus dioicus var. insularis, Goatsbeard (Aruncus dioicus 'Glasnevin'), Goatsbeard (Aruncus dioicus 'Southern White'), Bride's Feathers (Aruncus dioicus var. dioicus), Goat's Beard
+
+characteristics:
+blooming: Flowering period June, fruiting period August-September
+color: Flower color white
+size: Diameter ≥ 20 cm, height ≥ 25 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, resistant to half shade
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 8, max_temp: 32

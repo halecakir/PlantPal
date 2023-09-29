@@ -1,0 +1,15 @@
+names:
+helleborus foetidus, , 
+
+characteristics:
+blooming: Foliage plants, viewing period year around, flowering period in winter and spring
+color: Leaf color dark green, flower color white, pink
+size: Diameter ≥ 15 cm, height ≥ 25 cm
+
+caretaking:
+soil: Alkaline soil with loose texture or soil with specific nutrients
+sunlight: Put in places with scattered light
+watering: Likes wet environments, water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead, rotten, diseased leaves timely
+temperature: min_temp: 8, max_temp: 32

@@ -1,0 +1,15 @@
+names:
+castanea dentata, American Chestnut (Castanea dentata), American Chestnut
+
+characteristics:
+blooming: Flowering period May-June, fruiting period September-October
+color: Flower colorlight yellow brown, fruit color dark brown
+size: Diameter ≥ 15 cm, height ≥ 25 cm
+
+caretaking:
+soil: Slightly acidic soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, high quality fruits in sunny places
+watering: Likes wet environments, water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 8, max_temp: 35

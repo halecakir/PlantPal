@@ -1,0 +1,15 @@
+names:
+saponaria ocymoides, Rock Soapwort (Saponaria ocymoides), White Flowered Soapwort (Saponaria ocymoides 'Alba'), Rock Soapwort (Saponaria ocymoides 'Rosea'), Rock Soapwort (Saponaria ocymoides 'Rubra Compacta'), Rock Soapwort (Saponaria ocymoides 'Splendens'), Rock Soapwort
+
+characteristics:
+blooming: Flowering period June-September
+color: Flower color white, pink
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, resistant to half shade
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 5, max_temp: 32

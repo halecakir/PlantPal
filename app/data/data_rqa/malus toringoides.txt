@@ -1,0 +1,15 @@
+names:
+malus toringoides, Cutleaf Crabapple (Malus toringoides), Cutleaf Crabapple
+
+characteristics:
+blooming: Flowering period March-May, viewing period 2-3 weeks
+color: Flower color white, peach red
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Likes sunshine, put in sunny places, avoid strong sunlight in summer at noon
+watering: Water thoroughly when soil is dry
+fertilization: Dilute fertilizers following instructions,  apply 1-2 times monthly in spring
+pruning: Remove old, diseased, dead leaves and withered flowers timely
+temperature: min_temp: 5, max_temp: 35

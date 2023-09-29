@@ -1,0 +1,15 @@
+names:
+pachyphytum 'dr cornelius', Pachyphytum (Pachyphytum compactum), Pachyphytum (Pachyphytum hookeri), Pachyphytum (Pachyphytum glutinicaule), Pachyphytum (Pachyphytum rzedowskii), Pachyphytum (Pachyphytum coeruleum), Pachyphytum 'Royal Flush', Pachyphytum (Pachyphytum machucae), Pachyphytum 'Captain Jessop', Pachyphytum 'Heavenly Beauty', Pachyphytum 'Buster', Moonstones (Pachyphytum oviferum), Sedum (Pachyphytum 'Greenbeans'), Dudleya (Dudleya pachyphytum), Pachyphytum cuicatecanum, Pachyphytum kimnachii, Pachyphytum fittkaui, Pachyphytum caesium, Pachyphytum werdermannii, Pachyphytum garciae, Pachyphytum viride, Pachyphytum
+
+characteristics:
+blooming: Succulent plants, sometimes flowers, purple red to red flowers
+color: Leaf color emerald green, with a great diurnal temperature range, with adequate sunlight leaf tips turning to red
+size: Diameter ≥ 5 cm, height ≥ 5 cm
+
+caretaking:
+soil: Peat and akadama mixed in 3:1 ratio
+sunlight: Like sunshine, no apparent dormancy
+watering: Do not water frequently, keep a dry environment, water every 7-10 days
+fertilization: Dilute fertilizers following instructions, apply once monthly
+pruning: Remove dead and rotten part timely
+temperature: min_temp: 5, max_temp: 35

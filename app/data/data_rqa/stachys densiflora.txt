@@ -1,0 +1,15 @@
+names:
+stachys densiflora, Geostachys densiflora, Betony (Betonica officinalis subsp. officinalis), Lamb's Ear (Betonica officinalis subsp. officinalis 'Purpurea'), Geostachys densiflora
+
+characteristics:
+blooming: Flowering and fruiting period June-August
+color: Flower color purple, light redpurple, fruit color brown
+size: Diameter ≥ 20 cm, height 15-20 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like half shade, may grow in places with bright scattered light
+watering: Only need keep soil moist
+fertilization: Apply enough base fertilizers
+pruning: No need pruning
+temperature: min_temp: 10, max_temp: 32

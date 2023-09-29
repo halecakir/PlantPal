@@ -1,0 +1,15 @@
+names:
+mini rose 'white jewel', Begonia 'Miniata Rosea', Milliflora Spreading/Trailing Petunia (Petunia Supertunia® Mini Rose Veined), Primrose (Primula graminifolia), Angel Trumpet (Brugmansia 'Mini Rose'), Tomato (Solanum lycopersicum 'Mini Rose'), Japanese Morning Glory (Ipomoea nil 'Minibar Rose'), Tall Bearded Iris (Iris 'Miniver Rose'), Rose (Rosa 'White Mini-Wonder'), Mini Petunia (Calibrachoa Cabaret™ Rose), Million Bells (Calibrachoa MiniFamous Double™ Rose Chai), Million Bells (Calibrachoa Celebration® Rose), Orange Sundew (Drosera miniata), Mini Petunia (Calibrachoa Can-Can® Rose Star), Fuchsia Begonia (Begonia fuchsioides 'Rosea'), Cape Sundew (Drosera capensis 'Mini Red'), Sundew (Drosera graminifolia), Mini Petunia (Calibrachoa Cabaret™ Cherry Rose Improved), Water Lily (Nymphaea 'Rosea Minima'), Million Bells (Calibrachoa Callie™ Rose), Million Bells (Calibrachoa Caloha® Rose Imp.), Begonia 'Miniata Rosea'
+
+characteristics:
+blooming: Blooms once every February-March months, viewing period 2-3 weeks
+color: Flower color white
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Likes sunshine, put in sunny places, avoid strong sunlight in summer at noon
+watering: Water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 2-3 times monthly
+pruning: Remove old, diseased and dead leaves timely, after flowering remove the upper part staring from 5 cm above soil surface, leaving 2-3 leaves
+temperature: min_temp: 8, max_temp: 35

@@ -1,0 +1,15 @@
+names:
+jacobinia velutina, , NONE
+
+characteristics:
+blooming: Flowering period March-July
+color: Leaf color green , flower color pink
+size: Diameter ≥ 20 cm, height 15-30 cm
+
+caretaking:
+soil: Fertile loam rich in organic matter
+sunlight: Like adequate light, resistant to shade, avoid summer scorching sunlight
+watering: Likes wet environments, water thoroughly when soil is dry
+fertilization: Apply 1-2 times monthly in spring
+pruning: Remove withered flowers, diseased and yellowing leaves timely
+temperature: min_temp: 10, max_temp: 35

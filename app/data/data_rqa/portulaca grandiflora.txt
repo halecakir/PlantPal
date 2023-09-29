@@ -1,0 +1,15 @@
+names:
+portulaca grandiflora, Moss Rose (Portulaca grandiflora), Portulaca Mojave® White, Portulaca Mojave® Yellow, Portulaca oleracea Mojave® Tangerine, Portulaca Mojave® Red, Portulaca Mojave® Pink, Moss Rose (Portulaca Mojave® Fuchsia), Moss Rose (Portulaca grandiflora 'Kariba Mixed'), Moss Rose (Portulaca grandiflora 'Yubi Summer Joy Wine Red'), Moss Rose (Portulaca grandiflora 'Yubi Summer Joy Rose with Red Eye'), Moss Rose (Portulaca grandiflora 'Yubi Summer Joy Orange'), Moss Rose (Portulaca grandiflora 'Yubi Summer Joy White'), Moss Rose (Portulaca grandiflora 'Yubi Summer Joy Light Pink'), Moss Rose (Portulaca grandiflora 'Yubi Summer Joy Pink'), Moss Rose (Portulaca grandiflora 'Yubi Summer Joy Rose'), Moss Rose (Portulaca grandiflora 'Yubi Summer Joy Scarlet'), Moss Rose (Portulaca grandiflora 'Yubi Summer Joy Apricot'), Moss Rose (Portulaca grandiflora Duet™ Candy Stripe), Moss Rose (Portulaca grandiflora 'Sundial Mix'), Moss Rose (Portulaca grandiflora 'Sundial Mango'), Moss Rose
+
+characteristics:
+blooming: Flowering period May-November, viewing period 2-3 weeks
+color: Flower color red, orange, purple, yellow
+size: Diameter ≥ 10 cm, height ≥ 10 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Likes adequate sunshine, properly shade in summer at noon under strong light
+watering: Resistant to drought, water thoroughly when soil is dry
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly in spring and summer
+pruning: Remove old, diseased and dead leaves timely
+temperature: min_temp: 6, max_temp: 35

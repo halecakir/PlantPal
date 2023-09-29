@@ -1,0 +1,15 @@
+names:
+forsythia viridissima, Greenstem Forsythia (Forsythia viridissima), Greenstem Forsythia (Forsythia viridissima var. koreana 'Suwan Gold'), Greenstem Forsythia (Forsythia viridissima var. koreana 'Kumson'), Greenstem Forsythia (Forsythia viridissima var. koreana), Greenstem Forsythia (Forsythia viridissima 'Klein'), Variegated Greenstem Forsythia (Forsythia viridissima 'Citrus Swizzle'), Greenstem Forsythia (Forsythia viridissima 'Bronxensis'), Greenstem Forsythia
+
+characteristics:
+blooming: Flowering period March-April, flowering period August-November
+color: Flower color yellow
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, resistant to half shade
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 5, max_temp: 32

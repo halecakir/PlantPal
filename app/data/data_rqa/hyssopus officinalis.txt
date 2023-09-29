@@ -1,0 +1,15 @@
+names:
+hyssopus officinalis, Hyssop (Hyssopus officinalis), Hyssop (Hyssopus officinalis subsp. officinalis 'Albus'), Hyssop (Hyssopus officinalis subsp. officinalis 'Roseus'), Hyssop (Hyssopus officinalis 'Formula Mix'), Hyssop (Hyssopus officinalis 'Pink Delight'), Rock Hyssop (Hyssopus officinalis subsp. aristatus), Whitish Hyssop (Hyssopus officinalis subsp. canescens), Mountain Hyssop (Hyssopus officinalis subsp. montanus), Common Hyssop (Hyssopus officinalis subsp. officinalis), Hyssop (Hyssopus officinalis 'Caeruleus'), Hyssop (Hyssopus officinalis 'Sprite Blue'), Hyssop (Hyssopus officinalis subsp. officinalis 'Nana'), Hyssop (Hyssopus officinalis 'Pink Sprite'), Hyssop (Hyssopus officinalis 'Sissinghurst'), Hyssop (Hyssopus officinalis 'Blaue Wolke'), Hyssop (Hyssopus officinalis 'Grandiflorus'), Hyssop (Hyssopus officinalis 'Cătălin'), Hyssop (Hyssopus officinalis subsp. officinalis 'Ruber'), Hyssop (Hyssopus officinalis subsp. officinalis 'Decussatus'), Hyssop (Hyssopus officinalis 'Perlay'), Hyssop
+
+characteristics:
+blooming: Flowering period June
+color: Flower color light blue to purple
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Likes sunshine, put in sunny places, avoid strong sunlight in summer at noon
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Need more fertilization, dilute fertilizers following instructions, apply 2-3 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 8, max_temp: 35

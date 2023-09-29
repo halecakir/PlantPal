@@ -1,0 +1,15 @@
+names:
+argyranthemum frutescens, Marguerite Daisy (Argyranthemum frutescens), Marguerite Daisy (Argyranthemum frutescens 'Ruby Slippers'), Marguerite Daisy (Argyranthemum frutescens 'Summer Stars Pink'), Marguerite Daisy (Argyranthemum frutescens Vanilla Butterfly®), Summer Daisy (Argyranthemum frutescens 'Midas Gold'), Marguerite Daisy (Argyranthemum frutescens 'Sugar Baby'), Summer Daisy (Argyranthemum frutescens 'Summer Melody'), Summer Daisy (Argyranthemum frutescens Gypsy Rose™), Summer Daisy (Argyranthemum frutescens Lavender Lass), Summer Daisy (Argyranthemum frutescens 'Think Pink'), Marguerite Daisy (Argyranthemum frutescens 'White Star'), Summer Daisy (Argyranthemum frutescens Madeira™ Santana), Summer Daisy (Argyranthemum frutescens Madeira™ Santa Maria Pink), Marguerite Daisy (Argyranthemum frutescens 'Creme'), Marguerite Daisy (Argyranthemum frutescens 'Lemon Delight'), Summer Daisy (Argyranthemum frutescens 'Surprise Party'), Summer Daisy (Argyranthemum frutescens Sugar Cheer), Marguerite Daisy (Argyranthemum frutescens 'Lemon Sugar'), Marguerite Daisy (Argyranthemum frutescens 'Cotton Candy'), Marguerite Daisy (Argyranthemum frutescens Molimba® First Blush), Marguerite Daisy
+
+characteristics:
+blooming: Flowering and fruiting period February-October
+color: Flower color white, pale pink, yellow
+size: height about 50-70 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like sufficient sunlight
+watering: Only need keep soil moist
+fertilization: No much requirement for fertilizers
+pruning: Properly shorten excessively grown branches to promote new branching
+temperature: min_temp: 8, max_temp: 32

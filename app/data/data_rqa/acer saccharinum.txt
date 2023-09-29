@@ -1,0 +1,15 @@
+names:
+acer saccharinum, Silver Maple (Acer saccharinum), Silver Maple (Acer saccharinum 'Silver Queen'), Maple (Acer saccharinum 'Wieri'), Maple (Acer saccharinum 'Crispum'), Maple (Acer saccharinum Silver Cloud™), Cutleaf Silver Maple (Acer saccharinum 'Mareltoi'), Cutleaf Silver Maple (Acer saccharinum 'Born's Gracious'), Silver Maple (Acer saccharinum Symatree™), Silver Maple
+
+characteristics:
+blooming: Flowering period April, fruiting period August
+color: Flower color light yellow
+size: Diameter ≥ 25 cm, height ≥ 30 cm
+
+caretaking:
+soil: Acidic soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, grows in sunny places, avoid summer direct strong light
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 5, max_temp: 35

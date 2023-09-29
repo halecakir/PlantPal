@@ -1,0 +1,15 @@
+names:
+cymbidium ensifolium, Sword-Leaf Orchid (Cymbidium ensifolium), Orchid (Cymbidium munronianum), Four-Season Orchid (Cymbidium ensifolium 'Caihong'), Four-Season Orchid (Cymbidium ensifolium 'Shi Chang Hong'), Four Season Orchid (Cymbidium ensifolium 'Hong Mao'), Variegated Chinese Orchid (Cymbidium ensifolium 'Jinqi'), Chinese Orchid (Cymbidium ensifolium 'Jin He'), Chinese Orchid (Cymbidium ensifolium 'Yu Shan Qi Die'), Chinese Orchid (Cymbidium ensifolium 'Jin Si Ma Wei'), Chinese Orchid (Cymbidium ensifolium 'Qi Xian Nu'), Chinese Orchid (Cymbidium ensifolium 'Ba Bao Qi Zhen'), Chinese Orchid (Cymbidium ensifolium 'Bai Lian'), Chinese Orchid (Cymbidium ensifolium 'Bao Dao Xian Nü'), Chinese Orchid (Cymbidium ensifolium 'Cai Mei'), Chinese Orchid (Cymbidium ensifolium 'Cui Yü He'), Chinese Orchid (Cymbidium ensifolium 'Si Ji Da Man Guan'), Chinese Orchid (Cymbidium ensifolium 'Da Xiang'), Chinese Orchid (Cymbidium ensifolium 'E Mei Xian'), Chinese Orchid (Cymbidium ensifolium 'Feng'), Chinese Orchid (Cymbidium ensifolium 'Fu Long'), Sword-Leaf Orchid
+
+characteristics:
+blooming: Flowering period June-October, viewing period 3-4 weeks
+color: Light yellow green with purple marks
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Breathable and loose planting materials with coconut shell, bark or sphagnum moss
+sunlight: Like more sunlight among Chinese orchids, resistant to half shadereceive more light when leaves are dark green
+watering: Water thoroughly when soil is dry, may spray to the ambient environment in summer, reduce watering in winter
+fertilization: Apply fertilizers every 10-15 days in the growing seasons of spring and autumn, foliar fertilizer spray also do good for its growth , fertilize under 10 ℃ (50 ℉) is forbidden
+pruning: Remove old, diseased and dead leaves timely, remove peduncle after flowering
+temperature: min_temp: 8, max_temp: 32
