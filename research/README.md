@@ -14,7 +14,7 @@ In this directory, we store the necessary Python and Jupyter files for training 
 This section contains essential data files for our models. The most significant ones include:
 
 - `data/PlantQA_dataset_8864.csv`: This is a cleaned version of the Reddit data, which we will use for fine-tuning the llama-2 model.
-- `data/reddit/plantclinic_***`: These are the raw versions of the Reddit plant clinic dataset.
+- `data/reddit/plantclinic_***`: These are the raw versions of the Reddit plant clinic dataset. (!!!This dataset was removed from the repository due to its enormously huge size)
 - `data/intent.csv`: This dataset is used for intent identification.
 
 ## 3. Scripts (/research/scripts)
