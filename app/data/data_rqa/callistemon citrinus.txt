@@ -1,0 +1,15 @@
+names:
+callistemon citrinus, Crimson Bottlebrush (Callistemon citrinus), Dwarf Bottlebrush (Callistemon citrinus 'Little John'), Crimson Bottlebrush (Callistemon citrinus 'Splendens'), Pink Bottle Brush (Callistemon citrinus 'Reeves Pink'), Dwarf Bottlebrush (Callistemon citrinus 'Better John'), Bottlebrush (Callistemon citrinus 'White Anzac'), Bottlebrush (Callistemon citrinus 'Firebrand'), Bottlebrush (Callistemon citrinus 'Semmes' Hardy'), Crimson Bottlebrush
+
+characteristics:
+blooming: Flowering period June-August
+color: Flower color red
+size: Diameter ≥ 15 cm, height ≥ 25 cm
+
+caretaking:
+soil: Slightly acidic sandy soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, grows in sunny places
+watering: Water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead, rotten, diseased leaves timely
+temperature: min_temp: 5, max_temp: 40

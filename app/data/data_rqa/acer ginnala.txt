@@ -1,0 +1,15 @@
+names:
+acer ginnala, Amur Maple (Acer tataricum subsp. ginnala 'Flame'), Amur Maple (Acer tataricum subsp. ginnala 'Emerald Elf'), Amur Maple (Acer tataricum subsp. ginnala 'Red Fruit'), Amur Maple (Acer tataricum subsp. ginnala 'Compacta'), Amur Maple (Acer tataricum subsp. ginnala), Turkestan Shrub Maple (Acer tataricum subsp. semenovii), Amur Maple (Acer tataricum subsp. ginnala 'Bailey Compact'), Amur Maple (Acer tataricum subsp. ginnala Red November™), Amur Maple (Acer tataricum subsp. ginnala 'Ruby Slippers'), Amur Maple (Acer tataricum subsp. ginnala Beethoven™), Amur Maple (Acer tataricum subsp. ginnala Mozart™), Amur Maple (Acer tataricum subsp. ginnala 'Embers'), Amur Maple (Acer tataricum subsp. ginnala Red Rhapsody®), Amur Maple (Acer tataricum subsp. ginnala 'Summer Splendor'), Amur Maple (Acer tataricum subsp. ginnala 'Fire'), Amur Maple (Acer tataricum subsp. ginnala 'Durand Dwarf'), Amur Maple (Acer tataricum subsp. ginnala 'Curiel's Gold'), Amur Maple (Acer tataricum subsp. ginnala 'Bergiana Flame'), Amur Maple (Acer tataricum subsp. ginnala Atomic®), Amur Maple (Acer tataricum subsp. ginnala 'Red Wing'), Amur Maple
+
+characteristics:
+blooming: Flowering period April, fruiting period August
+color: Flower color light yellow, fruit color pink
+size: Diameter ≥ 25 cm, height ≥ 30 cm
+
+caretaking:
+soil: Acidic soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, grows in sunny places, avoid summer direct strong light
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 5, max_temp: 35

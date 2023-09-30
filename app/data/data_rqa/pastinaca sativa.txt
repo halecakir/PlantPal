@@ -1,0 +1,15 @@
+names:
+pastinaca sativa, Parsnips (Pastinaca sativa), Parsnip (Pastinaca sativa 'Harris Model'), Parsnip (Pastinaca sativa 'Hollow Crown'), Parsnip (Pastinaca sativa 'Student'), Parsnip (Pastinaca sativa 'Avonresister'), Parsnip (Pastinaca sativa 'Andover'), Parsnip (Pastinaca sativa 'Fullback'), Parsnip (Pastinaca sativa 'Smooth White'), Parsnip (Pastinaca sativa 'Javelin'), Parsnip (Pastinaca sativa 'Lancer'), Parsnip (Pastinaca sativa 'Gladiator'), Parsnip (Pastinaca sativa 'Panache'), Parsnip (Pastinaca sativa 'Arrow'), Parsnip (Pastinaca sativa 'New White Skin'), Parsnip (Pastinaca sativa 'All American'), Parsnip (Pastinaca sativa 'Dagger'), Parsnip (Pastinaca sativa 'Excalibur'), Parsnip (Pastinaca sativa 'Polar'), Parsnip (Pastinaca sativa 'Survivor'), Parsnip (Pastinaca sativa 'Tender and True'), Parsnips
+
+characteristics:
+blooming: Flowering and fruiting period June-August
+color: Flower color yellow
+size: Diameter ≥ 15 cm, height ≥ 25 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like half shade, may grow in places with bright scattered light
+watering: Water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove dead, rotten, diseased leaves and the parts that may affect the good appearance
+temperature: min_temp: 10, max_temp: 32

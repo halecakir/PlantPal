@@ -1,0 +1,15 @@
+names:
+abies fraseri, Fraser Fir (Abies fraseri), Fraser Fir (Abies fraseri 'Kline's Nest'), Fraser Fir (Abies fraseri 'Prostrata'), Fraser Fir (Abies fraseri 'Franklin'), Fraser Fir (Abies fraseri 'Julian Potts'), Abies fraseri 'Blue Bonnet', Abies fraseri 'Brandon Recker', Abies fraseri 'Fantasticooli', Abies fraseri 'Flynn’s Flash', Abies fraseri 'Ford WB', Abies fraseri 'Frederick', Abies fraseri 'Gee', Fraser Fir (Abies fraseri 'Gee's WB'), Abies fraseri 'Klein’s Dwarf', Abies fraseri 'Kline’s Nest', Abies fraseri 'Kostelec', Abies fraseri 'Palmeri', Abies fraseri 'Piglet’s WB', Abies fraseri 'Raul’s Dwarf', Abies fraseri 'Rawles', Fraser Fir
+
+characteristics:
+blooming: Flowering period May, fruiting period October
+color: Leaf color green , fruit color dark black, light blue black
+size: Diameter ≥ 15 cm, height ≥ 30 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like sunshine, slight shade tolerance
+watering: Likes wet environments, water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Pruning accordingly for any favorate tree shapes
+temperature: min_temp: 6, max_temp: 35

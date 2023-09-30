@@ -1,0 +1,15 @@
+names:
+dorstenia gigas, Dorstenia (Dorstenia gigas), Dorstenia
+
+characteristics:
+blooming: Succulent plants, sometimes flowers
+color: Leaf color green, flower color yellow
+size: Diameter ≥ 5 cm, height ≥ 10 cm
+
+caretaking:
+soil: No strict requirements on the soil
+sunlight: Like adequate light
+watering: Strong resistant to drought, water thoroughly after soil completely dries
+fertilization: Need less fertilizers, apply liquid fertilizer during spring and autumn
+pruning: Remove diseased, yellowing leaves timely
+temperature: min_temp: 8, max_temp: 38

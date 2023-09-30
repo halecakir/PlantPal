@@ -1,0 +1,15 @@
+names:
+mimulus guttatus, , 
+
+characteristics:
+blooming: Flowering and fruiting period June-September
+color: Flower color yellow, red
+size: Diameter ≥ 20 cm, height 20-30 cm
+
+caretaking:
+soil: Soil with rich organic matter and strong abilities of holding water and fertility
+sunlight: Like half shade, may grow in places with bright scattered light
+watering: Keep soil moist
+fertilization: Apply enough base fertilizers
+pruning: No need pruning
+temperature: min_temp: 8, max_temp: 32

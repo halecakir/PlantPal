@@ -1,0 +1,15 @@
+names:
+camellia sinensis, Tea Plant (Camellia sinensis), Tea Plant (Camellia sinensis 'Rosea'), Camellia (Camellia sinensis subsp. buisanensis), Chinese Tea (Camellia sinensis 'Sochi'), Camellia (Camellia sinensis 'Assamica'), Camellia (Camllia sinensis var. pubilimba), Tropical Hibiscus (Hibiscus rosa-sinensis 'Camellia Pink'), Tropical Hibiscus (Hibiscus rosa-sinensis 'Camellia Rose'), Indian Tea Plant (Camellia sinensis var. assamica), Camellia (Camellia sinensis var. pubilimba), Camellia (Camellia sinensis subsp. sinensis), Camellia (Camellia sinensis var. dehungensis), Tea Plant
+
+characteristics:
+blooming: Flowering period August-December, fruiting period October-November of the next year
+color: Flower color white, fruit color brown
+size: Diameter ≥ 10 cm, height ≥ 20 cm
+
+caretaking:
+soil: Slightly acidic soil with loose texture or soil with specific nutrients
+sunlight: Likes half shade, grows in places with bright scattered light
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 5, max_temp: 32

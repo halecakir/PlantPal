@@ -1,0 +1,15 @@
+names:
+picea asperata, Dragon Spruce (Picea asperata), Spruce (Picea asperata var. asperata), Spruce (Picea asperata var. ponderosa), Spruce (Picea asperata var. notabilis), Spruce (Picea asperata 'China Blue'), Spruce (Picea asperata 'Arturs Dominiks'), Spruce (Picea asperata 'Bedgebury WB'), Spruce (Picea asperata 'Glauca'), Spruce (Picea asperata 'Hunnewelliana'), Spruce (Picea asperata 'Kórnik'), Spruce (Picea asperata 'Mongolei'), Spruce (Picea asperata 'Morton Arb'), Spruce (Picea asperata 'Nigrans'), Dragon Spruce
+
+characteristics:
+blooming: Flowering period April-May, fruiting period September-October
+color: Leaf color green , fruit color red
+size: Diameter ≥ 15 cm, height ≥ 30 cm
+
+caretaking:
+soil: Fertile sandy loam or soil with specific nutrients
+sunlight: Like sunshine, resistant to half shade, good growth under sunlight
+watering: Water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove dead, rotten, diseased leaves and the parts that may affect the good appearance
+temperature: min_temp: 6, max_temp: 35

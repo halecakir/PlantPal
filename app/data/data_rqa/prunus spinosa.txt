@@ -1,0 +1,15 @@
+names:
+prunus spinosa, Sloe (Prunus spinosa), Lycium cinereum, Prunus spinosa subsp. dasyphylla, Prunus spinosa subsp. spinosa, Sloe
+
+characteristics:
+blooming: Flowering period April, fruiting period August
+color: Flower color white, fruit color black, with pale blue powder
+size: Diameter ≥ 20 cm, height 20-30 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like sunshine, resistant to half shade
+watering: Water thoroughly when soil is dry, avoid saturated water
+fertilization: Apply plenty base fertilizer, apply little in the seedling stage, top-dressing chemical fertilizers in peak growth stages if needed
+pruning: Remove dead and diseased branches timely
+temperature: min_temp: 5, max_temp: 35

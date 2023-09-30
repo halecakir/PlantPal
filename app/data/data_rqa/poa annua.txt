@@ -1,0 +1,15 @@
+names:
+poa annua, Annual Bluegrass (Poa annua), Annual Bluegrass (Poa annua 'MN184'), Annual Bluegrass (Poa annua 'MN234'), Poa annua var. rigidula, Poa annua f. viridis, Poa annua f. picta, Creeping Bluegrass (Poa annua TruePutt™), Annual Bluegrass
+
+characteristics:
+blooming: Flowering period April-May, fruiting period June-July
+color: Flower color yellow, white
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like half shade, may grow in places with bright scattered light
+watering: Only need keep soil moist
+fertilization: Apply enough base fertilizers
+pruning: Remove dead and diseased branches timely
+temperature: min_temp: 8, max_temp: 32

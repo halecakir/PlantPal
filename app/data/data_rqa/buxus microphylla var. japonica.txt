@@ -1,0 +1,15 @@
+names:
+buxus microphylla var. japonica, Variegated Japanese Boxwood (Buxus microphylla 'Variegata'), Variegated Japanese Boxwood (Buxus microphylla 'Borderline'), Japanese Boxwood (Buxus microphylla 'Morris Midget'), Japanese Boxwood (Buxus microphylla 'National'), Littleleaf Boxwood (Buxus microphylla 'Green Beauty'), Japanese Boxwood (Buxus microphylla Baby Gem™), Japanese Boxwood (Buxus microphylla Baby Jade™), Japanese Boxwood (Buxus microphylla 'Trompenburg'), Japanese Boxwood (Buxus microphylla 'Julia Jane'), Japanese Boxwood (Buxus microphylla 'Morris Dwarf'), Littleleaf Boxwood (Buxus microphylla), Variegated Japanese Boxwood
+
+characteristics:
+blooming: Foliage plants, sometimes flowers in March-April, yellow flowers
+color: Leaf color green
+size: Diameter ≥ 10 cm, height ≥ 10 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like light, and slight shade tolerance
+watering: Likes wet environments, water thoroughly when soil is dry, may rub leaves with water when dry
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly in spring and autumn
+pruning: Remove dead leaves timely
+temperature: min_temp: 5, max_temp: 35

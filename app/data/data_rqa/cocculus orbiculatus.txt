@@ -1,0 +1,15 @@
+names:
+cocculus orbiculatus, Queen Coralbead (Cocculus orbiculatus), Cocculus orbiculatus var. mollis, Queen Coralbead
+
+characteristics:
+blooming: Flowering and fruiting period April-November
+color: Flower color light yellow, fruit color red to purple red
+size: Diameter ≥ 20 cm, height 20-30 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like half shade, may grow in places with bright scattered light
+watering: Water thoroughly when soil is dry, avoid saturated water
+fertilization: Apply enough base fertilizers
+pruning: Remove dead and diseased branches timely
+temperature: min_temp: 8, max_temp: 32

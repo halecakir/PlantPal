@@ -1,0 +1,15 @@
+names:
+conophytum burgeri, , 
+
+characteristics:
+blooming: Succulent plants, sometimes flowers, purple red flowers
+color: Leaf color tender green, when sunny leaf turns red
+size: Diameter ≥ 2 cm, height ≥ 5 cm
+
+caretaking:
+soil: Peat and akadama mixed in 3:1 ratio
+sunlight: Like sunshine, go into decrustation when dormant under high temperature in summer, put in places with scattered light
+watering: Water thoroughly when soil is dry, reduce water during decrustation in summer
+fertilization: Dilute fertilizers following instructions,  apply once every 1-2 months in spring and autumn
+pruning: Remove old leaves timely
+temperature: min_temp: 5, max_temp: 35

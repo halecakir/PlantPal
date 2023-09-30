@@ -1,0 +1,15 @@
+names:
+schefflera actinophylla, Umbrella Tree (Heptapleurum actinophyllum), Umbrella Tree (Heptapleurum actinophyllum 'Nova'), Umbrella Tree (Heptapleurum actinophyllum 'Amate Soleil'), Umbrella Tree (Heptapleurum actinophyllum 'Variegata'), Umbrella Tree (Heptapleurum actinophyllum 'Amate'), Umbrella Plant (Heptapleurum actinophyllum 'Renegade'), Umbrella Tree
+
+characteristics:
+blooming: Foliage plant and sometimes open red flowers
+color: leaf color green
+size: Diameter≥10cm，Height≥15cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like mild sunlight, avoid strong direct sunlight
+watering: Water thoroughly when soil surface is dry and reduce water in winter
+fertilization: Dilute fertilizers following instructions, apply once monthly
+pruning: Remove old, diseased and dead leaves timely
+temperature: min_temp: 8, max_temp: 35

@@ -1,0 +1,15 @@
+names:
+vaccinium angustifolium, Lowbush Blueberry (Vaccinium angustifolium), Lowbush Blueberry (Vaccinium angustifolium 'Top Hat'), Lowbush Blueberry (Vaccinium angustifolium 'Burgundy'), Lowbush Blueberry (Vaccinium angustifolium 'Brunswick'), Lowbush Blueberry (Vaccinium angustifolium 'Pretty Yellow'), Lowbush Blueberry (Vaccinium angustifolium 'Zuckertraube'), Lowbush Blueberry (Vaccinium angustifolium 'Putte'), Lowbush Blueberry (Vaccinium angustifolium 'Fundy'), Lowbush Blueberry (Vaccinium angustifolium 'Chignecto'), Lowbush Blueberry (Vaccinium angustifolium 'Cumberland'), Lowbush Blueberry (Vaccinium angustifolium 'Jonesboro'), Lowbush Blueberry (Vaccinium angustifolium 'Claret'), Lowbush Blueberry (Vaccinium angustifolium 'Verde'), Lowbush Blueberry (Vaccinium angustifolium 'Joselyn'), Lowbush Blueberry (Vaccinium angustifolium 'Ruby Carpet'), Lowbush Blueberry (Vaccinium angustifolium 'Leslie'), Lowbush Blueberry (Vaccinium angustifolium 'Augusta'), Lowbush Blueberry (Vaccinium angustifolium 'Blomidon'), Lowbush Blueberry
+
+characteristics:
+blooming: Flowering period March, fruiting period May
+color: Flower color white, fruit color blue
+size: Diameter ≥ 10 cm, height 30-50 cm
+
+caretaking:
+soil: Slightly acidic soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, high quality fruits in sunny places
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 5, max_temp: 35

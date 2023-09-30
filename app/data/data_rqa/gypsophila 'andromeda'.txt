@@ -1,0 +1,15 @@
+names:
+gypsophila 'andromeda', Baby's Breath (Gypsophila), Gypsophila (Gypsophila aretioides), Gypsophila (Gypsophila violacea), Gypsophila nana 'Compacta', Cushion Baby's Breath (Gypsophila muralis 'Gypsy Deep Rose'), Cushion Baby's Breath (Gypsophila muralis 'Garden Bride'), Aristida gypsophila f. gypsophila, Gypsophila visianii, Gypsophila tubulosa, Baby's Breath (Gypsophila 'Schneeflocke'), Colewort (Crambe cordifolia), Baby's Breath (Gypsophila paniculata 'Bristol Fairy'), Baby's Breath (Gypsophila paniculata 'Compacta Plena'), Baby's Breath (Gypsophila paniculata 'Perfekta'), Baby's Breath (Gypsophila paniculata 'Viette's Dwarf'), Gypsum Necklacepod (Dermatophyllum gypsophilum), Baby's Breath (Gypsophila elegans 'Covent Garden'), Baby's Breath (Gypsophila paniculata), Creeping Baby's Breath (Gypsophila repens 'Rosea'), Creeping Baby's Breath (Gypsophila repens 'Alba'), Baby's Breath
+
+characteristics:
+blooming: Flowering period June-August, viewing period 2-3 weeks
+color: Flower color white, pink
+size: Diameter ≥ 5 cm, height ≥ 15 cm
+
+caretaking:
+soil: Likes slightly alkaline soil, may use peat adding a small amount of lime or baking soda
+sunlight: Like adequate sunlight, shade properly under summer strong light
+watering: Water thoroughly when soil is dry, reduce watering in winter
+fertilization: Dilute fertilizers following instructions,  apply 1-2 times monthly in spring
+pruning: Remove old, diseased and dead leaves timely
+temperature: min_temp: 10, max_temp: 32

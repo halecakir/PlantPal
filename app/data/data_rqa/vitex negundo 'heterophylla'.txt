@@ -1,0 +1,15 @@
+names:
+vitex negundo 'heterophylla', Chinese Chaste Tree (Vitex negundo var. negundo), Chinese Chaste Tree
+
+characteristics:
+blooming: Flowering period June-July
+color: Flower color light purple
+size: Diameter ≥ 20 cm, height 20-30 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like sunshine
+watering: Keep soil moist
+fertilization: Apply enough base fertilizers
+pruning: During May to September, may cut leaves 3-4 times
+temperature: min_temp: 5, max_temp: 35

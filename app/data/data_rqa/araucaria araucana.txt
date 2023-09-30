@@ -1,0 +1,15 @@
+names:
+araucaria araucana, Monkey Puzzle Tree (Araucaria araucana), Araucaria araucana 'Andenzwerg', Araucaria araucana 'Angustifolia', Araucaria araucana 'Aurea', Araucaria araucana 'Aureovariegata', Araucaria araucana 'Auslese', Araucaria araucana 'Densa', Araucaria araucana 'Denudata', Araucaria araucana 'Distans', Araucaria araucana 'Kurt Sachs', Araucaria araucana 'Platifolia', Araucaria araucana 'Platyfolia', Araucaria araucana 'Striata', Araucaria araucana 'Variegata', Monkey Puzzle Tree
+
+characteristics:
+blooming: Foliage plants, viewing period year around, flowering period in summer
+color: Leaf color green, male flower brown, female flower green brown
+size: Diameter ≥ 15 cm, height ≥ 30 cm
+
+caretaking:
+soil: Fertile soil or special humus soil
+sunlight: Like sunshine, slight shade tolerance
+watering: Water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 5, max_temp: 35

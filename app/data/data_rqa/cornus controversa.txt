@@ -1,0 +1,15 @@
+names:
+cornus controversa, Giant Dogwood (Cornus controversa), Variegated Giant Dogwood (Cornus controversa 'Variegata'), Giant Dogwood (Cornus controversa 'June Snow'), Variegated Dogwood (Cornus controversa 'Janine'), Giant Dogwood (Cornus controversa 'Pagoda'), Giant Dogwood
+
+characteristics:
+blooming: Flowering period May-June；fruiting period July-August
+color: Flower color white, fruit color purple red, dark black
+size: Diameter ≥ 20 cm, height ≥ 25 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, resistant to half shade
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Need more fertilization, dilute fertilizers following instructions, apply 2-3 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 5, max_temp: 32

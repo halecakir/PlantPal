@@ -1,0 +1,15 @@
+names:
+ficus microcarpa cv. golden leaves, Chinese Banyan (Ficus microcarpa 'Golden Leaves'), Chinese Banyan
+
+characteristics:
+blooming: Foliage plants, viewing period year around, flowering period May-June
+color: Leaf color green
+size: Diameter ≥ 25 cm, height ≥ 30 cm
+
+caretaking:
+soil: Acidic soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, avoid scorching light
+watering: Likes wet environments, water thoroughly when soil is dry, avoid saturated water
+fertilization: Need more fertilization, apply 1-2 times monthly, reduce fertilizers in winter
+pruning: Remove excessively grown, dead and disease branches timely
+temperature: min_temp: 8, max_temp: 32

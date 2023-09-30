@@ -1,0 +1,15 @@
+names:
+myosotis scorpioides, , 
+
+characteristics:
+blooming: Flowering period May-July, viewing period 3-4 weeks
+color: Flower color blue, purple, white, yellow
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Likes slightly alkaline soil, may use peat adding a small amount of lime or baking soda,
+sunlight: Likes sunshine, but avoid very strong sunlight
+watering: Moderately resistant to drought, water thoroughly when soil is dry
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove old, diseased and dead leaves timely
+temperature: min_temp: 8, max_temp: 32

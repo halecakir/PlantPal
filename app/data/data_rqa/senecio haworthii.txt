@@ -1,0 +1,15 @@
+names:
+senecio haworthii, , 
+
+characteristics:
+blooming: Succulent plants, sometimes flowers
+color: Leaf color blue green
+size: Diameter ≥ 5 cm, height 5-18 cm
+
+caretaking:
+soil: Peat and akadama mixed in 3:1 ratio
+sunlight: Like sunshine, suitable placed in the shade in summer
+watering: Water thoroughly when soil is dry, moderately resistant to drought
+fertilization: Apply enough base fertilizers
+pruning: Remove flower stem timely to avoid waste of nutrition
+temperature: min_temp: 8, max_temp: 35

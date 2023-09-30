@@ -1,0 +1,15 @@
+names:
+phlox divaricata, Wild Blue Phlox (Phlox divaricata), Wild Blue Phlox (Phlox divaricata subsp. divaricata), Woodland Phlox (Phlox divaricata subsp. laphamii), Woodland Phlox (Phlox divaricata 'May Breeze'), Louisiana Blue Phlox (Phlox divaricata 'Louisiana Purple'), Louisiana Blue Phlox (Phlox divaricata 'London Grove Blue'), Wild Blue Phlox (Phlox divaricata 'Clouds of Perfume'), Wild Blue Phlox (Phlox divaricata 'Blue Moon'), Louisiana Blue Phlox (Phlox divaricata 'Dirigo Ice'), Woodland Phlox (Phlox divaricata 'White Perfume'), Wild Blue Phlox (Phlox divaricata 'Blue Dreams'), Wild Sweet William (Phlox divaricata 'Manita'), Wild Sweet William (Phlox divaricata 'Louisiana Blue'), Woodland Phlox (Phlox divaricata 'London Grove'), Woodland Phlox (Phlox divaricata 'Mary Helen'), Woodland Phlox (Phlox divaricata 'Blue Perfume'), Woodland Phlox (Phlox divaricata 'Plum Perfect'), Woodland Phlox (Phlox divaricata 'Parksville Beach'), Woodland Phlox (Phlox divaricata 'Fuller's White'), Woodland Phlox (Phlox divaricata 'Chattahoochee'), Wild Blue Phlox
+
+characteristics:
+blooming: Flowering period May-October, viewing period 2-3 weeks
+color: Flower color purple, white, light red
+size: Diameter ≥ 10 cm, height ≥ 10 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Likes moderate sunshine, also resistant to half shade
+watering: Water thoroughly when soil is dry, water daily in summer
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly in spring and summer
+pruning: Remove old, diseased and dead leaves timely
+temperature: min_temp: 8, max_temp: 32

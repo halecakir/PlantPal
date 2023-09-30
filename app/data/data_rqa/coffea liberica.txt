@@ -1,0 +1,15 @@
+names:
+coffea liberica, Liberian Coffee (Coffea liberica), Coffea liberica var. liberica, Coffea liberica var. dewevrei, Liberian Coffee
+
+characteristics:
+blooming: Flowering period March-April
+color: Flower color white, fruit color red
+size: Diameter≥15cm，Height≥25c
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like mild sunlight, avoid strong direct sunlight
+watering: Water thoroughly when soil surface is dry
+fertilization: Dilute fertilizers following instructions, apply once monthly
+pruning: Remove old, diseased and dead leaves timely
+temperature: min_temp: 10, max_temp: 32

@@ -1,0 +1,15 @@
+names:
+ageratum houstonianum, Floss Flower (Ageratum houstonianum), Ageratum (Ageratum houstonianum 'Blue Horizon'), Floss Flower (Ageratum houstonianum 'Blue Fields'), Floss Flower (Ageratum houstonianum 'White Bouquet'), Floss Flower (Ageratum houstonianum 'Blue Mink'), Floss Flower (Ageratum houstonianum 'Blue Bouquet'), Floss Flower (Ageratum houstonianum 'Red Sea'), Ageratum (Ageratum houstonianum 'Blue Danube'), Floss Flower (Ageratum houstonianum 'Pacific'), Floss Flower (Ageratum houstonianum 'Southern Cross'), Floss Flower (Ageratum houstonianum Artist® Alto Blue), Floss Flower (Ageratum houstonianum 'Redtop'), Floss Flower (Ageratum houstonianum 'Hawaii Shell Pink'), Floss Flower (Ageratum houstonianum 'Hawaii Blue'), Floss Flower (Ageratum houstonianum 'Hawaii White'), Floss Flower (Ageratum houstonianum 'Hawaii Royal'), Floss Flower (Ageratum houstonianum 'Lohman's Frost'), Floss Flower (Ageratum houstonianum Patina™ White), Flossflower (Ageratum houstonianum Artist® Basso Rose), Floss Flower (Ageratum houstonianum 'Dondo White'), Floss Flower
+
+characteristics:
+blooming: Reproductive period year around
+color: Flower color light purple, fruit color black
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like sunshine, grows in sunny places, slight shade tolerance
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove dead, rotten, diseased leaves and the parts that may affect the good appearance
+temperature: min_temp: 8, max_temp: 32

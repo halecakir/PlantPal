@@ -1,0 +1,15 @@
+names:
+campanula trachelium, , 
+
+characteristics:
+blooming: Flowering period July-August, fruiting period August-October
+color: Flower color white, blue, purple
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Slightly acidic soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, grows in sunny places
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead, rotten, diseased leaves timely
+temperature: min_temp: 8, max_temp: 32

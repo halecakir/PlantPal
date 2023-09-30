@@ -1,0 +1,15 @@
+names:
+aconitum carmichaelii, Monkshood (Aconitum carmichaeli 'Pink Sensation'), Monkshood (Aconitum carmichaeli 'Kelmscott'), Monkshood (Aconitum carmichaeli 'Spatlese'), Monkshood (Aconitum carmichaeli 'Blue Bishop'), Azure Monkshood (Aconitum carmichaeli 'Barker's Variety'), Aconitum carmichaeli var. truppelianum, Aconitum carmichaeli 'River Avon', Monkshood (Aconitum carmichaeli 'Royal Flush'), Aconitum carmichaeli var. angustius, Aconitum carmichaeli var. hwangshanicum, Aconitum carmichaeli var. pubescens, Aconitum carmichaeli var. tripartitum, Monkshood (Aconitum carmichaeli), Monkshood (Aconitum carmichaeli 'Arendsii'), Monkshood
+
+characteristics:
+blooming: Flowering period September-October, fruiting period October-November
+color: Flower color blue purple
+size: Diameter ≥ 20 cm, height 20-30 cm
+
+caretaking:
+soil: Loose well-drained, moderately fertile soil
+sunlight: Like sunshine, slight shade tolerance
+watering: Avoid water saturation, watering properly
+fertilization: Dilute fertilizers following instructions,  apply 1-2 times monthly
+pruning: Remove withered flowers, dead and diseased leaves timely
+temperature: min_temp: 10, max_temp: 35

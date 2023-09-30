@@ -1,0 +1,15 @@
+names:
+angelonia angustifolia, , 
+
+characteristics:
+blooming: Flowering period June-September
+color: Flower color purple, pink, white
+size: Diameter ≥ 20 cm, height 15-20 cm
+
+caretaking:
+soil: Peat and vermiculite in a 2:1 ratio
+sunlight: Like sunshine, put in warm places with adequate light
+watering: Only need keep soil moist
+fertilization: Apply enough base fertilizers
+pruning: Remove old, diseased and dead leaves timely
+temperature: min_temp: 8, max_temp: 32

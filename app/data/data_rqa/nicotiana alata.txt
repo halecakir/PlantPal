@@ -1,0 +1,15 @@
+names:
+nicotiana alata, Flowering Tobacco (Nicotiana alata), Flowering Tobacco (Nicotiana x sanderae 'Crimson Bedder'), Flowering Tobacco (Nicotiana alata 'Lime Green'), Flowering Tobacco (Nicotiana alata 'Domino Red'), Flowering Tobacco (Nicotiana alata 'Saratoga Red'), Flowering Tobacco (Nicotiana alata 'Domino Purple/White Eye'), Flowering Tobacco (Nicotiana alata 'Hummingbird Appleblossom'), Flowering Tobacco (Nicotiana alata 'Hummingbird Deep Rose'), Flowering Tobacco (Nicotiana alata 'Hummingbird Purple Bicolor'), Flowering Tobacco (Nicotiana alata 'Domino Salmon Pink'), Flowering Tobacco (Nicotiana alata 'Domino White'), Flowering Tobacco (Nicotiana alata 'Jasmine'), Tobacco (Nicotiana alata 'Saratoga Rose'), Flowering Tobacco (Nicotiana alata 'Starmaker Deep Lime'), Flowering Tobacco (Nicotiana alata 'Starlight Avatar'), Flowering Tobacco (Nicotiana alata 'Grand Ol' White'), Flowering Tobacco (Nicotiana alata 'Starmaker Bright Red'), Tobacco (Nicotiana alata 'Aztec Sweet'), Jasmine Tobacco (Nicotiana alata 'Lime'), Jasmine Tobacco (Nicotiana alata 'Rose'), Flowering Tobacco
+
+characteristics:
+blooming: Flowering period April-August
+color: Flower color dark pink
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Likes sunshine, put in sunny places, avoid strong sunlight in summer at noon
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Need more fertilization, dilute fertilizers following instructions, apply 2-3 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 10, max_temp: 32

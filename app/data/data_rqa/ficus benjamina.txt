@@ -1,0 +1,15 @@
+names:
+ficus benjamina, Weeping Fig (Ficus benjamina), Ficus benjamina var. benjamina, Miniature Ficus (Ficus benjamina 'Natasha'), Weeping Fig (Ficus benjamina 'Variegata'), Weeping Fig (Ficus benjamina 'Wintergreen'), Weeping Fig (Ficus benjamina 'Starlight'), Weeping Fig (Ficus Benjamina 'Jamie K'), Weeping Fig (Ficus benjamina 'Exotica'), Weeping Fig (Ficus benjamina 'Nuda'), Weeping Fig (Ficus benjamina 'Golden Princess'), Weeping Fig (Ficus benjamina 'Golden King'), Weeping Fig (Ficus benjamina 'Barok'), Weeping Fig (Ficus benjamina 'Samantha'), Weeping Fig (Ficus benjamina 'Mini Lucie'), Weeping Fig (Ficus benjamina 'Danielle'), Weeping Fig (Ficus benjamina 'Too Little'), Weeping Fig (Ficus benjamina 'Dutch Treat'), Weeping Fig (Ficus benjamina 'Nina'), Weeping Fig (Ficus benjamina 'Kiki'), Ficus benjamina 'Anastasia', Weeping Fig
+
+characteristics:
+blooming: Foliage plants, rarely flowers
+color: Leaf color green , some cultivar golden yellow to yellow green
+size: Diameter ≥ 25 cm, height ≥ 30 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, avoid scorching light
+watering: Likes wet environments, water thoroughly when soil is dry, avoid saturated water
+fertilization: Need more fertilization, apply 1-2 times monthly, reduce fertilizers in winter
+pruning: Remove excessively grown, dead and disease branches timely
+temperature: min_temp: 8, max_temp: 32

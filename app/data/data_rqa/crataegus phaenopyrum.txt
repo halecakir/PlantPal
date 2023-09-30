@@ -1,0 +1,15 @@
+names:
+crataegus phaenopyrum, Washington Hawthorn (Crataegus phaenopyrum), Washington Hawthorn (Crataegus phaenopyrum 'Lustre'), Washington Hawthorn (Crataegus phaenopyrum 'Fastigiata'), Washington Hawthorn
+
+characteristics:
+blooming: Flowering period May-June, fruiting period September-October
+color: Flower color white, fruit color dark red
+size: Diameter 40-60 cm, height ≥ 60 cm
+
+caretaking:
+soil: Slightly acidic soil with loose texture or soil with specific nutrients
+sunlight: Likes light, more resistant to shade, place in sunny places, in summer place in the shade with great sunlight intensity
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 10, max_temp: 40

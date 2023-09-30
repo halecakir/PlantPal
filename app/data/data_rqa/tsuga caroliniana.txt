@@ -1,0 +1,15 @@
+names:
+tsuga caroliniana, Carolina hemlock (Tsuga caroliniana), Carolina Hemlock (Tsuga caroliniana 'Mountain Mist'), Tsuga caroliniana 'Adams’ Weeping', Tsuga caroliniana 'Arnold Pyramid', Tsuga caroliniana 'Ashford', Tsuga caroliniana 'Buck Estate', Tsuga caroliniana 'Compacta', Tsuga caroliniana 'Elizabeth Swartley', Tsuga caroliniana 'LaBar Bushy', Tsuga caroliniana 'LaBar Weeping', Tsuga caroliniana 'Planting Field Arboretum', Tsuga caroliniana 'Planting Field Arboretum WB', Tsuga caroliniana 'Pyramidalis', Tsuga caroliniana 'Warner Weeping', Tsuga caroliniana 'Zwerg', Carolina hemlock
+
+characteristics:
+blooming: Flowering period April, fruiting period October
+color: Leaf color green
+size: Diameter ≥ 15 cm, height ≥ 30 cm
+
+caretaking:
+soil: Acidic soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, slight shade tolerance
+watering: Likes wet environments, water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove and shape excessive branches
+temperature: min_temp: 5, max_temp: 35

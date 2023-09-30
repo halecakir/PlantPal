@@ -1,0 +1,15 @@
+names:
+wisteria sinensis, , 
+
+characteristics:
+blooming: Flowering period April-May, viewing period 2-3 weeks
+color: Flower color purple
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like sunshine, slight resistant to shade
+watering: Water thoroughly after soil surface dries
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly in spring and autumn
+pruning: Remove withered flowers, old, diseased, and dead leaves timely
+temperature: min_temp: 6, max_temp: 35

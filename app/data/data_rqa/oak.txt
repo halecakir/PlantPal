@@ -1,0 +1,15 @@
+names:
+oak, Live Oak (Quercus virginiana), Northern Red Oak (Quercus rubra), White Oak (Quercus alba), Bur Oak (Quercus macrocarpa), Pin Oak (Quercus palustris), Willow Oak (Quercus phellos), Oak (Quercus), English Oak (Quercus robur), Shumard Oak (Quercus shumardii), Swamp White Oak (Quercus bicolor), Post Oak (Quercus stellata), Cork Oak (Quercus suber), Black Oak (Quercus velutina), Scarlet Oak (Quercus coccinea), Blackjack Oak (Quercus marilandica), Water Oak (Quercus nigra), Chinkapin Oak (Quercus muehlenbergii), Southern Red Oak (Quercus falcata), Sawtooth Oak (Quercus acutissima), Gambel Oak (Quercus gambelii), Live Oak
+
+characteristics:
+blooming: Flowering period April-May, fruiting period July to September
+color: Leaf color green , fruit color light brown
+size: Diameter ≥ 20 cm, height ≥ 25 cm
+
+caretaking:
+soil: Likes sandy loam or well-drained slightly acidic soil
+sunlight: Like sunshine, slightly resistant to half shade
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 5, max_temp: 32

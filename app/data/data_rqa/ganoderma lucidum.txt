@@ -1,0 +1,15 @@
+names:
+ganoderma lucidum, , NONE
+
+characteristics:
+blooming: Fungus, no flowering
+color: Leaf color brown, purple brown to black
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Bag of planting materials with specific ingredients
+sunlight: Grows in shade or with scattered light
+watering: Likes wet environments, water thoroughly when soil is dry, avoid saturated water
+fertilization: Apply enough base fertilizers before transplanting, apply liquid fertilizers every 2 weeks after
+pruning: No need pruning
+temperature: min_temp: 10, max_temp: 35

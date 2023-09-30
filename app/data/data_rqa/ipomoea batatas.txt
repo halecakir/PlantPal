@@ -1,0 +1,15 @@
+names:
+ipomoea batatas, Sweet Potatoes (Ipomoea batatas), Sweet Potato Vine (Ipomoea batatas 'Pink Frost'), Ornamental Sweet Potato (Ipomoea batatas 'Blackie'), Ornamental Sweet Potato (Ipomoea batatas 'Margarita'), Sweet Potato Vine (Ipomoea batatas Spotlight™ Black Heart), Ornamental Sweet Potato (Ipomoea batatas 'Ace of Spades'), Sweet Potato Vine (Ipomoea batatas 'Ivory Jewel'), Sweet Potato Vine (Ipomoea batatas 'Terrace Lime'), Sweet Potato Vine (Ipomoea batatas 'Lady Fingers'), Ornamental Sweet Potato (Ipomoea batatas 'Tricolor'), Sweet Potato (Ipomoea batatas 'Diane'), Sweet Potato (Ipomoea batatas 'Jewel'), Sweet Potato (Ipomoea batatas 'Beauregard'), Sweet Potato (Ipomoea batatas 'White Triumph'), Sweet Potato (Ipomoea batatas 'Centennial'), Sweet Potato (Ipomoea batatas 'Bunch Porto Rico'), Sweet Potato (Ipomoea batatas 'Nancy Hall'), Sweet Potato (Ipomoea batatas 'White Jewel'), Ornamental Sweet Potato (Ipomoea batatas 'Carolina Purple'), Ornamental Sweet Potato (Ipomoea batatas 'Carolina Green'), Sweet Potatoes
+
+characteristics:
+blooming: Flowering period July-August, fruiting period August-November
+color: Flower color light red or purple red, flower color white, yellow, red, purple
+size: Diameter ≥ 15 cm, height ≥ 25 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients, pH value 5.2-6.7
+sunlight: Like sunshine, high quality fruits in sunny places
+watering: Strong resistant to drought, water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 10, max_temp: 35

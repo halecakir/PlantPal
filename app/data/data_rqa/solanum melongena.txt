@@ -1,0 +1,15 @@
+names:
+solanum melongena, Eggplants (Solanum melongena), Scarlet Eggplant (Solanum aethiopicum 'Gilo Black Stem'), Eggplant (Solanum melongena 'Lavender Touch'), Eggplant (Solanum melongena 'Ping Tung Long'), Eggplant (Solanum melongena 'Millionaire'), Eggplant (Solanum melongena 'Ichiban'), Eggplant (Solanum melongena 'Black Beauty'), Eggplant (Solanum melongena 'Dourga'), Eggplant (Solanum melongena 'Vittoria'), Eggplant (Solanum melongena 'Snowy'), Eggplant (Solanum melongena 'Blue Marble'), Eggplant (Solanum melongena 'Rosa Bianca'), Eggplant (Solanum melongena 'Bambino'), Eggplant (Solanum melongena 'Neon'), Eggplant (Solanum melongena 'Listada de Gandia'), Eggplant (Solanum melongena 'Green Goddess'), Eggplant (Solanum melongena 'Arrow'), Eggplant (Solanum melongena 'Cloud Nine'), Eggplant (Solanum melongena 'Apple Green'), Eggplant (Solanum melongena 'Morden Midget'), Eggplants
+
+characteristics:
+blooming: Flowering period June-July, fruiting period October-November
+color: Flower color white or purple, fruit color purple
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients, pH value between 6-7
+sunlight: Like sunshine, high quality fruits in sunny places
+watering: Like moist, provide more water during flowering and fruiting period
+fertilization: Enjoy much fertilizer, soil with rich compost when planting, and apply more fertilizer during fruiting period
+pruning: Thin out seedlings timely and remove over crowded leaves
+temperature: min_temp: 10, max_temp: 35

@@ -1,0 +1,15 @@
+names:
+amelanchier x grandiflora, , NONE
+
+characteristics:
+blooming: Fruiting period September-October
+color: Flower color white, fruit color blue black
+size: Diameter ≥ 15 cm, height ≥ 25 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, grows in sunny places, slight shade tolerance
+watering: Resistant to drought, water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 2-3 times monthly
+pruning: Pruning accordingly for any favorate tree shapes
+temperature: min_temp: 5, max_temp: 32

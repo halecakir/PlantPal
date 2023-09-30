@@ -1,0 +1,15 @@
+names:
+thymus x citriodorus, Lemon Thyme (Thymus x citriodorus), Lemon Thyme (Thymus x citriodorus 'Lime'), Variegated Lemon Thyme (Thymus x citriodorus 'Silver Queen'), Variegated Lemon Thyme (Thymus x citriodorus 'Golden King'), Variegated Lemon Thyme (Thymus x citriodorus 'Variegata'), Thyme (Thymus x citriodorus 'E.B. Anderson'), Thyme (Thymus x citriodorus 'Argenteus'), Creeping Thyme (Thymus x citriodorus 'Mayfair'), Thyme (Thymus x citriodorus 'Sweet Greens'), Thymus x citriodorus 'Golden Dream', Golden Lemon Thyme (Thymus x citriodorus 'Aureus'), Lemon Thyme (Thymus x citriodorus 'Silver King'), Lemon Thyme (Thymus x citriodorus GrowFlow™ Lemonade), Lemon Thyme
+
+characteristics:
+blooming: Vanilla plants, flowering period July-August
+color: Leaf color yellow green , flower color purple, pink
+size: Diameter ≥ 10 cm, height ≥ 10 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like sunshine, place under adequate light, shade properly under summer strong light
+watering: Resistant to drought, water thoroughly when soil is dry
+fertilization: Dilute fertilizers following instructions, dilute fertilizers following instructions,  in early summer, spring and autumn apply fertilizers once monthly
+pruning: Remove old diseased and dead leaves timely
+temperature: min_temp: 5, max_temp: 32

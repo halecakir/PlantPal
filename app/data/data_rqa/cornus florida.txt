@@ -1,0 +1,15 @@
+names:
+cornus florida, Flowering Dogwood (Cornus florida), Eastern Dogwood (Cornus florida 'Cherokee Chief'), Eastern Dogwood (Cornus florida 'Cherokee Princess'), Eastern Dogwood (Cornus florida 'Cloud Nine'), Pink Flowering Dogwood (Cornus florida 'Rubra'), Eastern Dogwood (Cornus florida 'Red Pygmy'), Eastern Dogwood (Cornus florida 'White Cloud'), Eastern Dogwood (Cornus florida 'Pendula'), Eastern Dogwood (Cornus florida 'Appalachian Spring'), Eastern Dogwood (Cornus florida 'Golden Nugget'), Eastern Dogwood (Cornus florida 'Pygmaea'), Eastern Dogwood (Cornus florida 'Royal Red'), Eastern Dogwood (Cornus florida 'Welchii'), Eastern Dogwood (Cornus florida 'Xanthocarpa'), Eastern Dogwood (Cornus florida 'Pluribracteata'), Eastern Dogwood (Cornus florida 'Rainbow'), Eastern Dogwood (Cornus florida 'First Lady'), Eastern Dogwood (Cornus florida 'Junior Miss'), Eastern Dogwood (Cornus florida 'Alba Plena'), Eastern Dogwood (Cornus florida 'Cherokee Daybreak'), Flowering Dogwood
+
+characteristics:
+blooming: Flowering period March-April；fruiting period September-October
+color: Flower color yellow, white, fruit color red
+size: Diameter ≥ 20 cm, height 15-20 cm
+
+caretaking:
+soil: Sandy loam
+sunlight: Likes warm and moist environments、like sunshine
+watering: Only need keep soil moist
+fertilization: Apply enough base fertilizers
+pruning: Timely cut short growing branches, promote branching
+temperature: min_temp: 8, max_temp: 35

@@ -1,0 +1,15 @@
+names:
+potentilla indica, Mock Strawberry (Potentilla indica), Indian Strawberry (Potentilla indica 'Harlequin'), Potentilla indica var. microphylla, Mock Strawberry
+
+characteristics:
+blooming: Flowering period June-August, fruiting period August-October
+color: Flower color yellow, fruit color red
+size: Diameter ≥ 10 cm, height 15-20 cm
+
+caretaking:
+soil: Sandy loam, neutral soil
+sunlight: Put in a cool and shade place
+watering: Keep soil moist
+fertilization: Top-dressing monthly in vegetative stages
+pruning: No need pruning
+temperature: min_temp: 10, max_temp: 30

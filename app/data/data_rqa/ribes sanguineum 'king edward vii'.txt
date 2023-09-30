@@ -1,0 +1,15 @@
+names:
+ribes sanguineum 'king edward vii', , 
+
+characteristics:
+blooming: Flowering period May-June, fruiting period August-September
+color: Fruit color red
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, grows in sunny places, slight shade tolerance
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Need more fertilization, dilute fertilizers following instructions, apply 2-3 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 5, max_temp: 32

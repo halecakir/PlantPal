@@ -1,0 +1,15 @@
+names:
+greenovia diplocycla var.gigantea, , 
+
+characteristics:
+blooming: Succulent plants, sometimes flowers, yellow flowers
+color: Leaf color green
+size: Diameter ≥ 2 cm, height ≥ 5 cm
+
+caretaking:
+soil: Peat and akadama mixed in 3:1 ratio
+sunlight: Like sunshine, resistant to half shade, dormant under high temperature in summer
+watering: Water thoroughly when soil is dry, avoid saturated water, stop watering when in summer dormancy
+fertilization: Dilute fertilizers following instructions, apply once monthly
+pruning: Remove dead and rotten part timely
+temperature: min_temp: 6, max_temp: 35

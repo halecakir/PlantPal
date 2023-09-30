@@ -1,0 +1,15 @@
+names:
+verbena officinalis, Vervain (Verbena officinalis), Verbena officinalis var. officinalis, Texas Vervain (Verbena halei), Verbena officinalis var. macrostachya, Verbena officinalis var. prostrata, Verbena officinalis var. africana, Verbena officinalis var. gaudichaudii, Verbena (Verbena officinalis 'Bampton'), Vervain
+
+characteristics:
+blooming: Flowering period June-August, fruiting period July-October
+color: Flower color blue, light purple
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, slightly resistant to half shade
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 10, max_temp: 32

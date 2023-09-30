@@ -1,0 +1,15 @@
+names:
+dictamnus albus, , 
+
+characteristics:
+blooming: Flowering period May
+color: Flower color light purple red, white, dark purple red
+size: Inflorescence length ≥ 30 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Put in places with scattered light
+watering: Water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 5, max_temp: 32

@@ -1,0 +1,15 @@
+names:
+pyrus communis, European Pear (Pyrus communis), Pyrus communis subsp. caucasica, Pyrus communis subsp. communis, European Pear (Pyrus communis 'Doyenne du Comice'), Dwarf Pear (Pyrus communis 'Moonglow'), Bartlett Pear (Pyrus communis 'Bon Chretien'), Common Pear (Pyrus communis 'Beurre d'Anjou'), Common Pear (Pyrus communis 'Seckel'), Common Pear (Pyrus communis 'Kieffer'), Common Pear (Pyrus communis Starking® Delicious), Common Pear (Pyrus communis 'Luscious'), Common Pear (Pyrus communis 'Flemish Beauty'), Common Pear (Pyrus communis 'Abbe Fetel'), Common Pear (Pyrus communis 'Autumn Bergamot'), Common Pear (Pyrus communis 'Baronne de Melo'), Common Pear (Pyrus communis 'Belle Julie'), Common Pear (Pyrus communis 'Josephine'), Common Pear (Pyrus communis 'Red d'Anjou'), Common Pear (Pyrus communis 'Clara Frijs'), Common Pear (Pyrus communis 'Alexander Lucas'), European Pear
+
+characteristics:
+blooming: Flowering period February-May, fruiting period July-September
+color: Flower color white, fruit color golden yellow or yellow
+size: Diameter ≥ 50 cm, height ≥ 100 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, high quality fruits in sunny places
+watering: Need a lot of water, water thoroughly after soil surface dries
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 8, max_temp: 35

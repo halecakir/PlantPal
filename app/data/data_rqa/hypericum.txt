@@ -1,0 +1,15 @@
+names:
+hypericum, St. John's Wort (Hypericum perforatum), St. John's Wort (Hypericum calycinum), St. John's Wort (Hypericum frondosum 'Sunburst'), St. John's Wort (Hypericum x inodorum 'Albury Purple'), St. John's Wort (Hypericum 'Hidcote'), St. John's Wort (Hypericum), Shrubby St. John's Wort (Hypericum prolificum), St Andrew's Cross (Hypericum hypericoides), St. John's Wort (Hypericum olympicum), Sweet Amber (Hypericum androsaemum), St. John's Wort (Hypericum x moserianum 'Tricolor'), Tall Tutsan (Hypericum x inodorum First Editions® Pumpkin), Kalm's St. John's Wort (Hypericum kalmianum), St. John's Wort (Hypericum kalmianum Blue Velvet™), Saint John's Wort (Hypericum calycinum 'Brigadoon'), Tall Tutsan (Hypericum x inodorum Magical® Red Fame), Orangegrass (Hypericum gentianoides), Alpine St. John's Wort (Hypericum cerastoides), Kalm's Saint John's Wort (Hypericum kalmianum Nordic® Gemo), St. John's Wort (Hypericum cerastoides 'Silvana'), St. John's Wort
+
+characteristics:
+blooming: Plants with ornamental fruits
+color: Flower color yellow, fruit color red, yellow, purple
+size: Diameter ≥ 15 cm, height ≥ 15 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Likes sunshine, also resistant to half shade
+watering: Likes wet environments, water thoroughly when soil is dry, do not spray water on fruits
+fertilization: Dilute fertilizers following instructions, apply once monthly
+pruning: Remove old, diseased and dead leaves timely
+temperature: min_temp: 8, max_temp: 35

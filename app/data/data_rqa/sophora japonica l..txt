@@ -1,0 +1,15 @@
+names:
+sophora japonica l., Japanese Pagoda Tree (Styphnolobium japonicum), Japanese Pagoda Tree (Styphnolobium japonicum 'Pendula'), Japanese Pagoda Tree (Styphnolobium japonicum 'Regent'), Japanese Pagoda Tree (Styphnolobium japonicum 'Violacea'), Japanese Pagoda Tree
+
+characteristics:
+blooming: Flowering period June-July, fruiting period August-October
+color: Flower color light yellow, fruit color light yellow green
+size: Diameter ≥ 15 cm, height ≥ 25 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Put in sunny places, slight shade tolerance
+watering: Resistant to drought, water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove dead, rotten, diseased leaves and the parts that may affect the good appearance
+temperature: min_temp: 5, max_temp: 32

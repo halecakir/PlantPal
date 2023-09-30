@@ -1,0 +1,15 @@
+names:
+buddleja alternifolia, Fountain Butterfly Bush (Buddleja alternifolia), Fountain Butterfly Bush (Buddleja alternifolia 'Argentea'), Fountain Butterfly Bush (Buddleja alternifolia Unique®), Fountain Butterfly Bush
+
+characteristics:
+blooming: Flowering period April-October, fruiting period August-April
+color: Flower color purple
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like sunshine, resistant to half shade, avoid strong direct light
+watering: Water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead, rotten, diseased leaves timely
+temperature: min_temp: 8, max_temp: 32

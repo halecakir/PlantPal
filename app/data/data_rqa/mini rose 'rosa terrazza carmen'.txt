@@ -1,0 +1,15 @@
+names:
+mini rose 'rosa terrazza carmen', , NONE
+
+characteristics:
+blooming: Blooms once every February-March months, viewing period 2-3 weeks
+color: Flower color red
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Likes sunshine, put in sunny places, avoid strong sunlight in summer at noon
+watering: Water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 2-3 times monthly
+pruning: Remove old, diseased and dead leaves timely, after flowering remove the upper part staring from 5 cm above soil surface, leaving 2-3 leaves
+temperature: min_temp: 8, max_temp: 35

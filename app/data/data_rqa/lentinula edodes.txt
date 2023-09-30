@@ -1,0 +1,15 @@
+names:
+lentinula edodes, , NONE
+
+characteristics:
+blooming: Fungus, no flowering
+color: the body is brown
+size: Diameter≥3cm，Height≥5cm
+
+caretaking:
+soil: Weakly acid soil, rotten straw, sawdust, sugar in mixture
+sunlight: Dark environment, avoid strong sunlight
+watering: Keep moist, spray water everyday
+fertilization: Add phosphatic fertilizer when planting
+pruning: Remove rotten parts timely
+temperature: min_temp: 6, max_temp: 34

@@ -1,0 +1,15 @@
+names:
+sedum hispanicum, , 
+
+characteristics:
+blooming: Succulent plants, sometimes flowers, white pink flowers
+color: Leaf color green, with a great diurnal temperature range, with adequate sunlight turning to pink
+size: Diameter ≥ 3 cm, height ≥ 5 cm
+
+caretaking:
+soil: Peat and akadama mixed in 3:1 ratio
+sunlight: Like sunshine, no apparent period of dormancy, shade properly under summer strong light
+watering: Water thoroughly when soil is dry, reduce water in summer
+fertilization: Dilute fertilizers following instructions, apply once monthly
+pruning: Remove dead and rotten part timely
+temperature: min_temp: 8, max_temp: 35

@@ -1,0 +1,15 @@
+names:
+areca catechu, Betel Nut Palm (Areca catechu), Dwarf Betel-Nut Palm (Areca catechu 'Dwarf'), Betel Nut Palm
+
+characteristics:
+blooming: Flowering and fruiting period March-April
+color: Flower color white, fruit color orange
+size: Diameter ≥ 20 cm, height can reach 10-20 m
+
+caretaking:
+soil: Likes loose and breathable sandy loam
+sunlight: Like sunshine, high quality fruits in sunny places
+watering: Likes wet environments, water thoroughly when soil is dry
+fertilization: Apply 2-3 times monthly in spring
+pruning: Remove weak, overlapping, over-crowd, and diseased or insect-infested branches timely
+temperature: min_temp: 10, max_temp: 40

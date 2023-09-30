@@ -1,0 +1,15 @@
+names:
+asarina x 'satin mix', Asarina (Lophospermum purpusii 'Victoria Falls'), Climbing Snapdragon (Maurandya scandens 'Mystic Rose'), Climbing Snapdragon (Maurandya scandens 'Sky Blue'), Creeping Snapdragon (Asarina procumbens), Twining Snapdragon (Maurandya scandens), Creeping Gloxinia (Lophospermum erubescens), Twining Snapdragon (Maurandya scandens 'Joan Lorraine'), Creeping Snapdragon (Maurandya wislizeni 'Red Dragon'), Twining Snapdragon (Maurandya scandens 'Jewel Mixed'), Creeping Gloxinia (Lophospermum erubescens 'Bridal Bouquet'), Twining Snapdragon (Maurandya scandens 'Snow White'), Psoralea asarina, Lophospermum purpusii, Asarina, Creeping Gloxinia (Lophospermum erubescens Lofos® Wine Red), Asarina
+
+characteristics:
+blooming: Flowering period in winter and spring
+color: Flower color scarlet, leaf color dark green
+size: Diameter ≥ 10 cm, can climb
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Like half shade, like moderate light
+watering: Likes wet environments, water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely；remove peduncle after flowering
+temperature: min_temp: 10, max_temp: 32

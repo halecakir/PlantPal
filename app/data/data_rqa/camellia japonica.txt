@@ -1,0 +1,15 @@
+names:
+camellia japonica, Japanese Camellia (Camellia japonica), Japanese Camellia (Camellia japonica 'April Dawn'), Camellia (Camellia japonica 'April Snow'), Camellia (Camellia japonica 'April Tryst'), Camellia (Camellia japonica Ice Angels® Spring's Promise), Japanese Camellia (Camellia japonica 'Florence Stratton'), Japanese Camellia (Camellia japonica 'Eguzen'), Japanese Camellia (Camellia japonica 'Debutante'), Japanese Camellia (Camellia japonica 'Nuccio's Pearl'), Camellia (Camellia japonica 'Pearl Maxwell'), Japanese Camellia (Camellia japonica 'Nuccio's Gem'), Japanese Camellia (Camellia japonica 'Kramer's Supreme'), Japanese Camellia (Camellia japonica 'Unryu'), Japanese Camellia (Camellia japonica 'Mathotiana'), Japanese Camellia (Camellia japonica 'Ave Maria'), Japanese Camellia (Camellia japonica 'October Affair'), Japanese Camellia (Camellia japonica 'Brushfield's Yellow'), Japanese Camellia (Camellia japonica 'Bella Romana'), Japanese Camellia (Camellia japonica 'Candidissima'), Japanese Camellia (Camellia japonica 'Francesco Ferruccio'), Japanese Camellia
+
+characteristics:
+blooming: Flowering period October-May, viewing period 3-4 weeks
+color: Flower color red, yellow, white, pink
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Likes acidic soil, peat or soil with specific nutrients
+sunlight: Likes half shade environments, put in a bright place in summer and autumn, full sunlight in winter
+watering: Not resistant to drought, water thoroughly when soil is dry
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly in spring and autumn, except flowering stages
+pruning: Remove dead and yellowish leaves and withered flowers
+temperature: min_temp: 6, max_temp: 35

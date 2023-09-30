@@ -1,0 +1,15 @@
+names:
+pachira macrocarpa, , 
+
+characteristics:
+blooming: Foliage plants, sometimes flowering in April-May, red, white, light yellow flowers
+color: Leaf color emerald green
+size: Diameter ≥ 10 cm, height ≥ 20 cm
+
+caretaking:
+soil: Peat mixed with coarse sand soil
+sunlight: Like sunshine, but have strong resistant to shade, under half shade for better care in summer
+watering: Moderately resistant to drought, water thoroughly when soil is dry, may spray water in the air to keep moist
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly in spring and autumn
+pruning: Remove dead and yellowish leaves timely
+temperature: min_temp: 10, max_temp: 32

@@ -1,0 +1,15 @@
+names:
+arabis blepharophylla, Rose rockcress (Arabis blepharophylla), Rose Rock Cress (Arabis blepharophylla 'Fruhlingszauber'), Pink Rock Cress (Arabis blepharophylla 'Rote Sensation'), Rock Cress (Arabis blepharophylla 'Rose Delight'), Coast Rock Cress (Arabis blepharophylla Barranca™ Deep Rose), Coast Rock Cress (Arabis blepharophylla Barranca™ Pink), Rose rockcress
+
+characteristics:
+blooming: Flowering and fruiting period May-August
+color: Flower color white, pink
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like half shade, may grow in places with bright scattered light
+watering: Water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove and shape excessive branches
+temperature: min_temp: 10, max_temp: 32

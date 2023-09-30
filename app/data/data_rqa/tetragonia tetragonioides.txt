@@ -1,0 +1,15 @@
+names:
+tetragonia tetragonioides, , 
+
+characteristics:
+blooming: Flowering and fruiting period August-October
+color: Flower color yellow green
+size: Diameter ≥ 20 cm, height 20-30 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Put in sunny places
+watering: Keep soil moist
+fertilization: Apply plenty base fertilizer, apply little in the seedling stage, top-dressing chemical fertilizers in peak growth stages if needed
+pruning: Remove dead and diseased branches timely
+temperature: min_temp: 10, max_temp: 35

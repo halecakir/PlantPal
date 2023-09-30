@@ -1,0 +1,15 @@
+names:
+aeonium urbicum, Saucer Plant (Aeonium urbicum), Saucer Plant (Aeonium urbicum 'Rubrum'), Aeonium pseudourbicum, Saucer Plant
+
+characteristics:
+blooming: Succulent plants, sometimes flowers, orange red flowers
+color: Leaf color green, with strong light leaf edges turn to red
+size: Diameter ≥ 5 cm, height ≥ 5 cm
+
+caretaking:
+soil: Peat and akadama mixed in 3:1 ratio
+sunlight: Like sunshine, a short period of dormancy in summer, use half shade for better care
+watering: Resistant to drought, water thoroughly when soil is dry, reduce water in summer
+fertilization: Dilute fertilizers following instructions,  apply once monthly in spring and autumn
+pruning: Remove dead and rotten part timely
+temperature: min_temp: 5, max_temp: 35

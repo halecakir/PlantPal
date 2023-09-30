@@ -1,0 +1,15 @@
+names:
+celosia argentea, Cockscomb (Celosia argentea), Cockscomb (Celosia argentea 'Apricot Brandy'), Cockscomb (Celosia argentea 'Castle Orange'), Cockscomb (Celosia argentea 'Golden Yellow'), Cockscomb (Celosia argentea 'Castle Yellow'), Cockscomb (Celosia argentea 'Geisha Mixture'), Cockscomb (Celosia argentea 'Kimono Mix'), Cockscomb (Celosia argentea 'Kimono Yellow'), Cockscomb (Celosia argentea 'Nana Glitters Yellow'), Cockscomb (Celosia argentea 'Nana Glitters Scarlet'), Cockscomb (Celosia argentea 'Nana Glitters Salmon'), Cockscomb (Celosia argentea 'Nana Glitters Pink'), Cockscomb (Celosia argentea 'Nana Glitters Orange'), Cockscomb (Celosia argentea 'Castle Pink'), Cockscomb (Celosia argentea 'Castle Mix'), Cockscomb (Cristata Group) (Celosia argentea 'Amigo Mahogany Red'), Cockscomb (Cristata Group) (Celosia argentea 'Amigo Neon Rose'), Cockscomb (Cristata Group) (Celosia argentea 'Amigo Yellow'), Cockscomb (Cristata Group) (Celosia argentea 'Bombay Fiora'), Cockscomb (Cristata Group) (Celosia argentea 'Kurume Corona'), Cockscomb
+
+characteristics:
+blooming: Flowering period May-August, fruiting period June-October
+color: Flower color white, red, pink, pink purple
+size: Diameter ≥ 10 cm, height 15-19 cm
+
+caretaking:
+soil: Rich in organic matter and Loose fertile soil
+sunlight: Warm places with scattered light
+watering: Keep soil moist
+fertilization: No need fertilization
+pruning: No need pruning
+temperature: min_temp: 10, max_temp: 30

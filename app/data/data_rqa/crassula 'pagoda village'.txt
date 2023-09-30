@@ -1,0 +1,15 @@
+names:
+crassula 'pagoda village', Aanteel-poprosie (Crassula capitella subsp. thyrsiflora 'Pagoda Village'), Aanteel-poprosie
+
+characteristics:
+blooming: Succulent plants, sometimes flowers, yellow flowers
+color: Leaf color green, when sunny turning to red brown to pink
+size: Diameter ≥ 5 cm, height ≥ 5 cm
+
+caretaking:
+soil: Peat and akadama mixed in 3:1 ratio
+sunlight: Likes light, dormant in summer under high temperatures, put in places with scattered light
+watering: Resistant to drought, water thoroughly when soil is dry, reduce water in summer
+fertilization: Dilute fertilizers following instructions,  apply once every 1-2 months in spring and autumn
+pruning: Remove dead and rotten part timely
+temperature: min_temp: 5, max_temp: 35

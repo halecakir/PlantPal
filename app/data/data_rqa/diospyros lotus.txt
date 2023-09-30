@@ -1,0 +1,15 @@
+names:
+diospyros lotus, Date Plum (Diospyros lotus), Date Plum
+
+characteristics:
+blooming: Flowering period May-June, fruiting period October-November
+color: Flower color light yellow, red, fruit color blue black
+size: Diameter ≥ 20 cm, height 15-20 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like sunshine
+watering: Keep soil moist
+fertilization: Apply manure once a year
+pruning: Remove old, diseased and dead leaves timely
+temperature: min_temp: 8, max_temp: 35

@@ -1,0 +1,15 @@
+names:
+cryptanthus spp., , NONE
+
+characteristics:
+blooming: Flowering period June
+color: Flower color white, leaves leathery, some leaves with red, yellow, white stripes
+size: Diameter ≥ 15 cm, height ≥ 25 cm
+
+caretaking:
+soil: Soil with loose texture or special humus soil
+sunlight: Resistant to shade, put in places with scattered light
+watering: Likes wet environments, water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead, rotten, diseased leaves timely
+temperature: min_temp: 10, max_temp: 32

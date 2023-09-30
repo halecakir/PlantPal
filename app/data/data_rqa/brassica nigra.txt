@@ -1,0 +1,15 @@
+names:
+brassica nigra, Black Mustard (Brassica nigra), Brassica nigra subsp. nigra, Brassica nigra subsp. hispida, Black Mustard
+
+characteristics:
+blooming: Flowering period May-July
+color: Flower color yellow, blue, white, pink
+size: Diameter ≥ 20 cm, height 20-30 cm
+
+caretaking:
+soil: Sandy loam
+sunlight: Like sunshine, resistant to half shade
+watering: Water thoroughly when soil is dry, avoid saturated water
+fertilization: Top-dressing once every year in April and June
+pruning: Remove dead and diseased branches timely
+temperature: min_temp: 5, max_temp: 35

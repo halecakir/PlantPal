@@ -1,0 +1,15 @@
+names:
+chrysanthemum morifolium, Chrysanthemum (Chrysanthemum x morifolium Dark Triumph), Reflexed Charm Chrysanthemum (Chrysanthemum x morifolium Linda), Chrysanthemum (Chrysanthemum x morifolium Bravo), Chrysanthemum (Chrysanthemum x morifolium Ginger), Chrysanthemum (Chrysanthemum x morifolium Grenadine), Chrysanthemum (Chrysanthemum x morifolium Sundoro), Chrysanthemum (Chrysanthemum x morifolium Marilyn), Autumn Flowering Mum (Chrysanthemum x morifolium), Irregular Chrysanthemum (Chrysanthemum x morifolium 'Kenbu'), Exotic Chrysanthemum (Chrysanthemum x morifolium 'Edo 16'), Single Chrysanthemum (Chrysanthemum x morifolium 'Tsukomo'), Spider Chrysanthemum (Chrysanthemum x morifolium 'Golden Splendor'), Garden Mum (Chrysanthemum x morifolium Raquel), Chrysanthemum (Chrysanthemum x morifolium Regina), Chrysanthemum (Chrysanthemum x morifolium Barbara), Chrysanthemum (Chrysanthemum x morifolium 'Sunny Gretchen'), Chrysanthemum (Chrysanthemum x morifolium 'Gwendolyn'), Chrysanthemum (Chrysanthemum x morifolium 'Alberta'), Irregular Incurve Mum (Chrysanthemum x morifolium 'Zinfandel'), Chrysanthemum (Chrysanthemum x morifolium Spicy Cheryl), Chrysanthemum
+
+characteristics:
+blooming: September-November flowering period, viewing period 3-4 weeks
+color: Flower color white
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Likes sunshine, avoid strong direct light
+watering: Keep soil moist, water and drain timely
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: After flowering remove the withered flowers, the part on the ground will wither in winter, the plant germinates again in spring
+temperature: min_temp: 8, max_temp: 32

@@ -1,0 +1,15 @@
+names:
+dianthus deltoides, Maiden Pink (Dianthus deltoides), Maiden Pink (Dianthus deltoides 'Zing Salmon'), Maiden Pink (Dianthus deltoides 'Arctic Fire'), Maiden Pink (Dianthus deltoides 'Zing Rose'), Maiden Pink (Dianthus deltoides 'Flashing Lights'), Maiden Pink (Dianthus deltoides 'Brilliant'), Maiden Pink (Dianthus deltoides 'Shrimp'), Maiden Pink (Dianthus deltoides 'Albus'), Maiden Pink (Dianthus deltoides 'Confetti Cherry Red'), Maiden Pink (Dianthus deltoides 'Double North'), Maiden Pink (Dianthus deltoides 'Brilliant Cascade'), Dianthus (Dianthus deltoides 'Splendens'), Maiden Pink (Dianthus deltoides subsp. degenii), Maiden Pink (Dianthus deltoides 'Leuchtfunk'), Dianthus (Dianthus deltoides 'Brillancy'), Dianthus (Dianthus deltoides 'Erectus'), Maiden Pink (Dianthus deltoides 'Lüneburg Heath'), Dianthus (Dianthus deltoides 'Vampir'), Dianthus (Dianthus deltoides 'Wink'), Maiden Pink
+
+characteristics:
+blooming: Flowering period May-September, viewing period 2-3 weeks
+color: Center of flower purple red, edge white
+size: Diameter ≥ 10 cm, height ≥ 10 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Likes adequate sunshine, half dormant in summer, put in places with scattered light
+watering: Water thoroughly when soil is dry, half dormant in summer, reduce water and fertilization
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly in spring and autumn
+pruning: Remove old, diseased and dead leaves timely
+temperature: min_temp: 4, max_temp: 35

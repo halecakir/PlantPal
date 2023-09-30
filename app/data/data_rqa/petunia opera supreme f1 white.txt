@@ -1,0 +1,15 @@
+names:
+petunia opera supreme f1 white, , 
+
+characteristics:
+blooming: Flowering period April-October, viewing period 3-4 weeks
+color: Flower color white
+size: Diameter ≥ 10 cm, height ≥ 10 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Long-day plant, put in sunny places
+watering: Water thoroughly when soil is dry, water daily in summer
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly in spring and summer
+pruning: Remove withered flowers, old, diseased, and dead leaves timely
+temperature: min_temp: 5, max_temp: 35

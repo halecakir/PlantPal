@@ -1,0 +1,15 @@
+names:
+euonymus maackii, Maack's Spindletree (Euonymus maackii), Winterberry Euonymus (Euonymus maackii 'North Platte'), Maack's Spindletree (Euonymus maackii 'Pink Lady'), Maack's Spindletree (Euonymus maackii Prairie Radiance®), Maack's Spindletree
+
+characteristics:
+blooming: Flowering period May-June, fruiting period September
+color: Leaf color green , flower color yellow green
+size: Diameter ≥ 20 cm, height ≥ 20 cm
+
+caretaking:
+soil: Fertile moist soil
+sunlight: Like sunshine, slight shade tolerance
+watering: Water thoroughly after soil surface dries
+fertilization: Apply 1-2 times monthly in spring, timly top-dressing after flowering for fruiting
+pruning: Remove weak, overlapping, over-crowd, and diseased or insect-infested branches timely
+temperature: min_temp: 5, max_temp: 30

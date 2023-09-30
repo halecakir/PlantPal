@@ -1,0 +1,15 @@
+names:
+piper nigrum, Black Pepper (Piper nigrum), Black Pepper (Piper nigrum var. hirtellosum), Black Pepper (Piper nigrum var. trioicum), Black Pepper (Piper nigrum 'Kalluvalli'), Black Pepper (Piper nigrum 'Utiran Kota'), Black Pepper (Piper nigrum 'Balankota'), Black Pepper (Piper nigrum 'Kuching'), Black Pepper (Piper nigrum 'Sarikei'), Black Pepper (Piper nigrum 'Belantung'), Black Pepper (Piper nigrum 'Lampung Daun Lebar'), Black Pepper (Piper nigrum 'Muntok'), Black Pepper (Piper nigrum 'Panchami'), Black Pepper (Piper nigrum 'Sreekara'), Black Pepper (Piper nigrum 'IISR-Girimunda'), Black Pepper (Piper nigrum 'IISR-Thevam'), Black Pepper (Piper nigrum 'Subhakara'), Black Pepper (Piper nigrum 'Pournami'), Black Pepper (Piper nigrum 'IISR-Malabar Excel'), Black Pepper (Piper nigrum 'Panniyur-1'), Black Pepper (Piper nigrum 'IISR-Shakthi'), Black Pepper
+
+characteristics:
+blooming: Flowering period June-October
+color: Flower color yellow, fruit color red, black
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Likes light, slight shade tolerance
+watering: Resistant to drought, water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 5, max_temp: 35

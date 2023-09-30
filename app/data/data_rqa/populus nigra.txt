@@ -1,0 +1,15 @@
+names:
+populus nigra, , 
+
+characteristics:
+blooming: Flowering period April-May, fruiting period June
+color: Flower color yellow
+size: Diameter ≥ 20 cm, height ≥ 25 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Like half shade, may grow in places with bright scattered light
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Pruning the side branches at the top canopy, thin the branches growing at the same time as the top section of main stem
+temperature: min_temp: 5, max_temp: 32

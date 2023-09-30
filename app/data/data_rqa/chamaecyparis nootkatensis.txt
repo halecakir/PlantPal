@@ -1,0 +1,15 @@
+names:
+chamaecyparis nootkatensis, Nootka Cypress (Xanthocyparis nootkatensis), Nootka Cypress (Xanthocyparis nootkatensis 'Aurea'), Nootka False Cypress (Xanthocyparis nootkatensis 'Green Arrow'), Weeping Alaska Cedar (Xanthocyparis nootkatensis 'Pendula'), Nootka Cypress (Xanthocyparis nootkatensis 'Van den Akker'), Nootka Cypress (Xanthocyparis nootkatensis 'Boyko Sundown'), Nootka Cypress (Xanthocyparis nootkatensis 'Moonshot'), Nootka Cypress
+
+characteristics:
+blooming: Flowering period April, fruiting period October-November
+color: Flower color yellow, blue, leaf color dark green
+size: Diameter ≥ 15 cm, height ≥ 25 cm
+
+caretaking:
+soil: Calcareous soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, grows in sunny places
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove and shape excessive branches
+temperature: min_temp: 5, max_temp: 35

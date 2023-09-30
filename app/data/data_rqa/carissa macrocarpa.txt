@@ -1,0 +1,15 @@
+names:
+carissa macrocarpa, Natal Plum (Carissa macrocarpa), Compact Natal Plum (Carissa macrocarpa 'Boxwood Beauty'), Dwarf Natal Plum (Carissa macrocarpa 'Nana'), Natal Plum (Carissa macrocarpa 'Variegata'), Natal Plum (Carissa macrocarpa 'Emerald Blanket'), Natal Plum (Carissa macrocarpa 'Fancy'), Natal Plum (Carissa macrocarpa 'Tomlinson'), Natal Plum (Carissa macrocarpa 'Tuttle'), Natal Plum (Carissa macrocarpa 'Green Carpet'), Natal Plum (Carissa macrocarpa 'Prostrata'), Natal Plum
+
+characteristics:
+blooming: Flowering period August
+color: Flower color white, fruit color red
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, slightly resistant to half shade
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Need more fertilization, dilute fertilizers following instructions, apply 2-3 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 5, max_temp: 35

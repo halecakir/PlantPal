@@ -1,0 +1,15 @@
+names:
+abelia x, Glossy Abelia (Zabelia dielsii), Abelia (Linnaea uniflora 'Bumblebee'), Abelia (Zabelia biflora), Indian Abelia (Zabelia triflora), Glossy Abelia (Zabelia buddleioides), Glossy Abelia (Linnaea Pinky Bells™), Glossy Abelia (Zabelia corymbosa), Glossy Abelia (Zabelia integrifolia), Glossy Abelia (Zabelia umbellata), Glossy Abelia (Zabelia parvifolia), Glossy Abelia (Linnaea 'Lavender Mist'), Glossy Abelia (Zabelia 'Sherwoodii'), Glossy Abelia (Zabelia 'Little Richard'), Fragrant Abelia (Zabelia tyaihyoni), Abelia (Zabelia 'Kaleidoscope'), Abelias (Vesalea), Glossy Abelia (Diabelia serrata), Glossy Abelia (Diabelia spathulata), Glossy Abelia (Diabelia tetrasepala), Abelia (Zabelia Sunshine Daydream), Glossy Abelia
+
+characteristics:
+blooming: Flowering period May, fruiting period August-September
+color: Flower color white, light red
+size: Diameter ≥ 15 cm, height ≥ 25 cm
+
+caretaking:
+soil: Acidic soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, resistant to half shade
+watering: Water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove dead, rotten, diseased leaves and the parts that may affect the good appearance
+temperature: min_temp: 5, max_temp: 35

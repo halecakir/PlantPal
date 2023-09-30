@@ -1,0 +1,15 @@
+names:
+lonicera nitida, Box Honeysuckle (Lonicera pileata var. yunnanensis 'Lemon Beauty'), Box Honeysuckle (Lonicera pileata var. yunnanensis 'Red Tips'), Box Honeysuckle (Lonicera pileata var. yunnanensis 'Silver Beauty'), Box Honeysuckle (Lonicera pileata var. yunnanensis 'Ernest Wilson'), Gold Box Honeysuckle (Lonicera pileata var. yunnanensis 'Baggesen's Gold'), Boxleaf Honeysuckle (Lonicera pileata var. yunnanensis 'Maigrun'), Variegated Box Honeysuckle (Lonicera pileata var. yunnanensis 'Pat's Variegated'), Boxleaf Honeysuckle (Lonicera pileata var. yunnanensis 'Twiggy'), Honeysuckle (Lonicera pileata var. yunnanensis Edmee Gold™), Box Honeysuckle (Lonicera pileata var. yunnanensis Ophelia™), Box Honeysuckle (Lonicera pileata var. yunnanensis Garden Clouds® Purple Storm), Box Honeysuckle (Lonicera pileata var. yunnanensis Garden Clouds® Green Breeze), Box Honeysuckle (Lonicera pileata var. yunnanensis Garden Clouds® Copper Glow), Box Honeysuckle (Lonicera pileata var. yunnanensis Scoop®), Box Honeysuckle (Lonicera pileata var. yunnanensis 'Elegant'), Box Honeysuckle (Lonicera pileata var. yunnanensis 'Hohenheimer Findling'), Box Honeysuckle (Lonicera pileata var. yunnanensis), Box Honeysuckle
+
+characteristics:
+blooming: Flowering period March-June, viewing period 3-4 weeks
+color: Flower color white at the beginning, then yellow, with fragrance
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like moderat light, resistant to half shade
+watering: Water thoroughly when soil is dry
+fertilization: Dilute fertilizers following instructions,  apply 1-2 times monthly in spring
+pruning: Remove withered flowers, old, diseased, and dead leaves timely
+temperature: min_temp: 8, max_temp: 35

@@ -1,0 +1,15 @@
+names:
+thymus praecox, Thyme (Thymus praecox), Thymus praecox subsp. praecox, Woolly Thyme (Thymus praecox subsp. polytrichus), Red Creeping Thyme (Thymus praecox 'Coccineus'), Creeping Thyme (Thymus praecox subsp. britannicus 'Aureus'), White Creeping Thyme (Thymus praecox 'Albiflorus'), Creeping Thyme (Thymus praecox subsp. britannicus 'Doretta Klaber'), Wild Thyme (Thymus praecox 'Latavin Lucy'), Wild Thyme (Thymus praecox 'Purple Dwarf'), Thyme (Thymus praecox 'Highland Cream'), Thymus praecox subsp. caucasicus, Thymus praecox subsp. grossheimii, Thymus praecox subsp. jankae, Thymus praecox subsp. widderi, Thymus praecox subsp. zygiformis, Creeping Thyme (Thymus praecox 'Nutmeg'), Creeping Thyme (Thymus praecox 'Purple Carpet'), Thyme (Thymus serpyllum 'Minor'), Woolly Thyme (Thymus praecox subsp. britannicus), Thyme
+
+characteristics:
+blooming: Vanilla plants, flowering period July-August
+color: Leaf color green , flower color purple, pink
+size: Diameter ≥ 10 cm, height ≥ 10 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like sunshine, place under adequate light, shade properly under summer strong light
+watering: Resistant to drought, water thoroughly when soil is dry
+fertilization: Dilute fertilizers following instructions, dilute fertilizers following instructions,  in early summer, spring and autumn apply fertilizers once monthly
+pruning: Remove old diseased and dead leaves timely
+temperature: min_temp: 5, max_temp: 32

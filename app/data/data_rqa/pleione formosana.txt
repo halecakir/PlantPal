@@ -1,0 +1,15 @@
+names:
+pleione formosana, Windowsill Orchid (Pleione formosana), Rockery Orchid (Pleione formosana 'Tongariro'), Indian Crocus (Pleione formosana 'Vivaldi'), Indian Crocus (Pleione formosana 'Verdi'), Indian Crocus (Pleione formosana 'Rossini'), Indian Crocus (Pleione formosana 'Clare'), Peacock Orchid (Pleione formosana 'Oriental Grace'), Orchid (Pleione formosana 'Achievement'), Orchid (Pleione formosana 'Sung Eun'), Windowsill Orchid
+
+characteristics:
+blooming: Flowering period April-June
+color: Flower color white, pink, light purple
+size: Diameter ≥ 10 cm
+
+caretaking:
+soil: Humus soil
+sunlight: Likes moderate sunshine, avoid scorching light
+watering: Keep soil moist at the seedling stage, water frequently during peak growth stages
+fertilization: Apply small amount fertilizer monthly in peak growth stages
+pruning: Remove old, diseased and dead leaves timely
+temperature: min_temp: 5, max_temp: 35

@@ -1,0 +1,15 @@
+names:
+sedum, Sedums (Sedum), Sedum (Hylotelephium spectabile 'Herbstfreude'), Sedum (Petrosedum rupestre subsp. rupestre 'Angelina'), Jenny's Stonecrop (Petrosedum rupestre subsp. rupestre 'Blue Spruce'), Two-Row Stonecrop (Phedimus spurius 'Schorbuser Blut'), Sedum (Phedimus spurius 'Tricolor'), Jelly Bean (Sedum x rubrotinctum), Burro's Tail (Sedum morganianum), Sedum (Hylotelephium sieboldii), Kamchatka Stonecrop (Phedimus kamtschaticus), Goldmoss Stonecrop (Sedum acre), Stringy Stonecrop (Sedum sarmentosum), Stonecrop (Hylotelephium telephium subsp. telephium 'Purple Emperor'), Japanese Woodland Stonecrop (Sedum makinoi 'Ogon'), Golden Sedum (Sedum adolphi), Dunce's Cap (Orostachys iwarenge), Chinese Stonecrop (Sedum tetractinum 'Coral Reef'), Stonecrop (Sedum spathulifolium subsp. pruinosum 'Cape Blanco'), Baby Burro's Tail (Sedum burrito), Sedum (Sedum album), Sedums
+
+characteristics:
+blooming: Succulent plants, sometimes flowers, rose red flowers
+color: Leaf color light green, when sunny leaf color turning to pink
+size: Diameter 3-10 cm, height 5-15 cm
+
+caretaking:
+soil: Peat and akadama mixed in 3:1 ratio
+sunlight: Like sunshine, short period of dormancy in summer and winter, use half shade for better care
+watering: Resistant to drought, water thoroughly when soil is dry, reduce water in dormancy
+fertilization: Dilute fertilizers following instructions,  apply once monthly in spring and autumn, except in dormancy
+pruning: Remove dead and rotten part timely
+temperature: min_temp: 5, max_temp: 35

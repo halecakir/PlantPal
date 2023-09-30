@@ -1,0 +1,15 @@
+names:
+bryophyte, , 
+
+characteristics:
+blooming: Bryophyte, with simple structure, no flowering
+color: Leaf color tender green
+size: Diameter 3-5cm，Height 3-10cm
+
+caretaking:
+soil: Soil with loose texture and well drainage
+sunlight: Half shade, like bright scattered light
+watering: Like wet environment, spray water on leaves everyday
+fertilization: No need to fertilize
+pruning: Remove old, diseased and dead leaves timely
+temperature: min_temp: 10, max_temp: 32

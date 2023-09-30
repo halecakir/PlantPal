@@ -1,0 +1,15 @@
+names:
+celosia spicata, Wheatstraw Celosia (Celosia spicata), Celosia brevispicata, Wheatstraw Celosia (Celosia spicata 'Flamingo Feather'), Celosia spicata 'Pink Plume', Celosia spicata 'Pink Candle', Celosia spicata 'Punky Red', Wheat Celosia (Celosia spicata Celway™ Terracotta), Celosia spicata 'Flamingo Feather Purple', Wheat Celosia (Celosia spicata 'Kosmo Cherry'), Wheat Celosia (Celosia spicata 'Kosmo Salmon'), Wheat Celosia (Celosia spicata 'Kosmo Yellow'), Wheat Celosia (Celosia spicata Kosmo Pink), Wheat Celosia (Celosia spicata 'Kosmo Purple Red'), Wheat Celosia (Celosia spicata 'Kosmo Vanilla'), Wheat Celosia (Celosia spicata 'Spiky Purple'), Wheat Celosia (Celosia spicata 'Spiky Pink'), Wheat Celosia (Celosia spicata Celway™ White), Wheat Celosia (Celosia spicata Celway™ Lemon), Wheat Celosia (Celosia spicata Celway™ Orange), Wheat Celosia (Celosia spicata Celway™ Purple), Wheatstraw Celosia
+
+characteristics:
+blooming: Flowering and fruiting period July-September
+color: Flower color red, purple, yellow
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like sunshine, grows in sunny places
+watering: Water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead, rotten, diseased leaves timely
+temperature: min_temp: 5, max_temp: 35

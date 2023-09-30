@@ -1,0 +1,15 @@
+names:
+fern, Fern (Nephrolepis exaltata 'Verona'), Fern (Phlebodium areolatum 'Virginia Blue'), Fern (Nephrolepis exaltata 'Delilah'), Fern (Asplenium thunbergii), Deersfoot Fern (Asplenium stenolobum), Fern (Pellaea paradoxa 'Glowstar'), Fern (Cystopteris), Fern (Pteris nipponica), Fern (Pseudocyclosorus guangxianensis), Fern (Pseudocyclosorus stramineus), Fern (Asplenium surrogatum), Fern (Asplenium x kenzoi), Fern (Pseudocyclosorus guangxiensis), Fern (Pseudocyclosorus subfalcilobus), Fern (Pseudocyclosorus jijiangensis), Fern (Pseudocyclosorus submarginalis), Fern (Pseudocyclosorus johannae), Fern (Pseudocyclosorus subochthodes), Fern (Pseudocyclosorus camerounensis), Fern (Thelypteris latiloba), Fern
+
+characteristics:
+blooming: Fern plants, no flowering
+color: Leaf color tender green
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Slightly acidic soil with loose texture or soil with specific nutrients
+sunlight: Strong resistant to shade, put in places with scattered light
+watering: Water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead, rotten, diseased leaves timely
+temperature: min_temp: 10, max_temp: 32

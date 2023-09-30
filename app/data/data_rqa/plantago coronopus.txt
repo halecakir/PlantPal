@@ -1,0 +1,15 @@
+names:
+plantago coronopus, Buck's-Horn Plantain (Plantago coronopus), Buck's-Horn Plantain
+
+characteristics:
+blooming: Flowering period May-July, flowering period July-September
+color: Flower color green, yellow brown, leaf color green
+size: Diameter ≥ 10 cm, height 5-20 cm
+
+caretaking:
+soil: Sandy fertile soil
+sunlight: Warm places with scattered light
+watering: Moderately resistant to drought, water once a week
+fertilization: No need fertilization
+pruning: Remove old, diseased and dead leaves timely
+temperature: min_temp: 10, max_temp: 35

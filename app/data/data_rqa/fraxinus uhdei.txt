@@ -1,0 +1,15 @@
+names:
+fraxinus uhdei, Shamel Ash (Fraxinus uhdei), Evergreen Ash (Fraxinus uhdei 'Majestic Beauty'), Shamel Ash
+
+characteristics:
+blooming: Flowering period April-May, flowering period July-September
+color: Flower color white
+size: Diameter ≥ 20 cm, height 20-30 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like sunshine, resistant to half shade
+watering: 2-3 times every week
+fertilization: Apply enough base fertilizers
+pruning: Remove dead and diseased branches timely
+temperature: min_temp: 5, max_temp: 35

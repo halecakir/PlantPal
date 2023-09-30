@@ -1,0 +1,15 @@
+names:
+helianthus tuberosus, Sunroots (Helianthus tuberosus), Jerusalem Artichoke (Helianthus tuberosus 'Sakhalinski Rouge'), Jerusalem Artichoke (Helianthus tuberosus 'Violet de Rennes'), Jerusalem Artichoke (Helianthus tuberosus 'Sakhalinski Blanc'), Jerusalem Artichoke (Helianthus tuberosus 'Stampede'), Sunroot (Helianthus tuberosus 'Waldspinel'), Sunroot (Helianthus tuberosus 'Skorospelka'), Jerusalem Artichoke (Helianthus tuberosus 'Clearwater'), Sunroot (Helianthus tuberosus 'Wild PJ’s'), Sunroot (Helianthus tuberosus 'White Fuseau'), Sunroot (Helianthus tuberosus 'White Dwarf'), Sunroot (Helianthus tuberosus 'Supernova'), Sunroot (Helianthus tuberosus 'Supercluster'), Sunroot (Helianthus tuberosus 'Shiawassee'), Sunroot (Helianthus tuberosus 'Red Rover'), Sunroot (Helianthus tuberosus 'Red Fuseau'), Sunroot (Helianthus tuberosus 'Pink Crispy'), Sunroot (Helianthus tuberosus 'Hypernova'), Sunroot (Helianthus tuberosus 'Dwarf Sunray'), Jerusalem Artichoke (Helianthus tuberosus 'Topstar'), Sunroots
+
+characteristics:
+blooming: Flowering period August-September, viewing period 3-4 weeks
+color: Flower color yellow, orange
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Likes sunshine, avoid strong direct light
+watering: Keep soil moist, water and drain timely
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: After flowering remove the withered flowers, the part on the ground will wither in winter, the plant germinates again in spring
+temperature: min_temp: 8, max_temp: 32

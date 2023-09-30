@@ -1,0 +1,15 @@
+names:
+tamarix ramosissima, Tamarisk (Tamarix ramosissima), Saltcedar (Tamarix ramosissima 'Pink Cascade'), Saltcedar (Tamarix ramosissima 'Rubra'), Saltcedar (Tamarix ramosissima 'Summer Glow'), Saltcedar (Tamarix ramosissima 'Rosea'), Tamarisk
+
+characteristics:
+blooming: Flowering period April-September
+color: Flower color pink, purple red
+size: Diameter ≥ 15 cm, height ≥ 25 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like sunshine, grows in sunny places
+watering: Water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove and shape excessive branches
+temperature: min_temp: 5, max_temp: 35

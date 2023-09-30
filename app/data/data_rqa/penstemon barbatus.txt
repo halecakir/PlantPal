@@ -1,0 +1,15 @@
+names:
+penstemon barbatus,  Beardlip Penstemon (Penstemon barbatus), Bearded Penstemon (Penstemon barbatus 'Elfin Pink'), Bearded Penstemon (Penstemon barbatus 'Jingle Bells'), Bearded Penstemon (Penstemon barbatus subsp. coccineus), Beardtongue (Penstemon barbatus 'Coccineus'), Beardtongue (Penstemon barbatus 'Prairie Dusk'), Beardtongue (Penstemon barbatus 'Albus'), Beardtongue (Penstemon barbatus 'Sweet Lips'), Beardtongue (Penstemon barbatus 'Navigator Mix'), Beardtongue (Penstemon barbatus 'Rondo Mix'), Scarlet Bugler Penstemon (Penstemon barbatus 'Iron Maiden'), Torrey's Penstemon (Penstemon barbatus subsp. torreyi), Beardtongue (Penstemon barbatus 'Bashful'), Pride of the Mountain (Penstemon barbatus var. torreyi), Pride of the Mountain (Penstemon barbatus var. trichander), Pride of the Mountain (Penstemon barbatus var. barbatus), Beardtongue (Penstemon barbatus 'Cambridge Mix'), Pride of the Mountain (Penstemon barbatus subsp. trichander), Beardtongue (Penstemon barbatus 'Rubycunda'), Pride of the Mountain (Penstemon barbatus 'Riding Hood Marble Cream'), Beardlip Penstemon
+
+characteristics:
+blooming: Flowering period May-June, viewing period 2-3 weeks
+color: Flower color pink, purple, blue
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like adequate light, slight resistant to half shade, shade properly under strong light in summer
+watering: Water thoroughly after soil surface dries
+fertilization: Dilute fertilizers following instructions, apply twice monthly in spring
+pruning: Remove withered flowers, old, diseased, and dead leaves timely
+temperature: min_temp: 5, max_temp: 35

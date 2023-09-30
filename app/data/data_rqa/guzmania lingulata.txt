@@ -1,0 +1,15 @@
+names:
+guzmania lingulata, Bromeliad (Guzmania lingulata), Tufted Airplant (Guzmania lingulata var. lingulata), Scarlet Star Guzmania (Guzmania lingulata 'Mt. Blanc'), Tufted Airplant (Guzmania lingulata var. cardinalis), Tufted Airplant (Guzmania lingulata var. flammea), Tufted Airplant (Guzmania lingulata var. minor), Tufted Airplant (Guzmania lingulata 'Variegated'), Tufted Airplant (Guzmania lingulata 'Fortuna'), Bromeliad
+
+characteristics:
+blooming: Flowering period mainly in winter and spring, viewing period 1-2 months
+color: Bract yellow
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like half shade, bright scattered light
+watering: Like moist environments, water thoroughly when soil is dry, water every day in summer, reduce water in winter
+fertilization: Dilute fertilizers following instructions,  apply liquid fertilizers once every 10-15 days in summer and autumn
+pruning: Remove old, diseased, dead leaves and withered flowers timely
+temperature: min_temp: 10, max_temp: 37

@@ -1,0 +1,15 @@
+names:
+sapium sebiferum, , 
+
+characteristics:
+blooming: Flowering period April-August
+color: Flower color yellow, fruit color green, black
+size: Diameter ≥ 20 cm, height 20-30 cm
+
+caretaking:
+soil: Deep moist and fertile alluvial soil
+sunlight: Like sunshine, not resistant to shade
+watering: 2-3 times every week
+fertilization: Apply enough base fertilizers
+pruning: Mainly remove buds and new shoots
+temperature: min_temp: 8, max_temp: 35

@@ -1,0 +1,15 @@
+names:
+quercus gravesii, , 
+
+characteristics:
+blooming: Flowering period April-May, fruiting period July to September
+color: Leaf color green , fruit color light brown
+size: Diameter ≥ 20 cm, height ≥ 25 cm
+
+caretaking:
+soil: Likes sandy loam or well-drained slightly acidic soil
+sunlight: Like sunshine, slightly resistant to half shade
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 5, max_temp: 32

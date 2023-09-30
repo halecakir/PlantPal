@@ -1,0 +1,15 @@
+names:
+hypericum x inodorum, Tall Tutsan (Hypericum x inodorum), St. John's Wort (Hypericum x inodorum 'Albury Purple'), Tall Tutsan (Hypericum x inodorum 'Elstead'), Tall Tutsan (Hypericum x inodorum 'Summergold'), Tall Tutsan (Hypericum x inodorum Miracle® Wonder), Tall Tutsan (Hypericum x inodorum Miracle® Sunset), Tall Tutsan (Hypericum x inodorum Miracle® Summer), Tall Tutsan (Hypericum x inodorum Miracle® Spirit), Tall Tutsan (Hypericum x inodorum Miracle® Pearl), Tall Tutsan (Hypericum x inodorum Miracle® Fantasy), Tall Tutsan (Hypericum x inodorum Miracle® Blossom), Tall Tutsan (Hypericum x inodorum Miracle® Attraction), Tall Tutsan (Hypericum x inodorum Magical® Orange), Tall Tutsan (Hypericum x inodorum 'Excellent Flair'), Tall Tutsan (Hypericum x inodorum Coco Grando®), Tall Tutsan (Hypericum x inodorum Coco Rio®), Tall Tutsan (Hypericum x inodorum Harvest Festival™ Chocolate), Tall Tutsan (Hypericum x inodorum Hypearls™ Compact Star), Tall Tutsan (Hypericum x inodorum First Editions® Mocca), Tall Tutsan (Hypericum x inodorum Magical® Triumph), Tall Tutsan
+
+characteristics:
+blooming: Flowering period May-August, fruiting period August-September
+color: Flower color yellow
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, slightly resistant to half shade
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 5, max_temp: 35

@@ -1,0 +1,15 @@
+names:
+senecio herreianus, , 
+
+characteristics:
+blooming: Succulent plants, sometimes flowers, white flowers
+color: Leaf color green, with adequate sunlight, leaves with fuchsia marks
+size: Diameter ≥ 2 cm, height ≥ 5 cm
+
+caretaking:
+soil: Peat and akadama mixed in 3:1 ratio
+sunlight: Likes light, resistant to half shade, a short period of dormancy in summer, put in places with scattered light
+watering: Resistant to drought, water thoroughly when soil is dry, reduce water in summer
+fertilization: Dilute fertilizers following instructions,  apply once every 1-2 months in spring and autumn
+pruning: Remove dead and rotten part timely
+temperature: min_temp: 8, max_temp: 35

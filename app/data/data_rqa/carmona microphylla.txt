@@ -1,0 +1,15 @@
+names:
+carmona microphylla, Fukien Tea (Ehretia monopyrena), Fukien Tea
+
+characteristics:
+blooming: Flowering period May-July, fruiting period August-October
+color: Flower color white
+size: Diameter ≥ 10 cm, height ≥ 10 cm
+
+caretaking:
+soil: Loose, fertile, and well-drained acid soil
+sunlight: Like bright scattered sunlight, strong resistant to shade
+watering: Water thoroughly when soil is dry, avoid saturated water
+fertilization: Apply enough base fertilizers
+pruning: Remove dead and diseased branches timely, strong ability to sprout
+temperature: min_temp: 5, max_temp: 35

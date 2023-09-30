@@ -1,0 +1,15 @@
+names:
+teucrium marum, Cat Thyme Germander (Teucrium marum), Teucrium marum subsp. marum, Teucrium marum subsp. spinescens, Cat Thyme Germander
+
+characteristics:
+blooming: Flowering period July-August
+color: Flower color white, purple
+size: Diameter ≥ 20 cm, height 20-30 cm
+
+caretaking:
+soil: Soil with rich organic matter and strong abilities of holding water and fertility
+sunlight: Likes sufficient sunshine、cool and moist places
+watering: Keep soil moist
+fertilization: Apply enough base fertilizers
+pruning: Remove dead and diseased branches timely
+temperature: min_temp: 5, max_temp: 35

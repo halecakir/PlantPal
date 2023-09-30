@@ -1,0 +1,15 @@
+names:
+lavatera thuringiaca, Tree Mallow (Malva thuringiaca subsp. thuringiaca 'Bold Heart'), Tree Mallow (Malva thuringiaca subsp. thuringiaca 'Magenta Target'), Tree Mallow (Malva thuringiaca subsp. thuringiaca 'Memmingen'), Tree Mallow (Malva 'Barnsley'), Tree Mallow (Malva 'Blushing Bride'), Tree Mallow (Malva 'Bredon Springs'), Tree Mallow (Malva 'Bressingham Pink'), Tree Mallow (Malva 'Burgundy Wine'), Tree Mallow (Malva 'Candy Floss'), Tree Mallow (Malva 'Chedglow'), Tree Mallow (Malva 'Chrisjen'), Tree Mallow (Malva 'Eye Catcher'), Tree Mallow (Malva thuringiaca subsp. thuringiaca 'Ice Cool'), Tree Mallow (Malva 'Kew Rose'), Tree Mallow (Malva 'Lara Rose'), Tree Mallow (Malva 'Lavender Lady'), Tree Mallow (Malva 'Lisanne'), Tree Mallow (Malva 'Mary Hope'), Tree Mallow (Malva Memories), Tree Mallow (Malva 'Pavlova'), Tree Mallow
+
+characteristics:
+blooming: Flowering period April-August
+color: Flower color red, pink or white
+size: Diameter ≥ 20 cm, height 20-30 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Likes sufficient sunshine、cool and moist places
+watering: Water thoroughly when soil is dry, avoid saturated water
+fertilization: Apply low concentration fertilizes with more times
+pruning: Remove dead and diseased branches timely
+temperature: min_temp: 5, max_temp: 35

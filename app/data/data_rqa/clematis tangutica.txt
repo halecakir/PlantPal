@@ -1,0 +1,15 @@
+names:
+clematis tangutica, Clematis (Clematis tangutica), Clematis (Clematis tangutica 'Bill MacKenzie'), Clematis (Clematis tangutica 'Helios'), Clematis (Clematis tangutica Golden Tiara™), Clematis (Clematis tangutica 'Lambton Park'), Clematis (Clematis tangutica 'Aureolin'), Clematis (Clematis tangutica 'Golden Cross'), Clematis (Clematis tangutica My Angel®), Clematis (Clematis tangutica 'Radar Love'), Clematis (Clematis tangutica 'Anita'), Clematis (Clematis tangutica 'Bravo'), Clematis (Clematis tangutica 'Burford Bell'), Clematis (Clematis tangutica 'Burford Variety'), Clematis (Clematis tangutica 'Corry'), Clematis (Clematis tangutica 'Grace'), Clematis (Clematis tangutica 'Gravetye Variety'), Clematis (Clematis tangutica 'Last Dance'), Clematis (Clematis tangutica 'Golden Harvest'), Clematis (Clematis tangutica var. mongolica), Clematis (Clematis tangutica 'Amelia Joan'), Clematis
+
+characteristics:
+blooming: Flowering period January-February, viewing period 2-3 weeks
+color: Flower color yellow
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like adequate light
+watering: Water thoroughly after soil surface dries
+fertilization: Dilute fertilizers following instructions, dilute fertilizers following instructions,  in early summer, spring and autumn apply fertilizers once monthly
+pruning: Remove withered flowers, old, diseased, and dead leaves timely
+temperature: min_temp: 6, max_temp: 35

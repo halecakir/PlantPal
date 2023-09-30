@@ -1,0 +1,15 @@
+names:
+populus spp., , NONE
+
+characteristics:
+blooming: Flowering period March-April, fruiting period April-June
+color: Flower color red, pink, leaf color dark green
+size: Diameter ≥ 25 cm, height ≥ 30 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, grows in sunny places
+watering: Water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 5, max_temp: 35

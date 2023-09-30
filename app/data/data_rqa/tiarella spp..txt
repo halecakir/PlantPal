@@ -1,0 +1,15 @@
+names:
+tiarella spp., , NONE
+
+characteristics:
+blooming: Flowering period June-July
+color: Flower color white
+size: Diameter ≥ 20 cm, height 20-30 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like half shade, may grow in places with bright scattered light
+watering: Water thoroughly when soil is dry, avoid saturated water
+fertilization: Apply low concentration fertilizes with more times
+pruning: Remove dead and diseased branches timely
+temperature: min_temp: 8, max_temp: 32

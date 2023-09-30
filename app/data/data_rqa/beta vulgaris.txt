@@ -1,0 +1,15 @@
+names:
+beta vulgaris, , 
+
+characteristics:
+blooming: Flowering period May-June, fruiting period July
+color: Flower color green, flower color red, white, purple, light yellow
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: High quality fruits in sunny places
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead, rotten, diseased leaves timely
+temperature: min_temp: 4, max_temp: 35

@@ -1,0 +1,15 @@
+names:
+abutilon palmeri, , 
+
+characteristics:
+blooming: Flowering period July-August
+color: Flower color yellow
+size: Diameter ≥ 10 cm, height 15-20 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like sunny and warm places
+watering: Keep soil moist
+fertilization: Top-dressing twice in vegetative stages
+pruning: No need pruning
+temperature: min_temp: 5, max_temp: 35

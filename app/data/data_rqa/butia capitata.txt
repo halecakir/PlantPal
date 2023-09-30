@@ -1,0 +1,15 @@
+names:
+butia capitata, , 
+
+characteristics:
+blooming: Flowering period March-May, fruiting period October-November
+color: Flower color yellow white , fruit color yellow brown to red
+size: Diameter ≥ 15 cm, height ≥ 20 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, grows in sunny places
+watering: Likes wet environments, also relatively resistant to drought, water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 5, max_temp: 35

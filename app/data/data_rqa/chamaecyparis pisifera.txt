@@ -1,0 +1,15 @@
+names:
+chamaecyparis pisifera, Sawara Cypress (Chamaecyparis pisifera), Sawara Cypress (Chamaecyparis pisifera 'Boulevard'), Sawara Cypress (Chamaecyparis pisifera 'Cream Ball'), Sawara Cypress (Chamaecyparis pisifera 'Curly Tops'), Japanese False Cypress (Chamaecyparis pisifera 'Filifera'), Sawara Cypress (Chamaecyparis pisifera 'Filifera Aurea'), Sawara Cypress (Chamaecyparis pisifera 'Golden Pincushion'), Japanese Falsecypress (Chamaecyparis pisifera 'Lemon Thread'), Japanese Falsecypress (Chamaecyparis pisifera 'Plumosa Albopicta'), Japanese Falsecypress (Chamaecyparis pisifera 'Squarrosa Intermedia'), Sawara Cypress (Chamaecyparis pisifera 'Sungold'), Japanese Falsecypress (Chamaecyparis pisifera 'Tsukumo'), Japanese Falsecypress (Chamaecyparis pisifera 'Vintage Gold'), Sawara Cypress (Chamaecyparis pisifera 'Golden Mop'), Sawara Cypress (Chamaecyparis pisifera 'Compacta Variegata'), Sawara Cypress (Chamaecyparis pisifera 'Filifera Aureovariegata'), Sawara Cypress (Chamaecyparis pisifera 'Plumosa Compressa'), Sawara False Cypress (Chamaecyparis pisifera 'Snow'), Sawara False Cypress (Chamaecyparis pisifera 'Squarrosa Sulphurea'), Sawara False Cypress (Chamaecyparis pisifera 'Silver Lode'), Sawara Cypress
+
+characteristics:
+blooming: Foliage plants, viewing period year around
+color: Leaf color green , fruit color dark brown
+size: Diameter ≥ 15 cm, height ≥ 25 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like sunshine, grows in sunny places
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Pruning accordingly for any favorate tree shapes
+temperature: min_temp: 5, max_temp: 35

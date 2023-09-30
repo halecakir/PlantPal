@@ -1,0 +1,15 @@
+names:
+drosera spatulata, Sundew (Drosera spatulata), Sundew (Drosera spatulata 'Okinawa Pink'), Sundew (Drosera spatulata 'Gold Coast'), Sundew (Drosera spatulata 'White Flower'), Sundew
+
+characteristics:
+blooming: Carnivorous plants, sometimes flowers
+color: Flower color white or pink, leaf color yellow green , red
+size: Diameter ≥ 3 cm, height 3-25 cm
+
+caretaking:
+soil: Likes moisture, best planted in sphagnum moss
+sunlight: Likes moderate sunshine, suitable in places with bright scattered light and high humidity environments
+watering: Likes wet environments, water thoroughly when soil is dry, do not spray water on leaves
+fertilization: May nourish itself by capturing insects, for better appearance, apply liquid fertilizers at 1/4-1/5 recommanded strength on leaves in each month
+pruning: Remove dead and rotten leaves timely
+temperature: min_temp: 8, max_temp: 35

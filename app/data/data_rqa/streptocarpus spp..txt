@@ -1,0 +1,15 @@
+names:
+streptocarpus spp., , 
+
+characteristics:
+blooming: Flowering period August-October
+color: Flower color blue, white, pink
+size: Diameter ≥ 20 cm, height 20-30 cm
+
+caretaking:
+soil: Leaf mold
+sunlight: Like half shade, may grow in places with bright scattered light
+watering: Water frequently when leaves grow, keep soil moist
+fertilization: Apply fertilizers once every 10 days in vegetative stages, lift leaves to avoid fertilizers on leaf surface
+pruning: Remove dead and diseased branches timely
+temperature: min_temp: 8, max_temp: 32

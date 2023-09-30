@@ -1,0 +1,15 @@
+names:
+tabebuia chrysotricha, , 
+
+characteristics:
+blooming: Flowering period March-May
+color: Flower color yellow
+size: Diameter ≥ 20 cm, height ≥ 20 cm
+
+caretaking:
+soil: Organic-rich sandy loam
+sunlight: Like sunshine
+watering: Only need keep soil moist
+fertilization: No much requirement for fertilizers
+pruning: Remove excessively grown vines that have no flower buds
+temperature: min_temp: 5, max_temp: 35

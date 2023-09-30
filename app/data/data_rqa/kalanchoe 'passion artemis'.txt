@@ -1,0 +1,15 @@
+names:
+kalanchoe 'passion artemis', Kalanchoes (Kalanchoe), Florist Kalanchoe (Kalanchoe blossfeldiana), Flapjacks (Kalanchoe luciae), Panda Plant (Kalanchoe tomentosa), Mother of Thousands (Kalanchoe daigremontiana), Lavender Scallops (Kalanchoe fedtschenkoi), Mother of Thousands (Kalanchoe delagoensis), Panda Plant (Kalanchoe tomentosa 'Chocolate Soldier'), Donkey Ears (Kalanchoe gastonis-bonnieri), Mother of Thousands (Kalanchoe 'Houghtonii'), Mother of Millions (Kalanchoe laetivirens), Toareny (Kalanchoe orgyalis), Felt Plant (Kalanchoe beharensis 'Fang'), Marnier's Kalanchoe (Kalanchoe marnieriana), Kalanchoe (Kalanchoe tetraphylla), Flower Dust Plant (Kalanchoe pumila), Kalanchoe (Kalanchoe fedtschenkoi 'Variegata'), Felt Plant (Kalanchoe beharensis), Flapjacks (Kalanchoe luciae 'Fantastic'), Millot Kalanchoe (Kalanchoe millotii), Kalanchoes
+
+characteristics:
+blooming: Flowering period January-August, viewing period 3-4 weeks
+color: Flower color orange
+size: Diameter ≥ 10 cm, height 10-50 cm
+
+caretaking:
+soil: 80% peat + 20% perlite
+sunlight: Likes sunshine, shade properly under summer strong light, may take about 4-6 hours sunlight every day
+watering: Resistant to drought, water thoroughly every 4-5 days in summer, water thoroughly every 8-10 days in winter
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove diseased, yellowing and dropping leaves, pinching 1-2 times, germinate more branched
+temperature: min_temp: 10, max_temp: 32

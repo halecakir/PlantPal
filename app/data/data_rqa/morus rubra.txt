@@ -1,0 +1,15 @@
+names:
+morus rubra, Red Mulberry (Morus rubra), Mulberry (Morus rubra 'Gelato'), Red Mulberry (Morus rubra var. tomentosa), Morus rubra var. murrayana, Red Mulberry
+
+characteristics:
+blooming: Flowering period nearly year around
+color: Flower color dark red
+size: Diameter ≥ 20 cm, height 20-30 cm
+
+caretaking:
+soil: Pond scum or forest soil
+sunlight: Ikes warm moist environments, like sunshine and resistant to shade
+watering: Water thoroughly when soil is dry, avoid saturated water
+fertilization: Apply manure as base fertilizers with calcium, magnesium, and phosphorus, apply low concentration liquid nitrogen fertilizers, stop fertilization after autumn
+pruning: Remove dead and diseased branches timely
+temperature: min_temp: 10, max_temp: 35

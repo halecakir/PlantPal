@@ -1,0 +1,15 @@
+names:
+caryopteris spp., , NONE
+
+characteristics:
+blooming: Flowering period July-August, flowering period August-September
+color: Flower color purple, blue purple, fruit color black brown
+size: Diameter ≥ 20 cm, height 15-20 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like half shade, may grow in places with bright scattered light
+watering: Only need keep soil moist
+fertilization: Apply enough base fertilizers
+pruning: Remove old, diseased and dead leaves timely
+temperature: min_temp: 10, max_temp: 32

@@ -1,0 +1,15 @@
+names:
+pennisetum glaucum, , 
+
+characteristics:
+blooming: Flowering period in summer, fruiting period in autumn
+color: Flower color purple
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Likes loose and fertile loam
+sunlight: Put in sunny places
+watering: Keep soil moist
+fertilization: Mainly use base fertilizers, top-dressing at the late stages
+pruning: Remove dead and diseased branches timely
+temperature: min_temp: 5, max_temp: 35

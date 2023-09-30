@@ -1,0 +1,15 @@
+names:
+lilly 'angelique', Daylily (Hemerocallis 'Lilly Dache'), Daylily (Hemerocallis 'Lilly and Petals'), Daylily (Hemerocallis 'Lilly King'), Plumeria (Plumeria rubra 'Lilly Warmtoes'), Mum (Chrysanthemum 'Lilly Emily'), Tall Bearded Iris (Iris 'Lilly Riley'), Daylily (Hemerocallis 'Lilly My Love'), Tropical Hibiscus (Hibiscus rosa-sinensis 'Lilly Torbert'), Daylily (Hemerocallis 'Lilly Phillips'), Angel Trumpet (Brugmansia 'Lilly Mops'), Camellia 'Lilly Marie Nichols', Dahlia 'Lilly B', Daylily (Hemerocallis 'Lilly Katherine'), Daylily (Hemerocallis 'Lilly Gee'), Standard Dwarf Bearded Iris (Iris 'Lilly Dilly'), Lady's Eardrops (Fuchsia 'Lilly Boulanger'), Lilly Pilly (Syzygium), Lilly Pilly (Syzygium 'Cascade'), Brush Cherry (Syzygium wilsonii), Magenta Lilly Pilly (Syzygium paniculatum), Daylily
+
+characteristics:
+blooming: Flowering period April-October, viewing period 2-3 weeks
+color: Flower color pink
+size: Diameter ≥ 10 cm, height 18-22 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Long-day plant, put in sunny places, but avoid strong sunlight at noon
+watering: Keep soil dry rather than flooded, water thoroughly when soil is dry, 1-2 times a week
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove the withered parts on the ground after flowering, leaving bulbs for germination in the next year
+temperature: min_temp: 8, max_temp: 32

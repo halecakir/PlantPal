@@ -1,0 +1,15 @@
+names:
+floscopa scandens, Floscopa scandens, Floscopa scandens
+
+characteristics:
+blooming: Flowering and fruiting period July-November
+color: Leaf color green , flower color blue, purple
+size: Diameter ≥ 20 cm, height ≥ 20 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like sunshine, resistant to half shade
+watering: Water thoroughly when soil is dry
+fertilization: Apply 1-2 times monthly in spring and summer
+pruning: Remove old, diseased and dead leaves timely
+temperature: min_temp: 10, max_temp: 35

@@ -1,0 +1,15 @@
+names:
+aronia melanocarpa, Black Chokeberry (Aronia melanocarpa), Black Chokeberry (Aronia melanocarpa 'Autumn Magic'), Black Chokeberry (Aronia melanocarpa Iroquois Beauty™), Black Chokeberry (Aronia melanocarpa 'Hugin'), Black Chokeberry (Aronia melanocarpa 'Eastland'), Black Chokeberry (Aronia melanocarpa 'Grandifolia'), Black Chokeberry (Aronia melanocarpa 'Manchurica'), Black Chokeberry (Aronia melanocarpa 'McKenzie'), Black Chokeberry (Aronia melanocarpa Low Scape® Mound), Black Chokeberry (Aronia melanocarpa Low Scape® Hedger), Black Chokeberry (Aronia melanocarpa 'Professor Ed'), Black Chokeberry (Aronia melanocarpa Ground Hug™), Black Chokeberry (Aronia melanocarpa Low Scape® Snowfire™), Chokeberry (XSorbaronia fallax 'Viking'), Chokeberry (XSorbaronia fallax 'Nero'), Black Chokeberry
+
+characteristics:
+blooming: Flowering period May-June, flowering period July-August
+color: Flower color white, fruit color purple black
+size: Diameter ≥ 15 cm, height ≥ 25 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Like adequate light, slight shade tolerance
+watering: Water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove dead, rotten, diseased leaves and the parts that may affect the good appearance
+temperature: min_temp: 5, max_temp: 32

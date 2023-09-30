@@ -1,0 +1,15 @@
+names:
+streptocarpus 'concord blue', Streptocarpella (Streptocarpus saxorum 'Concord Blue'), Streptocarpella
+
+characteristics:
+blooming: Flowering period spring and autumn
+color: Flower color blue purple or white
+size: Diameter≥10cm，Height15-18cm
+
+caretaking:
+soil: Loose, fertile, and well-drained loam soil
+sunlight: Like mild sunlight, put in places with bright scattered light
+watering: Water thoroughly when soil surface is dry
+fertilization: Dilute fertilizers following instructions, apply once monthly in spring and autumn
+pruning: Remove flower stem, diseased and rotten leaves timely
+temperature: min_temp: 10, max_temp: 34

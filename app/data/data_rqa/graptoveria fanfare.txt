@@ -1,0 +1,15 @@
+names:
+graptoveria fanfare, Sedeveria (XSedeveria 'Fanfare'), Sedeveria
+
+characteristics:
+blooming: Succulent plants, sometimes flowers with a short period time
+color: Leaf color blue green，will turn pink red with adequate sunlight
+size: Diameter≥5cm，Height≥5cm
+
+caretaking:
+soil: Peat and akadama mixed in 3:1 ratio
+sunlight: Like sunlight, put in the scattered light in summer dormancy
+watering: Water thoroughly when soil surface is dry, reduce water during dormancy
+fertilization: Dilute fertilizers following instructions, apply once monthly in spring and autumn
+pruning: Remove old, diseased and dead leaves timely
+temperature: min_temp: 10, max_temp: 35

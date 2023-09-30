@@ -1,0 +1,15 @@
+names:
+kalanchoe 'passion hera', , 
+
+characteristics:
+blooming: Flowering period January-August, viewing period 3-4 weeks
+color: Flower color yellow
+size: Diameter ≥ 10 cm, height 10-50 cm
+
+caretaking:
+soil: 80% peat + 20% perlite
+sunlight: Likes sunshine, shade properly under summer strong light, may take about 4-6 hours sunlight every day
+watering: Resistant to drought, water thoroughly every 4-5 days in summer, water thoroughly every 8-10 days in winter
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove diseased, yellowing and dropping leaves, pinching 1-2 times, germinate more branched
+temperature: min_temp: 10, max_temp: 32

@@ -1,0 +1,15 @@
+names:
+sedum lineare, Needle Stonecrop (Sedum lineare), Carpet Sedum (Sedum lineare 'Variegatum'), Stonecrop (Sedum lineare 'Sea Urchin'), Needle Stonecrop (Sedum lineare 'Golden Teardrop'), Needle Stonecrop
+
+characteristics:
+blooming: Succulent plants, sometimes flowers, yellow flowers
+color: Leaf color emerald green, with a great diurnal temperature range, with adequate sunlight turning to golden yellow
+size: Diameter ≥ 3 cm, height ≥ 5 cm
+
+caretaking:
+soil: No strict requirements on the soil
+sunlight: Like sunshine, not fear of strong light, dormant in winter under low temperatures
+watering: Water thoroughly when soil is dry, reduce watering in winter
+fertilization: Require litter fertilization, dilute fertilizers following instructions, in spring to autumn apply 1-2 times monthly
+pruning: Remove dead and rotten part timely
+temperature: min_temp: 5, max_temp: 35

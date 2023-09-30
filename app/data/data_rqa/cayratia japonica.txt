@@ -1,0 +1,15 @@
+names:
+cayratia japonica, , 
+
+characteristics:
+blooming: Foliage plants, sometimes open light yellow flowers
+color: Leaf color green
+size: Diameter≥10cm，Height≥10cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Resistant to shade, like scattered light
+watering: Likes wet environments, water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply once monthly in spring and autumn
+pruning: Remove old, diseased and dead leaves timely
+temperature: min_temp: 8, max_temp: 35

@@ -1,0 +1,15 @@
+names:
+vigna unguiculata, Southern Peas (Vigna unguiculata), Vigna unguiculata subsp. mensensis, Yardlong Bean (Vigna unguiculata subspecies sesquipedalis 'Orient Extra Long'), Yardlong Bean (Vigna unguiculata subspecies sesquipedalis 'Orient Wonder'), Vigna unguiculata subsp. stenophylla, Catjang (Vigna unguiculata subsp. cylindrica), Cow Pea (Vigna unguiculata 'Whippoorwill'), Cow Pea (Vigna unguiculata 'Blue Goose'), Cow Pea (Vigna unguiculata 'African'), Cow Pea (Vigna unguiculata 'Alston Purple Hull'), Cow Pea (Vigna unguiculata 'Bettergreen'), Cow Pea (Vigna unguiculata 'Bettergrow'), Cow Pea (Vigna unguiculata 'Bettersnap'), Cow Pea (Vigna unguiculata 'Bisbee Black'), Cow Pea (Vigna unguiculata 'Bisbee Red'), Cow Pea (Vigna unguiculata 'Black'), Cow Pea (Vigna unguiculata 'Black Crowder'), Cow Pea (Vigna unguiculata 'Blackeye'), Cow Pea (Vigna unguiculata 'Blue Fava'), Cow Pea (Vigna unguiculata 'Bohemian'), Southern Peas
+
+characteristics:
+blooming: Flowering period May-August, fruiting period July-October
+color: Flower color yellow white , fruit color yellow white, dark red
+size: Diameter ≥ 10 cm, can climb
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients, pH value 6-7
+sunlight: Grows in sunny places
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: No need to apply extra fertilizer before fruiting
+pruning: Remove aged tissues, dead, rotten, diseased leaves timely
+temperature: min_temp: 10, max_temp: 35

@@ -1,0 +1,15 @@
+names:
+dracaena fragrans 'lemon lime', Corn Plant (Dracaena fragrans 'Lemon Lime'), Corn Plant
+
+characteristics:
+blooming: Flowering period in spring and summer，fruit period August-September
+color: Flower color white
+size: Diameter≥15cm，Height≥25cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Planted in bright scattered light in summer, enjoy more light in spring and autumn
+watering: Resistant to drought, water thoroughly when soil surface is dry
+fertilization: Dilute fertilizers following instructions, apply once monthly in spring and autumn
+pruning: Remove flower stem, diseased and rotten leaves timely
+temperature: min_temp: 10, max_temp: 35

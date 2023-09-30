@@ -1,0 +1,15 @@
+names:
+telosma cordata, Pakalana Vine (Telosma cordata), Pakalana Vine
+
+characteristics:
+blooming: Flowering period May-August, rarely fruits
+color: Flower color yellow, leaf color green
+size: Diameter ≥ 10 cm, can climb
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like sunshine, grows in sunny places
+watering: Likes wet environments, water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 2-3 times monthly
+pruning: Remove aged tissues, dead, rotten, diseased leaves timely
+temperature: min_temp: 8, max_temp: 32

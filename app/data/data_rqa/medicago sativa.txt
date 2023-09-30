@@ -1,0 +1,15 @@
+names:
+medicago sativa, Alfalfa (Medicago sativa), Medicago sativa subsp. sativa, Medicago sativa subsp. falcata, Medicago sativa subsp. glomerata, Medicago sativa subsp. caerulea, Medicago sativa subsp. microcarpa, Medicago sativa subsp. ambigua, Medicago sativa subsp. varia, Alfalfa (Medicago sativa 'DKA43-22RR'), Alfalfa (Medicago sativa 'DKA44-16RR'), Alfalfa (Medicago sativa 'DKA50-18'), Alfalfa (Medicago sativa 'DKA50-20RR'), Alfalfa (Medicago sativa 'DKA43-13'), Alfalfa (Medicago sativa 'DKA42-15'), Alfalfa (Medicago sativa 'DKA40-16'), Alfalfa (Medicago sativa 'DKA40-51RR'), Alfalfa (Medicago sativa 'DKA41-18RR'), Alfalfa (Medicago sativa 'DKA34-17RR'), Alfalfa (Medicago sativa 'Ameristand 403T Plus'), Alfalfa (Medicago sativa 'Ameristand 407TQ'), Alfalfa
+
+characteristics:
+blooming: Flowering period5-7月，fruit period6-8月
+color: Flower color purple
+size: Diameter≥10cm
+
+caretaking:
+soil: Loose, fertile, and well-drained loam soil
+sunlight: Enjoy sunlight, planted in sufficient sunlight
+watering: Water thoroughly when soil surface is dry
+fertilization: Dilute fertilizers following instructions, apply once monthly in spring and autumn
+pruning: Remove flower stem, diseased and rotten leaves timely
+temperature: min_temp: 5, max_temp: 35

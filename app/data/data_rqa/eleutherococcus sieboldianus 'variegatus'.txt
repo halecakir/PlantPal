@@ -1,0 +1,15 @@
+names:
+eleutherococcus sieboldianus 'variegatus', Aralia (Eleutherococcus sieboldianus 'Variegatus'), Aralia
+
+characteristics:
+blooming: Flowering period July-August
+color: Flower color white, light yellow, fruit color black
+size: Diameter ≥ 20 cm, height 20-30 cm
+
+caretaking:
+soil: Soil with rich organic matter and strong abilities of holding water and fertility
+sunlight: Like half shade, may grow in places with bright scattered light
+watering: Watering only when soil is dry, water thoroughly
+fertilization: Apply enough base fertilizers
+pruning: Remove dead and diseased branches timely
+temperature: min_temp: 8, max_temp: 32

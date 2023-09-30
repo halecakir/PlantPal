@@ -1,0 +1,15 @@
+names:
+aristolochia gigantea, Giant Dutchman's Pipe (Aristolochia gigantea), Dutchman's Pipe (Aristolochia gigantea 'Brasiliensis'), Giant Dutchman's Pipe
+
+characteristics:
+blooming: Flowering period July-August, fruiting period September-October
+color: Flower color purple or red brown
+size: Diameter ≥ 20 cm, height 20-30 cm
+
+caretaking:
+soil: Likes sandy yellow soil
+sunlight: Like sunshine, slight shade tolerance
+watering: No need watering frequently
+fertilization: Atop-dressing nitrogen at the flowering stage twice, add phosphorus and potassium in middle to late August
+pruning: Remove excessively grown vines that have no flower buds
+temperature: min_temp: 10, max_temp: 35

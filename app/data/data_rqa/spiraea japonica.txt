@@ -1,0 +1,15 @@
+names:
+spiraea japonica, Japanese Spiraea (Spiraea japonica), Spiraea nanojaponica, Japanese Spiraea (Spiraea japonica 'Crispa'), Japanese Spirea (Spiraea japonica 'Froebelii'), Japanese Spirea (Spiraea japonica Golden Elf®), Japanese Spirea (Spiraea japonica 'Goldflame'), Japanese Spirea (Spiraea japonica 'Lemon Princess'), Japanese Spiraea (Spiraea japonica Limemound®), Japanese Spirea (Spiraea japonica 'Lisp'), Japanese Spirea (Spiraea japonica 'Little Princess'), Japanese Spirea (Spiraea japonica 'Nana'), Japanese Spirea (Spiraea japonica 'Norman'), Japanese Spirea (Spiraea japonica 'White Gold'), Japanese Spirea (Spiraea japonica 'Alpina'), Japanese Spirea (Spiraea japonica 'Candlelight'), Japanese Spirea (Spiraea japonica 'Everblooming'), Japanese Spirea (Spiraea japonica 'Dolchica'), Japanese Spirea (Spiraea japonica 'Magic Carpet'), Japanese Spirea (Spiraea japonica 'Shirobana'), Japanese Spirea (Spiraea japonica 'Shibori'), Japanese Spiraea
+
+characteristics:
+blooming: September-November flowering period, viewing period 3-4 weeks
+color: Flower color pink
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Likes sunshine, avoid strong direct light
+watering: Keep soil moist, water and drain timely
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: After flowering remove the withered flowers, the part on the ground will wither in winter, the plant germinates again in spring
+temperature: min_temp: 8, max_temp: 32

@@ -1,0 +1,15 @@
+names:
+pulsatilla vulgaris, Pasque Flower (Pulsatilla vulgaris), Pasque Flower (Pulsatilla grandis subsp. grandis), Pasque Flower (Pulsatilla vulgaris 'Rote Glocke'), Pasque Flower (Pulsatilla vulgaris 'Rubra'), Pasque Flower (Pulsatilla vulgaris 'Papageno'), Pasque Flower (Pulsatilla vulgaris 'Eve Constance'), Pasque Flower (Pulsatilla vulgaris 'Rosea'), Pasque Flower (Pulsatilla vulgaris 'Alba'), Pasque Flower (Pulsatilla vulgaris 'Heiler Hybrids'), Pasque Flower (Pulsatilla vulgaris 'Watermelon Pink'), Pasque Flower (Pulsatilla vulgaris 'Perlen Glocke'), Pulsatilla vulgaris 'Burnby Hall', Pasque Flower (Pulsatilla vulgaris 'Weisse Schwan'), Rose Bells (Pulsatilla vulgaris 'Rosen Glocke'), Pulsatilla vulgaris 'Elegans', Pasque Flower
+
+characteristics:
+blooming: Flowering period April-May
+color: Flower color blue purple
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Like half shade, may grow in places with bright scattered light
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Need more fertilization, dilute fertilizers following instructions, apply 2-3 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 10, max_temp: 32

@@ -1,0 +1,15 @@
+names:
+lavandula stoechas 'alba', Spanish Lavender (Lavandula stoechas), Lavender (Lavandula stoechas subsp. stoechas 'Liberty'), French Lavender (Lavandula stoechas subsp. stoechas), French Lavender (UK) (Lavandula stoechas 'Kew Red'), Spanish Lavender (US) (Lavandula stoechas 'Otto Quast'), French Lavender (UK) (Lavandula stoechas 'Madrid Pink'), French Lavender (UK) (Lavandula stoechas 'Blue Star'), Spanish Lavender (US) (Lavandula stoechas 'Fairy Wings'), Spanish Lavender (Lavandula pedunculata 'Pukehou'), Spanish Lavender (Lavandula pedunculata 'James Compton'), Spanish Lavender (Lavandula pedunculata), French Lavender (UK) (Lavandula stoechas Bella® Purple), French Lavender (UK) (Lavandula stoechas 'Bella Pink'), French Lavender (UK) (Lavandula stoechas Bella® Rose), French Lavender (UK) (Lavandula stoechas 'Winter Bee'), Spanish Lavender (Lavandula pedunculata 'Fragrant Butterflies'), French Lavender (UK) (Lavandula stoechas 'Madrid Blue'), French Lavender (UK) (Lavandula stoechas 'Madrid Purple'), French Lavender (UK) (Lavandula stoechas 'Alexandra'), French Lavender (UK) (Lavandula stoechas 'Big Butterfly'), Spanish Lavender
+
+characteristics:
+blooming: Vanilla plants, flowering period June-August
+color: Flower color blue, purple, pink
+size: Diameter ≥ 10 cm, height ≥ 10 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Long-day plant, like sunshine
+watering: Resistant to drought, water thoroughly when soil is dry
+fertilization: Dilute fertilizers following instructions, apply once monthly before flower budding
+pruning: Remove old diseased and dead leaves timely
+temperature: min_temp: 5, max_temp: 35

@@ -1,0 +1,15 @@
+names:
+fragaria moschata, Hautbois Strawberry (Fragaria moschata), Musk Strawberry (Fragaria moschata 'Rosea'), Musk Strawberry (Fragaria moschata 'Capron'), Musk Strawberry (Fragaria moschata 'Profumata di Tortona'), Hautbois Strawberry
+
+characteristics:
+blooming: Fruit plants, flowering period April-May, fruiting period June-July
+color: Flower color white, fruit color red
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Fruits in high quality with adequate sunshine
+watering: Need a lot of water, water thoroughly when soil is dry
+fertilization: Dilute fertilizers following instructions, apply once every 7-10 days in the growing stage
+pruning: Remove creeping stem, old and disease leaves timely
+temperature: min_temp: 8, max_temp: 32

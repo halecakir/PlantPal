@@ -1,0 +1,15 @@
+names:
+triticum aestivum, Bread Wheat (Triticum aestivum), Triticum aestivum subsp. aestivum, Wheat (Triticum aestivum subsp. aestivum 'Sy Gold'), Wheat (Triticum aestivum subsp. aestivum 'Sy Southwind'), Wheat (Triticum aestivum subsp. aestivum 'Sy Wolf'), Club Wheat (Triticum aestivum subsp. compactum), Makha Wheat (Triticum aestivum subsp. macha), Shot Wheat (Triticum aestivum subsp. sphaerococcum), Wheat (Triticum aestivum 'Plainsman V'), Wheat (Triticum aestivum 'Pony'), Wheat (Triticum aestivum 'ProBrand 830'), Wheat (Triticum aestivum 'Quantum 561'), Wheat (Triticum aestivum 'Quantum 562'), Wheat (Triticum aestivum 'Quantum 574'), Wheat (Triticum aestivum 'Quantum 577'), Wheat (Triticum aestivum 'Quantum 578'), Wheat (Triticum aestivum 'Quantum 588a'), Wheat (Triticum aestivum 'Quantum 589'), Wheat (Triticum aestivum 'T67'), Wheat (Triticum aestivum 'T81'), Bread Wheat
+
+characteristics:
+blooming: Crops, harvest time June-September
+color: Flower color yellow white
+size: Diameter≥15cm，Height≥25cm
+
+caretaking:
+soil: Loose, fertile, and well-drained loam soil
+sunlight: Long day plant, planted in sufficient sunlight
+watering: Water thoroughly when soil surface is dry
+fertilization: Dilute fertilizers following instructions, apply once monthly in spring and autumn
+pruning: Remove flower stem, diseased and rotten leaves timely
+temperature: min_temp: 8, max_temp: 35

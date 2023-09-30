@@ -1,0 +1,15 @@
+names:
+lilium lancifolium, , NONE
+
+characteristics:
+blooming: Flowering period July-August, fruiting period September-October
+color: Flower color orange, dotted with purple black, fruit color purple black
+size: height about 3.5 cm, diameter 4-8 cm
+
+caretaking:
+soil: Deep fertile humus-rich soil
+sunlight: Likes cool and wet places with adequate sunlight, may shade slightly
+watering: Only need keep soil moist
+fertilization: Once every 10-15 days
+pruning: Remove old, diseased and dead leaves timely, after flowering remove the upper part staring from 5 cm above soil surface, leaving 3-5 leaves
+temperature: min_temp: 8, max_temp: 35

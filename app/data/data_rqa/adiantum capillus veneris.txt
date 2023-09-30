@@ -1,0 +1,15 @@
+names:
+adiantum capillus veneris, Southern Maidenhair Fern (Adiantum capillus-veneris 'Fimbriatum'), Southern Maidenhair Fern (Adiantum capillus-veneris 'Imbricatum'), Maidenhair Fern (Adiantum capillus-veneris 'Banksianum'), Adiantum capillus-veneris 'Cornubiense', Southern Maidenhair Fern (Adiantum capillus-veneris 'Bermuda Run'), Southern Maidenhair Fern (Adiantum capillus-veneris), Southern Maidenhair Fern
+
+characteristics:
+blooming: Foliage plants, viewing period year around
+color: Leaf color emerald green
+size: Diameter ≥ 15 cm, height ≥ 25 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Like cool and shade environments, put in places with scattered light
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead, rotten, diseased leaves timely
+temperature: min_temp: 10, max_temp: 32

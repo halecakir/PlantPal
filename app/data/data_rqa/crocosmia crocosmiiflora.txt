@@ -1,0 +1,15 @@
+names:
+crocosmia crocosmiiflora, Crocosmia (Crocosmia × crocosmiiflora 'Comet'), Montbretia (Crocosmia × crocosmiiflora 'Jackanapes'), Crocosmia (Crocosmia × crocosmiiflora Twilight Fairy™ Gold), Montbretia (Crocosmia x crocosmiiflora 'Solfatare'), Crocosmia (Crocosmia x crocosmiiflora), Crocosmia (Crocosmia x crocosmiiflora 'PDB5'), Crocosmia (Crocosmia x crocosmiiflora 'Emily McKenzie'), Crocosmia (Crocosmia x crocosmiiflora 'Debutante'), Crocosmia (Crocosmia x crocosmiiflora 'Venus'), Crocosmia (Crocosmia x crocosmiiflora 'Golden Glory'), Crocosmia (Crocosmia x crocosmiiflora 'Canary Bird'), Crocosmia (Crocosmia x crocosmiiflora 'Columbus'), Crocosmia (Crocosmia x crocosmiiflora 'Toison d'Or'), Crocosmia (Crocosmia x crocosmiiflora 'Norwich Canary'), Crocosmia (Crocosmia x crocosmiiflora 'Honey Angels'), Crocosmia (Crocosmia x crocosmiiflora Morning Light), Crocosmia (Crocosmia x crocosmiiflora 'Voyager'), Crocosmia (Crocosmia x crocosmiiflora 'Lady Hamilton'), Crocosmia (Crocosmia x crocosmiiflora 'Prometheus'), Crocosmia (Crocosmia x crocosmiiflora 'Dusky Maiden'), Crocosmia
+
+characteristics:
+blooming: Flowering and fruiting periodJuly-October
+color: Flower color orange yellow
+size: Diameter ≥ 20 cm, height 20-30 cm
+
+caretaking:
+soil: Sandy loam
+sunlight: Like sunshine, resistant to half shade
+watering: Requires abundant soil moisture during the growing season
+fertilization: Top-dressing after emergence, flower budding, and flowering
+pruning: Remove dead and diseased branches timely
+temperature: min_temp: 8, max_temp: 32

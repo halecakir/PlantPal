@@ -1,0 +1,15 @@
+names:
+veronicastrum virginicum, Culver's Root (Veronicastrum virginicum), Culver's Root (Veronicastrum virginicum 'Album'), Culver's Root (Veronicastrum virginicum 'Apollo'), Culver's Root (Veronicastrum virginicum 'Fascination'), Culver's Root (Veronicastrum virginicum 'Spring Dew'), Culver's Root (Veronicastrum virginicum 'Temptation'), Culver's Root (Veronicastrum virginicum 'Alboroseum'), Veronicastrum virginicum f. villosum, Veronicastrum virginicum 'Pink Glow', Culver's Root (Veronicastrum virginicum 'Lavendelturm'), Culver's Root (Veronicastrum virginicum 'Erica'), Veronicastrum virginicum 'Red Arrow', Veronicastrum virginicum 'Adoration', Culver's Root (Veronicastrum virginicum 'Cupid'), Culver's Root (Veronicastrum virginicum 'Diane'), Culver's Root
+
+characteristics:
+blooming: Flowering period June-September, fruiting period October
+color: Flower color purple
+size: Diameter ≥ 20 cm, height ≥ 25 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, resistant to half shade
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 5, max_temp: 32

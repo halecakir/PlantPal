@@ -1,0 +1,15 @@
+names:
+mesembryanthemum cordifolium, , 
+
+characteristics:
+blooming: Flowering period April-October
+color: Flower color purple red
+size: Diameter≥10cm，Height≥10cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Likes sunshine, avoid strong light in summer noon
+watering: Likes wet environments, water thoroughly when soil is dry
+fertilization: Dilute fertilizers following instructions, apply once monthly
+pruning: Remove old, diseased and dead leaves timely
+temperature: min_temp: 8, max_temp: 35

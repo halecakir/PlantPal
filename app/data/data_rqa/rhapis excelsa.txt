@@ -1,0 +1,15 @@
+names:
+rhapis excelsa, Lady Palm (Rhapis excelsa), Lady Palm (Rhapis excelsa 'Koban Nishiki'), Lady Palm (Rhapis excelsa 'Zuikonishiki'), Broadleaf Lady Palm (Rhapis excelsa 'Taiwan'), Lady Palm
+
+characteristics:
+blooming: Flowering period April-May, fruiting period October-December
+color: Flower color light yellow, leaf color yellow green , green
+size: Diameter ≥ 15 cm, height ≥ 30 cm
+
+caretaking:
+soil: Acidic soil with loose texture or soil with specific nutrients
+sunlight: Like half shade, may grow in places with bright scattered light
+watering: Likes wet environments, water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Pruning accordingly for any favorate tree shapes
+temperature: min_temp: 5, max_temp: 32

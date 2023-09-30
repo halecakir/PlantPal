@@ -1,0 +1,15 @@
+names:
+chamaecyparis obtusa, Hinoki Cypress (Chamaecyparis obtusa), Hinoki Cypress (Chamaecyparis obtusa var. obtusa), Hinoki Cypress (Chamaecyparis obtusa 'Compact Fernspray'), Hinoki Cypress (Chamaecyparis obtusa 'Coralliformis'), Hinoki Cypress (Chamaecyparis obtusa 'Hage'), Hinoki Cypress (Chamaecyparis obtusa 'Verdon'), Hinoki False Cypress (Chamaecyparis obtusa 'Butterball'), Hinoki Cypress (Chamaecyparis obtusa 'Fernspray Gold'), Golden Dwarf Hinoki Cypress (Chamaecyparis obtusa 'Nana Lutea'), Hinoki Cypress (Chamaecyparis obtusa 'Saffron Spray'), Hinoki Cypress (Chamaecyparis obtusa 'Filicoides'), Hinoki False Cypress (Chamaecyparis obtusa 'Torulosa'), Hinoki Cypress (Chamaecyparis obtusa 'Golden Fern'), Hinoki Cypress (Chamaecyparis obtusa 'Aurea'), Hinoki Cypress (Chamaecyparis obtusa 'Blue Feathers'), Hinoki Cypress (Chamaecyparis obtusa 'Chabo Yadori'), Hinoki Cypress (Chamaecyparis obtusa 'Confucius'), Hinoki False Cypress (Chamaecyparis obtusa 'Contorta'), Hinoki Cypress (Chamaecyparis obtusa 'Kosteri'), Hinoki False Cypress (Chamaecyparis obtusa 'Lemon Twist'), Hinoki Cypress
+
+characteristics:
+blooming: Flowering period April, fruiting period October-November
+color: Flower color yellow, leaf color green , fruit color red brown
+size: Diameter ≥ 15 cm, height ≥ 25 cm
+
+caretaking:
+soil: Calcareous soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, grows in sunny places
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove and shape excessive branches
+temperature: min_temp: 5, max_temp: 35

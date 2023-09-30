@@ -1,0 +1,15 @@
+names:
+anemone coronaria, Poppy Anemone (Anemone coronaria), Grecian Windflower (Anemone coronaria 'Mr. Fokker'), Grecian Windflower (Anemone coronaria 'Sylphide'), Grecian Windflower (Anemone coronaria 'Bride'), Grecian Windflower (Anemone coronaria 'Lord Lieutenant'), Grecian Windflower (Anemone coronaria Mona Lisa® Deep Red), Grecian Windflower (Anemone coronaria 'The Admiral'), Grecian Windflower (Anemone coronaria 'Mount Everest'), Grecian Windflower (Anemone coronaria 'Harmony Blue'), Grecian Windflower (Anemone coronaria 'Saint Brigid Mix'), Grecian Windflower (Anemone coronaria 'Hollandia'), Poppy Anemone (Anemone coronaria 'The Governor'), De Caen Anemone (Anemone coronaria 'Monarch de Caen Mix'), Poppy Anemone (Anemone coronaria 'His Excellency'), Windflower (Anemone coronaria Mona Lisa® Mixture), Anemone coronaria 'Meron Bordeaux', Anemone coronaria 'Galil Rood', Anemone coronaria 'Galil Purper', Anemone coronaria 'Galil Blauw', Windflower (Anemone coronaria Mona Lisa® Deep Blue), Poppy Anemone
+
+characteristics:
+blooming: Flowering period April-July
+color: Flower color red, pink, orange, yellow, blue, purple, white or in mixture
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, grows in sunny places
+watering: Likes wet environments, water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead, rotten, diseased leaves timely
+temperature: min_temp: 8, max_temp: 32

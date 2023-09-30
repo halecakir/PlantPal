@@ -1,0 +1,15 @@
+names:
+lysimachia congestiflora, , 
+
+characteristics:
+blooming: Flowering period May-June；flowering period July-October
+color: Flower color yellow
+size: Diameter ≥ 20 cm, height 15-20 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like half shade, may grow in places with bright scattered light
+watering: Only need keep soil moist
+fertilization: Apply enough base fertilizers
+pruning: Remove old, diseased and dead leaves timely
+temperature: min_temp: 10, max_temp: 32

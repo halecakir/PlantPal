@@ -1,0 +1,15 @@
+names:
+ammi majus, False Queen Anne's Lace (Ammi majus), Bishop's Weed (Ammi procerum), Bishop's Weed (Ammi majus 'Queen of Africa'), Lady's Lace (Ammi majus 'Graceland'), False Queen Anne's Lace
+
+characteristics:
+blooming: Flowering period June, flowering period July-August
+color: Flower color white
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, resistant to half shade
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 10, max_temp: 35

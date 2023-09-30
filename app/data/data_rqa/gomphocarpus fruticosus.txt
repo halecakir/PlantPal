@@ -1,0 +1,15 @@
+names:
+gomphocarpus fruticosus, Swan Milkweed (Gomphocarpus fruticosus), Gomphocarpus fruticosus subsp. decipiens, Gomphocarpus fruticosus subsp. flavidus, Gomphocarpus fruticosus subsp. rostratus, Sabi' (Gomphocarpus fruticosus subsp. setosus), Gomphocarpus fruticosus subsp. fruticosus, Swan Milkweed
+
+characteristics:
+blooming: Flowering period October-March
+color: Flower color white to light yellow, fruit color yellow green
+size: Diameter ≥ 20 cm, height ≥ 20 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like sunshine, slight shade tolerance
+watering: Water thoroughly after soil surface dries
+fertilization: Fertilize onec to twice monthly in autumn and winter
+pruning: Remove withered flowers, diseased and yellowing leaves timely
+temperature: min_temp: 5, max_temp: 32

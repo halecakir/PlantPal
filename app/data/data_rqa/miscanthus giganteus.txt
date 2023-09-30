@@ -1,0 +1,15 @@
+names:
+miscanthus giganteus, Giant Chinese Silver Grass (Miscanthus x giganteus), Giant Chinese Silver Grass
+
+characteristics:
+blooming: Flowering periodJuly-December
+color: Flower color yellow green
+size: height 1-2 m
+
+caretaking:
+soil: Acidic soil
+sunlight: Put in places with adequate sunlight
+watering: Resistant to drought
+fertilization: No much requirement for fertilizers
+pruning: The ability of propagate is high, simply remove diseased leaves timely
+temperature: min_temp: 5, max_temp: 33

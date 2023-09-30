@@ -1,0 +1,15 @@
+names:
+euphorbia helioscopia, Mad Woman's Milk (Euphorbia helioscopia), Euphorbia (Euphorbia helioscopia subsp. helioscopia), Mad Woman's Milk
+
+characteristics:
+blooming: Flowering period April-May, fruiting period June-July
+color: Flower color yellow green
+size: Diameter ≥ 20 cm, height 20-30 cm
+
+caretaking:
+soil: Soil with rich organic matter and strong abilities of holding water and fertility
+sunlight: Like half shade, may grow in places with bright scattered light
+watering: Need a lot of water
+fertilization: Apply enough base fertilizers
+pruning: Remove central buds in growing season to promote branching
+temperature: min_temp: 8, max_temp: 32

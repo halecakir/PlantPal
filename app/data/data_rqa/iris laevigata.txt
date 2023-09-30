@@ -1,0 +1,15 @@
+names:
+iris laevigata, Species Iris (Iris laevigata), Species Iris (Iris laevigata 'Alba'), Species Iris (Iris laevigata 'Royal Cartwheel'), Iris (Iris laevigata 'Monstrosa'), Species Iris (Iris laevigata 'Mottled Beauty'), Species Iris (Iris laevigata 'Aizome-Gawa'), Species Iris (Iris laevigata 'Blues in Style'), Species Iris (Iris laevigata 'Finlay Cameron'), Species Iris (Iris laevigata 'Herald Blue'), Species Iris (Iris laevigata 'Klangor'), Species Iris (Iris laevigata 'Lakeside Ghost'), Species Iris (Iris laevigata 'Rowden Full Moon'), Species Iris (Iris laevigata 'Rowden Nimbus'), Species Iris (Iris laevigata 'Seiran'), Species Iris (Iris laevigata 'Shadow Halo'), Species Iris (Iris laevigata 'Shirasagi'), Species Iris (Iris laevigata 'Weymouth Midnight'), Species Iris (Iris laevigata 'Weymouth Surprise'), Species Iris (Iris laevigata 'Wychwood Surprise'), Species Iris (Iris laevigata 'Wyvern'), Species Iris
+
+characteristics:
+blooming: Flowering period May-June, flowering period July-August
+color: Flower color blue
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, resistant to half shade
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Need pruning frequently, remove sprouts from the roots and some branches and leaves timely
+temperature: min_temp: 8, max_temp: 35

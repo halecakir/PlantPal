@@ -1,0 +1,15 @@
+names:
+podocarpus macrophyllus, Buddhist Pine (Podocarpus macrophyllus), Buddhist Pine (Podocarpus macrophyllus var. maki), Podocarpus macrophyllus var. macrophyllus, Yew Plum Pine (Podocarpus macrophyllus  'Albovariegatus'), Yew Plum Pine (Podocarpus macrophyllus  'Angustifolius'), Yew Plum Pine (Podocarpus macrophyllus  'Argenteovariegatus'), Yew Plum Pine (Podocarpus macrophyllus  'Argenteus'), Yew Plum Pine (Podocarpus macrophyllus  'Aureovariegatus'), Yew Plum Pine (Podocarpus macrophyllus  'Aureus'), Yew Plum Pine (Podocarpus macrophyllus  'Hillier’s Compact'), Yew Plum Pine (Podocarpus macrophyllus  'Luteovariegatus'), Yew Plum Pine (Podocarpus macrophyllus  'Variegatus'), Buddhist Pine (Podocarpus macrophyllus Mood Ring®), Buddhist Pine (Podocarpus macrophyllus Roman Candle™), Buddhist Pine
+
+characteristics:
+blooming: Foliage plants, viewing period year around
+color: Young stem dark green, slightly covered with white powder, turning to yellow when old
+size: Diameter ≥ 15 cm, height ≥ 25 cm
+
+caretaking:
+soil: Slightly acidic sandy soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, strong resistant to shade
+watering: Likes wet environments, water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead, rotten, diseased leaves timely
+temperature: min_temp: 8, max_temp: 35

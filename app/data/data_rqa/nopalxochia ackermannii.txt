@@ -1,0 +1,15 @@
+names:
+nopalxochia ackermannii, Orchid Cactus (Disocactus ackermannii subsp. ackermannii), Orchid Cactus
+
+characteristics:
+blooming: Flowering period April-June
+color: Flower color purple red , red, pink, magenta, yellow, white, blue purple
+size: Diameter ≥ 15 cm, height ≥ 25 cm
+
+caretaking:
+soil: Slightly acidic soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, grows in sunny places, avoid summer direct strong light
+watering: Resistant to drought, water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead, rotten, diseased leaves timely
+temperature: min_temp: 8, max_temp: 35

@@ -1,0 +1,15 @@
+names:
+gleditsia sinensis, , 
+
+characteristics:
+blooming: Flowering period March-May, fruiting period May-December
+color: Flower color yellow white , fruit color brown, red brown
+size: Diameter ≥ 25 cm, height ≥ 30 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like sunshine, grows in sunny places, avoid summer direct strong light
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 10, max_temp: 30

@@ -1,0 +1,15 @@
+names:
+tropaeolum majus, Garden Nasturtiums (Tropaeolum majus), Indian Cress (Tropaeolum majus 'Crimson Emperor'), Nasturtium (Tropaeolum majus 'Copper Sunset'), Nasturtium (Tropaeolum majus 'Out of Africa'), Nasturtium (Tropaeolum majus 'Out of Africa Yellow'), Nasturtium (Tropaeolum majus 'Alaska Mixed'), Nasturtium (Tropaeolum majus 'Empress of India'), Nasturtium (Tropaeolum majus 'Tip Top Mahogany'), Nasturtium (Tropaeolum majus 'Strawberries & Cream'), Nasturtium (Tropaeolum majus 'Vesuvius'), Nasturtium (Tropaeolum majus 'Moonlight'), Nasturtium (Tropaeolum majus 'Double Gleam Mix'), Nasturtium (Tropaeolum majus 'Jewel of Africa'), Nasturtium (Tropaeolum majus 'Milkmaid'), Nasturtium (Tropaeolum majus 'Wina'), Dwarf Nasturtium (Tropaeolum majus 'Peach Melba'), Nasturtium (Tropaeolum majus 'Buttercream'), Nasturtium (Tropaeolum majus 'Tip Top Alaska Salmon'), Garden Nasturtium (Tropaeolum majus 'Golden Gleam'), Nasturtium (Tropaeolum majus 'Scarlet Gleam'), Garden Nasturtiums
+
+characteristics:
+blooming: Flowering period June-October, viewing period 1-2 weeks
+color: Flower color yellow, orange red, orange
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like adequate light, properly shade under strong light in summer
+watering: Water thoroughly after soil surface dries
+fertilization: Dilute fertilizers following instructions, dilute fertilizers following instructions,  in early summer, spring and autumn apply fertilizers once monthly
+pruning: Remove withered flowers, old, diseased, and dead leaves timely
+temperature: min_temp: 8, max_temp: 35

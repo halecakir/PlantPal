@@ -1,0 +1,15 @@
+names:
+michelia alba, , 
+
+characteristics:
+blooming: Flowering period April-September, viewing period 3-4 weeks
+color: Flower color white
+size: Diameter ≥ 10 cm, height 5-17m
+
+caretaking:
+soil: Slight acid soil
+sunlight: Likes warm sunlight, avoid direct strong light in summer
+watering: Water thoroughly when soil is dry, reduce watering in winter
+fertilization: Dilute fertilizers following instructions,  apply 1-2 times monthly in spring
+pruning: Remove old, diseased and dead leaves timely
+temperature: min_temp: 5, max_temp: 35

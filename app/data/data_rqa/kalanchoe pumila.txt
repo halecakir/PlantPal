@@ -1,0 +1,15 @@
+names:
+kalanchoe pumila, Flower Dust Plant (Kalanchoe pumila), Kalanchoe (Kalanchoe pumila 'Rubra'), Flower Dust Plant (Kalanchoe pumila 'Silver Gray'), Flower Dust Plant
+
+characteristics:
+blooming: Succulent plants, sometimes flowers
+color: Leaf color silver gray, flower color pink
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, resistant to half shade
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 5, max_temp: 35

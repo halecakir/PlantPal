@@ -1,0 +1,15 @@
+names:
+hemerocallis middendorffii, Daylily (Hemerocallis middendorffii), Daylily (Hemerocallis esculenta), Daylily (Hemerocallis middendorffii var. exaltata), Daylily (Hemerocallis middendorffii var. longibracteata), Daylily (Hemerocallis middendorffii var. middendorfii), Daylily (Hemerocallis 'Middendorffii'), Daylily
+
+characteristics:
+blooming: Flowering period May-July, viewing period 2-3 weeks
+color: Flower color red, pink, yellow
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like sunshine, resistant to half shade
+watering: Water thoroughly when soil is dry
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly in spring and autumn
+pruning: Remove withered flowers, old, diseased, and dead leaves timely
+temperature: min_temp: 8, max_temp: 35

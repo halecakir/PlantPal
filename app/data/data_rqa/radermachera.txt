@@ -1,0 +1,15 @@
+names:
+radermachera, China Doll (Radermachera sinica), Dwarf Tree Jasmine (Radermachera 'Kunming'), China Doll (Radermachera yunnanensis), Tree Jasmine (Radermachera ignea), China Doll (Radermachera sinica 'Crystal Doll'), Radermachera eberhardtii, Radermachera ghonta, Radermachera frondosa, Radermachera quadripinnata, Radermachera glandulosa, Radermachera quadripinnata subsp. lobbii, Radermachera inflata, Radermachera quadripinnata subsp. quadripinnata, Radermachera microcalyx, Radermachera pentandra, Radermachera pinnata, Radermachera ramiflora, Radermachera stellata, Padri Tree (Radermachera xylocarpa), Pedali (Radermachera gigantea), China Doll
+
+characteristics:
+blooming: Foliage plants, rarely flowers
+color: Leaf color green
+size: Diameter ≥ 15 cm, height ≥ 25 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Likes half shade, may take 2-3h moderate sunlight
+watering: Likes wet environments, water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 5, max_temp: 32

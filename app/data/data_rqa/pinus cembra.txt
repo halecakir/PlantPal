@@ -1,0 +1,15 @@
+names:
+pinus cembra, Swiss Stone Pine (Pinus cembra), Swiss Stone Pine (Pinus cembra 'Blue Mound'), Swiss Stone Pine (Pinus cembra 'Compacta'), Swiss Stone Pine (Pinus cembra 'Pygmaea'), Dwarf Swiss Stone Pine (Pinus cembra 'Nana'), Swiss Pine or Arolla Pine (Pinus cembra 'Silver Sheen'), Swiss Stone Pine (Pinus cembra 'Chalet'), Swiss Stone Pine (Pinus cembra 'Compacta Glauca'), Swiss Stone Pine (Pinus cembra 'Glauca Nana'), Swiss Stone Pine (Pinus cembra 'Alba'), Swiss Stone Pine (Pinus cembra 'Algonquin Pillar'), Swiss Stone Pine (Pinus cembra 'Argentea'), Swiss Stone Pine (Pinus cembra 'Aurea'), Swiss Stone Pine (Pinus cembra 'Aureovariegata'), Swiss Stone Pine (Pinus cembra 'Austria Mountain'), Swiss Stone Pine (Pinus cembra 'Barnhourie'), Swiss Stone Pine (Pinus cembra 'Bennett Dwarf'), Swiss Stone Pine (Pinus cembra 'Bergkönig'), Swiss Stone Pine (Pinus cembra 'Big Blue'), Swiss Stone Pine (Pinus cembra 'Big Blue WB'), Swiss Stone Pine
+
+characteristics:
+blooming: Foliage plants, flowering period April-May
+color: Leaf needle shape, green, fruit color from green or purple gradually turn to yellow, ale brown or dark brown
+size: Diameter ≥ 15 cm, height ≥ 25 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like sunshine, grows in sunny places
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove dead, rotten, diseased leaves and the parts that may affect the good appearance
+temperature: min_temp: 5, max_temp: 35

@@ -1,0 +1,15 @@
+names:
+ceropegia woodii, String of Hearts (Ceropegia woodii), String of Hearts (Ceropegia woodii 'Variegata'), String of Hearts (Ceropegia woodii 'Pink Edge'), String of Hearts (Ceropegia woodii 'Orange River'), String Of Hearts (Ceropegia woodii 'Silver Glory'), String of Spades (Ceropegia woodii 'Heartless'), Ceropegia woodiana, Ceropegia horwoodii, String of Hearts
+
+characteristics:
+blooming: Succulent plants, sometimes flowers, red brown flowers
+color: Leaf color purple red
+size: Diameter ≥ 2 cm, height ≥ 5 cm
+
+caretaking:
+soil: Peat and akadama mixed in 3:1 ratio
+sunlight: Like half shade, put in places with scattered light, avoid strong direct light
+watering: Resistant to drought, water thoroughly when leaves become soft, reduce watering in summer
+fertilization: Dilute fertilizers following instructions,  apply once every 1-2 months in spring and autumn
+pruning: Remove dead and rotten part timely
+temperature: min_temp: 8, max_temp: 35

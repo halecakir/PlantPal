@@ -1,0 +1,15 @@
+names:
+camellia spp., , NONE
+
+characteristics:
+blooming: Flowering period October-May, viewing period 3-4 weeks
+color: Flower color red, yellow, white, pink
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Likes acidic soil, peat or soil with specific nutrients
+sunlight: Like half shade, put in places with moderate light in spring and autumn, full sunlight in winter
+watering: Not resistant to drought, water thoroughly when soil is dry
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly in spring and autumn, except flowering stages
+pruning: Remove dead and yellowish leaves and withered flowers
+temperature: min_temp: 6, max_temp: 35

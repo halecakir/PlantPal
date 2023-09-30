@@ -1,0 +1,15 @@
+names:
+ilex serrata, Japanese Winterberry (Ilex serrata), Japanese Winterberry (Ilex serrata 'Koshobai'), Japanese Winterberry (Ilex serrata 'Sundrops'), Japanese Winterberry (Ilex serrata 'Longwood Firefall'), Japanese Winterberry
+
+characteristics:
+blooming: Flowering period May, fruiting period October
+color: Flower color white, fruit color red
+size: Diameter ≥ 20 cm, height 20-30 cm
+
+caretaking:
+soil: Likes loose and fertile soil
+sunlight: Like sunshine, resistant to half shade
+watering: Keep soil moist
+fertilization: Apply enough base fertilizers
+pruning: Remove dead and diseased branches timely
+temperature: min_temp: 8, max_temp: 35

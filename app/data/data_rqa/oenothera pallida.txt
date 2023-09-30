@@ -1,0 +1,15 @@
+names:
+oenothera pallida, White Evening Primrose (Oenothera pallida), Oenothera pallida subsp. pallida, Mountain Evening Primrose (Oenothera pallida subsp. latifolia), White Buttercup (Oenothera pallida 'Innocence'), Oenothera pallida subsp. trichocalyx, Evening Primrose (Oenothera pallida subsp. runcinata), White Evening Primrose
+
+characteristics:
+blooming: Flowering and fruiting period June-September
+color: Flower color white, fruit color green
+size: Diameter ≥ 10 cm, height 15-20 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like sunshine
+watering: Only need keep soil moist
+fertilization: Apply enough base fertilizers
+pruning: Remove old, diseased and dead leaves timely
+temperature: min_temp: 8, max_temp: 32

@@ -1,0 +1,15 @@
+names:
+cerastium tomentosum, Snow-in-Summer (Cerastium tomentosum), Snow-in-Summer (Cerastium tomentosum 'Yo Yo'), Snow-In-Summer (Cerastium tomentosum 'Columnae'), Snow-In-Summer (Cerastium tomentosum 'Silver Carpet'), Mouse-Ear Chickweed (Cerastium tomentosum 'Silver Chiffon'), Starry Grasswort (Cerastium tomentosum 'Olympia'), Snow-in-Summer
+
+characteristics:
+blooming: Flowering period May-August, flowering period July-September
+color: Flower color white
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Likes sunshine, put in sunny places, avoid strong sunlight in summer at noon
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 5, max_temp: 32

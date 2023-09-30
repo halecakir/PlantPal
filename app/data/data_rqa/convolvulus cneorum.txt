@@ -1,0 +1,15 @@
+names:
+convolvulus cneorum, , 
+
+characteristics:
+blooming: Flowering period May-July, fruiting period July-August
+color: Flower color light red, white
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Put in warm places with scattered light
+watering: Keep soil moist
+fertilization: Apply enough base fertilizers
+pruning: Remove old, diseased and dead leaves timely
+temperature: min_temp: 8, max_temp: 32

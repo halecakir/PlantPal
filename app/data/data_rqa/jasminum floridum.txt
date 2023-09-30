@@ -1,0 +1,15 @@
+names:
+jasminum floridum, Showy Jasmine (Chrysojasminum floridum), Showy Jasmine
+
+characteristics:
+blooming: Flowering period May-September, fruiting period September-October
+color: Flower color yellow
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Likes sunshine, put in sunny places, avoid strong sunlight in summer at noon
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Need more fertilization, dilute fertilizers following instructions, apply 2-3 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 8, max_temp: 35

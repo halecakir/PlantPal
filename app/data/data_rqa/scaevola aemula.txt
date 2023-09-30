@@ -1,0 +1,15 @@
+names:
+scaevola aemula, , 
+
+characteristics:
+blooming: Flowering period March-August
+color: Leaf color green , red brown, flower color blue purple
+size: Diameter ≥ 20 cm, height 15-25 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like adequate light, resistant to half shade
+watering: Water thoroughly when soil is dry
+fertilization: Apply 1-2 times monthly in spring
+pruning: Remove withered flowers, diseased and yellowing leaves timely
+temperature: min_temp: 5, max_temp: 35

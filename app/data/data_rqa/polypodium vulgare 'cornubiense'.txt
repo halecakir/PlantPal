@@ -1,0 +1,15 @@
+names:
+polypodium vulgare 'cornubiense', Common Polypody (Polypodium vulgare), Polypodium vulgare subsp. vulgare, Polypodium vulgare var. eatonii, Crested English Wall Fern (Polypodium vulgare 'Imbricatum'), Polypodium vulgare subsp. melitense, Polypodium vulgare 'Uulong Island', Common Polypody
+
+characteristics:
+blooming: Fern plants, no flowering
+color: Leaf color green
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like shade environments, put in cool and ventilated places
+watering: Keep soil moist
+fertilization: Apply enough base fertilizers
+pruning: Remove old, diseased and dead leaves timely
+temperature: min_temp: 8, max_temp: 32

@@ -1,0 +1,15 @@
+names:
+berberis thunbergii, , NONE
+
+characteristics:
+blooming: Flowering period in spring, fruiting period in autumn
+color: Flower color yellow, fruit color red
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Like half shade, may grow in places with bright scattered light
+watering: Resistant to drought, water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove dead, rotten, diseased leaves and the parts that may affect the good appearance
+temperature: min_temp: 5, max_temp: 32

@@ -1,0 +1,15 @@
+names:
+tagetes patula, African Marigold (Tagetes erecta), French Marigold (Tagetes erecta 'Striped Marvel'), French Marigold (Tagetes erecta 'Mr. Majestic'), French Marigold (Tagetes erecta 'Harlequin'), French Marigold (Tagetes erecta 'Lemon Drop'), French Marigold (Tagetes erecta 'Disco Granada'), French Marigold (Tagetes erecta 'Harmony'), French Marigold (Tagetes erecta 'Janie Primrose'), French Marigold (Tagetes erecta 'Honeycomb'), French Marigold (Tagetes erecta 'Naughty Marietta'), French Marigold (Tagetes erecta 'Aurora Yellow Fire'), French Marigold (Tagetes erecta 'Boy O'Boy'), French Marigold (Tagetes erecta 'Aurora Mix'), French Marigold (Tagetes erecta 'Happy Days Mix'), French Marigold (Tagetes erecta 'Golden Guardian'), French Marigold (Tagetes erecta 'Jolly Jester'), French Marigold (Tagetes erecta 'Bonanza Orange'), French Marigold (Tagetes erecta 'Bonanza Yellow'), French Marigold (Tagetes erecta 'Bonanza Bolero'), French Marigold (Tagetes erecta 'Dwarf Bonanza Blend'), African Marigold
+
+characteristics:
+blooming: Flowering period July-September
+color: Flower color golden yellow, orange
+size: Diameter ≥ 10 cm, height 15-20 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Put in warm places with scattered light
+watering: Water only when soil is dry
+fertilization: Top-dressing monthly in vegetative stages
+pruning: Remove old, diseased and dead leaves timely
+temperature: min_temp: 5, max_temp: 32

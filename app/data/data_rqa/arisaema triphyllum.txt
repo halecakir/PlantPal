@@ -1,0 +1,15 @@
+names:
+arisaema triphyllum, Jack in the Pulpit (Arisaema triphyllum), Jack in the Pulpit (Arisaema quinatum), Jack-in-the-Pulpit (Arisaema triphyllum 'Starburst'), Jack in the Pulpit (Arisaema pusillum), Jack in the Pulpit (Arisaema stewardsonii), Jack in the Pulpit
+
+characteristics:
+blooming: Flowering period June-July, fruiting period September-November
+color: Flower color white, fruit color orange red
+size: Diameter ≥ 15 cm, height ≥ 25 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like half shade, may grow in places with bright scattered light
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 2-3 times monthly
+pruning: Remove dead, rotten, diseased leaves and the parts that may affect the good appearance
+temperature: min_temp: 5, max_temp: 32

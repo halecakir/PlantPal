@@ -1,0 +1,15 @@
+names:
+acer campestre, Field Maple (Acer campestre), Hedge Maple (Acer campestre 'Postelense'), Hedge Maple (Acer campestre 'Carnival'), Hedge Maple (Acer campestre 'Royal Ruby'), Hedge Maple (Acer campestre 'Compactum'), Weeping Hedge Maple (Acer campestre 'Eastleigh Weeping'), Hedge Maple (Acer campestre Queen Elizabeth®), Hedge Maple (Acer campestre 'Schwerinii'), Hedge Maple (Acer campestre subsp. campestre), Marsican Maple (Acer campestre subsp. marsicum), Hedge Maple (Acer campestre First Editions® Jade Patina™), Acer campestre 'Silver Celebration', Acer campestre 'Red Noses', Field Maple (Acer campestre 'Louisa Red Shine'), Field Maple (Acer campestre 'William Caldwell'), Acer campestre 'Evenley Red', Hedge Maple (Acer campestre Metro Gold®), Hedge Maple (Acer campestre Streetside®), Hedge Maple (Acer campestre subsp. campestre St. Gregory®), Hedge Maple (Acer campestre 'Elsrijk'), Field Maple
+
+characteristics:
+blooming: Flowering period April, fruiting period August
+color: Flower color yellow green, fruit color yellow brown, leaf color turn to yellow from green in autumn
+size: Diameter ≥ 25 cm, height ≥ 30 cm
+
+caretaking:
+soil: Acidic soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, grows in sunny places, avoid summer direct strong light
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 5, max_temp: 35

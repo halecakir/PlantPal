@@ -1,0 +1,15 @@
+names:
+sedum spurium, Two-Row Stonecrop (Phedimus spurius 'Green Mantle'), Sedum (Phedimus spurius 'Tricolor'), Two-Row Stonecrop (Phedimus spurius 'Ruby Mantle'), Two-Row Stonecrop (Phedimus spurius 'John Creech'), Two-Row Stonecrop (Phedimus spurius 'Schorbuser Blut'), Two-Row Stonecrop (Phedimus spurius 'Voodoo'), Sedum (Phedimus spurius 'Fuldaglut'), Two-row Stonecrop (Phedimus spurius 'Bronze Carpet'), Two-Row Stonecrop (Phedimus spurius 'Elizabeth'), Caucasian Stonecrop (Phedimus spurius), Two-Row Stonecrop (Phedimus spurius 'Raspberry Red'), Two-Row Stonecrop (Phedimus spurius 'Summer Glory'), Two-Row Stonecrop (Phedimus spurius 'Purpurteppich'), Two-Row Stonecrop (Phedimus spurius Cherry Blush®), Two-Row Stonecrop (Phedimus spurius 'Pink Jewel'), Two-Row Stonecrop (Phedimus spurius 'Fool's Gold'), Two-Row Stonecrop (Phedimus spurius Dark Dragon®), Two-Row Stonecrop (Phedimus spurius 'Royal Pink'), Two-Row Stonecrop (Phedimus spurius 'Erdblut'), Two-Row Stonecrop (Phedimus spurius 'Red Rock'), Two-Row Stonecrop
+
+characteristics:
+blooming: Succulent plants, sometimes flowers, rose red flowers
+color: Leaf color green, when sunny leaf color turning to dark red
+size: Diameter ≥ 2 cm, height ≥ 5 cm
+
+caretaking:
+soil: Peat and akadama mixed in 3:1 ratio
+sunlight: Like sunshine, no apparent period of dormancy
+watering: Water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply once monthly
+pruning: Remove dead and rotten part timely
+temperature: min_temp: 5, max_temp: 35

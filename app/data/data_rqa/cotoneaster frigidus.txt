@@ -1,0 +1,15 @@
+names:
+cotoneaster frigidus, Himalayan Tree Cotoneaster (Cotoneaster frigidus), Cotoneaster frigidus 'Vicaryi', Himalayan Tree Cotoneaster
+
+characteristics:
+blooming: Flowering period April-June
+color: Flower color white, pink, red
+size: Diameter ≥ 15 cm, height ≥ 25 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like sunshine, grows in sunny places, slight shade tolerance
+watering: Resistant to drought, water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Pruning accordingly for any favorate tree shapes
+temperature: min_temp: 5, max_temp: 35

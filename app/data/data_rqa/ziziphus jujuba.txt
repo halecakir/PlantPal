@@ -1,0 +1,15 @@
+names:
+ziziphus jujuba, , 
+
+characteristics:
+blooming: Flowering period May-July, fruiting period August-September
+color: Flower color green yellow，fruit color red
+size: Diameter≥15cm，Height≥25c
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like mild sunlight, avoid strong direct sunlight
+watering: Water thoroughly when soil surface is dry
+fertilization: Dilute fertilizers following instructions, apply once monthly
+pruning: Remove old, diseased and dead leaves timely
+temperature: min_temp: 8, max_temp: 35

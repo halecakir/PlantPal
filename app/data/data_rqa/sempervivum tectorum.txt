@@ -1,0 +1,15 @@
+names:
+sempervivum tectorum, Hen and Chicks (Sempervivum tectorum), Hen and Chicks (Sempervivum tectorum (triste)), Hen and Chicks (Sempervivum tectorum (rhenanum)), Hen and Chicks (Sempervivum tectorum (boutignyanum) from Andorra), Hen and Chicks (Sempervivum tectorum (cebennense)), Hen and Chicks (Sempervivum tectorum 'Sunset'), Hen and Chicks (Sempervivum minutum), Hen and Chicks (Sempervivum tectorum 'from Isella'), Hen and Chicks (Sempervivum tectorum 'Grammens'), Hen and Chicks (Sempervivum tectorum 'Commander Hay'), Hen and Chicks (Sempervivum tectorum 'Pyrenaicum'), Hen and Chicks (Sempervivum tectorum 'Aldo Moro'), Hen and Chicks (Sempervivum tectorum 'Rouge'), Hen and Chicks (Sempervivum tectorum subsp. f/ Maritim-Alps, France  'Royanum'), Hen and Chicks (Sempervivum tectorum 'Atropurpureum'), Hen and Chicks (Sempervivum tectorum 'Bedivere'), Hen and Chicks (Sempervivum tectorum andreanum), Hen and Chicks (Sempervivum tectorum 'Atroviolaceum'), Hen and Chicks (Sempervivum tectorum 'Beate (ll)'), Hen and Chicks (Sempervivum tectorum 'Black Claret'), Hen and Chicks
+
+characteristics:
+blooming: Succulent plants, sometimes flowers, white or purple flowers
+color: Leaf color green, when sunny with fuchsia leaf tips
+size: Diameter 6-10 cm, height 5-10 cm
+
+caretaking:
+soil: Peat and akadama mixed in 3:1 ratio
+sunlight: Likes light, and resistant to half shade, short period of dormancy in summer, use half shade for better care
+watering: Water thoroughly 2 times during summer dormancy, keep soil moist in other time, water thoroughly when soil is dry
+fertilization: Dilute fertilizers following instructions,  apply once monthly in spring and autumn
+pruning: Remove dead and rotten part timely
+temperature: min_temp: 6, max_temp: 35

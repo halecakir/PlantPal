@@ -1,0 +1,15 @@
+names:
+lilium ot 'ria', Lily (Lilium 'Ria'), Lily (Lilium 'Imperial Gold'), Lily (Lilium 'Imperial Red Band'), Lily (Lilium 'Marianne'), Lily (Lilium 'Asterian'), Lily (Lilium bakerianum var. delavayi), Lily (Lilium 'Astoria'), Lily (Lilium bakerianum var. bakerianum), Lily (Lilium 'Euphoria'), Lily (Lilium 'Bellaria'), Lily (Lilium 'Calabria'), Lily (Lilium x imperiale Shelburne), Lily (Lilium 'Brianza'), Lily (Lilium 'Ria Moostie'), Lily (Lilium 'Victoria Falls'), Lily (Lilium 'Imperial Jewel'), Lily (Lilium 'Imperial Pink Group'), Lily (Lilium 'Imperial Salmon Group'), Lily (Lilium x parkmanii Imperial Silver), Lily (Lilium x parkmanii Imperial Crimson Group), Lily
+
+characteristics:
+blooming: Flowering period April-October, viewing period 2-3 weeks
+color: Flower color red
+size: Diameter ≥ 10 cm, height 18-22 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Long-day plant, put in sunny places, but avoid strong sunlight at noon
+watering: Keep soil dry rather than flooded, water thoroughly when soil is dry, 1-2 times a week
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove the withered parts on the ground after flowering, leaving bulbs for germination in the next year
+temperature: min_temp: 8, max_temp: 32

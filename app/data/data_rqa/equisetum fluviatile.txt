@@ -1,0 +1,15 @@
+names:
+equisetum fluviatile, Water Horsetail (Equisetum fluviatile), Water Horsetail
+
+characteristics:
+blooming: No flowering no fruiting, multiplication by spores
+color: Leaf color green
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Likes direct sunlight
+watering: Water every 2 days
+fertilization: No need fertilization
+pruning: No need pruning
+temperature: min_temp: 8, max_temp: 32

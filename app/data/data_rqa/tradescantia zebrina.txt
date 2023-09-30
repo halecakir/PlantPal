@@ -1,0 +1,15 @@
+names:
+tradescantia zebrina, Inch Plant (Tradescantia zebrina), Inch Plant (Tradescantia cerinthoides), Tradescantia zebrina var. zebrina, Inch Plant (Tradescantia zebrina 'Quadricolor'), Tradescantia zebrina 'Purpusii', Tradescantia zebrina var. flocculosa, Inch Plant (Tradescantia zebrina 'Danny Lee'), Inch Plant (Tradescantia zebrina 'Violet Hill'), Inch Plant (Tradescantia zebrina 'Leprechaun'), Inch Plant (Tradescantia zebrina 'Tikal'), Inch Plant (Tradescantia zebrina 'Silver Smudge'), Inch Plant (Tradescantia zebrina 'Little Hill'), Inch Plant (Tradescantia zebrina 'Deep Purple'), Inch Plant (Tradescantia zebrina 'Evanesce'), Inch Plant (Tradescantia zebrina 'Burgundy'), Inch Plant (Tradescantia zebrina 'Flame Dance'), Inch Plant (Tradescantia zebrina 'Purple Plush'), Inch Plant (Tradescantia zebrina 'Discolor'), Inch Plant (Tradescantia zebrina 'Minima'), Inch Plant (Tradescantia zebrina 'Discolor Multicolor'), Inch Plant
+
+characteristics:
+blooming: Foliage plants, sometimes flowers in June-August, purple flowers
+color: Leaf color green , purple, white in mixture
+size: Diameter ≥ 10 cm, height ≥ 10 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Shade-tolerant plants, put places with bright scattered light, avoid sun exposure
+watering: Likes wet environments, water thoroughly when soil is dry, may rub leaves with water when dry
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly in the growing season, stop in winter
+pruning: Remove dead leaves timely
+temperature: min_temp: 10, max_temp: 32

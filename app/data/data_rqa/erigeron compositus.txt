@@ -1,0 +1,15 @@
+names:
+erigeron compositus, , NONE
+
+characteristics:
+blooming: Flowering period in summer
+color: Flower color pink, white
+size: Diameter ≥ 20 cm, height 20-30 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Ikes warm moist environments, like sunshine and resistant to shade
+watering: Once every week
+fertilization: Apply plenty base fertilizer, apply little in the seedling stage, top-dressing chemical fertilizers in peak growth stages if needed
+pruning: Remove dead and diseased branches timely
+temperature: min_temp: 5, max_temp: 35

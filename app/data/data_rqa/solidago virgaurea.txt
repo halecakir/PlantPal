@@ -1,0 +1,15 @@
+names:
+solidago virgaurea, Goldenrod (Solidago virgaurea), Goldenrod (Solidago virgaurea subsp. minuta), Goldenrod (Solidago virgaurea subsp. lapponica), Goldenrod (Solidago virgaurea subsp. macrorrhiza), Goldenrod (Solidago virgaurea subsp. jailarum), Goldenrod (Solidago virgaurea subsp. taurica), Goldenrod (Solidago dahurica), Goldenrod (Solidago virgaurea var. insularis), Goldenrod (Solidago virgaurea subsp. caucasica), Goldenrod (Solidago virgaurea subsp. armena), Goldenrod (Solidago virgaurea subsp. alpestris), Goldenrod (Solidago virgaurea subsp. talyschensis), Goldenrod (Solidago virgaurea subsp. asiatica), Goldenrod (Solidago virgaurea subsp. gigantea), Goldenrod (Solidago virgaurea subsp. turfosa), Goldenrod
+
+characteristics:
+blooming: Flowering and fruiting period April-November
+color: Flower color yellow
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Soil with loose texture or special humus soil
+sunlight: Like sunshine, grows in sunny places
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove old, diseased and dead leaves timely, after flowering remove the upper part staring from 5 cm above soil surface, leaving 3-5 leaves
+temperature: min_temp: 5, max_temp: 35

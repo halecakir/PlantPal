@@ -1,0 +1,15 @@
+names:
+idesia polycarpa maxim. var. vestita diels, , 
+
+characteristics:
+blooming: Flowering period April-May, fruiting period October-November
+color: Leaf color green , flower color yellow green
+size: height can reach 10-20 m
+
+caretaking:
+soil: Well-drained sandy soil
+sunlight: Like adequate light
+watering: Resistant to drought, water thoroughly after soil surface dries
+fertilization: Apply 1-2 times monthly in spring
+pruning: Remove old, diseased and dead leaves timely
+temperature: min_temp: 5, max_temp: 30

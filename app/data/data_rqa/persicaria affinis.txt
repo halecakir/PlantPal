@@ -1,0 +1,15 @@
+names:
+persicaria affinis, Knotweed (Bistorta affinis 'Superba'), Himalayan Knotweed (Bistorta affinis 'Donald Lowndes'), Himalayan Knotweed (Bistorta affinis 'Dimity'), Himalayan Knotweed (Bistorta affinis 'Darjeeling Red'), Himalayan Knotweed (Bistorta affinis 'Border Jewel'), Himalayan Bistort (Bistorta affinis), Knotweed
+
+characteristics:
+blooming: Flowering period July-August, flowering period August-September
+color: Flower color purple red , fruit color dark brown
+size: height 40-60 cm
+
+caretaking:
+soil: Humus-rich sandy loam
+sunlight: Like half shade, may grow in places with bright scattered light
+watering: Only need keep soil moist
+fertilization: No much requirement for fertilizers
+pruning: Remove weeds timely
+temperature: min_temp: 10, max_temp: 32

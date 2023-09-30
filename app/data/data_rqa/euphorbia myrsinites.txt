@@ -1,0 +1,15 @@
+names:
+euphorbia myrsinites, , 
+
+characteristics:
+blooming: Flowering period May-August, fruiting period June-September
+color: Flower color light brown
+size: height 40-80 cm
+
+caretaking:
+soil: Sandy loam or clay loam
+sunlight: Put in warm places with scattered light
+watering: Only need keep soil moist
+fertilization: Apply manure once at the early flowering stage
+pruning: Remove diseased and dead leaves timely
+temperature: min_temp: 8, max_temp: 32

@@ -1,0 +1,15 @@
+names:
+sorbaria sorbifolia, Ural False Spiraea (Sorbaria sorbifolia), Sorbaria sorbifolia var. sorbifolia, Ural False Spirea (Sorbaria sorbifolia 'Sem'), Sorbaria sorbifolia var. stellipila, Ural False Spirea (Sorbaria sorbifolia First Editions® Matcha Ball®), Sorbaria sorbifolia var. glandulifolia, Ural False Spirea (Sorbaria sorbifolia Mr. Mustard™), Ural False Spirea (Sorbaria sorbifolia Pink Hopi®), Ural False Spirea (Sorbaria sorbifolia 'Emerald Charm'), Ural False Spirea (Sorbaria sorbifolia 'Skinner's Strain'), Ural False Spirea (Sorbaria sorbifolia 'Pia'), Ural False Spirea (Sorbaria sorbifolia Bloomin' Easy® Cherry On Top™), Ural False Spiraea
+
+characteristics:
+blooming: Flowering period July-August, fruiting period September
+color: Flower color white
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Likes half shade, grows in places with scattered light
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead, rotten, diseased leaves timely
+temperature: min_temp: 8, max_temp: 32

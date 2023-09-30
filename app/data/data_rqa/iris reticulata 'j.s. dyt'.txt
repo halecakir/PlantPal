@@ -1,0 +1,15 @@
+names:
+iris reticulata 'j.s. dyt', , 
+
+characteristics:
+blooming: Flowering period April-May, viewing period 1-2 weeks
+color: Flower color rose red
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Likes adequate sunshine, also resistant to half shade, avoid strong light
+watering: Keep soil moist
+fertilization: Dilute fertilizers following instructions, apply fertilizers once every 10-15 days in spring
+pruning: Remove withered flowers, old, diseased, and dead leaves timely
+temperature: min_temp: 8, max_temp: 35

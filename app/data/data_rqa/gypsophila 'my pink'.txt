@@ -1,0 +1,15 @@
+names:
+gypsophila 'my pink', , 
+
+characteristics:
+blooming: Flowering period June-August, viewing period 2-3 weeks
+color: Flower color pink
+size: Diameter ≥ 5 cm, height ≥ 15 cm
+
+caretaking:
+soil: Likes slightly alkaline soil, may use peat adding a small amount of lime or baking soda
+sunlight: Like adequate sunlight, shade properly under summer strong light
+watering: Water thoroughly when soil is dry, reduce watering in winter
+fertilization: Dilute fertilizers following instructions,  apply 1-2 times monthly in spring
+pruning: Remove old, diseased and dead leaves timely
+temperature: min_temp: 10, max_temp: 32

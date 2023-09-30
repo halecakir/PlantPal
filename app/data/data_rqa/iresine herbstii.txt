@@ -1,0 +1,15 @@
+names:
+iresine herbstii, Bloodleaf (Iresine diffusa f. herbstii), Beefsteak Plant (Iresine diffusa f. herbstii 'Aureoreticulata'), Beefsteak Plant (Iresine diffusa f. herbstii 'California'), Beefsteak Plant (Iresine diffusa f. herbstii 'Brilliantissima'), Beefsteak Plant (Iresine diffusa f. herbstii 'Purple Lady'), Bloodleaf
+
+characteristics:
+blooming: Reproductive period September-March
+color: Flower color yellow green, leaf color purple red
+size: Diameter ≥ 20 cm, height 20-30 cm
+
+caretaking:
+soil: Loose, fertile sandy loam
+sunlight: Ikes warm moist environments, like sunshine and resistant to shade
+watering: 2-3 times every week
+fertilization: Apply fertilizers monthly in vegetative stages, use more Phosphate and Potassium
+pruning: Remove dead and diseased branches timely
+temperature: min_temp: 10, max_temp: 35

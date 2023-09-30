@@ -1,0 +1,15 @@
+names:
+begonia grandis, Hardy Begonia (Begonia grandis), Begonia 'Grandissimo', Hardy Begonia (Begonia grandis subsp. grandis), Hardy Begonia (Begonia grandis subsp. grandis 'Alba'), Hardy Begonia (Begonia grandis 'Heron's Pirouette'), Hardy Begonia (Begonia grandis subsp. sinensis), Begonia (Begonia grandis var. unialata), Begonia 'Grandis', Begonia (Begonia grandis 'Early Bird'), Begonia (Begonia grandis 'Nanjing Silver'), Begonia (Begonia grandis subsp. holostyla), Begonia (Begonia grandis var. puberula), Hardy Begonia (Begonia grandis 'Sapporo'), Begonia (Begonia aconitifolia 'Faureana Grandis'), Begonia 'Verofolia Grandis', Hardy Begonia
+
+characteristics:
+blooming: Flowers year around, viewing period 2-3 weeks
+color: Flower color orange, peach red, pink, white
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Likes moderate sunshine, avoid direct strong light, slight shade tolerance
+watering: Water thoroughly when soil is dry
+fertilization: Dilute fertilizers following instructions, apply 2-3 times monthly
+pruning: Remove old, diseased, dead leaves and withered flowers timely
+temperature: min_temp: 10, max_temp: 32

@@ -1,0 +1,15 @@
+names:
+sidalcea malviflora, , 
+
+characteristics:
+blooming: Flowering period in summer
+color: Flower color peach red, rose red, purple
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like sunshine, resistant to half shade
+watering: Need keep soil moisture high but not saturated
+fertilization: Apply compound fertilizers every half month in the growing season, add foliar fertilizer too
+pruning: Remove dead and diseased branches timely
+temperature: min_temp: 8, max_temp: 35

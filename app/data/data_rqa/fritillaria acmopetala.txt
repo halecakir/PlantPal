@@ -1,0 +1,15 @@
+names:
+fritillaria acmopetala, Fritillary (Fritillaria acmopetala), Fritillaria acmopetala subsp. acmopetala, Fritillaria acmopetala subsp. wendelboi, Fritillary (Fritillaria acmopetala 'Brunette'), Fritillary
+
+characteristics:
+blooming: Flowering period May-July, fruiting period August-October
+color: Flower color green, purple, red, orange, fruit color white
+size: height 15-40 cm
+
+caretaking:
+soil: Humus-rich sandy loam
+sunlight: Should not be in direct contact with sunlight
+watering: Water slightly every day to keep soil moist
+fertilization: Foliar fertilizer spray monthly
+pruning: Remove diseased leaves timely
+temperature: min_temp: 8, max_temp: 32

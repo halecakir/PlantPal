@@ -1,0 +1,15 @@
+names:
+taraxacum spp., , NONE
+
+characteristics:
+blooming: Flowering period April-September, fruiting period May-October
+color: Flower color upper part fuchsia, covered with many silk white hairs
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, slight shade tolerance
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead, rotten, diseased leaves timely
+temperature: min_temp: 5, max_temp: 32

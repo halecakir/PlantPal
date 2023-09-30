@@ -1,0 +1,15 @@
+names:
+cortaderia selloana, Uruguayan Pampas Grass (Cortaderia selloana), Pampas Grass (Cortaderia selloana 'Monrin'), Dwarf Pampas Grass (Cortaderia selloana 'Pumila'), Pampas Grass (Cortaderia selloana 'Icalma'), Pampas Grass (Cortaderia selloana 'Rosea'), Pampas Grass (Cortaderia selloana 'Patagonia'), Variegated Pampas Grass (Cortaderia selloana 'Sun Stripe'), Pampas Grass (Cortaderia selloana 'Silver Comet'), Pampas Grass (Cortaderia selloana 'Sunningdale Silver'), Pampas Grass (Cortaderia selloana 'White Feather'), Pampas Grass (Cortaderia selloana 'Gold Band'), Pampas Grass (Cortaderia selloana 'Blue Bayou'), Pampas Grass (Cortaderia selloana 'Pink Feather'), Pampas Grass (Cortaderia selloana Tiny Pampa), Pampas Grass (Cortaderia selloana Tiny Pampa Gold), Pampas Grass (Cortaderia selloana  'Golden Goblin'), Pampas Grass (Cortaderia selloana 'Monstrosa'), Pampas Grass (Cortaderia selloana 'Evita'), Pampas Grass (Cortaderia selloana Silver Feather), Uruguayan Pampas Grass
+
+characteristics:
+blooming: Flowering period September-October
+color: Flower color silver white
+size: Diameter ≥ 20 cm, height 20-30 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Likes warm and sunny environments
+watering: Water thoroughly when soil is dry, avoid saturated water
+fertilization: Apply enough base fertilizers
+pruning: Remove dead and diseased branches timely
+temperature: min_temp: 5, max_temp: 35

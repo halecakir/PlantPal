@@ -1,0 +1,15 @@
+names:
+daucus carota, Queen Anne's Lace (Daucus carota), Carrot (Daucus carota subsp. carota 'Chantenay'), Carrot (Daucus carota var. sativus 'Amice'), Carrot (Daucus carota var. sativus 'Flamcor'), Carrot (Daucus carota var. sativus 'Little Fingers'), Carrot (Daucus carota var. sativus 'Chantenay Red Cored'), Carrot (Daucus carota var. sativus 'Danvers Half Long'), Carrot (Daucus carota var. sativus 'Nantes'), Carrot (Daucus carota var. sativus 'Nantes Half Long'), Carrot (Daucus carota var. sativus '24 Karat'), Carrot (Daucus carota var. sativus 'Bolina'), Carrot (Daucus carota var. sativus 'Imperator 58'), Carrot (Daucus carota var. sativus 'Nutri-Red'), Carrot (Daucus carota var. sativus 'Purple Dragon'), Carrot (Daucus carota var. sativus 'Special Nantes'), Carrot (Daucus carota var. sativus 'Bolero'), Carrot (Daucus carota var. sativus 'Orangette'), Carrot (Daucus carota var. sativus 'Apache'), Carrot (Daucus carota var. sativus 'Earlibird Nantes'), Carrot (Daucus carota var. sativus 'Cheyenne'), Queen Anne's Lace
+
+characteristics:
+blooming: Flowering period April-May, fruiting period May-June
+color: Flower color white or pink, fruit color green, white or red
+size: Diameter ≥ 10 cm, height ≥ 20 cm
+
+caretaking:
+soil: Acidic soil with loose texture or soil with specific nutrients
+sunlight: High quality fruits in sunny places
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead, rotten, diseased leaves timely
+temperature: min_temp: 5, max_temp: 35

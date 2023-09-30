@@ -1,0 +1,15 @@
+names:
+taxodium ascendens, , 
+
+characteristics:
+blooming: Flowering period March, fruiting period October-November
+color: Leaf color green , fruit color yellow brown
+size: Diameter ≥ 15 cm, height ≥ 30 cm
+
+caretaking:
+soil: Acidic soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, slight shade tolerance
+watering: Resistant to flood, water thoroughly when soil is dry
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove dead, rotten, diseased leaves and the parts that may affect the good appearance
+temperature: min_temp: 5, max_temp: 35

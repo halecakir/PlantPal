@@ -1,0 +1,15 @@
+names:
+thymus camphoratus, , 
+
+characteristics:
+blooming: Vanilla plants, flowering period July-August
+color: Leaf color green , flower color purple, pink
+size: Diameter ≥ 10 cm, height ≥ 10 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like sunshine, place under adequate light, shade properly under summer strong light
+watering: Resistant to drought, water thoroughly when soil is dry
+fertilization: Dilute fertilizers following instructions, dilute fertilizers following instructions,  in early summer, spring and autumn apply fertilizers once monthly
+pruning: Remove old diseased and dead leaves timely
+temperature: min_temp: 5, max_temp: 32

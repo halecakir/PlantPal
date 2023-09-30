@@ -1,0 +1,15 @@
+names:
+pachyphytum cv.momobijin, , 
+
+characteristics:
+blooming: Succulent plants, blooms sometimes, a long scape sprouts from the plant center, blooms with small red flowers in 5-pointed star shape
+color: Leaf color pale pink or light purple
+size: Diameter ≥ 10 cm, height 10-15 cm
+
+caretaking:
+soil: Peat and akadama mixed in 3:1 ratio
+sunlight: Like sunshine, no apparent dormancy in summer
+watering: Do not water frequently, keep a dry environment, water every 7-10 days
+fertilization: Dilute fertilizers following instructions, apply once monthly
+pruning: Remove dead and rotten part timely
+temperature: min_temp: 8, max_temp: 35

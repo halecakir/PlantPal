@@ -1,0 +1,15 @@
+names:
+cynara scolymus, Artichokes (Cynara scolymus), Globe Artichoke (Cynara scolymus 'Violet de Provence'), Globe Artichoke (Cynara scolymus 'Imperial Star'), Globe Artichoke (Cynara scolymus 'Emerald'), Globe Artichoke (Cynara scolymus 'Green Globe'), Globe Artichoke (Cynara scolymus 'Purple of Romagna'), Artichoke (Cynara scolymus 'Violetta Precoce'), Artichoke (Cynara scolymus 'Tavor'), Artichoke (Cynara scolymus 'Lulu'), Artichoke (Cynara scolymus 'Violetto'), Globe Artichoke (Cynara scolymus 'Wonder'), Artichokes
+
+characteristics:
+blooming: Flowering period June-July
+color: Flower color purple red
+size: Diameter ≥ 20 cm, height 20-30 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like sunshine, resistant to half shade
+watering: Only need keep soil moist
+fertilization: Apply enough base fertilizers
+pruning: Remove dead and diseased branches timely
+temperature: min_temp: 5, max_temp: 35

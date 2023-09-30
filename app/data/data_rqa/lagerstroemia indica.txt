@@ -1,0 +1,15 @@
+names:
+lagerstroemia indica, Crepe Myrtle (Lagerstroemia indica), Crape Myrtle (Lagerstroemia indica 'Baton Rouge'), Crape Myrtle (Lagerstroemia indica 'Delta Blush'), Crape Myrtle (Lagerstroemia indica 'Hopi'), Crape Myrtle (Lagerstroemia indica 'Houston'), Crape Myrtle (Lagerstroemia indica 'Near East'), Crape Myrtle (Lagerstroemia indica 'Potomac'), Crape Myrtle (Lagerstroemia indica 'Seminole'), Crape Myrtle (Lagerstroemia indica 'Splash of Pink'), Crape Myrtle (Lagerstroemia indica 'Tuscarora'), Crape Myrtle (Lagerstroemia indica 'Velma's Royal Delight'), Crape Myrtle (Lagerstroemia indica 'Watermelon Red'), Crape Myrtle (Lagerstroemia indica Red Rocket®), Crape Myrtle (Lagerstroemia indica 'Creole'), Crape Myrtle (Lagerstroemia indica Raspberry Sundae®), Crape Myrtle (Lagerstroemia indica 'Lafayette'), Crape Myrtle (Lagerstroemia indica 'Alba'), Crape Myrtle (Lagerstroemia indica 'Amabilia'), Crape Myrtle (Lagerstroemia indica 'America'), Crape Myrtle (Lagerstroemia indica 'Berlingot Menthe'), Crepe Myrtle
+
+characteristics:
+blooming: Flowering period June-September, viewing period 3-4 weeks
+color: Flower color red, dark pink, purple, white
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Likes light, slight shade tolerance
+watering: Resistant to drought, water thoroughly when soil is dry, reduce watering in winter dormancy
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly in spring and summer, except winter in dormancy
+pruning: Remove withered flowers, old, diseased, and dead leaves timely
+temperature: min_temp: 5, max_temp: 35

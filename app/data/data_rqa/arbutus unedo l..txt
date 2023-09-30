@@ -1,0 +1,15 @@
+names:
+arbutus unedo l., Strawberry Tree (Arbutus unedo), Killarney Strawberry Tree (Arbutus unedo 'Compacta'), Killarney Strawberry Tree (Arbutus unedo 'Elfin King'), Pink Strawberry Tree (Arbutus unedo 'Rubra'), Arbutus unedo 'Atlantic', Strawberry Tree (Arbutus unedo Mercurius®), Strawberry Tree (Arbutus unedo 'Oktoberfest'), Strawberry Tree
+
+characteristics:
+blooming: Flowering period May
+color: Flower color white, pink
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, slightly resistant to half shade
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 8, max_temp: 32

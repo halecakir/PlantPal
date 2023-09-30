@@ -1,0 +1,15 @@
+names:
+alocasia cucullata, Buddha's Hand (Alocasia cucullata), Elephant's Ear (Alocasia cucullata 'Yellow Tail'), Elephant's Ear (Alocasia cucullata 'Crinkles'), Buddha's Hand
+
+characteristics:
+blooming: Foliage plant, sometimes open flowers
+color: Leaf color green
+size: Diameter≥10cm，Height≥15cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like half shade environment, put in place with scattered sunlight
+watering: Like wet, water thoroughly when soil surface is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply once monthly in spring and autumn
+pruning: Remove flower stem, diseased and rotten leaves timely
+temperature: min_temp: 5, max_temp: 32

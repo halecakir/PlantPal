@@ -1,0 +1,15 @@
+names:
+abelmoschus moschatus, Musk Mallow (Abelmoschus moschatus), Musk Okra (Abelmoschus moschatus 'Oriental Red'), Musk Mallow (Abelmoschus moschatus 'Mischief'), Nugu (Abelmoschus moschatus subsp. tuberosus), Musk Okra (Abelmoschus moschatus 'Pink Okra'), Abelmoschus moschatus subsp. biakensis, Abelmoschus moschatus subsp. moschatus, Abelmoschus moschatus var. lanyunatus, Musk Mallow
+
+characteristics:
+blooming: Flowering period June-October
+color: Flower color yellow
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Sandy loam
+sunlight: Like strong light, not resistant to shade
+watering: Water thoroughly when soil is dry, avoid saturated water
+fertilization: Top-dressing once every 10-15 days
+pruning: Cut side shoots timely once they initiate
+temperature: min_temp: 5, max_temp: 35

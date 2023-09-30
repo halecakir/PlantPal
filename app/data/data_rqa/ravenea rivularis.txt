@@ -1,0 +1,15 @@
+names:
+ravenea rivularis, Majesty Palm (Ravenea rivularis), Majesty Palm
+
+characteristics:
+blooming: Flowering period March-May, fruiting period October-November
+color: Flower color light yellow, fruit color green to light yellow
+size: Diameter ≥ 15 cm, height ≥ 20 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, slight resistant to shade, grows in sunny places, avoid direct light
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 5, max_temp: 35

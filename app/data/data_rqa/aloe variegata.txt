@@ -1,0 +1,15 @@
+names:
+aloe variegata, Partridge Breast Aloe (Gonialoe variegata), Partridge Breast Aloe (Gonialoe variegata 'Beervlei Dam'), Aloe (Aloe arborescens 'Variegata'), Aloe (Aloe perfoliata 'Variegata'), Aloe (Aloe brevifolia 'Variegata'), Aloe Yucca (Yucca aloifolia 'Tricolor'), Partridge Breast Aloe
+
+characteristics:
+blooming: Succulent plants, sometimes flowers with orange red flowers
+color: Leaf color green, with white or yellow dots, flower color orange red or orange yellow
+size: Diameter ≥ 10 cm, height 5-20 cm
+
+caretaking:
+soil: 3 parts of leaf mold or peat moss, 2 parts of garden soil, 3 parts of sand or vermiculite
+sunlight: Like half shade, may grow in places with bright scattered light
+watering: Water thoroughly when soil is dry
+fertilization: Once every 10 days with some liquid manure or compound fertilizers
+pruning: Remove dead and diseased branches timely
+temperature: min_temp: 8, max_temp: 32

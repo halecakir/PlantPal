@@ -1,0 +1,15 @@
+names:
+ulmus parvifolia, Chinese Elm (Ulmus parvifolia), Chinese Elm (Ulmus parvifolia 'Dynasty'), Chinese Elm (Ulmus parvifolia 'Emer II'), Chinese Elm (Ulmus parvifolia 'Hokkaido'), Chinese Elm (Ulmus parvifolia 'Seiju'), Chinese Elm (Ulmus parvifolia 'Allee'), Chinese Elm (Ulmus parvifolia 'Bosque'), Chinese Elm (Ulmus parvifolia 'Golden Rey'), Chinese Elm (Ulmus parvifolia 'Frosty'), Chinese Elm (Ulmus parvifolia 'Yatsubusa'), Chinese Elm (Ulmus parvifolia 'Athena'), Chinese Elm (Ulmus parvifolia 'Brea'), Chinese Elm (Ulmus parvifolia 'Burgundy'), Chinese Elm (Ulmus parvifolia 'Catlin'), Chinese Elm (Ulmus parvifolia Central Park Splendor®), Chinese Elm (Ulmus parvifolia 'Chessins'), Chinese Elm (Ulmus parvifolia 'Cork Bark'), Chinese Elm (Ulmus parvifolia 'D.B. Cole'), Chinese Elm (Ulmus parvifolia 'Ed Wood'), Chinese Elm (Ulmus parvifolia 'Elsmo'), Chinese Elm
+
+characteristics:
+blooming: Flowering and fruiting period March-June
+color: Flower color yellow
+size: Diameter ≥ 20 cm, height 20-30 cm
+
+caretaking:
+soil: Soil with rich organic matter and strong abilities of holding water and fertility
+sunlight: Like sunshine
+watering: Only need keep soil moist
+fertilization: Once every half month, top-dressing twice, or apply foliar fertilizers
+pruning: Leaving only one strong sprout, remove the other sprouts
+temperature: min_temp: 5, max_temp: 35

@@ -1,0 +1,15 @@
+names:
+sabal minor, Dwarf Palmetto (Sabal minor), Dwarf Palmetto (Sabal minor 'McCurtain'), Palmetto Palm (Sabal minor 'Blountstown Dwarf'), Sabal minor 'Wakulla Dwarf', Dwarf Palmetto
+
+characteristics:
+blooming: Flowering period June, fruiting period in autumn
+color: Flower color yellow green
+size: Diameter ≥ 20 cm, height 20-30 cm
+
+caretaking:
+soil: Sandy loam
+sunlight: Put in sunny places
+watering: Only need keep soil moist
+fertilization: Top-dressing 2-3 times during April-September
+pruning: Remove dead and diseased leaves timely
+temperature: min_temp: 5, max_temp: 35

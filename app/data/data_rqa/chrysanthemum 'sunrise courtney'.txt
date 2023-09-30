@@ -1,0 +1,15 @@
+names:
+chrysanthemum 'sunrise courtney', Chrysanthemum, Chrysanthemum (Ismelia carinata 'Rainbow Mix'), Chrysanthemum 'Centerpiece', Chrysanthemum 'Golden Star', Chrysanthemum Autumn Crescendo™ Bolero, Chrysanthemum 'Irish Linen', Chrysanthemum (Chrysanthemum x rubellum 'Autumn Bronze'), Chrysanthemum 'Bronze Giant', Chrysanthemum 'Bristol White', Garden Mum (Chrysanthemum 'Autumn Fire'), Chrysanthemum 'Yellow Giant', Chrysanthemum 'Atomic Orange', Chrysanthemum (Chrysanthemum x morifolium Dark Triumph), Korean Chrysanthemum (Chrysanthemum 'Country Girl'), Chrysanthemum (Chrysanthemum x morifolium Bravo), Chrysanthemum 'Peach Centerpiece', Chrysanthemum (Chrysanthemum x morifolium Mammoth™ Twilight Pink Daisy), Chrysanthemum 'White Bomb', Chrysanthemum 'Belle o' the Ball', Chrysanthemum 'Candy John Wingfield', Chrysanthemum
+
+characteristics:
+blooming: September-November flowering period, viewing period 3-4 weeks
+color: Flower color pink
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Likes sunshine, avoid strong direct light
+watering: Keep soil moist, water and drain timely
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: After flowering remove the withered flowers, the part on the ground will wither in winter, the plant germinates again in spring
+temperature: min_temp: 8, max_temp: 32

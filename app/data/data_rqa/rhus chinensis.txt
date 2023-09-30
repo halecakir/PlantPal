@@ -1,0 +1,15 @@
+names:
+rhus chinensis, Chinese Sumac (Rhus chinensis), Rhus chinensis var. roxburghii, Chinese Sumac
+
+characteristics:
+blooming: Flowering period July-September, fruiting period October-November
+color: Flower color cream white, fruit color red
+size: Diameter ≥ 20 cm, height ≥ 25 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Likes sunshine, put in sunny places, avoid strong sunlight in summer at noon
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Need more fertilization, dilute fertilizers following instructions, apply 2-3 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 5, max_temp: 35

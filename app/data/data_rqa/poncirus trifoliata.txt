@@ -1,0 +1,15 @@
+names:
+poncirus trifoliata, Trifoliate orange (Citrus trifoliata), Hardy Orange (Citrus trifoliata 'Monstrosa'), Japanese Hardy Orange (Citrus trifoliata 'Flying Dragon'), Japanese Hardy Orange (Citrus trifoliata 'Baby Dragon'), Japanese Hardy Orange (Citrus trifoliata 'Tiny Dragon'), Japanese Hardy Orange (Citrus trifoliata 'Snow Dragon'), Trifoliate orange
+
+characteristics:
+blooming: Flowering period May-June, fruiting period October-November
+color: Flower color white, fruit color orange
+size: Diameter ≥ 20 cm, height 20-30 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Put in sunny places
+watering: Keep soil moist
+fertilization: Mainly use base fertilizers, top-dressing at the late stages
+pruning: Remove dead and diseased branches timely
+temperature: min_temp: 5, max_temp: 35

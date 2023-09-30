@@ -1,0 +1,15 @@
+names:
+linaria vulgaris, Butter And Eggs (Linaria vulgaris), Linaria vulgaris subsp. vulgaris, Linaria vulgaris subsp. acutiloba, Linaria vulgaris subsp. arenosa, Linaria vulgaris subsp. chinensis, Butter And Eggs
+
+characteristics:
+blooming: Flowering period April-September
+color: Flower color purple, pink, yellow
+size: Diameter ≥ 2 cm, height ≥ 30 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like sunshine, resistant to half shade
+watering: Water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 5, max_temp: 32

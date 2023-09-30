@@ -1,0 +1,15 @@
+names:
+pyracantha angustifolia, Narrow-Leaf Firethorn (Pyracantha angustifolia), Narrowleaf Firethorn (Pyracantha angustifolia Gnome®), Pyracantha angustifolia Yukon Belle®, Narrow-Leaf Firethorn
+
+characteristics:
+blooming: Flowering period March-May, fruiting period August-November
+color: Flower color white, fruit color brick red
+size: Diameter ≥ 15 cm, height ≥ 25 cm
+
+caretaking:
+soil: Slightly acidic soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, grows in sunny places
+watering: Resistant to drought, water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 10, max_temp: 35

@@ -1,0 +1,15 @@
+names:
+polygonatum multiflorum, Eurasian Solomon's Seal (Polygonatum multiflorum), Variegated Solomon's Seal (Polygonatum x hybridum 'Striatum'), Solomon's Seal (Polygonatum multiflorum 'Ramosissima'), Eurasian Solomon's Seal
+
+characteristics:
+blooming: Flowering period May-June, fruiting period August-October
+color: Flower color white green, fruit color black
+size: Diameter ≥ 20 cm, height 20-30 cm
+
+caretaking:
+soil: Sandy loam
+sunlight: Resistant to shade, put in places with bright scattered light
+watering: Water every 3-5 days
+fertilization: Use base fertilizers mainly, top-dressing once in April, June, September, and November
+pruning: Remove dead and diseased branches timely
+temperature: min_temp: 5, max_temp: 32

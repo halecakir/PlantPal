@@ -1,0 +1,15 @@
+names:
+ilex aquifolium, European Holly (Ilex aquifolium), Meserve Holly (Ilex Golden Girl®), Silver Margined Holly (Ilex aquifolium 'Argentea Marginata'), Narrowleaf English Holly (Ilex aquifolium 'Angustifolia'), English Holly (Ilex aquifolium 'Ciliata Major'), English Holly (Ilex aquifolium 'Crispa Aurea'), Silver Hedgehog English Holly (Ilex aquifolium 'Ferox Argentea'), English Holly (Ilex aquifolium 'Lily Gold'), English Holly (Ilex aquifolium 'Moonlight'), English Holly (Ilex aquifolium 'Phantom Gold'), English Holly (Ilex aquifolium 'Pinto'), English Holly (Ilex aquifolium 'Silver Milkmaid'), English Holly (Ilex aquifolium 'Silver Queen'), English Holly (Ilex aquifolium 'Teufel's Zero'), English Holly (Ilex aquifolium 'Twenty Below'), English Holly (Ilex aquifolium 'Variegata'), English Holly (Ilex aquifolium 'Yule Glow'), English Holly (Ilex aquifolium 'Hastata'), English Holly (Ilex aquifolium 'Myrtifolia'), English Holly (Ilex aquifolium 'Big Bull'), European Holly
+
+characteristics:
+blooming: Flowering period April-June, fruiting period July-December
+color: Flower color purple red or light purple, fruit color red, dark red
+size: Diameter ≥ 15 cm, height ≥ 25 cm
+
+caretaking:
+soil: Acidic soil with loose texture or soil with specific nutrients
+sunlight: Likes half shade, grows in places with scattered light
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 4, max_temp: 35

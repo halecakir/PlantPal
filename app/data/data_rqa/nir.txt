@@ -1,0 +1,15 @@
+names:
+nir, Tazetta Daffodil (Narcissus 'Nir'), Sweet Corn (Zea mays subsp. mays 'Nirvana'), Double Late Tulip (Tulipa 'Nirvana'), Vinca (Catharanthus roseus Nirvana™ Cascade Pink Splash), Sweet Pepper (Capsicum annuum 'Nirvana'), Tropical Hibiscus (Hibiscus rosa-sinensis 'Nirvana'), Earth Star (Cryptanthus 'Nirvana'), Bromeliad (Neoregelia 'Nirvana'), Vinca (Catharanthus roseus Nirvana™ Cascade Burgundy), Vinca (Catharanthus roseus Nirvana™ Cascade Rose), Vinca (Catharanthus roseus Nirvana™ Cascade White), Vinca (Catharanthus roseus Nirvana™ Pink Blush), Vinca (Catharanthus roseus Nirvana™ Red), Vinca (Catharanthus roseus Nirvana™ Rose), Vinca (Catharanthus roseus Nirvana™ Violet), Daffodil (Narcissus 'Nirvana'), Garden Onion (Allium cepa 'Nirvana'), Hosta 'Nirvana', Chives (Allium 'Nira'), Lady's Eardrops (Fuchsia 'Nirak'), Tazetta Daffodil
+
+characteristics:
+blooming: Flowering period November-March, viewing period 1-2 weeks
+color: Flower color white
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Likes sunshine, shade properly under summer strong light
+watering: Moderately resistant to drought, water thoroughly when soil is dry
+fertilization: Dilute fertilizers following instructions, top-dressing before and after flowering and defoliation
+pruning: Remove withered flowers, old, diseased, and dead leaves timely
+temperature: min_temp: 5, max_temp: 32

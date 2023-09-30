@@ -1,0 +1,15 @@
+names:
+ajuga reptans, Bugleweed (Ajuga reptans), Bugleweed (Ajuga reptans 'Arctic Fox'), Bugleweed (Ajuga reptans 'Atropurpurea'), Bugleweed (Ajuga reptans 'Braunherz'), Bugleweed (Ajuga reptans 'Burgundy Glow'), Bugleweed (Ajuga reptans 'Catlin's Giant'), Bugleweed (Ajuga reptans 'Dixie Chip'), Bugleweed (Ajuga reptans 'Mahogany'), Bugleweed (Ajuga reptans 'Purple Brocade'), Bugleweed (Ajuga reptans 'Purple Torch'), Bugleweed (Ajuga reptans 'Silver Beauty'), Bugleweed (Ajuga reptans 'Toffee Chip'), Bugleweed (Ajuga reptans Chocolate Chip), Bugle (Ajuga reptans 'Variegata'), Carpet Bugle (Ajuga reptans 'Bronze Beauty'), Bugle (Ajuga reptans 'Golden Beauty'), Bugle (Ajuga reptans 'Emerald Chip'), Bugleweed (Ajuga reptans Black Scallop™), Bugle (Ajuga reptans 'Pat's Selection'), Bugle (Ajuga reptans 'Gaiety'), Bugleweed
+
+characteristics:
+blooming: Flowering period April-August, flowering period July-September
+color: Flower color red, light blue, blue purple, fruit color gray yellow
+size: Diameter ≥ 20 cm, height 15-20 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like shade environments, put in places with bright scattered light
+watering: Only need keep soil moist
+fertilization: Apply enough base fertilizers
+pruning: In spring pruning and remove old, diseased and dead leaves timely
+temperature: min_temp: 10, max_temp: 32

@@ -1,0 +1,15 @@
+names:
+vitex agnus castus, , 
+
+characteristics:
+blooming: Flowering period July-August
+color: Flower color purple, blue purple
+size: Diameter ≥ 20 cm, height 20-30 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like sunshine, slight shade tolerance
+watering: 2-3 times every week
+fertilization: Dilute fertilizers following instructions, apply 2-3 times monthly
+pruning: After flowering removal of withered flowers can extend the flowering period
+temperature: min_temp: 5, max_temp: 35

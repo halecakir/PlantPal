@@ -1,0 +1,15 @@
+names:
+liriope muscari, Monkey Grass (Liriope muscari), Monkey Grass (Liriope muscari 'Ariaka-janshige'), Liriope muscari 'Kunming', Liriope Grass (Liriope muscari Emerald Goddess®), Monkey Grass (Liriope muscari 'Big Blue'), Frosted Monkey Grass (Liriope muscari 'Okina'), Monkey Grass (Liriope muscari 'Royal Purple'), Lilyturf (Liriope muscari 'Variegata'), Golden Lily Turf (Liriope muscari 'Pee Dee Gold Ingot'), Lily Turf (Liriope muscari 'Monroe White'), Variegated Lily Turf (Liriope muscari 'Silvery Sunproof'), Lily Turf (Liriope muscari 'Webster Wideleaf'), Variegated Lily Turf (Liriope muscari 'Silver Midget'), Lily Turf (Liriope muscari 'Samantha'), Lily Turf (Liriope muscari 'Majestic'), Variegated Lily Turf (Liriope muscari 'John Burch'), Variegated Lily Turf (Liriope muscari 'Gold Band'), Giant Lily Turf (Liriope muscari 'Evergreen Giant'), Lily Turf (Liriope muscari 'Densiflora'), Lily Turf (Liriope muscari 'Christmas Tree'), Monkey Grass
+
+characteristics:
+blooming: Flowering period May-July, fruiting period August-October
+color: Flower color purple, redpurple, fruit color blue black
+size: Diameter ≥ 10 cm, height 15-20 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Avoid direct strong light
+watering: Only need keep soil moist
+fertilization: No need fertilization
+pruning: Remove old, diseased and dead leaves timely
+temperature: min_temp: 10, max_temp: 32

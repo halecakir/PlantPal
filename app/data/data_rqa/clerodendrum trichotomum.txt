@@ -1,0 +1,15 @@
+names:
+clerodendrum trichotomum, Peanut Butter Shrub (Clerodendrum trichotomum), Japanese Clerodendrum (Clerodendrum trichotomum 'Variegata'), Peanut Butter Shrub (Clerodendrum trichotomum 'Carnival'), Glorybower (Clerodendrum trichotomum 'Golden Glory'), Peanut Butter Shrub
+
+characteristics:
+blooming: Flowering and fruiting period June-November
+color: Flower color green white, purple red
+size: Diameter ≥ 20 cm, height 20-30 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Ikes warm moist environments, like sunshine and resistant to shade
+watering: Water thoroughly when soil is dry, avoid saturated water
+fertilization: Apply plenty base fertilizer, apply little in the seedling stage, top-dressing chemical fertilizers in peak growth stages if needed
+pruning: Remove dead and diseased branches timely
+temperature: min_temp: 10, max_temp: 35

@@ -1,0 +1,15 @@
+names:
+pyrus serotina, , 
+
+characteristics:
+blooming: Flowering period February-May, fruiting period July-September
+color: Flower color white, fruit color golden yellow or yellow
+size: Diameter ≥ 50 cm, height ≥ 100 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, high quality fruits in sunny places
+watering: Need a lot of water, water thoroughly after soil surface dries
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 8, max_temp: 35

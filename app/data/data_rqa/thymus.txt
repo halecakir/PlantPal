@@ -1,0 +1,15 @@
+names:
+thymus, , 
+
+characteristics:
+blooming: Vanilla plants, flowering period July-August
+color: Flower color white
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Sandy loam
+sunlight: Put in sunny places
+watering: Keep soil moist
+fertilization: Apply organic fertilizers mainly, chemical fertilizer if needed
+pruning: Pruning branches and leaves slightly when plants over grown
+temperature: min_temp: 5, max_temp: 35

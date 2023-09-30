@@ -1,0 +1,15 @@
+names:
+callicarpa dichotoma, Beautyberry (Callicarpa dichotoma), Beautyberry (Callicarpa dichotoma 'Early Amethyst'), Beautyberry (Callicarpa dichotoma 'Issai'), Beautyberry (Callicarpa dichotoma 'Duet'), Beautyberry (Callicarpa dichotoma 'Purple Passion'), Beautyberry (Callicarpa dichotoma Wine Spritzer™), Beautyberry
+
+characteristics:
+blooming: Flowering period May-June, fruiting period July-November
+color: Flower color purple, fruit color purple
+size: Diameter ≥ 20 cm, height ≥ 25 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, resistant to half shade
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 5, max_temp: 32

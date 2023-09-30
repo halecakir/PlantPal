@@ -1,0 +1,15 @@
+names:
+agapanthus praecox, , 
+
+characteristics:
+blooming: Flowering period July-August
+color: Flower color dark blue, white
+size: height ≥ 60 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Likes sunshine, put in sunny places, avoid strong sunlight in summer at noon
+watering: Water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 5, max_temp: 35

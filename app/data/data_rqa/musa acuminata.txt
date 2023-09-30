@@ -1,0 +1,15 @@
+names:
+musa acuminata, Banana (Musa acuminata), Banana (Musa acuminata subsp. burmannica), Banana (Musa acuminata subsp. acuminata), Ice Cream Banana (Musa acuminata 'Blue Java'), Dwarf Banana (Musa acuminata 'Super Dwarf Cavendish'), Banana (Musa acuminata 'Rajapuri'), Dwarf Banana (Musa acuminata 'High Color Mini'), Banana (Musa acuminata 'Dwarf Lady Finger'), Plantain (Musa acuminata 'Williams'), Dwarf Banana (Musa acuminata 'Dwarf Namwah'), Banana (Musa acuminata 'Dwarf Namwah Pearl'), Banana (Musa acuminata subsp. errans), Banana (Musa acuminata subsp. malaccensis), Banana (Musa acuminata subsp. microcarpa), Banana (Musa acuminata subsp. truncata), Banana (Musa acuminata subsp. halabanensis), Banana (Musa acuminata var. sumatrana), Banana (Musa acuminata var. tomentosa), Banana (Musa acuminata 'Poquito'), Banana (Musa acuminata 'Lacatan'), Banana
+
+characteristics:
+blooming: Flowering period July-September, fruiting period August-November
+color: Flower color white, fruit color green and yellow
+size: Diameter ≥ 40 cm, height ≥ 80 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, high quality fruits in sunny places
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 2-3 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 5, max_temp: 35

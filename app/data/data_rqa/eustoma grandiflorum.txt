@@ -1,0 +1,15 @@
+names:
+eustoma grandiflorum, Prairie Gentian (Eustoma exaltatum subsp. russellianum Lizzy™ Pink), Prairie Gentian (Eustoma exaltatum subsp. russellianum Lizzy™ White), Prairie Gentian (Eustoma exaltatum subsp. russellianum Lizzy™ Blue), Prairie Gentian (Eustoma exaltatum subsp. russellianum Cinderella™ Pink), Prairie Gentian (Eustoma exaltatum subsp. russellianum 'Sapphire Blue Chip'), Prairie Gentian (Eustoma exaltatum subsp. russellianum Cinderella™ Ivory), Prairie Gentian (Eustoma exaltatum subsp. russellianum 'Echo Champagne'), Prairie Gentian (Eustoma exaltatum subsp. russellianum 'Echo Light Blue'), Prairie Gentian (Eustoma exaltatum subsp. russellianum 'Echo Lilac Rose'), Prairie Gentian (Eustoma exaltatum subsp. russellianum 'Echo Blue'), Lisianthus (Eustoma exaltatum subsp. russellianum 'Heidi Blue Rim'), Prairie Gentian (Eustoma exaltatum subsp. russellianum 'Mermaid Pink'), Prairie Gentian (Eustoma exaltatum subsp. russellianum Mariachi® Misty Pink), Prairie Gentian (Eustoma exaltatum subsp. russellianum 'Florida Silver'), Prairie Gentian (Eustoma exaltatum subsp. russellianum 'Echo Yellow'), Prairie Gentian (Eustoma exaltatum subsp. russellianum 'Lisa Lavender'), Prairie Gentian (Eustoma exaltatum subsp. russellianum 'Lisa Blue'), Prairie Gentian (Eustoma exaltatum subsp. russellianum Cinderella™ Yellow), Prairie Gentian (Eustoma exaltatum subsp. russellianum 'Forever Blue'), Lisianthus (Eustoma exaltatum subsp. russellianum Cinderella™ Blue), Prairie Gentian
+
+characteristics:
+blooming: Flowering period April-August, viewing period 2-3 weeks
+color: Flower color dark purple, pink, purple red, green, pure white, white flower with purple edges, white flower with red edges
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Long-day plant, likes sunshine, but avoid very strong sunlight
+watering: Water thoroughly when soil is dry, water daily in summer
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove old, diseased and dead leaves timely
+temperature: min_temp: 8, max_temp: 32

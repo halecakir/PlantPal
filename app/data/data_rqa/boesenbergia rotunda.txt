@@ -1,0 +1,15 @@
+names:
+boesenbergia rotunda, Chinese Ginger (Boesenbergia rotunda), Chinese Ginger
+
+characteristics:
+blooming: Flowering period July-August
+color: Flower color pink
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Resistant to shade, put in places with scattered light
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove dead and pest-infested branches frequently
+temperature: min_temp: 8, max_temp: 32

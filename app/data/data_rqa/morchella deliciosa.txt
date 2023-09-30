@@ -1,0 +1,15 @@
+names:
+morchella deliciosa, , NONE
+
+characteristics:
+blooming: Fungus, no flowering
+color: the body is brown
+size: Diameter≥3cm，Height≥5cm
+
+caretaking:
+soil: Weakly alkaline soil, rotten straw, sawdust, lime in mixture
+sunlight: Weak scattered light, avoid direct sunlight
+watering: Keep moist, spray water everyday
+fertilization: Add phosphatic fertilizer when planting
+pruning: Remove rotten parts timely
+temperature: min_temp: 5, max_temp: 32

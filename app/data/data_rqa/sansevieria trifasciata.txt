@@ -1,0 +1,15 @@
+names:
+sansevieria trifasciata, Bird's Nest Snake Plant (Dracaena trifasciata 'Hahnii Silver Frost'), Bird's Nest Snake Plant (Dracaena trifasciata 'Golden Hahnii'), Snake Plant (Dracaena trifasciata 'Moonshine'), Snake Plant (Dracaena trifasciata 'Black Gold'), Snake Plant (Dracaena trifasciata 'Forescate'), Bird's Nest Snake Plant (Dracaena trifasciata 'Silver Queen'), Snake Plant (Dracaena trifasciata), Bird's Nest Snake Plant (Dracaena trifasciata 'Hahnii'), Bird's Nest Snake Plant (Dracaena trifasciata 'Hahnii Marginated'), Bird's Nest Snake Plant (Dracaena trifasciata 'Jade Dwarf Marginated'), Mother-in-law's tongue (Dracaena trifasciata 'Laurentii'), Snake plant (Dracaena trifasciata 'Silver Laurentii'), Snake Plant (Dracaena trifasciata 'Compacta'), Snake Plant (Dracaena trifasciata 'Gold Flame'), Snake Plant (Dracaena trifasciata 'Twist'), Snake Plant (Dracaena trifasciata 'Whitney'), Snake Plant (Dracaena trifasciata 'Black Coral'), Snake Plant (Dracaena trifasciata 'Asahi'), Snake Plant (Dracaena trifasciata 'Goldedge'), Mother in Law's Tongue (Dracaena trifasciata 'Black Dragon'), Bird's Nest Snake Plant
+
+characteristics:
+blooming: Foliage plants, sometimes flowers in November-December, white flowers
+color: Leaf color gray white, pale yellow and dark green in mixture
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: No strict requirements on the soil, better planted in sandy loam
+sunlight: Resistant to half shade, likes moderate sunshine, avoid direct strong light
+watering: Resistant to drought, water thoroughly when soil is dry, reduce water in winter dormancy
+fertilization: Dilute fertilizers following instructions, dilute fertilizers following instructions,  in early summer, spring and autumn apply fertilizers once monthly, except winter in dormancy
+pruning: Remove dead, yellowish and disease leaves timely
+temperature: min_temp: 10, max_temp: 32

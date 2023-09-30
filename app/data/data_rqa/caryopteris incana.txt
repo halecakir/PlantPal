@@ -1,0 +1,15 @@
+names:
+caryopteris incana, Bluebeard (Caryopteris incana), Bluebeard (Caryopteris incana 'Blue Myth'), Bluebeard (Caryopteris incana Sunshine Blue®), Common Bluebeard (Caryopteris incana var. incana), Bluebeard (Caryopteris incana Sunshine Blue® II), Bluebeard (Caryopteris incana Pagoda™ Lagoon), Bluebeard (Caryopteris incana Pagoda™ Ocean), Bluebeard (Caryopteris incana Pagoda™ Blush), Jiangxi Bluebeard (Caryopteris incana var. angustifolia), Common Bluebeard (Caryopteris incana var. incana 'Blue Billows'), Common Bluebeard (Caryopteris incana 'Rosea'), Common Bluebeard (Caryopteris incana 'Alba'), Common Bluebeard (Caryopteris incana var. incana 'Candida'), Common Bluebeard (Caryopteris incana 'Autumn Pink'), Common Bluebeard (Caryopteris incana var. incana 'Nana'), Common Bluebeard (Caryopteris incana 'Blue Cascade'), Common Bluebeard (Caryopteris incana 'Delft Blue'), Common Bluebeard (Caryopteris incana 'Cary'), Bluebeard (Caryopteris incana Pavilion™ Pink), Bluebeard (Caryopteris incana Pavilion™ Blue), Bluebeard
+
+characteristics:
+blooming: Flowering period June-October
+color: Flower color blue
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, resistant to half shade
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 5, max_temp: 32

@@ -1,0 +1,15 @@
+names:
+iris domestica, , NONE
+
+characteristics:
+blooming: Flowering period June-August, fruiting period July-September
+color: Flower color orange red, with scattered purple brown dots, fruit color yellow green
+size: Diameter ≥ 20 cm, height 15-20 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like half shade, may grow in places with bright scattered light
+watering: Only need keep soil moist
+fertilization: Apply fertilizers monthly in vegetative stages
+pruning: Remove old, diseased and dead leaves timely
+temperature: min_temp: 10, max_temp: 32

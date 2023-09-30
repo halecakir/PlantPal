@@ -1,0 +1,15 @@
+names:
+leycesteria formosa, Himalayan Honeysuckle (Leycesteria formosa), Pheasant Berry (Leycesteria formosa Golden Lanterns®), Pheasant Berry (Leycesteria formosa 'Gold Leaf'), Himalayan Honeysuckle (Leycesteria formosa 'Jealousy'), Himalayan Honeysuckle (Leycesteria formosa 'Purple Rain'), Himalayan Honeysuckle
+
+characteristics:
+blooming: Flowering and fruiting period May-October
+color: Flower color white or pink, sometimes with fuchsia
+size: Diameter ≥ 20 cm, height 20-30 cm
+
+caretaking:
+soil: Likes loose and fertile loam
+sunlight: Like half shade, may grow in places with bright scattered light
+watering: Keep soil moist
+fertilization: Mainly use base fertilizers, top-dressing at the late stages
+pruning: Remove dead and diseased branches timely
+temperature: min_temp: 10, max_temp: 32

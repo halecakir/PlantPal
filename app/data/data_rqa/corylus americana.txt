@@ -1,0 +1,15 @@
+names:
+corylus americana, , 
+
+characteristics:
+blooming: Flowering period March-May, fruiting period September-November
+color: Flower color yellow brown, fruit color brown
+size: Diameter ≥ 15 cm, height ≥ 25 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, grows in a sunny place and avoid strong wind
+watering: Likes wet environments, water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 8, max_temp: 35

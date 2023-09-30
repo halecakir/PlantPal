@@ -1,0 +1,15 @@
+names:
+ilex x meserveae, Blue Holly (Ilex 'Meserveae'), Meserve Holly (Ilex Golden Girl®), Blue Holly (Ilex Blue Prince), Blue Holly (Ilex Blue Maid®), Blue Holly (Ilex 'Honey Maid'), Meserve Holly (Ilex 'Blue Boy'), Meserve Holly (Ilex 'Blue Girl'), Blue Holly (Ilex Blue Stallion®), Blue Holly (Ilex 'China Boy'), Blue Holly (Ilex China Girl®), Blue Holly (Ilex Castle Spire®), Meserve Holly (Ilex 'Blue Baron'), Meserve Holly (Ilex Castle Gold™), Meserve Holly (Ilex Blue Angel), Meserve Holly (Ilex 'Little Gloss'), Meserve Holly (Ilex 'Casanova'), Meserve Holly (Ilex 'Golden Prince'), Meserve Holly (Ilex Blue Bunny), Meserve Holly (Ilex 'Goliath'), Meserve Holly (Ilex Little Rascal®), Blue Holly
+
+characteristics:
+blooming: Flowering period April-June, fruiting period July-December
+color: Flower color pink, fruit color red
+size: Diameter ≥ 15 cm, height ≥ 25 cm
+
+caretaking:
+soil: Acidic soil with loose texture or soil with specific nutrients
+sunlight: Likes half shade, grows in places with scattered light
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 4, max_temp: 35

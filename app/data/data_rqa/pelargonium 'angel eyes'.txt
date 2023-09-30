@@ -1,0 +1,15 @@
+names:
+pelargonium 'angel eyes', Storksbill (Pelargonium Angeleyes® Randy), Scented-leaved Geranium (Pelargonium Angeleyes® Orange), Pelargonium (Pelargonium crispum Angel Eyes Light), Pelargonium 'Deerwood Angel Eyes', Geranium (Pelargonium Angeleyes® Patio Orange), Geranium (Pelargonium Angeleyes® Picotee), Scented-leaved Geranium (Pelargonium Angeleyes® Viola), Scented-leaved Geranium (Pelargonium Angeleyes® Burgundy), Scented-leaved Geranium (Pelargonium Angeleyes® Bicolor), Storksbill (Pelargonium Angeleyes® Blueberry), Storksbill
+
+characteristics:
+blooming: Flowering period May-July, viewing period 2-3 weeks
+color: Flower color pink, white
+size: Diameter ≥ 10 cm, height ≥ 10 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Likes light, in spring and autumn put in sunny places, in summer place in a cool ventilated place
+watering: Water thoroughly when soil is dry, half dormant in summer, reduce water and fertilization
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly in spring and autumn
+pruning: Remove old, diseased and dead leaves timely
+temperature: min_temp: 8, max_temp: 32

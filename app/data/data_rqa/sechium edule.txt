@@ -1,0 +1,15 @@
+names:
+sechium edule, Chayote (Sechium edule), Chayote (Sechium edule 'Dark-green-fruited'), Chayote (Sechium edule 'Pale-green-fruited'), Chayote (Sechium edule 'Round-fruited'), Chayote (Sechium edule 'Spiny-fruited'), Chayote (Sechium edule 'Thin-fruited'), Chayote (Sechium edule 'White-fruited'), Chokos (Sechium edule 'Chokos'), Chayote
+
+characteristics:
+blooming: Flowering period July-September, fruiting period August-October
+color: Flower color light yellow, fruit color light green
+size: Diameter ≥ 10 cm, can climb
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Grows in sunny places
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead, rotten, diseased leaves timely
+temperature: min_temp: 8, max_temp: 35

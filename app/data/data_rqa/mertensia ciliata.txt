@@ -1,0 +1,15 @@
+names:
+mertensia ciliata, Tall Fringed Bluebells (Mertensia ciliata), Mertensia ciliata var. stomatechoides, Tall Fringed Bluebells
+
+characteristics:
+blooming: Flowering period June-August
+color: Flower color blue
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Resistant to shade, put in places with bright scattered light
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 10, max_temp: 32

@@ -1,0 +1,15 @@
+names:
+hypericum 'green jewel', St. John's Wort (Hypericum), Tall Tutsan (Hypericum x inodorum First Editions® Pumpkin), Hypericum (Hypericum kalmianum First Editions® Cobalt-n-Gold™), Tall Tutsan (Hypericum x inodorum First Editions® Red Star), Hypericum (Hypericum kelleri), Scouler's St. Johnswort (Hypericum scouleri), St. Peterswort (Hypericum crux-andreae), Marsh St. John's Wort (Hypericum elodes), Scrub St. John's-Wort (Hypericum tenuifolium), Alpine St. John's Wort (Hypericum cerastoides), Hypericum mutilum subsp. boreale, Hypericum ascyron subsp. pyramidatum, Hypericum denticulatum subsp. acutifolium, Hypericum maculatum subsp. obtusiusculum, Hypericum nitidum subsp. exile, Hypericum annulatum subsp. afromontanum, Hypericum richeri subsp. grisebachii, Hypericum linarioides, Hypericum bithynicum, Orchid (Cymbidium Hypericum), St. John's Wort
+
+characteristics:
+blooming: Plants with ornamental fruits
+color: Flower color yellow, fruit color green
+size: Diameter ≥ 15 cm, height ≥ 15 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Likes sunshine, also resistant to half shade
+watering: Likes wet environments, water thoroughly when soil is dry, do not spray water on fruits
+fertilization: Dilute fertilizers following instructions, apply once monthly
+pruning: Remove old, diseased and dead leaves timely
+temperature: min_temp: 8, max_temp: 35

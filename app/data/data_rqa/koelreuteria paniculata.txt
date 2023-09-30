@@ -1,0 +1,15 @@
+names:
+koelreuteria paniculata, Golden Rain Tree (Koelreuteria paniculata), Golden Rain Tree (Koelreuteria paniculata 'September'), Golden Rain Tree (Koelreuteria paniculata 'Rose Lantern'), Columnar Golden Rain Tree (Koelreuteria paniculata 'Fastigiata'), Goldenrain Tree (Koelreuteria paniculata Golden Candle™), Golden Rain Tree (Koelreuteria paniculata Summerburst®), Goldenrain Tree (Koelreuteria paniculata 'Coral Sun'), Golden Rain Tree
+
+characteristics:
+blooming: Flowering period June-August, fruiting period September-October
+color: Flower color yellow
+size: Diameter ≥ 20 cm, height ≥ 25 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Likes sunshine, put in sunny places, avoid strong sunlight in summer at noon
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 5, max_temp: 32

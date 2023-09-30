@@ -1,0 +1,15 @@
+names:
+podocarpus neriifolius, Podocarpus neriifolius, Podocarpus neriifolius var. neriifolius, Podocarpus neriifolius var. degeneri, Podocarpus neriifolius
+
+characteristics:
+blooming: Flowering period May
+color: Evergreen, inflorescence color yellow green
+size: height ≥ 25m
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like half shade, may grow in places with bright scattered light
+watering: Water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 8, max_temp: 32

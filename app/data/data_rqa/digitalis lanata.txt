@@ -1,0 +1,15 @@
+names:
+digitalis lanata, , 
+
+characteristics:
+blooming: Flowering period May-Junefruiting period June-July
+color: Flower color white, red, pink
+size: height about 100 cm
+
+caretaking:
+soil: Sandy loam
+sunlight: Like sunlight, put in sunny places
+watering: Only need keep soil moist
+fertilization: Apply more fertilizers at seedling stages
+pruning: Remove diseased and dead leaves timely
+temperature: min_temp: 5, max_temp: 35

@@ -1,0 +1,15 @@
+names:
+magnolia sieboldii, , 
+
+characteristics:
+blooming: Flowering period April-May, fruiting period September-October
+color: Flower color white
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Resistant to shade, put in places with scattered light
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Need more fertilization, dilute fertilizers following instructions, apply 2-3 times monthly
+pruning: Need pruning frequently, remove sprouts from the roots and some branches and leaves timely
+temperature: min_temp: 8, max_temp: 32

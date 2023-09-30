@@ -1,0 +1,15 @@
+names:
+abies nordmanniana, Nordmann Fir (Abies nordmanniana), Caucasian Fir (Abies nordmanniana subsp. nordmanniana 'Brandt'), Nordmann Fir (Abies nordmanniana subsp. nordmanniana 'Golden Spreader'), Nordmann Fir (Abies nordmanniana subsp. nordmanniana 'Tortifolia'), Nordmann Fir (Abies nordmanniana subsp. nordmanniana), Abies nordmanniana 'Trautmann', Nordmann Fir (Abies nordmanniana 'Pendula'), Nordmann Fir (Abies nordmanniana subsp. nordmanniana 'Pévé Hasselt'), Nordmann Fir (Abies nordmanniana 'Münsterland'), Nordmann Fir (Abies nordmanniana 'Arne's Dwarf'), Trojan Fir (Abies Abies nordmanniana subsp. equi-trojani 'Franke'), Nordmann Fir (Abies nordmanniana 'Dobrichovice'), Nordmann Fir (Abies nordmanniana 'Petra'), Nordmann Fir (Abies nordmanniana 'Hexenbesen Berlin'), Nordmann Fir (Abies nordmanniana 'LIttle Nordie'), Trojan Fir (Abies nordmanniana subsp. equi-trojani), Nordmann Fir
+
+characteristics:
+blooming: Flowering period May, fruiting period October
+color: Leaf color green
+size: Diameter ≥ 15 cm, height ≥ 30 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like sunshine, slight shade tolerance
+watering: Likes wet environments, water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Pruning accordingly for any favorate tree shapes
+temperature: min_temp: 6, max_temp: 35

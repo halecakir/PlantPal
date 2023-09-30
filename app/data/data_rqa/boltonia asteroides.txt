@@ -1,0 +1,15 @@
+names:
+boltonia asteroides, False Aster (Boltonia asteroides), Boltonia asteroides var. asteroides, False Aster (Boltonia asteroides 'Pink Beauty'), False Chamomile (Boltonia asteroides var. latisquama Jim Crockett), False Aster (Boltonia asteroides var. latisquama 'Nana'), False Aster (Boltonia asteroides var. latisquama 'Snowbank'), Bolton's Aster (Boltonia asteroides 'Nana'), Boltonia asteroides var. latisquama, Boltonia asteroides var. recognita, False Aster (Boltonia asteroides 'Nally’s Lime Dot'), False Aster
+
+characteristics:
+blooming: September-November flowering period, viewing period 3-4 weeks
+color: Flower color white, pink, light purple
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Likes sunshine, avoid strong direct light
+watering: Keep soil moist, water and drain timely
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: After flowering remove the withered flowers, the part on the ground will wither in winter, the plant germinates again in spring
+temperature: min_temp: 8, max_temp: 32

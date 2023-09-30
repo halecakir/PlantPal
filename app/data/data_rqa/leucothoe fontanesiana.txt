@@ -1,0 +1,15 @@
+names:
+leucothoe fontanesiana, Highland Doghobble (Leucothoe fontanesiana), Drooping Leucothoe (Leucothoe Scarletta®), Dwarf Drooping Leucothoe (Leucothoe fontanesiana 'Nana'), Dwarf Drooping Leucothoe (Leucothoe fontanesiana 'Lovita'), Dwarf Drooping Leucothoe (Leucothoe fontanesiana 'Cherry Hill'), Drooping Leucothoe (Leucothoe fontanesiana 'Trivar'), Dwarf Drooping Leucothoe (Leucothoe fontanesiana 'Mary Elizabeth'), Dwarf Drooping Leucothoe (Leucothoe fontanesiana 'Rollisonii'), Fetterbush (Leucothoe fontanesiana 'Rainbow'), Leucothoe (Leucothoe fontanesiana Whitewater®), Drooping Laurel (Leucothoe fontanesiana 'Makijaz'), Highland Doghobble
+
+characteristics:
+blooming: Year around
+color: Flower color white
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Likes acidic soil
+sunlight: Like sunshine, slightly resistant to half shade
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Need more fertilization, dilute fertilizers following instructions, apply 2-3 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 5, max_temp: 35

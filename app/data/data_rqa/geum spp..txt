@@ -1,0 +1,15 @@
+names:
+geum spp., , 
+
+characteristics:
+blooming: Flowering and fruiting periodJuly-October
+color: Flower color yellow
+size: Diameter ≥ 15 cm, height ≥ 25 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like sunshine, resistant to half shade, avoid strong direct light
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove old, diseased and dead leaves timely, after flowering remove the upper part staring from 5 cm above soil surface, leaving 3-5 leaves
+temperature: min_temp: 5, max_temp: 35

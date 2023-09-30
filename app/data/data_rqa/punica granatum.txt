@@ -1,0 +1,15 @@
+names:
+punica granatum, Pomegranates (Punica granatum), Dwarf Pomegranate (Punica granatum 'Nana'), Pomegranate (Punica granatum 'Tayosho'), Pomegranate (Punica granatum 'Wonderful'), Pomegranate (Punica granatum 'Ato Shibori'), Pomegranate (Punica granatum 'Sarasa Shibori'), Pomegranate (Punica granatum 'Omi'), Pomegranate (Punica granatum 'Shirobotan'), Pomegranate (Punica granatum 'Twisted Trunk'), Dwarf Pomegranate (Punica granatum 'Emperor'), Dwarf Pomegranate (Punica granatum 'Lone Pine'), Pomegranate (Punica granatum 'Hiza Kuro'), Pomegranate (Punica granatum 'Judai Zakuro'), Pomegranate (Punica granatum 'Ambrosia'), Pomegranate (Punica granatum 'Garnet Sash'), Pomegranate (Punica granatum 'Kashmir'), Pomegranate (Punica granatum 'Sin Pepe'), Dwarf Pomegranate (Punica granatum 'Red Silk'), Pomegranate (Punica granatum 'Sharp Velvet'), Pomegranate (Punica granatum 'Sweet'), Pomegranates
+
+characteristics:
+blooming: Flowering period May-June, fruiting period September-October
+color: Flower color red, fruit color red, light red or white
+size: Diameter ≥ 40 cm, height 50-80 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Likes light, high quality fruits and bright colors in sunny places
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 6, max_temp: 35

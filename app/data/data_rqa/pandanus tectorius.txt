@@ -1,0 +1,15 @@
+names:
+pandanus tectorius, Screw Pine (Pandanus tectorius), Thatch Screw Pine (Pandanus tectorius 'Laevis'), Pandanus tectorius 'Veitchii', Pandanus tectorius 'Sanderi', Pandan (Pandanus tectorius 'Aspwihrek'), Pandan (Pandanus tectorius 'Enewedak'), Pandan (Pandanus tectorius 'Misimisi'), Variegated Dwarf Pandanus (Pandanus tectorius 'Variegata'), Thatch Screwpine (Pandanus tectorius 'Ļōjokdād'), Thatch Screwpine (Pandanus tectorius 'Fala'hola'), Thatch Screwpine (Pandanus tectorius 'Kie'), Screw Pine
+
+characteristics:
+blooming: Flowering period August-September
+color: Male flower yellow white, female flowers green, fruit color yellow
+size: Diameter ≥ 15 cm, height ≥ 30 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, slightly resistant to half shade
+watering: Resistant to flood, water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove and shape excessive branches
+temperature: min_temp: 8, max_temp: 35

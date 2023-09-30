@@ -1,0 +1,15 @@
+names:
+citrus reticulata, Tangerine (Citrus reticulata), Satsuma Orange (Citrus reticulata 'Owari'), Satsuma Orange (Citrus reticulata 'Miho'), Mandarin (Citrus reticulata 'Shekwasha'), Tangerine (Citrus reticulata 'Fallglo'), Satsuma Orange (Citrs reticulata 'Seto'), Mandarin Orange (Citrus reticulata 'Clementine'), Mandarin Orange (Citrus reticulata 'Murcott'), Mandarin Orange (Citrus reticulata 'Sunburst'), Mandarin Orange (Citrus reticulata 'Dancy'), Orange (Citrus reticulata 'Satsuma'), Mandarin Orange (Citrus reticulata 'Ponkan'), Mandarin Orange (Citrus reticulata 'Changsha'), Satsuma Orange (Citrus reticulata 'Brown's Select'), Citrus reticulata 'Golden Nugget', Citrus reticulata 'Seedless Kishu', Satsuma Orange (Citrus reticulata Orange Frost™), Satsuma Orange (Citrus reticulata Arctic Frost™), Mandarin (Citrus reticulata 'Hongju 420'), Citrus reticulata 'Encore', Tangerine
+
+characteristics:
+blooming: Flowering period April-May, fruiting period October-December
+color: Flower color white, fruit yellow
+size: Diameter ≥ 15 cm, height ≥ 25 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, slight resistant to shade, high quality fruits in sunny places
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 6, max_temp: 35

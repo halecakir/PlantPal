@@ -1,0 +1,15 @@
+names:
+bouvardia hybrida, , 
+
+characteristics:
+blooming: Flowering period June-Sptember
+color: Flower color red, pink and white
+size: Diameter≥10cm，Height≥15cm
+
+caretaking:
+soil: Sandy loam with good drainage
+sunlight: Like mild sunlight, avoid direct strong light
+watering: Water thoroughly when the soil surface is dry
+fertilization: Dilute fertilizers following instructions, apply once monthly in spring and autumn
+pruning: Remove old, diseased and dead leaves timely
+temperature: min_temp: 10, max_temp: 32

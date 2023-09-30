@@ -1,0 +1,15 @@
+names:
+orostachys boehmeri, Japanese Dunce's Cap (Orostachys boehmeri), Japanese Dunce's Cap (Orostachys boehmeri 'Keiko'), Japanese Dunce's Cap
+
+characteristics:
+blooming: Succulent plants, sometimes flowers
+color: Leaf color gray green to blue green
+size: Diameter ≥ 3 cm, height ≥ 5 cm
+
+caretaking:
+soil: Peat and akadama mixed in 3:1 ratio
+sunlight: Likes adequate light, dormant in winter, shade properly under summer strong light
+watering: Resistant to drought, less water to avoid overgrowing
+fertilization: Dilute fertilizers following instructions, apply once every 1-2 months
+pruning: Remove dead and rotten part timely
+temperature: min_temp: 5, max_temp: 35

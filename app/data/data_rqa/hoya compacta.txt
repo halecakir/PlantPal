@@ -1,0 +1,15 @@
+names:
+hoya compacta, Wax Plant (Hoya compacta), Wax Plant (Hoya carnosa 'Mauna Loa'), Wax Plant (Hoya carnosa  'Krinkle Kurl'), Wax Plant (Hoya carnosa 'Variegata'), Wax Plant (Hoya carnosa 'Compacta'), Wax Plant (Hoya carnosa 'Compacta Regalis'), Wax Plant
+
+characteristics:
+blooming: Flowering period April-June, fruiting period July-August
+color: Flower colorlight pink, leaf color green
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Soil with loose texture or special humus soil
+sunlight: Grows in places with bright scattered light
+watering: Water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead, rotten, diseased leaves timely
+temperature: min_temp: 10, max_temp: 32

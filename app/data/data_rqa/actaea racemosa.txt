@@ -1,0 +1,15 @@
+names:
+actaea racemosa, , 
+
+characteristics:
+blooming: Flowering period July-September, fruiting period August-October
+color: Flower color yellow white
+size: Diameter ≥ 20 cm, height 20-30 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like half shade, may grow in places with bright scattered light
+watering: Water thoroughly when soil is dry
+fertilization: Mix proper amount of slow-release fertilizers when planting, apply liquid fertilizers 1-2 times monthly
+pruning: Remove dead and diseased branches timely
+temperature: min_temp: 8, max_temp: 32

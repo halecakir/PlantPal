@@ -1,0 +1,15 @@
+names:
+scindapsus pictus, Satin Pothos (Scindapsus pictus), Satin Pothos (Scindapsus pictus 'Argyraeus'), Silver Philodendron (Scindapsus pictus 'Exotica'), Satin Pothos (Scindapsus pictus 'Platinum'), Satin Pothos (Scindapsus pictus 'Supha10'), Satin Pothos (Scindapsus pictus 'Silvery Ann'), Satin Pothos (Scindapsus pictus 'Green Satin'), Satin Pothos
+
+characteristics:
+blooming: Foliage plants, rarely flowers
+color: Leaf color silver green with dots
+size: Diameter ≥ 20 cm, height ≥ 25 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Resistant to shade, put in places with scattered light
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 10, max_temp: 32

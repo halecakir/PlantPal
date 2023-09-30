@@ -1,0 +1,15 @@
+names:
+drimiopsis kirkii, , 
+
+characteristics:
+blooming: Flowering time April-September
+color: Flower color light green，leaf green with purple dotted
+size: Diameter≥10cm，Height18-22cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Long-day plant, plant in place with sufficient sunlight
+watering: Water thoroughly when soil surface is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply once monthly in spring and autumn
+pruning: Remove flower stem, diseased and rotten leaves timely
+temperature: min_temp: 8, max_temp: 32

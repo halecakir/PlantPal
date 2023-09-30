@@ -1,0 +1,15 @@
+names:
+haworthia retusa var. riyuetan, , NONE
+
+characteristics:
+blooming: Succulent plants, sometimes flowers, white flowers
+color: Leaf color green to light purple
+size: Diameter ≥ 5 cm, height 5-10 cm
+
+caretaking:
+soil: Peat and akadama mixed in 3:1 ratio
+sunlight: Like half shade, put in places with scattered light, avoid strong direct light
+watering: Resistant to drought, water thoroughly when soil is dry, reduce water in summer
+fertilization: Dilute fertilizers following instructions,  apply once every 1-2 months in spring and autumn
+pruning: Remove dead and rotten part timely
+temperature: min_temp: 5, max_temp: 35

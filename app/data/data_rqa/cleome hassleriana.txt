@@ -1,0 +1,15 @@
+names:
+cleome hassleriana, Spider Flower (Tarenaya houtteana), Spider Flower (Tarenaya houtteana 'Cherry Queen'), Spider Flower (Tarenaya houtteana 'Pink Queen'), Spider Flower (Tarenaya hassleriana 'Rose Queen'), Spider Flower (Tarenaya houtteana 'Violet Queen'), Spider Flower (Tarenaya houtteana 'White Queen'), Spider Flower (Tarenaya houtteana 'Sparkler Blush'), Spider Flower (Tarenaya houtteana 'Linde Armstrong'), Spider Flower (Tarenaya houtteana 'Queen Mix'), Spider Flower (Tarenaya houtteana 'Sparkler Mix'), Spider Flower (Tarenaya houtteana 'Colour Fountain'), Spider Flower (Tarenaya houtteana 'Sparkler White'), Spider Flower (Tarenaya houtteana Spirit® Appleblossom), Tarenaya houtteana Spirit® Frost, Tarenaya houtteana Spirit® Merlot, Tarenaya houtteana Spirit® Violeta, Spider Flower (Tarenaya houtteana 'Sparkler Rose'), Cleome (Tarenaya houtteana 'Sparkler Lavender'), Spider Flower (Cleome hassleriana Sparkler™ 2.0 Blush), Spider Flower (Cleome hassleriana Sparkler™ 2.0 Lavender), Spider Flower
+
+characteristics:
+blooming: Flowering period late summer to early autumn, fruiting period late summer to early autumn
+color: Flower color pink, rarely white, leaf color green
+size: Diameter ≥ 10 cm, height ≥ 15 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like sunshine, grows in sunny places
+watering: Water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead, rotten, diseased leaves timely
+temperature: min_temp: 8, max_temp: 32

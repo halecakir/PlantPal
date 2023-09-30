@@ -1,0 +1,15 @@
+names:
+thuja occidentalis, , 
+
+characteristics:
+blooming: Flowering period April-June, fruiting period October-November
+color: Leaf color green , fruit color black
+size: Diameter ≥ 15 cm, height ≥ 25 cm
+
+caretaking:
+soil: Alkaline soil with loose texture or soil with specific nutrients
+sunlight: Like moderate light, avoid scorching light
+watering: Likes wet environments, water thoroughly when soil is dry, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 5, max_temp: 35

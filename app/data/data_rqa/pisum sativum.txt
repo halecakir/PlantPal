@@ -1,0 +1,15 @@
+names:
+pisum sativum, , 
+
+characteristics:
+blooming: Flowering and fruiting period April-May
+color: Flower color white, fuchsia, fruit color blue green, yellow white, red, brown, black
+size: Diameter ≥ 10 cm, can climb
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients, pH value 6.5
+sunlight: Like sunshine, grows in sunny places
+watering: Resistant to drought,water thoroughly after soil surface dries, avoid saturated water
+fertilization: No need to give extra fertilizer before fruiting
+pruning: Remove aged tissues, dead, rotten, diseased leaves timely
+temperature: min_temp: 5, max_temp: 35

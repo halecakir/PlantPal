@@ -1,0 +1,15 @@
+names:
+mitchella repens, , 
+
+characteristics:
+blooming: Flowering period in autumn, fruiting period in winter
+color: Flower color white, fruit color red
+size: Diameter ≥ 20 cm, height 20-30 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like sunshine, resistant to half shade
+watering: Watering only when soil is dry, water thoroughly
+fertilization: Apply enough base fertilizers
+pruning: No need pruning
+temperature: min_temp: 5, max_temp: 35

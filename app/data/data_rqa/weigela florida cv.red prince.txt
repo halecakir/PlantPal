@@ -1,0 +1,15 @@
+names:
+weigela florida cv.red prince, , 
+
+characteristics:
+blooming: Flowering period April-June
+color: Flower color purple red or rose red, new branches color light red
+size: Diameter ≥ 20 cm, height ≥ 25 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, resistant to half shade
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 8, max_temp: 35

@@ -1,0 +1,15 @@
+names:
+carthamus tinctorius 'zanzibar', Safflower (Carthamus tinctorius 'Zanzibar'), Safflower
+
+characteristics:
+blooming: Flowering and fruiting period May-August
+color: Flower color yellow
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Likes sunshine, put in sunny places, avoid strong sunlight in summer at noon
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 8, max_temp: 35

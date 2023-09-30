@@ -1,0 +1,15 @@
+names:
+bidens ferulifolia, Bur Marigold (Bidens aurea 'Gold Marie'), Bur Marigold (Bidens aurea 'Goldie'), Arizona Beggarticks (Bidens aurea), Bur Marigold (Bidens aurea Solaire® Yellow), Bur Marigold (Bidens aurea 'Smiley'), Bur Marigold (Bidens aurea 'Golden Star'), Arizona Beggarticks (Bidens aurea Sunbeam), Arizona Beggarticks (Bidens aurea 'Bidy Gonzales'), Arizona Beggarticks (Bidens aurea Peter's Gold Carpet), Bidens (Bidens aurea Mexican Gold™), Arizona Beggarticks (Bidens aurea Solaire® Golden), Bidens (Bidens aurea 'Orange Drop'), Beggarticks (Bidens aurea 'Yellow Charm'), Bidens (Bidens aurea 'Golden Goddess'), Arizona Beggarticks (Bidens aurea 'Rapid Yellow'), Bidens (Bidens aurea 'Red Drop'), Arizona Beggarticks (Bidens aurea Beedance® Painted Red), Arizona Beggarticks (Bidens aurea Beedance® Red Stripe), Arizona Beggarticks (Bidens aurea Namid™ Compact Double Yellow), Arizona Beggarticks (Bidens aurea Namid™ Compact Yellow), Bur Marigold
+
+characteristics:
+blooming: Flowering and fruiting period August-October
+color: Flower color yellow, fruit color black
+size: Diameter ≥ 20 cm, height 20-30 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like sunlight,resistant to half shade
+watering: Water thoroughly when soil is dry, avoid saturated water
+fertilization: Apply plenty base fertilizer
+pruning: Remove dead and diseased branches timely
+temperature: min_temp: 8, max_temp: 32

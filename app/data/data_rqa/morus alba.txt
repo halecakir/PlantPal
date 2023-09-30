@@ -1,0 +1,15 @@
+names:
+morus alba, White Mulberry (Morus alba), White Mulberry (Morus alba 'Chaparral'), Weeping White Mulberry (Morus alba 'Pendula'), White Mulberry Tree (Morus alba 'Beautiful Day'), White Mulberry Tree (Morus alba 'Nuclear Blast'), Contorted Mulberry (Morus alba 'Unryu'), White Mulberry (Morus alba 'Shangri La'), White Mulberry (Morus alba 'Pakistan'), White Mulberry Tree (Morus alba 'Bellaire'), White Mulberry (Morus alba 'White Shahtoot'), White Mulberry (Morus alba 'Contorted'), White Mulberry (Morus alba 'Oscar's'), White Mulberry (Morus alba 'Sweet Lavender'), White Mulberry (Morus alba 'Paper Dolls'), Mulberry (Morus alba 'Lala Berry'), Mulberry (Morus alba 'Pop Berry'), Morus alba var. emarginata, White Mulberry (Morus alba var. multicaulis), White Mulberry (Morus alba 'Thomas Black'), Korean Mulberry (Morus alba 'Kokuso'), White Mulberry
+
+characteristics:
+blooming: Flowering period April-May, fruiting period May-August
+color: Flower color light green, fruit color red, purpleblack
+size: Diameter ≥ 20 cm, height 20-30 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like sunshine, resistant to half shade
+watering: Watering only when soil is dry, water thoroughly
+fertilization: Top-dressing 4 times a year
+pruning: Pruning in spring for those planted in winter, for those planted in spring, pruning when planting, keep the cuts smooth and even
+temperature: min_temp: 5, max_temp: 35

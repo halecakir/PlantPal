@@ -1,0 +1,15 @@
+names:
+saintpaulia ionantha, African Violet (Streptocarpus ionanthus subsp. ionanthus), African Violet (Streptocarpus ionanthus subsp. orbicularis), African Violet (Streptocarpus ionanthus subsp. mafiensis), African Violet (Streptocarpus ionanthus subsp. velutinus), African Violet (Streptocarpus ionanthus subsp. grotei), African Violet (Streptocarpus ionanthus subsp. grandifolius), African Violet (Streptocarpus ionanthus subsp. occidentalis), African Violet (Streptocarpus ionanthus subsp. pendulus), African Violet (Streptocarpus ionanthus var. diplotrichus), African Violet
+
+characteristics:
+blooming: Flowering period year around
+color: Flower color purple, white, pink
+size: Diameter ≥ 10 cm, height ≥ 10 cm
+
+caretaking:
+soil: Likes loose and breathable soil, peat with some perlite
+sunlight: Like adequate sunlight in winter, put in places with bright scattered light in summer
+watering: Water thoroughly when soil is dry
+fertilization: Need more fertilization, dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove dead and yellowish leaves and withered flowers
+temperature: min_temp: 10, max_temp: 30

@@ -1,0 +1,15 @@
+names:
+centaurea jacea, Brown Knapweed (Centaurea jacea), Centaurea jacea subsp. julica, Centaurea jacea subsp. vinyalsii, Centaurea jacea subsp. dracunculifolia, Centaurea jacea subsp. weldeniana, Centaurea jacea subsp. forojulensis, Centaurea jacea subsp. substituta, Centaurea jacea subsp. timbalii, Centaurea jacea subsp. banatica, Centaurea jacea subsp. gaudinii, Centaurea subjacea, Brown Knapweed (Centaurea jacea subsp. jacea), Centaurea jacea subsp. angustifolia, Centaurea jacea subsp. haynaldii, Brown Knapweed
+
+characteristics:
+blooming: Flowering period February-August, viewing period 3-5 weeks
+color: Flower color blue, purple
+size: Diameter ≥ 10 cm, height 15-18 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Likes sunshine, avoid strong direct light
+watering: Keep soil moist, water and drain timely
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: After flowering remove the withered flowers, the part on the ground will wither in winter, the plant germinates again in spring
+temperature: min_temp: 8, max_temp: 32

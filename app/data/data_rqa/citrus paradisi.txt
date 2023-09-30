@@ -1,0 +1,15 @@
+names:
+citrus paradisi, Grapefruit (Citrus x aurantium 'Ruby Red'), Grapefruit (Citrus x aurantium 'Pink'), Grapefruit (Citrus x aurantium 'Rio Red'), Grapefruit (Citrus x aurantium 'Star Ruby'), Grapefruit (Citrus x aurantium 'Oro Blanco'), Grapefruit (Citrus x aurantium), Grapefruit (Citrus x aurantium 'Duncan'), Grapefruit
+
+characteristics:
+blooming: Flowering period April-May, fruiting period September-December
+color: Flower color light purple red, seldom cream white, fruit color light yellow or yellow green
+size: Diameter ≥ 15 cm, height ≥ 25 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, slight resistant to shade, high quality fruits in sunny places
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 6, max_temp: 35

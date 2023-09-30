@@ -1,0 +1,15 @@
+names:
+grevillea banksii, Silky Oak Tree (Grevillea banksii), Silky Oak Tree
+
+characteristics:
+blooming: Flowering period March-May, fruiting period June-August
+color: Flower color red, pink, white, orange yellow, fruit color brown
+size: Diameter ≥ 20 cm, height ≥ 25 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Likes sunshine, put in sunny places, avoid strong sunlight in summer at noon
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 5, max_temp: 32

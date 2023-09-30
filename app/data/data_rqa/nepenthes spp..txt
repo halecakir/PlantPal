@@ -1,0 +1,15 @@
+names:
+nepenthes spp., , NONE
+
+characteristics:
+blooming: Carnivorous plants, viewing period year around
+color: Flower color green, purple
+size: Diameter ≥ 15 cm, height ≥ 25 cm
+
+caretaking:
+soil: Soil with loose texture or soil with specific nutrients
+sunlight: Like moderate light, avoid strong direct light
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Can feed by self or provide low concentration liquid fertilizer
+pruning: Remove aged tissues, dead, rotten, diseased leaves timely
+temperature: min_temp: 12, max_temp: 35

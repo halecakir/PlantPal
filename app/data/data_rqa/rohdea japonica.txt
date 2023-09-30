@@ -1,0 +1,15 @@
+names:
+rohdea japonica, Sacred Lily (Rohdea japonica), Sacred Lily (Rohdea japonica 'Yattazu Yan Jaku'), Rohdea japonica 'Miyako no Jo', Rohdea japonica 'Nobori Ryu', Rohdea japonica 'Gunjaku', Rohdea japonica 'Mure Suzume', Rohdea japonica 'Shiro Botan', Rohdea japonica var. japonica, Rohdea japonica var. latifolia, Sacred Lily
+
+characteristics:
+blooming: Foliage plants, sometimes flowers in May-June, light yellow flowers
+color: Leaf color green
+size: Diameter≥10cm，Height≥15cm
+
+caretaking:
+soil: Peat mixed with coarse sand soil
+sunlight: Relatively resistant to shade, likes half shade environments
+watering: Likes wet environments, avoid saturated water, reduce watering and fertilization in winter
+fertilization: Dilute fertilizers following instructions,  apply 1-2 times monthly in spring
+pruning: Remove dead and yellowish leaves timely
+temperature: min_temp: 12, max_temp: 32

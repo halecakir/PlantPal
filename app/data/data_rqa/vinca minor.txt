@@ -1,0 +1,15 @@
+names:
+vinca minor, Lesser Periwinkle (Vinca minor), Common Periwinkle (Vinca minor 'La Grave'), Lesser Periwinkle (Vinca minor 'Honeydew'), Flower-of-Death (Vinca minor 'Alba Variegata'), Common Periwinkle (Vinca minor 'Alba'), Wine Periwinkle (Vinca minor 'Atropurpurea'), Periwinkle (Vinca minor 'Illumination'), Variegated Common Periwinkle (Vinca minor 'Argenteo-variegata'), Double-Flowered Azure Vinca (Vinca minor 'Azurea Flore Pleno'), Common Periwinkle (Vinca minor 'Bowles Golden'), Common Periwinkle (Vinca minor 'Ralph Shugert'), Common Periwinkle (Vinca minor 'Multiplex'), Common Periwinkle (Vinca minor 'Sterling Silver'), Vinca (Vinca minor 'Bowles's Variety'), Vinca minor 'Blue and Gold', Vinca minor 'Gertrude Jekyll', Vinca (Vinca minor 'Double Bowles'), Lesser Periwinkle (Vinca minor 'Bowles's Cunningham'), Vinca minor Silver & Gold™, Lesser Periwinkle (Vinca minor Moonlit), Lesser Periwinkle
+
+characteristics:
+blooming: Flowering period February-April
+color: Flower color purple, light blue
+size: Diameter ≥ 20 cm, height ≥ 20 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like sunshine, resistant to half shade
+watering: Water thoroughly after soil surface dries
+fertilization: Dilute fertilizers following instructions,  apply 1-2 times monthly
+pruning: Remove withered flowers, dead and diseased leaves timely
+temperature: min_temp: 8, max_temp: 35

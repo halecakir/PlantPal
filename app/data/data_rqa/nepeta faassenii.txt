@@ -1,0 +1,15 @@
+names:
+nepeta faassenii, Catmint (Nepeta x faassenii 'Dropmore'), Faassen's Catmint (Nepeta x faassenii), Nepeta (Nepeta x faassenii 'Kit Cat'), Nepeta (Nepeta x faassenii 'Select Blue'), Catmint (Nepeta x faassenii 'Walker's Low'), Faassen's Catmint (Nepeta x faassenii 'Six Hills Giant'), Faassen's Catmint (Nepeta x faassenii 'Blue Wonder'), Faassen's Catmint (Nepeta x faassenii 'Pool Bank'), Faassen's Catmint (Nepeta x faassenii 'Snowflake'), Faassen's Catmint (Nepeta x faassenii 'Blue Ice'), Catmint (Nepeta x faassenii 'Alba'), Catmint (Nepeta x faassenii 'Lavender Blue'), Catmint (Nepeta x faassenii Junior Walker™), Catmint (Nepeta x faassenii 'Purrsian Blue'), Catmint (Nepeta x faassenii 'Felix'), Catmint (Nepeta x faassenii 'Kitten Around'), Catmint (Nepeta x faassenii 'Angel's Wings'), Catmint (Nepeta x faassenii Whispurr™ Pink), Catmint (Nepeta x faassenii Whispurr™ Blue), Catmint
+
+characteristics:
+blooming: Vanilla plants, flowering period July-September
+color: Leaf color green , flower color light purple, white, pink
+size: Diameter ≥ 10 cm, height ≥ 10 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Long-day plant, likes adequate sunshine, shade properly under summer noon strong light
+watering: Not resistant to drought, water thoroughly when soil is dry, water thoroughly when soil is dry, water every day in summer, every 2-3 days in other seasons
+fertilization: Need more fertilization, apply once every 10 days with nitrogen liquid fertilizers
+pruning: Remove old diseased and dead leaves timely
+temperature: min_temp: 8, max_temp: 32

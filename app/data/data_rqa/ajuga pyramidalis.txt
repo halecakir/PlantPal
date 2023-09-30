@@ -1,0 +1,15 @@
+names:
+ajuga pyramidalis, Bugleweed (Ajuga pyramidalis), Metallic Pyramidal Bugleweed (Ajuga pyramidalis 'Metallica Crispa'), Metallic Pyramidal Bugleweed (Ajuga pyramidalis 'Purple Crispa'), Bugleweed (Ajuga pyramidalis subsp. pyramidalis), Bugleweed (Ajuga pyramidalis subsp. rotundifolia), Bugleweed
+
+characteristics:
+blooming: Flowering period April-August, flowering period July-September
+color: Flower color red, light blue, blue purple, fruit color gray yellow
+size: Diameter ≥ 20 cm, height 15-20 cm
+
+caretaking:
+soil: Peat or soil with specific nutrients
+sunlight: Like shade environments, put in places with bright scattered light
+watering: Only need keep soil moist
+fertilization: Apply enough base fertilizers
+pruning: In spring pruning and remove old, diseased and dead leaves timely
+temperature: min_temp: 10, max_temp: 32

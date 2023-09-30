@@ -1,0 +1,15 @@
+names:
+acer saccharum, Sugar Maple (Acer saccharum), Black Maple (Acer nigrum 'Green Column'), Sugar Maple (Acer saccharum Fall Fiesta), Sugar Maple (Acer saccharum 'Goldspire'), Sugar Maple (Acer saccharum 'Green Mountain'), Sugar Maple (Acer saccharum 'Newton Sentry'), Black Maple (Acer saccharum 'Sweet Shadow'), Bigtooth Maple (Acer grandidentatum), Chalk Maple (Acer leucoderme), Black Maple (Acer nigrum), Sugar Maple (Acer saccharum subsp. saccharum), Sugar Maple (Acer saccharum Unity®), Sugar Maple (Acer saccharum 'Endowment'), Sugar Maple (Acer saccharum 'Brocade'), Sugar Maple (Acer saccharum 'Sentry'), Canyon Maple (Acer grandidentatum var. sinuosum), Upright Sugar Maple (Acer nigrum 'Monumentale'), Schneck's Sugar Maple (Acer saccharum var. schneckii), Mexican Sugar Maple (Acer saccharum subsp. skutchii), Maple (Acer saccharum 'Oregon Trail'), Sugar Maple
+
+characteristics:
+blooming: Flowering period April, fruiting period August
+color: Flower color light yellow
+size: Diameter ≥ 25 cm, height ≥ 30 cm
+
+caretaking:
+soil: Acidic soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, grows in sunny places, avoid summer direct strong light
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 5, max_temp: 35

@@ -1,0 +1,15 @@
+names:
+dracaena sanderiana 'silver edey', Lucky Bamboo (Dracaena sanderiana), Variegated Lucky Bamboo (Dracaena sanderiana 'Borinquensis'), Lucky Bamboo
+
+characteristics:
+blooming: Foliage plants, sometimes flowers, yellow green flowers
+color: Leaf color emerald green, edges silver white
+size: Diameter ≥ 20 cm, height 10-30 cm
+
+caretaking:
+soil: Well-drained sandy loam or hydroponics
+sunlight: Like half shade, avoid strong direct light, put in places with scattered light
+watering: Like wet environments, water thoroughly when soil is dry
+fertilization: Dilute fertilizers following instructions, in summer and autumn apply fertilizers once monthly
+pruning: Remove dead, yellowish and disease leaves timely
+temperature: min_temp: 10, max_temp: 32

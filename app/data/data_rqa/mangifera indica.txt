@@ -1,0 +1,15 @@
+names:
+mangifera indica, Common Mango (Mangifera indica), Mango (Mangifera indica 'Himsagar'), Mango (Mangifera austroindica), Mango (Mangifera pseudoindica), Common Mango (Mangifera indica 'Nam Dok Mai'), Mango (Mangifera indica 'Bailey's Marvel'), Mango (Mangifera indica 'East Indian'), Common Mango (Mangifera indica 'Julie'), Mango (Mangifera indica 'Beverly'), Mango (Mangifera indica 'Bombay'), Common Mango (Mangifera indica 'Carrie'), Common Mango (Mangifera indica 'Glenn'), Mango (Mangifera indica 'Golden Nugget'), Mango (Mangifera indica 'Haden'), Mango (Mangifera indica 'Jakarta'), Common Mango (Mangifera indica 'Keitt'), Mango (Mangifera indica 'Kent'), Mango (Mangifera indica 'Palmer'), Mango (Mangifera indica 'Philippine'), Mango (Mangifera indica 'Tommy Atkins'), Common Mango
+
+characteristics:
+blooming: Flowering period November-March, fruiting period April-August
+color: Flower color yellow or light yellow, fruit yellow
+size: Diameter ≥ 15 cm, height ≥ 25 cm
+
+caretaking:
+soil: Slightly acidic soil with loose texture or soil with specific nutrients
+sunlight: Like sunshine, high quality fruits in sunny places
+watering: Water thoroughly after soil surface dries, avoid saturated water
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead and pest branches timely
+temperature: min_temp: 5, max_temp: 35

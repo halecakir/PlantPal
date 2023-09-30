@@ -1,0 +1,15 @@
+names:
+codiaeum variegatum, Croton (Codiaeum variegatum), Croton (Codiaeum variegatum 'Majesticum'), Croton (Codiaeum variegatum 'Pictum'), Spiral Croton (Codiaeum variegatum 'Spirale'), Croton (Codiaeum variegatum 'Nervia'), Croton (Codiaeum variegatum 'Norma'), Croton (Codiaeum variegatum 'Rina'), Croton (Codiaeum variegatum 'Aucubifolia'), Croton (Codiaeum variegatum 'Mr. Peters'), Croton (Codiaeum variegatum 'Finger Fire'), Croton (Codiaeum variegatum 'Pictum Spot'), Croton (Codiaeum variegatum 'Andreanum'), Croton (Codiaeum variegatum var. variegatum 'Goldfinger'), Croton (Codiaeum variegatum var. variegatum 'Punctatum Aureum'), Croton (Codiaeum variegatum 'Excellent'), Croton (Codiaeum variegatum 'Rheedii'), Croton (Codiaeum variegatum 'Interruptum'), Croton (Codiaeum variegatum 'Thomas Edison'), Croton (Codiaeum variegatum 'Andrew'), Croton (Codiaeum variegatum 'Petra'), Croton
+
+characteristics:
+blooming: Flowering period September-October
+color: Leaf color bright green, white, gray, red, light red, dark red, purple, yellow, yellowred
+size: Diameter ≥ 15 cm, height ≥ 25 cm
+
+caretaking:
+soil: Fertile, high water-holding capacity clay soil or soil with specific nutrients
+sunlight: Like sunshine, likes light, leaf discoloration, lacking luster, defoliation with insufficient light
+watering: Likes wet environments, water thoroughly when soil is dry, spray frequently to the air or leaves to keep moist in summer
+fertilization: Dilute fertilizers following instructions, apply 1-2 times monthly
+pruning: Remove aged tissues, dead, rotten, diseased leaves timely
+temperature: min_temp: 5, max_temp: 32
